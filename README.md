@@ -16,6 +16,7 @@ A free, open-source Croatian learning platform for English speakers, covering CE
 | Verb reference | 100 most common Croatian verbs with example sentences |
 | Phrase collections | Essential everyday phrases grouped by situation |
 | Tests | Level quizzes per topic + a cumulative A1–B1 review test |
+| Croatian Culture 101 | 8 cultural topics (geography, history, famous Croatians, traditions, food, UNESCO heritage, government & citizenship) with 41 quiz questions |
 
 ---
 
@@ -56,11 +57,11 @@ learncroatian/
 │   ├── a2/          # 14 A2 grammar topic JSON files
 │   ├── b1/          # 14 B1 grammar topic JSON files
 │   ├── stories/     # 15 graded reading stories
-│   ├── reference/   # cases.json, 100-most-common-verbs.json
+│   ├── reference/   # cases.json, 100-most-common-verbs.json, croatian-culture-101.json
 │   ├── phrases/     # phrase collection JSON files
 │   └── tests/       # test JSON files
 ├── src/
-│   ├── components/  # Astro components (TopicPage, StoryPage, CaseGuide, etc.)
+│   ├── components/  # Astro components (TopicPage, StoryPage, CaseGuide, CulturePage, etc.)
 │   ├── layouts/     # Base HTML layout
 │   ├── lib/
 │   │   └── content.ts   # All TypeScript types and content loader functions
@@ -125,6 +126,30 @@ Create `content/stories/my-story.json`:
     "nouns": [],
     "adjectives": []
   }
+}
+```
+
+### Add a culture fact or quiz question
+
+Culture content lives in `content/reference/croatian-culture-101.json`. Each category has a `facts` array and a `quiz` array:
+
+```json
+{
+  "id": "my-category",
+  "icon": "🏔️",
+  "title": { "hr": "Moja kategorija", "en": "My Category" },
+  "facts": [
+    { "en": "English fact.", "hr": "Hrvatski prijevod." }
+  ],
+  "quiz": [
+    {
+      "id": "culture-mycat-1",
+      "prompt": "Question in English?",
+      "options": ["Wrong A", "Correct answer", "Wrong B", "Wrong C"],
+      "correctIndex": 1,
+      "explanation": "Explanation shown after answering."
+    }
+  ]
 }
 ```
 
