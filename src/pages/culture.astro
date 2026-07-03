@@ -1,0 +1,12 @@
+---
+import Layout from "../layouts/Layout.astro";
+import CulturePage from "../components/CulturePage.astro";
+import { getCultureGuide } from "../lib/content";
+
+const data = getCultureGuide();
+if (!data) return Astro.redirect("/");
+---
+
+<Layout title="Croatian Culture 101 — Learn Croatian">
+  <CulturePage data={data} />
+</Layout>

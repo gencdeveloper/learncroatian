@@ -223,3 +223,24 @@ export function getAllChunkCollections(): ChunkCollection[] {
 export function getChunkCollection(id: string): ChunkCollection | undefined {
   return getAllChunkCollections().find((c) => c.id === id);
 }
+
+export type CultureFact = Bilingual;
+
+export type CultureCategory = {
+  id: string;
+  icon: string;
+  title: Bilingual;
+  facts: CultureFact[];
+  quiz: QuestionMC[];
+};
+
+export type CultureGuide = {
+  id: string;
+  title: Bilingual;
+  intro: string;
+  categories: CultureCategory[];
+};
+
+export function getCultureGuide(): CultureGuide | undefined {
+  return readReferenceFile<CultureGuide>("croatian-culture-101.json");
+}

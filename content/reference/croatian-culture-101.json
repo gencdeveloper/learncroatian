@@ -1,0 +1,549 @@
+{
+  "id": "croatian-culture-101",
+  "title": { "hr": "Hrvatska kultura 101", "en": "Croatian Culture 101" },
+  "intro": "A comprehensive guide to Croatian geography, history, culture, and civic life — covering everything from national symbols to famous Croatians, useful for anyone living in or learning about Croatia.",
+  "categories": [
+    {
+      "id": "geography",
+      "icon": "🗺️",
+      "title": { "hr": "Geografija", "en": "Geography" },
+      "facts": [
+        {
+          "en": "Croatia's capital and largest city is Zagreb, located in the north of the country on the Sava River. The city has a population of approximately 800,000.",
+          "hr": "Glavni i najveći grad Hrvatske je Zagreb, smješten na sjeveru zemlje uz rijeku Savu. Grad ima oko 800.000 stanovnika."
+        },
+        {
+          "en": "Croatia has a coastline of approximately 1,777 km on the Adriatic Sea, plus over 1,200 islands, islets and reefs — the most island-rich coastline in the Mediterranean.",
+          "hr": "Hrvatska ima obalu dugu oko 1.777 km na Jadranskom moru te više od 1.200 otoka, otočića i grebena — najrazvedeniju obalu na Mediteranu."
+        },
+        {
+          "en": "Croatia borders Slovenia and Hungary to the north, Serbia to the east, and Bosnia & Herzegovina and Montenegro to the south-east.",
+          "hr": "Hrvatska graniči sa Slovenijom i Mađarskom na sjeveru, Srbijom na istoku te Bosnom i Hercegovinom i Crnom Gorom na jugoistoku."
+        },
+        {
+          "en": "The three main geographical regions are the Pannonian plain (Slavonia) in the east, the Dinaric highlands in the centre, and the Adriatic coast (Dalmatia and Istria) in the west and south.",
+          "hr": "Tri glavne geografske regije su Panonska nizina (Slavonija) na istoku, Dinarska gorja u sredini te jadranska obala (Dalmacija i Istra) na zapadu i jugu."
+        },
+        {
+          "en": "Croatia covers approximately 56,594 km² and has a population of around 3.9 million people. The second largest city is Split, on the Dalmatian coast.",
+          "hr": "Hrvatska zauzima oko 56.594 km² i ima oko 3,9 milijuna stanovnika. Drugi po veličini grad je Split, na dalmatinskoj obali."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "culture-geo-1",
+          "prompt": "What is the capital city of Croatia?",
+          "options": ["Split", "Zagreb", "Dubrovnik", "Rijeka"],
+          "correctIndex": 1,
+          "explanation": "Zagreb is the capital and largest city of Croatia, located in the north on the Sava River."
+        },
+        {
+          "id": "culture-geo-2",
+          "prompt": "On which sea does Croatia have its coastline?",
+          "options": ["Mediterranean Sea", "Black Sea", "Adriatic Sea", "Ionian Sea"],
+          "correctIndex": 2,
+          "explanation": "Croatia has approximately 1,777 km of coastline on the Adriatic Sea."
+        },
+        {
+          "id": "culture-geo-3",
+          "prompt": "Approximately how many islands does Croatia have?",
+          "options": ["Over 200", "Over 500", "Over 1,200", "Over 3,000"],
+          "correctIndex": 2,
+          "explanation": "Croatia has over 1,200 islands, islets and reefs, making it the most island-rich coastline in the Mediterranean."
+        },
+        {
+          "id": "culture-geo-4",
+          "prompt": "Which of these countries does Croatia NOT border?",
+          "options": ["Slovenia", "Hungary", "Austria", "Serbia"],
+          "correctIndex": 2,
+          "explanation": "Croatia does not border Austria. It borders Slovenia, Hungary, Serbia, Bosnia & Herzegovina, and Montenegro."
+        },
+        {
+          "id": "culture-geo-5",
+          "prompt": "What is Croatia's second largest city?",
+          "options": ["Rijeka", "Osijek", "Split", "Zadar"],
+          "correctIndex": 2,
+          "explanation": "Split is Croatia's second largest city, located on the Dalmatian coast."
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "icon": "📜",
+      "title": { "hr": "Povijest", "en": "History" },
+      "facts": [
+        {
+          "en": "The medieval Croatian kingdom was founded in the early 10th century. King Tomislav was the first Croatian king, crowned around 925 AD, uniting the Pannonian and Dalmatian principalities.",
+          "hr": "Srednjovjekovna hrvatska kraljevina nastala je početkom 10. stoljeća. Kralj Tomislav bio je prvi hrvatski kralj, okrunjen oko 925. godine, ujedinivši panonsku i dalmatinsku kneževinu."
+        },
+        {
+          "en": "From 1102, Croatia entered a personal union with Hungary under the Pacta Conventa agreement, retaining its own laws and a Croatian viceroy called the Ban.",
+          "hr": "Od 1102. godine Hrvatska je u osobnoj uniji s Mađarskom na temelju Pacta Conventa, zadržavajući vlastite zakone i hrvatskog viceregenta zvanog Ban."
+        },
+        {
+          "en": "In 1527 Croatia came under Habsburg rule, seeking military protection against the expanding Ottoman Empire. Croatia remained part of the Habsburg (later Austro-Hungarian) Empire until 1918.",
+          "hr": "Godine 1527. Hrvatska dolazi pod habsburšku vlast, tražeći vojnu zaštitu od Osmanskog Carstva. Hrvatska je ostala dio Habsburškog (kasnije Austro-Ugarskog) Carstva do 1918. godine."
+        },
+        {
+          "en": "After World War I, Croatia joined the Kingdom of Serbs, Croats and Slovenes in 1918 (renamed Yugoslavia in 1929). After World War II, Croatia became one of six socialist republics of the Federal People's Republic of Yugoslavia, led by Josip Broz Tito.",
+          "hr": "Nakon Prvog svjetskog rata Hrvatska se 1918. priključila Kraljevini Srba, Hrvata i Slovenaca (preimenovanoj u Jugoslaviju 1929.). Nakon Drugog svjetskog rata Hrvatska postaje jedna od šest republika Federativne Narodne Republike Jugoslavije pod vodstvom Josipa Broza Tita."
+        },
+        {
+          "en": "Croatia declared independence on June 25, 1991. The Homeland War (Domovinski rat) followed from 1991 to 1995. International recognition by the EU member states came in January 1992.",
+          "hr": "Hrvatska je proglasila neovisnost 25. lipnja 1991. Uslijedio je Domovinski rat od 1991. do 1995. godine. Međunarodno priznanje od strane država članica EU uslijedilo je u siječnju 1992."
+        },
+        {
+          "en": "Croatia joined NATO on April 1, 2009 and the European Union on July 1, 2013. On January 1, 2023, Croatia entered the Schengen Area and adopted the Euro, replacing the Kuna.",
+          "hr": "Hrvatska je pristupila NATO-u 1. travnja 2009. te Europskoj uniji 1. srpnja 2013. Dana 1. siječnja 2023. Hrvatska je ušla u Schengenski prostor i uvela Euro, zamijenivši kunu."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "culture-hist-1",
+          "prompt": "Who was the first Croatian king, crowned around 925 AD?",
+          "options": ["Branimir", "Tomislav", "Stjepan Držislav", "Petar Krešimir IV"],
+          "correctIndex": 1,
+          "explanation": "King Tomislav was the first Croatian king, crowned around 925 AD, uniting the Croatian principalities."
+        },
+        {
+          "id": "culture-hist-2",
+          "prompt": "When did Croatia declare independence?",
+          "options": ["June 25, 1990", "June 25, 1991", "October 8, 1990", "January 15, 1992"],
+          "correctIndex": 1,
+          "explanation": "Croatia declared independence on June 25, 1991. This date is now celebrated as Statehood Day (Dan državnosti)."
+        },
+        {
+          "id": "culture-hist-3",
+          "prompt": "What is the Croatian name for the war of independence (1991–1995)?",
+          "options": ["Balkanski rat", "Domovinski rat", "Jugoslavenski rat", "Obrambeni rat"],
+          "correctIndex": 1,
+          "explanation": "The war of independence is called Domovinski rat (Homeland War) in Croatian."
+        },
+        {
+          "id": "culture-hist-4",
+          "prompt": "When did Croatia join the European Union?",
+          "options": ["May 1, 2004", "January 1, 2007", "July 1, 2013", "January 1, 2023"],
+          "correctIndex": 2,
+          "explanation": "Croatia joined the European Union on July 1, 2013, becoming the 28th member state."
+        },
+        {
+          "id": "culture-hist-5",
+          "prompt": "What currency did Croatia use before the Euro?",
+          "options": ["Dinar", "Kruna", "Kuna", "Forint"],
+          "correctIndex": 2,
+          "explanation": "Croatia used the Kuna (HRK) as its currency from 1994 until it adopted the Euro on January 1, 2023."
+        },
+        {
+          "id": "culture-hist-6",
+          "prompt": "Under which empire did Croatia seek protection against the Ottomans in 1527?",
+          "options": ["Venetian Republic", "Habsburg Empire", "Ottoman Empire", "Byzantine Empire"],
+          "correctIndex": 1,
+          "explanation": "In 1527, the Croatian Diet elected Ferdinand I of the Habsburg dynasty as King of Croatia, seeking protection against the Ottoman expansion."
+        }
+      ]
+    },
+    {
+      "id": "symbols",
+      "icon": "🎖️",
+      "title": { "hr": "Nacionalni simboli", "en": "National Symbols" },
+      "facts": [
+        {
+          "en": "The Croatian flag consists of three horizontal stripes — red (top), white (middle), and blue (bottom) — with the Croatian coat of arms in the centre.",
+          "hr": "Hrvatska zastava sastoji se od tri vodoravne pruge — crvene (gore), bijele (u sredini) i plave (dolje) — s hrvatskim grbom u sredini."
+        },
+        {
+          "en": "The Croatian coat of arms features a red and white checkerboard pattern known as the šahovnica, a symbol used since the medieval period. Above it sit five historical shields representing Croatian regions.",
+          "hr": "Hrvatski grb prikazuje crveno-bijelo šahovničasto polje poznato kao šahovnica, simbol koji se koristi od srednjeg vijeka. Iznad nje nalaze se pet povijesnih štitova koji predstavljaju hrvatske regije."
+        },
+        {
+          "en": "The national anthem is 'Lijepa naša domovino' (Our Beautiful Homeland). The lyrics were written by Antun Mihanović in 1835 and set to music by Josip Runjanin.",
+          "hr": "Nacionalna himna je 'Lijepa naša domovino'. Stihove je napisao Antun Mihanović 1835. godine, a glazbu uglazbio Josip Runjanin."
+        },
+        {
+          "en": "Croatia's national holidays include Statehood Day (Dan državnosti) on June 25, Victory and Homeland Thanksgiving Day (Dan pobjede) on August 5, and Independence Day (Dan neovisnosti) on October 8.",
+          "hr": "Hrvatski državni praznici uključuju Dan državnosti 25. lipnja, Dan pobjede i domovinske zahvalnosti 5. kolovoza te Dan neovisnosti 8. listopada."
+        },
+        {
+          "en": "The national plant is the iris croatica (hrvatska perunika), a purple iris endemic to Croatia. It is a protected species found in meadows of the Dalmatian hinterland.",
+          "hr": "Nacionalna biljka je hrvatska perunika (Iris croatica), ljubičasta perunika endemska za Hrvatsku. Zaštićena je vrsta koja raste na livadama dalmatinskog zaleđa."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "culture-sym-1",
+          "prompt": "What are the three colours of the Croatian flag, from top to bottom?",
+          "options": ["Blue, white, red", "Red, white, blue", "White, red, blue", "Red, blue, white"],
+          "correctIndex": 1,
+          "explanation": "The Croatian flag has three horizontal stripes: red at the top, white in the middle, and blue at the bottom."
+        },
+        {
+          "id": "culture-sym-2",
+          "prompt": "What is the name of the red and white checkerboard pattern on the Croatian coat of arms?",
+          "options": ["Trobojnica", "Šahovnica", "Kockica", "Grb"],
+          "correctIndex": 1,
+          "explanation": "The red and white checkerboard is called šahovnica (from šah — chess). It has been a Croatian symbol since the medieval period."
+        },
+        {
+          "id": "culture-sym-3",
+          "prompt": "What is the title of the Croatian national anthem?",
+          "options": ["Hrvatska domovina", "Naša lijepa zemlja", "Lijepa naša domovino", "Slobodna Hrvatska"],
+          "correctIndex": 2,
+          "explanation": "'Lijepa naša domovino' (Our Beautiful Homeland) has been the Croatian national anthem since 1972."
+        },
+        {
+          "id": "culture-sym-4",
+          "prompt": "When is Croatian Statehood Day (Dan državnosti) celebrated?",
+          "options": ["May 30", "June 25", "August 5", "October 8"],
+          "correctIndex": 1,
+          "explanation": "Statehood Day (Dan državnosti) is celebrated on June 25, the date Croatia declared independence in 1991."
+        },
+        {
+          "id": "culture-sym-5",
+          "prompt": "Who wrote the lyrics to the Croatian national anthem?",
+          "options": ["Josip Runjanin", "Ivan Mažuranić", "Antun Mihanović", "Stjepan Radić"],
+          "correctIndex": 2,
+          "explanation": "The lyrics of 'Lijepa naša domovino' were written by Antun Mihanović in 1835. The music was composed by Josip Runjanin."
+        }
+      ]
+    },
+    {
+      "id": "famous-croatians",
+      "icon": "⭐",
+      "title": { "hr": "Poznati Hrvati", "en": "Famous Croatians" },
+      "facts": [
+        {
+          "en": "Nikola Tesla (1856–1943) was an inventor and electrical engineer born in Smiljan, in the Lika region of Croatia (then part of the Austrian Empire). He is best known for developing the alternating current (AC) electrical system.",
+          "hr": "Nikola Tesla (1856.–1943.) bio je izumitelj i elektroinženjer rođen u Smiljanu u Lici (tada u Austrijskom Carstvu). Najpoznatiji je po razvoju sustava izmjenične struje (AC)."
+        },
+        {
+          "en": "Marco Polo (c. 1254–1324) is traditionally believed by Croatians to have been born on the island of Korčula. He was a Venetian explorer and merchant famous for his travels across Asia and his accounts of China.",
+          "hr": "Za Marka Pola (oko 1254.–1324.) Hrvati tradicionalno smatraju da je rođen na otoku Korčuli. Bio je mletački istraživač i trgovac poznat po putovanjima kroz Aziju i opisima Kine."
+        },
+        {
+          "en": "Ruđer Bošković (1711–1787) was a physicist, astronomer and mathematician from Dubrovnik. He is considered one of the precursors of modern atomic theory and made important contributions to optics and astronomy.",
+          "hr": "Ruđer Bošković (1711.–1787.) bio je fizičar, astronom i matematičar iz Dubrovnika. Smatra se jednim od preteča moderne atomske teorije te je dao važan doprinos optici i astronomiji."
+        },
+        {
+          "en": "Luka Modrić (born 1985, Zadar) is a professional footballer who plays for Real Madrid and the Croatian national team. He won the FIFA Ballon d'Or in 2018, ending a decade of dominance by Messi and Ronaldo.",
+          "hr": "Luka Modrić (rođen 1985., Zadar) profesionalni je nogometaš koji igra za Real Madrid i hrvatsku nogometnu reprezentaciju. Godine 2018. osvojio je FIFA Zlatnu loptu, prekinuvši desetljeće dominacije Messija i Ronalda."
+        },
+        {
+          "en": "Janica Kostelić (born 1982, Zagreb) is a retired alpine ski racer who won four Olympic gold medals (2002 Salt Lake City, 2006 Turin) and six World Championship titles, making her the most decorated female alpine skier in history.",
+          "hr": "Janica Kostelić (rođena 1982., Zagreb) umirovljena je alpska skijašica koja je osvajila četiri olimpijska zlatna odličja (2002. Salt Lake City, 2006. Turin) i šest naslova svjetske prvakinje, što je čini najuspješnijom ženskom alpskom skijaš icom u povijesti."
+        },
+        {
+          "en": "Lavoslav (Leopold) Ružička (1887–1976), born in Vukovar, was a Croatian-Swiss chemist who won the Nobel Prize in Chemistry in 1939 for his work on the chemistry of polymethylenes and higher terpenes.",
+          "hr": "Lavoslav (Leopold) Ružička (1887.–1976.), rođen u Vukovaru, bio je hrvatsko-švicarski kemičar koji je 1939. godine dobio Nobelovu nagradu za kemiju za rad na kemiji polimetilena i viših terpena."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "culture-famous-1",
+          "prompt": "Where was Nikola Tesla born?",
+          "options": ["Zagreb", "Rijeka", "Smiljan", "Dubrovnik"],
+          "correctIndex": 2,
+          "explanation": "Nikola Tesla was born in Smiljan, in the Lika region of Croatia (then part of the Austrian Empire), on July 10, 1856."
+        },
+        {
+          "id": "culture-famous-2",
+          "prompt": "Which island is associated with Marco Polo's birthplace?",
+          "options": ["Hvar", "Brač", "Krk", "Korčula"],
+          "correctIndex": 3,
+          "explanation": "Croatian tradition holds that Marco Polo was born on the island of Korčula, though his exact birthplace remains historically debated."
+        },
+        {
+          "id": "culture-famous-3",
+          "prompt": "Which Croatian scientist is considered a precursor of modern atomic theory?",
+          "options": ["Nikola Tesla", "Ruđer Bošković", "Lavoslav Ružička", "Ivan Supek"],
+          "correctIndex": 1,
+          "explanation": "Ruđer Bošković (1711–1787) from Dubrovnik developed an early atomic theory and made major contributions to physics and astronomy."
+        },
+        {
+          "id": "culture-famous-4",
+          "prompt": "Which award did Luka Modrić win in 2018?",
+          "options": ["UEFA Player of the Year", "FIFA Ballon d'Or", "Golden Boot", "World Cup Golden Ball"],
+          "correctIndex": 1,
+          "explanation": "Luka Modrić won the FIFA Ballon d'Or in 2018, becoming the first player in 10 years to break the Messi–Ronaldo dominance."
+        },
+        {
+          "id": "culture-famous-5",
+          "prompt": "Which Croatian athlete won four Olympic gold medals in alpine skiing?",
+          "options": ["Ivica Kostelić", "Janica Kostelić", "Natko Zrnčić-Dim", "Filip Zubčić"],
+          "correctIndex": 1,
+          "explanation": "Janica Kostelić won four Olympic gold medals (2002 and 2006) and is the most decorated female alpine skier in history."
+        }
+      ]
+    },
+    {
+      "id": "traditions",
+      "icon": "🎭",
+      "title": { "hr": "Tradicija i blagdani", "en": "Traditions & Holidays" },
+      "facts": [
+        {
+          "en": "The Rijeka Carnival (Riječki karneval) is one of the largest Carnival celebrations in Europe, attracting over 100,000 visitors. The main event is the International Carnival Parade, held each February.",
+          "hr": "Riječki karneval jedan je od najvećih karnevalskih slavlja u Europi, s više od 100.000 posjetitelja. Glavna manifestacija je Međunarodna karnevalska povorka, koja se održava svake godine u veljači."
+        },
+        {
+          "en": "The Sinjska Alka is a traditional equestrian tournament held annually in Sinj since 1715, commemorating the Croatian victory over the Ottoman army. In 2010 it was inscribed on the UNESCO Intangible Cultural Heritage list.",
+          "hr": "Sinjska alka vitešku je natjecanje koje se od 1715. godine svake godine održava u Sinju u spomen na pobjedu Hrvata nad osmanskom vojskom. Godine 2010. uvrštena je na UNESCO-ov popis nematerijalne kulturne baštine."
+        },
+        {
+          "en": "Klapa singing is a traditional a cappella vocal style from Dalmatia, performed by groups of men (or women) in close harmony. It was inscribed on the UNESCO Intangible Cultural Heritage list in 2012.",
+          "hr": "Klapa je tradicionalni oblik a cappella pjevanja iz Dalmacije, koji izvode grupe muškaraca (ili žena) u bliskoj harmoniji. Godine 2012. uvrštena je na UNESCO-ov popis nematerijalne kulturne baštine."
+        },
+        {
+          "en": "Croatia observes both Catholic religious holidays and civic public holidays. Major Catholic holidays include Christmas (December 25), Easter, All Saints' Day (November 1), and Corpus Christi.",
+          "hr": "Hrvatska obilježava i katoličke blagdane i državne praznike. Glavni katolički blagdani su Božić (25. prosinca), Uskrs, Svi sveti (1. studenoga) i Tijelovo."
+        },
+        {
+          "en": "Traditional lace-making in Croatia has UNESCO protection: the needle lace of Lepoglava, and the agave-fibre lace of Hvar and Pag are inscribed on the UNESCO Intangible Cultural Heritage list.",
+          "hr": "Tradicijska izrada čipke u Hrvatskoj ima UNESCO zaštitu: lepoglavska čipka od igle te čipka od agavinih vlakana s Hvara i Paga uvrštene su na UNESCO-ov popis nematerijalne kulturne baštine."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "culture-trad-1",
+          "prompt": "Which Croatian city hosts one of Europe's largest Carnival celebrations?",
+          "options": ["Zagreb", "Split", "Rijeka", "Dubrovnik"],
+          "correctIndex": 2,
+          "explanation": "The Rijeka Carnival (Riječki karneval) is one of the largest in Europe, held each February with over 100,000 visitors."
+        },
+        {
+          "id": "culture-trad-2",
+          "prompt": "What is the Sinjska Alka?",
+          "options": ["A traditional harvest festival", "A traditional equestrian tournament", "A religious procession", "A folk dance competition"],
+          "correctIndex": 1,
+          "explanation": "The Sinjska Alka is a traditional equestrian (horseback) tournament held annually in Sinj since 1715, on the UNESCO Intangible Cultural Heritage list."
+        },
+        {
+          "id": "culture-trad-3",
+          "prompt": "What is klapa?",
+          "options": ["A traditional dance from Slavonia", "A type of Croatian pastry", "A traditional a cappella singing style from Dalmatia", "A religious ceremony"],
+          "correctIndex": 2,
+          "explanation": "Klapa is a traditional a cappella vocal style from Dalmatia, inscribed on the UNESCO Intangible Cultural Heritage list in 2012."
+        },
+        {
+          "id": "culture-trad-4",
+          "prompt": "When is Croatian Victory and Homeland Thanksgiving Day celebrated?",
+          "options": ["June 25", "July 4", "August 5", "October 8"],
+          "correctIndex": 2,
+          "explanation": "Victory and Homeland Thanksgiving Day (Dan pobjede i domovinske zahvalnosti) is celebrated on August 5, marking the end of the Homeland War."
+        },
+        {
+          "id": "culture-trad-5",
+          "prompt": "When is Croatian Independence Day (Dan neovisnosti) celebrated?",
+          "options": ["June 25", "August 5", "September 1", "October 8"],
+          "correctIndex": 3,
+          "explanation": "Independence Day (Dan neovisnosti) is celebrated on October 8, the date the Croatian Parliament formally severed ties with Yugoslavia in 1991."
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "icon": "🍽️",
+      "title": { "hr": "Hrana i kulinarska tradicija", "en": "Food & Cuisine" },
+      "facts": [
+        {
+          "en": "Peka is a traditional Croatian cooking method where meat (usually lamb, veal or octopus) and vegetables are placed under a bell-shaped iron lid (peka) and covered with hot embers. It is especially popular in Dalmatia.",
+          "hr": "Peka je tradicionalna hrvatska metoda kuhanja u kojoj se meso (obično janjetina, teletina ili hobotnica) i povrće stavljaju pod zvonoliku željeznu poklopac (peku) i prekrivaju žarom. Posebno je popularna u Dalmaciji."
+        },
+        {
+          "en": "Paški sir (Pag cheese) is a hard, sharp sheep's milk cheese from the island of Pag, aged for at least two months. It is one of Croatia's most famous culinary products, regularly winning awards at international cheese competitions.",
+          "hr": "Paški sir je tvrdi ovčji sir s otoka Paga, odležan najmanje dva mjeseca. Jedan je od najpoznatijih hrvatskih prehrambenih proizvoda i redovito osvaja nagrade na međunarodnim natjecanjima."
+        },
+        {
+          "en": "Kulen (or kulin) is a spicy fermented pork sausage from Slavonia, seasoned with sweet and hot paprika and garlic. It has a protected designation of origin (PDO) in the EU.",
+          "hr": "Kulen (ili kulin) je začinjena fermentirana svinjska kobasica iz Slavonije, začinjena slatkom i ljutom paprikom i češnjakom. Ima zaštićenu oznaku izvornosti (ZOI) u EU."
+        },
+        {
+          "en": "Maraschino is a sweet liqueur produced from Marasca cherries, a sour cherry variety grown in Dalmatia. Its production in Zadar dates back to the 16th century; the Luxardo brand, originally from Zadar, is the most famous.",
+          "hr": "Maraschino je slatki liker od trešanja maraske, sorte kisele trešnje koja raste u Dalmaciji. Njegova proizvodnja u Zadru datira iz 16. stoljeća; marka Luxardo, izvorno iz Zadra, najpoznatija je na svijetu."
+        },
+        {
+          "en": "Štrukli is a traditional pastry from the Zagorje region of Croatia, made from dough filled with fresh cottage cheese. It can be boiled or baked, and is protected as intangible cultural heritage in Croatia.",
+          "hr": "Štrukli su tradicionalno pecivo iz zagorskog kraja, izrađeno od tijesta punjenog svježim kravljim sirom. Mogu se kuhati ili peći, a zaštićeni su kao nematerijalna kulturna baština Hrvatske."
+        },
+        {
+          "en": "Istria is renowned for its olive oil, truffles and wine. The Motovun forest in Istria is one of the richest truffle habitats in Europe, producing both black and white truffles. Istrian olive oil has repeatedly won world-class awards.",
+          "hr": "Istra je poznata po maslinovom ulju, tartufima i vinu. Motovunska šuma jedna je od najbogatijih staništa tartufa u Europi, s crnim i bijelim tartufima. Istarsko maslinovo ulje višekratno je osvajalo nagrade svjetske klase."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "culture-food-1",
+          "prompt": "What is peka?",
+          "options": ["A type of Croatian soup", "A cooking method using a bell-shaped lid with embers", "A pastry from Zagorje", "A spiced sausage from Slavonia"],
+          "correctIndex": 1,
+          "explanation": "Peka is a traditional cooking method where food is placed under a bell-shaped iron lid and covered with hot embers. It is popular throughout Dalmatia."
+        },
+        {
+          "id": "culture-food-2",
+          "prompt": "From which Croatian island does Paški sir (Pag cheese) come?",
+          "options": ["Hvar", "Brač", "Pag", "Korčula"],
+          "correctIndex": 2,
+          "explanation": "Paški sir is a hard sheep's milk cheese produced on the island of Pag, one of Croatia's most celebrated culinary products."
+        },
+        {
+          "id": "culture-food-3",
+          "prompt": "Which region of Croatia is kulen sausage from?",
+          "options": ["Dalmatia", "Istria", "Slavonia", "Zagorje"],
+          "correctIndex": 2,
+          "explanation": "Kulen is a spicy fermented pork sausage from Slavonia, Croatia's eastern agricultural region, with EU protected designation of origin."
+        },
+        {
+          "id": "culture-food-4",
+          "prompt": "What is Maraschino liqueur made from?",
+          "options": ["Plums", "Marasca cherries", "Grapes", "Figs"],
+          "correctIndex": 1,
+          "explanation": "Maraschino is made from Marasca cherries, a sour cherry variety native to Dalmatia. Its production in Zadar dates back to the 16th century."
+        },
+        {
+          "id": "culture-food-5",
+          "prompt": "Which Croatian region is famous for truffles and world-award-winning olive oil?",
+          "options": ["Slavonia", "Dalmatia", "Zagorje", "Istria"],
+          "correctIndex": 3,
+          "explanation": "Istria is renowned for its truffles (from the Motovun forest) and olive oil, which regularly wins world-class awards."
+        }
+      ]
+    },
+    {
+      "id": "heritage",
+      "icon": "🏛️",
+      "title": { "hr": "Priroda i baština", "en": "Nature & UNESCO Heritage" },
+      "facts": [
+        {
+          "en": "Plitvice Lakes National Park was established in 1949 and inscribed as a UNESCO World Heritage Site in 1979. It is famous for its chain of 16 terraced lakes connected by waterfalls, with water colours ranging from azure to green.",
+          "hr": "Nacionalni park Plitvička jezera osnovan je 1949. i upisan na UNESCO-ov popis svjetske baštine 1979. Poznat je po nizu od 16 terasastih jezera povezanih slapovima, s bojama vode od azurne do zelene."
+        },
+        {
+          "en": "The Old City of Dubrovnik was inscribed as a UNESCO World Heritage Site in 1979. Known as the 'Pearl of the Adriatic,' it was an important independent city-state and maritime republic from the 14th to 19th centuries.",
+          "hr": "Stari grad Dubrovnik upisan je na UNESCO-ov popis svjetske baštine 1979. Poznat kao 'Biser Jadrana', bio je važna neovisna gradska država i pomorska republika od 14. do 19. stoljeća."
+        },
+        {
+          "en": "Diocletian's Palace in Split was built by the Roman Emperor Diocletian around 300 AD as his retirement residence. Today the Palace forms the living heart of Split's old town, a UNESCO World Heritage Site since 1979.",
+          "hr": "Dioklecijanova palača u Splitu sagrađena je oko 300. n.e. kao rezidencija za odmor rimskog cara Dioklecijana. Danas Palača čini živo središte splitske stare gradske jezgre, upisane na UNESCO-ov popis 1979."
+        },
+        {
+          "en": "Croatia has 8 national parks: Plitvice Lakes, Paklenica, Risnjak, Brijuni, Krka, Kornati, Mljet, and Northern Velebit. The Kornati archipelago is one of the densest island groups in the Mediterranean.",
+          "hr": "Hrvatska ima 8 nacionalnih parkova: Plitvička jezera, Paklenica, Risnjak, Brijuni, Krka, Kornati, Mljet i Sjeverni Velebit. Kornatski arhipelag jedan je od najgušćih otočnih skupova na Mediteranu."
+        },
+        {
+          "en": "Croatia has several other UNESCO World Heritage Sites including the Euphrasian Basilica in Poreč (1997), the Historic City of Trogir (1997), the Cathedral of St James in Šibenik (2000), and the Stari Grad Plain on Hvar (2008).",
+          "hr": "Hrvatska ima i nekoliko других UNESCO-ovih lokaliteta svjetske baštine: Eufrazijeva bazilika u Poreču (1997.), Povijesni grad Trogir (1997.), Katedrala sv. Jakova u Šibeniku (2000.) i Starogradsko polje na Hvaru (2008.)."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "culture-heritage-1",
+          "prompt": "How many terraced lakes does Plitvice Lakes National Park have?",
+          "options": ["8", "12", "16", "20"],
+          "correctIndex": 2,
+          "explanation": "Plitvice Lakes National Park has 16 terraced lakes connected by waterfalls. It was established in 1949 and inscribed as a UNESCO World Heritage Site in 1979."
+        },
+        {
+          "id": "culture-heritage-2",
+          "prompt": "What is Dubrovnik sometimes called?",
+          "options": ["Crown of the Adriatic", "Pearl of the Adriatic", "Gate of the Adriatic", "Queen of the Adriatic"],
+          "correctIndex": 1,
+          "explanation": "Dubrovnik is known as the 'Pearl of the Adriatic' (Biser Jadrana). Its well-preserved old town has been a UNESCO World Heritage Site since 1979."
+        },
+        {
+          "id": "culture-heritage-3",
+          "prompt": "Who built Diocletian's Palace in Split?",
+          "options": ["Emperor Constantine", "Emperor Nero", "Emperor Diocletian", "Emperor Augustus"],
+          "correctIndex": 2,
+          "explanation": "Diocletian's Palace was built around 300 AD by the Roman Emperor Diocletian as his retirement residence. It is now a UNESCO World Heritage Site."
+        },
+        {
+          "id": "culture-heritage-4",
+          "prompt": "How many national parks does Croatia have?",
+          "options": ["5", "6", "8", "11"],
+          "correctIndex": 2,
+          "explanation": "Croatia has 8 national parks: Plitvice Lakes, Paklenica, Risnjak, Brijuni, Krka, Kornati, Mljet, and Northern Velebit."
+        },
+        {
+          "id": "culture-heritage-5",
+          "prompt": "In which year was Plitvice Lakes National Park first inscribed as a UNESCO World Heritage Site?",
+          "options": ["1972", "1975", "1979", "1984"],
+          "correctIndex": 2,
+          "explanation": "Plitvice Lakes was inscribed on the UNESCO World Heritage List in 1979, the same year as Dubrovnik and Split."
+        }
+      ]
+    },
+    {
+      "id": "government",
+      "icon": "🏛️",
+      "title": { "hr": "Vlada i građanstvo", "en": "Government & Citizenship" },
+      "facts": [
+        {
+          "en": "Croatia is a parliamentary republic. The Croatian Parliament is called the Hrvatski sabor and has 151 seats. Members of Parliament are elected every four years by proportional representation.",
+          "hr": "Hrvatska je parlamentarna republika. Hrvatski sabor ima 151 zastupničko mjesto. Zastupnici se biraju svake četiri godine proporcionalnim sustavom."
+        },
+        {
+          "en": "Croatia has both a President and a Prime Minister. The President is the head of state, elected every five years (maximum two terms). The Prime Minister is the head of government and holds executive power.",
+          "hr": "Hrvatska ima i predsjednika i predsjednika Vlade. Predsjednik je šef države, biraju ga svake pet godina (najviše dva mandata). Predsjednik Vlade vodi izvršnu vlast."
+        },
+        {
+          "en": "Croatia is divided into 20 counties (županije) and the City of Zagreb, which has the status of both a city and a county. The counties are the primary administrative units.",
+          "hr": "Hrvatska je podijeljena na 20 županija i Grad Zagreb, koji ima status i grada i županije. Županije su primarne administrativne jedinice."
+        },
+        {
+          "en": "Croatian citizenship can be acquired by birth (if at least one parent is Croatian citizen), by descent (ethnic Croats with Croatian roots), or by naturalisation. Naturalisation generally requires 8 years of continuous registered residence in Croatia.",
+          "hr": "Hrvatsko državljanstvo može se steći rođenjem (ako je barem jedan roditelj hrvatski državljanin), podrijetlom (etnički Hrvati s hrvatskim korijenima) ili naturalizacijom. Naturalizacija obično zahtijeva 8 godina neprekidnog prijavljenog boravka u Hrvatskoj."
+        },
+        {
+          "en": "The Croatian Constitution was adopted on December 22, 1990. Constitutional matters are overseen by the Constitutional Court (Ustavni sud). Croatia is a member of the UN, NATO, EU, Schengen Area, and the Eurozone.",
+          "hr": "Ustav Republike Hrvatske donesen je 22. prosinca 1990. Ustavnim pitanjima bavi se Ustavni sud. Hrvatska je članica UN-a, NATO-a, EU-a, Schengenskog prostora i euro zone."
+        },
+        {
+          "en": "Croatian is the official language and uses the Latin alphabet. The Croatian language is a South Slavic language closely related to Serbian and Bosnian. Knowledge of Croatian language and the Latin script is required for naturalization.",
+          "hr": "Hrvatski je službeni jezik i koristi latinično pismo. Hrvatski jezik je južnoslavenski jezik usko srodan srpskom i bosanskom. Poznavanje hrvatskog jezika i latiničnog pisma uvjet je za naturalizaciju."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "culture-gov-1",
+          "prompt": "What is the Croatian Parliament called?",
+          "options": ["Skupština", "Sejm", "Hrvatski sabor", "Duma"],
+          "correctIndex": 2,
+          "explanation": "The Croatian Parliament is called the Hrvatski sabor. It has 151 seats and members are elected every four years."
+        },
+        {
+          "id": "culture-gov-2",
+          "prompt": "How many seats does the Croatian Parliament (Hrvatski sabor) have?",
+          "options": ["120", "135", "151", "180"],
+          "correctIndex": 2,
+          "explanation": "The Hrvatski sabor has 151 seats, with members elected every four years by proportional representation."
+        },
+        {
+          "id": "culture-gov-3",
+          "prompt": "How many counties (županije) does Croatia have?",
+          "options": ["16", "18", "20", "22"],
+          "correctIndex": 2,
+          "explanation": "Croatia is divided into 20 counties (županije) plus the City of Zagreb, which has special county status."
+        },
+        {
+          "id": "culture-gov-4",
+          "prompt": "How many years of continuous residence are generally required for Croatian citizenship through naturalisation?",
+          "options": ["3 years", "5 years", "8 years", "10 years"],
+          "correctIndex": 2,
+          "explanation": "Naturalisation generally requires 8 years of continuous registered residence in Croatia, along with knowledge of the Croatian language."
+        },
+        {
+          "id": "culture-gov-5",
+          "prompt": "What type of government does Croatia have?",
+          "options": ["Constitutional monarchy", "Presidential republic", "Parliamentary republic", "Federal republic"],
+          "correctIndex": 2,
+          "explanation": "Croatia is a parliamentary republic with both a President (head of state) and a Prime Minister (head of government)."
+        },
+        {
+          "id": "culture-gov-6",
+          "prompt": "When was the Croatian Constitution adopted?",
+          "options": ["June 25, 1991", "December 22, 1990", "January 15, 1992", "October 8, 1991"],
+          "correctIndex": 1,
+          "explanation": "The Croatian Constitution (Ustav) was adopted on December 22, 1990, before independence was formally declared in 1991."
+        }
+      ]
+    }
+  ]
+}

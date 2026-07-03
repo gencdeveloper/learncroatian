@@ -5,6 +5,7 @@ import {
   getAllStories,
   getVerbReference,
   getCaseGuide,
+  getCultureGuide,
   getAllTests,
   getAllChunkCollections,
   LEVEL_STYLES,
@@ -26,6 +27,7 @@ const groups = (["a1", "a2", "b1", "b2"] as const)
 const stories = getAllStories();
 const verbReference = getVerbReference();
 const caseGuide = getCaseGuide();
+const cultureGuide = getCultureGuide();
 const tests = getAllTests();
 const phrasecollections = getAllChunkCollections();
 ---
@@ -181,6 +183,23 @@ const phrasecollections = getAllChunkCollections();
             </a>
           ))}
         </div>
+      </section>
+    )}
+
+    {cultureGuide && (
+      <section id="culture" class="mt-10 scroll-mt-6">
+        <h2 class="flex items-center gap-3">
+          <span class="rounded-full bg-rose-600 px-3 py-1 text-sm font-bold uppercase text-white">🇭🇷</span>
+          <span class="text-lg font-bold text-rose-700">Croatian Culture 101</span>
+          <span class="text-sm text-slate-400">({cultureGuide.categories.length} topics)</span>
+        </h2>
+        <a
+          href="/culture"
+          class="mt-3 block rounded-xl border border-rose-200 bg-rose-50 px-5 py-4 transition-shadow hover:shadow-md"
+        >
+          <div class="font-semibold text-rose-900">Geography · History · Famous Croatians · Traditions · Food · UNESCO · Government</div>
+          <div class="mt-1 text-sm text-rose-600">Facts + citizenship-style quizzes for all 8 topics →</div>
+        </a>
       </section>
     )}
   </main>
