@@ -3,4 +3,5 @@ dist/
 .astro/
 .env
 .env.*
-.vercel
+.vercel/output
+.vercel/*.log
