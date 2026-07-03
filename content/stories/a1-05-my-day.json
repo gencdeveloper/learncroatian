@@ -1,0 +1,52 @@
+{
+  "id": "my-day",
+  "level": "a1",
+  "order": 5,
+  "title": { "hr": "Moj dan", "en": "My Day" },
+  "topicsUsed": ["daily-routine", "present-tense", "time", "transport", "school"],
+  "paragraphs": [
+    {
+      "hr": "Moje ime je Mia. Ja sam studentica. Studiram engleski jezik na Filozofskom fakultetu u Zagrebu. Imam dvadeset godina. Živim u studentskom domu — mali je, ali dovoljan za jednu osobu.",
+      "en": "My name is Mia. I am a student. I study English language at the Faculty of Humanities in Zagreb. I am twenty years old. I live in a student dormitory — it is small, but enough for one person."
+    },
+    {
+      "hr": "Svako jutro ustajem u sedam sati. Idem u kupaonicu — perem lice i zube. Oblačim se i idem na doručak. Doručak je uvijek isti: jogurt i voće. Pijem čaj, ne kavu. Kava je preskupa za studenta.",
+      "en": "Every morning I get up at seven o'clock. I go to the bathroom — I wash my face and teeth. I get dressed and go to breakfast. Breakfast is always the same: yoghurt and fruit. I drink tea, not coffee. Coffee is too expensive for a student."
+    },
+    {
+      "hr": "U osam i pol idem na fakultet tramvajem. Nastava počinje u devet. Danas imam tri predmeta: gramatiku, književnost i prevođenje. Predavaonice su velike i ima puno studenata. Moji profesori su dobri — jasno govore i puno objašnjavaju.",
+      "en": "At half past eight I go to the faculty by tram. Classes start at nine. Today I have three subjects: grammar, literature and translation. The lecture rooms are large and there are many students. My professors are good — they speak clearly and explain a lot."
+    },
+    {
+      "hr": "U podne imam pauzu. Idem u kantinu s prijateljicom Anom. Ručak košta tri eura — nije skupo. Jedemo brzo jer moramo nazad na nastavu u jedan sat. Ana je zabavna i uvijek me nasmije. Ona studira povijest.",
+      "en": "At noon I have a break. I go to the canteen with my friend Ana. Lunch costs three euros — it is not expensive. We eat quickly because we have to be back in class at one o'clock. Ana is fun and always makes me laugh. She studies history."
+    },
+    {
+      "hr": "Navečer učim u sobi ili u knjižnici. Imam puno zadaća i ispit sljedeći tjedan. U deset sati navečer idem spavati. Studentski život nije lak, ali ja volim studirati. Moj san je raditi kao prevoditeljica. Svaki dan radim malo na tom cilju.",
+      "en": "In the evening I study in my room or in the library. I have a lot of homework and an exam next week. At ten o'clock in the evening I go to sleep. Student life is not easy, but I love studying. My dream is to work as a translator. Every day I work a little towards that goal."
+    }
+  ],
+  "vocabulary": {
+    "verbs": [
+      { "hr": "ustajati", "en": "to get up" },
+      { "hr": "oblačiti se", "en": "to get dressed" },
+      { "hr": "studirati", "en": "to study" },
+      { "hr": "objašnjavati", "en": "to explain" },
+      { "hr": "učiti", "en": "to study / to learn" }
+    ],
+    "nouns": [
+      { "hr": "studentski dom", "en": "dormitory" },
+      { "hr": "nastava", "en": "classes / lessons" },
+      { "hr": "predmet", "en": "subject" },
+      { "hr": "kantina", "en": "canteen" },
+      { "hr": "knjižnica", "en": "library" }
+    ],
+    "adjectives": [
+      { "hr": "skupo", "en": "expensive" },
+      { "hr": "zabavan / zabavna", "en": "fun / entertaining" },
+      { "hr": "lak / laka", "en": "easy" },
+      { "hr": "velik / velika", "en": "large / big" },
+      { "hr": "isti / ista", "en": "same" }
+    ]
+  }
+}

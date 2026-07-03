@@ -1,0 +1,400 @@
+{
+  "id": "accusative-case",
+  "level": "a2",
+  "order": 3,
+  "title": { "en": "Accusative Case", "hr": "Akuzativ" },
+  "grammar": {
+    "title": { "en": "The Accusative Case in Croatian", "hr": "Akuzativ u hrvatskom jeziku" },
+    "intro": "The **accusative** case marks the **direct object** — the person or thing that the action directly affects. It answers *koga?* (whom?) and *što?* (what?).\n\nThe accusative is also required after certain common prepositions. It is one of the most frequently used cases in Croatian.",
+    "rules": [
+      {
+        "label": "Masculine inanimate singular: same as nominative",
+        "explanation": "When the direct object is a **masculine inanimate** noun (an object, not a living being), the accusative form is **identical to the nominative**. No ending changes.\n\nCommon inanimate masculine nouns: **stol** (table), **grad** (city), **auto** (car), **film** (film), **poklon** (gift), **dućan** (shop).",
+        "examples": [
+          { "hr": "Gledam film.", "en": "I am watching a film." },
+          { "hr": "Kupujem auto.", "en": "I am buying a car." },
+          { "hr": "Tražim poklon.", "en": "I am looking for a gift." }
+        ]
+      },
+      {
+        "label": "Masculine animate singular: add -a",
+        "explanation": "When the direct object is a **masculine animate** noun (a person or animal), the accusative adds **-a** to the stem. This form is identical to the genitive singular.\n\nNote: some nouns have a fleeting vowel that disappears: **pas → psa** (the stem vowel drops). The rule is: animate masculine direct objects always take **-a**.",
+        "examples": [
+          { "hr": "Vidim brata.", "en": "I see my brother." },
+          { "hr": "Ana zove prijatelja.", "en": "Ana is calling her friend." },
+          { "hr": "Tražim psa.", "en": "I am looking for the dog." }
+        ]
+      },
+      {
+        "label": "Feminine singular: -a changes to -u",
+        "explanation": "Feminine nouns ending in **-a** (which covers most feminine nouns) change **-a → -u** in the accusative singular.\n\nExamples: **žena → ženu**, **knjiga → knjigu**, **sestra → sestru**, **jakna → jaknu**, **majka → majku**.",
+        "examples": [
+          { "hr": "Čitam knjigu.", "en": "I am reading a book." },
+          { "hr": "Vidim ženu.", "en": "I see a woman." },
+          { "hr": "Probam jaknu.", "en": "I am trying on a jacket." }
+        ]
+      },
+      {
+        "label": "Neuter singular: same as nominative",
+        "explanation": "Neuter nouns are **unchanged** in the accusative singular — just like masculine inanimate nouns.\n\nExamples: **selo → selo**, **more → more**, **pismo → pismo**, **vino → vino**.",
+        "examples": [
+          { "hr": "Volim more.", "en": "I love the sea." },
+          { "hr": "Pišem pismo.", "en": "I am writing a letter." },
+          { "hr": "Kupujem vino.", "en": "I am buying wine." }
+        ]
+      },
+      {
+        "label": "Plural accusative",
+        "explanation": "For **feminine** and **neuter** nouns, accusative plural = nominative plural (the form is the same).\n\nFor **masculine** nouns, accusative plural ends in **-e/-ove/-eve** for inanimates, making it different from the nominative plural:\n- **stolovi** (nom. pl.) → **stolove** (acc. pl.)\n- **gradovi** (nom. pl.) → **gradove** (acc. pl.)\n- **psi** (nom. pl. of **pas**) → **pse** (acc. pl.)",
+        "examples": [
+          { "hr": "Kupujem knjige.", "en": "I am buying books." },
+          { "hr": "Vidim sela.", "en": "I see villages." },
+          { "hr": "Gledam filmove.", "en": "I am watching films." }
+        ]
+      },
+      {
+        "label": "Prepositions that take the accusative",
+        "explanation": "Several common prepositions always require the **accusative** case:\n- **u** + accusative = movement into: *idem u grad* (I go to the city)\n- **na** + accusative = movement onto/to: *idemo na more* (we go to the sea)\n- **kroz** = through: *hodamo kroz park* (we walk through the park)\n- **za** = for: *poklon za brata* (a gift for my brother)\n- **niz** = down: *šeta niz ulicu* (she walks down the street)",
+        "examples": [
+          { "hr": "Idemo u grad.", "en": "We are going to the city." },
+          { "hr": "Kupila sam jaknu za sestru.", "en": "I bought a jacket for my sister." },
+          { "hr": "Hodamo kroz park.", "en": "We are walking through the park." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Type", "Nominative (sg)", "Accusative (sg)", "Nominative (pl)", "Accusative (pl)", "English"],
+      "rows": [
+        ["Masc. inanimate", "stol", "stol", "stolovi", "stolove", "table"],
+        ["Masc. inanimate", "film", "film", "filmovi", "filmove", "film"],
+        ["Masc. animate", "pas", "psa", "psi", "pse", "dog"],
+        ["Masc. animate", "prijatelj", "prijatelja", "prijatelji", "prijatelje", "friend"],
+        ["Feminine", "žena", "ženu", "žene", "žene", "woman"],
+        ["Feminine", "knjiga", "knjigu", "knjige", "knjige", "book"],
+        ["Neuter", "selo", "selo", "sela", "sela", "village"],
+        ["Neuter", "pismo", "pismo", "pisma", "pisma", "letter"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "Shopping on Ilica Street", "hr": "Kupovina na Ilici" },
+    "paragraphs": [
+      {
+        "hr": "Ana je u centru Zagreba i šeta niz Ilicu, najpoznatiju trgovačku ulicu. Želi kupiti jednu-dvije stvari prije povratka kući.",
+        "en": "Ana is in the centre of Zagreb and is walking down Ilica, the most famous shopping street. She wants to buy a thing or two before heading home."
+      },
+      {
+        "hr": "Ulazi u knjižaru i traži novu knjigu. Pronalazi zanimljiv roman i odlučuje ga kupiti.",
+        "en": "She enters a bookshop and looks for a new book. She finds an interesting novel and decides to buy it."
+      },
+      {
+        "hr": "Nakon toga, Ana traži poklon za brata. Zna da brat voli glazbu, ali glazbena trgovina je zatvorena.",
+        "en": "After that, Ana looks for a gift for her brother. She knows her brother likes music, but the music shop is closed."
+      },
+      {
+        "hr": "U susjednoj prodavaonici pita prodavačicu za pomoć. 'Tražim nešto za mlađeg brata,' kaže Ana.",
+        "en": "In the neighbouring shop she asks the shop assistant for help. 'I am looking for something for my younger brother,' says Ana."
+      },
+      {
+        "hr": "Prodavačica joj pokazuje razne jakne. Ana proba plavu jaknu i odlično joj stoji.",
+        "en": "The shop assistant shows her various jackets. Ana tries on a blue jacket and it fits her perfectly."
+      },
+      {
+        "hr": "Na kraju Ana ide na blagajnu i plaća. 'Koliko košta jakna?' pita. 'Sedamdeset eura,' odgovara prodavačica. Ana plaća karticom i odlazi zadovoljna.",
+        "en": "In the end Ana goes to the till and pays. 'How much does the jacket cost?' she asks. 'Seventy euros,' the shop assistant replies. Ana pays by card and leaves satisfied."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "accusative-case-q1",
+      "prompt": "What is the name of the shopping street where Ana walks?",
+      "promptHr": "Kako se zove trgovačka ulica po kojoj šeta Ana?",
+      "options": ["Tkalčićeva", "Ilica", "Vlaška", "Trkalište"],
+      "correctIndex": 1,
+      "explanation": "The text says Ana walks 'niz Ilicu' — down Ilica, the most famous shopping street."
+    },
+    {
+      "id": "accusative-case-q2",
+      "prompt": "What does Ana buy in the bookshop?",
+      "promptHr": "Što Ana kupuje u knjižari?",
+      "options": ["A magazine", "A dictionary", "A novel", "A map"],
+      "correctIndex": 2,
+      "explanation": "'Pronalazi zanimljiv roman' — she finds an interesting novel and decides to buy it."
+    },
+    {
+      "id": "accusative-case-q3",
+      "prompt": "Why can't Ana buy something from the music shop?",
+      "promptHr": "Zašto Ana ne može kupiti nešto u glazbenoj trgovini?",
+      "options": ["It is too expensive", "The music shop is closed", "She doesn't like music", "She already has a gift"],
+      "correctIndex": 1,
+      "explanation": "'Glazbena trgovina je zatvorena' — the music shop is closed."
+    },
+    {
+      "id": "accusative-case-q4",
+      "prompt": "What does Ana tell the shop assistant she is looking for?",
+      "promptHr": "Što Ana kaže prodavačici da traži?",
+      "options": ["A gift for her mother", "A blue jacket", "Something for her younger brother", "A book"],
+      "correctIndex": 2,
+      "explanation": "'Tražim nešto za mlađeg brata' — I am looking for something for my younger brother."
+    },
+    {
+      "id": "accusative-case-q5",
+      "prompt": "How does Ana pay at the till?",
+      "promptHr": "Kako Ana plaća na blagajni?",
+      "options": ["With cash", "With a voucher", "With a gift card", "By card"],
+      "correctIndex": 3,
+      "explanation": "'Ana plaća karticom' — Ana pays by card."
+    }
+  ],
+  "test": [
+    {
+      "id": "accusative-case-q6",
+      "prompt": "What is the accusative form of 'brat' (brother — animate masculine)?",
+      "options": ["brat", "brata", "bratu", "bratom"],
+      "correctIndex": 1,
+      "explanation": "Brat is animate masculine; accusative adds -a: brat → brata."
+    },
+    {
+      "id": "accusative-case-q7",
+      "prompt": "What is the accusative form of 'stol' (table — inanimate masculine)?",
+      "options": ["stola", "stolu", "stol", "stolom"],
+      "correctIndex": 2,
+      "explanation": "Stol is inanimate masculine; accusative = nominative: stol stays stol."
+    },
+    {
+      "id": "accusative-case-q8",
+      "prompt": "What is the accusative form of 'knjiga' (book — feminine)?",
+      "options": ["knjiga", "knjige", "knjizi", "knjigu"],
+      "correctIndex": 3,
+      "explanation": "Feminine -a nouns change -a to -u in the accusative: knjiga → knjigu."
+    },
+    {
+      "id": "accusative-case-q9",
+      "prompt": "What is the accusative form of 'more' (sea — neuter)?",
+      "options": ["mora", "moru", "more", "morom"],
+      "correctIndex": 2,
+      "explanation": "Neuter nouns are unchanged in the accusative: more → more."
+    },
+    {
+      "id": "accusative-case-q10",
+      "prompt": "Fill in the blank: 'Kupujem ___.' — jakna (jacket, feminine)",
+      "options": ["jakna", "jakni", "jaknom", "jaknu"],
+      "correctIndex": 3,
+      "explanation": "Jakna is a feminine -a noun; accusative changes -a to -u: jaknu."
+    },
+    {
+      "id": "accusative-case-q11",
+      "prompt": "Choose the correct Croatian for: 'I see a dog.' (pas = animate masculine)",
+      "options": ["Vidim pas.", "Vidim pasu.", "Vidim psa.", "Vidim pasom."],
+      "correctIndex": 2,
+      "explanation": "Pas is animate masculine; accusative adds -a with a stem vowel shift: pas → psa."
+    },
+    {
+      "id": "accusative-case-q12",
+      "prompt": "Choose the correct Croatian for: 'I am watching a film.' (film = inanimate masculine)",
+      "options": ["Gledam filma.", "Gledam film.", "Gledam filmu.", "Gledam filmom."],
+      "correctIndex": 1,
+      "explanation": "Film is inanimate masculine; accusative = nominative: film stays film."
+    },
+    {
+      "id": "accusative-case-q13",
+      "prompt": "Fill in the blank: 'Tražim ___.' — poklon (gift, inanimate masculine)",
+      "options": ["poklona", "poklonu", "poklon", "poklonom"],
+      "correctIndex": 2,
+      "explanation": "Poklon is inanimate masculine; accusative = nominative: poklon stays poklon."
+    },
+    {
+      "id": "accusative-case-q14",
+      "prompt": "Translate: 'Vidim ženu.'",
+      "options": ["I like a woman.", "I know a woman.", "I am looking for a woman.", "I see a woman."],
+      "correctIndex": 3,
+      "explanation": "'Vidim' = I see; 'ženu' is the accusative of žena (feminine: -a → -u)."
+    },
+    {
+      "id": "accusative-case-q15",
+      "prompt": "Which preposition takes the accusative to express MOVEMENT INTO a place?",
+      "options": ["od", "iz", "u", "kod"],
+      "correctIndex": 2,
+      "explanation": "'U' + accusative expresses movement into a place: idemo u grad (we go to the city)."
+    },
+    {
+      "id": "accusative-case-q16",
+      "prompt": "Fill in the blank: 'Idemo ___ more.' (We are going to the sea.)",
+      "options": ["u", "od", "iz", "s"],
+      "correctIndex": 0,
+      "explanation": "'U + accusative' expresses movement to/into a destination: idemo u more."
+    },
+    {
+      "id": "accusative-case-q17",
+      "prompt": "Choose the correct Croatian for: 'I bought a gift for my sister.'",
+      "options": [
+        "Kupila sam dar za sestru.",
+        "Kupila sam dar iz sestre.",
+        "Kupila sam dar od sestre.",
+        "Kupila sam dar kod sestre."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Za + accusative' expresses 'for': sestra → sestru (feminine acc). 'Za sestru' = for my sister."
+    },
+    {
+      "id": "accusative-case-q18",
+      "prompt": "Fill in the blank: 'Ana traži ___.' — prijatelj (friend, animate masculine)",
+      "options": ["prijatelju", "prijatelja", "prijatelj", "prijateljem"],
+      "correctIndex": 1,
+      "explanation": "Prijatelj is animate masculine; accusative adds -a: prijatelja."
+    },
+    {
+      "id": "accusative-case-q19",
+      "prompt": "What is the accusative form of 'sestra' (sister — feminine)?",
+      "options": ["sestre", "sestri", "sestru", "sestrom"],
+      "correctIndex": 2,
+      "explanation": "Sestra is a feminine -a noun; accusative changes -a to -u: sestru."
+    },
+    {
+      "id": "accusative-case-q20",
+      "prompt": "What does 'Vidim brata.' mean?",
+      "options": ["I see my brother.", "My brother is here.", "I like my brother.", "I am a brother."],
+      "correctIndex": 0,
+      "explanation": "'Vidim' = I see; 'brata' is the accusative of brat (animate masculine: brat → brata)."
+    },
+    {
+      "id": "accusative-case-q21",
+      "prompt": "Choose the correct Croatian for: 'She loves the sea.' (more = neuter)",
+      "options": ["Voli mora.", "Voli moru.", "Voli more.", "Voli morom."],
+      "correctIndex": 2,
+      "explanation": "More is neuter; accusative = nominative: more stays more."
+    },
+    {
+      "id": "accusative-case-q22",
+      "prompt": "Which sentence correctly uses 'kroz' (through)?",
+      "options": ["Hodamo kroz parka.", "Hodamo kroz park.", "Hodamo kroz parku.", "Hodamo kroz parkovi."],
+      "correctIndex": 1,
+      "explanation": "'Kroz' takes the accusative; park is inanimate masculine, so accusative = nominative: park."
+    },
+    {
+      "id": "accusative-case-q23",
+      "prompt": "Fill in the blank: 'Čitam ___.' — roman (novel, inanimate masculine)",
+      "options": ["romani", "romana", "romanu", "roman"],
+      "correctIndex": 3,
+      "explanation": "Roman is inanimate masculine; accusative = nominative: roman stays roman."
+    },
+    {
+      "id": "accusative-case-q24",
+      "prompt": "What is the accusative form of 'pas' (dog — animate masculine)?",
+      "options": ["psa", "psu", "pas", "pasom"],
+      "correctIndex": 0,
+      "explanation": "Pas is animate masculine; accusative adds -a with a fleeting stem vowel: pas → psa."
+    },
+    {
+      "id": "accusative-case-q25",
+      "prompt": "Translate: 'I am looking for a jacket.'",
+      "options": ["Tražim jakna.", "Tražim jakni.", "Tražim jaknu.", "Tražim jaknom."],
+      "correctIndex": 2,
+      "explanation": "Jakna is feminine -a; accusative changes -a to -u: jaknu. So: Tražim jaknu."
+    },
+    {
+      "id": "accusative-case-q26",
+      "prompt": "Which sentence correctly means 'We walk through the park'?",
+      "options": [
+        "Hodamo u parku.",
+        "Hodamo kroz park.",
+        "Hodamo od parka.",
+        "Hodamo kod parka."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Kroz' (through) takes the accusative; park is inanimate masculine, so accusative = nominative: park."
+    },
+    {
+      "id": "accusative-case-q27",
+      "prompt": "What is the accusative plural of 'knjiga' (book — feminine)?",
+      "options": ["knjige", "knjiga", "knjizi", "knjigama"],
+      "correctIndex": 0,
+      "explanation": "Feminine accusative plural = nominative plural: knjige (unchanged form)."
+    },
+    {
+      "id": "accusative-case-q28",
+      "prompt": "Fill in the blank: 'Vidim ___.' — vino (wine, neuter)",
+      "options": ["vina", "vinu", "vino", "vinom"],
+      "correctIndex": 2,
+      "explanation": "Vino is neuter; accusative = nominative: vino stays vino."
+    },
+    {
+      "id": "accusative-case-q29",
+      "prompt": "Which is the correct accusative form of 'mačka' (cat — feminine)?",
+      "options": ["mačka", "mačke", "mački", "mačku"],
+      "correctIndex": 3,
+      "explanation": "Mačka is a feminine -a noun; accusative changes -a to -u: mačku."
+    },
+    {
+      "id": "accusative-case-q30",
+      "prompt": "Translate: 'She is going to the shop.' (dućan = shop, inanimate masculine)",
+      "options": [
+        "Ona ide iz dućana.",
+        "Ona ide u dućanu.",
+        "Ona ide u dućan.",
+        "Ona ide od dućana."
+      ],
+      "correctIndex": 2,
+      "explanation": "'U + accusative' expresses movement into/to a place; dućan is inanimate masculine, accusative = nominative: dućan."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Direct object verbs (+ accusative)",
+      "items": [
+        { "hr": "Vidim brata.", "en": "I see my brother.", "note": "vidim + animate masc. acc." },
+        { "hr": "Kupujem jaknu.", "en": "I am buying a jacket.", "note": "kupujem + feminine acc." },
+        { "hr": "Tražim poklon.", "en": "I am looking for a gift.", "note": "tražim + inanimate masc. acc." },
+        { "hr": "Čitam roman.", "en": "I am reading a novel.", "note": "čitam + inanimate masc. acc." },
+        { "hr": "Volim more.", "en": "I love the sea.", "note": "volim + neuter acc." },
+        { "hr": "Gledam film.", "en": "I am watching a film.", "note": "gledam + inanimate masc. acc." },
+        { "hr": "Imam psa.", "en": "I have a dog.", "note": "imam + animate masc. acc." }
+      ]
+    },
+    {
+      "context": "Animate masculine accusative",
+      "items": [
+        { "hr": "brat → brata", "en": "brother", "note": "animate masc.; add -a" },
+        { "hr": "prijatelj → prijatelja", "en": "friend (m)", "note": "animate masc.; add -a" },
+        { "hr": "pas → psa", "en": "dog", "note": "animate masc.; fleeting vowel: pas → psa" },
+        { "hr": "muž → muža", "en": "husband", "note": "animate masc.; add -a" },
+        { "hr": "sin → sina", "en": "son", "note": "animate masc.; add -a" },
+        { "hr": "muškarac → muškarca", "en": "man", "note": "animate masc.; stem + -a" }
+      ]
+    },
+    {
+      "context": "Feminine accusative",
+      "items": [
+        { "hr": "žena → ženu", "en": "woman", "note": "-a → -u" },
+        { "hr": "knjiga → knjigu", "en": "book", "note": "-a → -u" },
+        { "hr": "sestra → sestru", "en": "sister", "note": "-a → -u" },
+        { "hr": "jakna → jaknu", "en": "jacket", "note": "-a → -u" },
+        { "hr": "torba → torbu", "en": "bag", "note": "-a → -u" },
+        { "hr": "majka → majku", "en": "mother", "note": "-a → -u" }
+      ]
+    },
+    {
+      "context": "Prepositions + accusative",
+      "items": [
+        { "hr": "u grad", "en": "to the city (movement)", "note": "u + acc = movement into" },
+        { "hr": "na more", "en": "to the sea (movement)", "note": "na + acc = movement to/onto" },
+        { "hr": "kroz park", "en": "through the park", "note": "kroz + acc = through" },
+        { "hr": "za brata", "en": "for (my) brother", "note": "za + acc: brat → brata (animate)" },
+        { "hr": "za majku", "en": "for (my) mother", "note": "za + acc: majka → majku (feminine)" },
+        { "hr": "niz ulicu", "en": "down the street", "note": "niz + acc: ulica → ulicu (feminine)" }
+      ]
+    },
+    {
+      "context": "Accusative in shopping",
+      "items": [
+        { "hr": "Tražim jaknu.", "en": "I am looking for a jacket.", "note": "jakna → jaknu (feminine acc.)" },
+        { "hr": "Kupujem poklon za brata.", "en": "I am buying a gift for my brother.", "note": "poklon (inanim.); brat → brata (animate acc.)" },
+        { "hr": "Probam kapu.", "en": "I am trying on a hat.", "note": "kapa → kapu (feminine acc.)" },
+        { "hr": "Plaćam račun.", "en": "I am paying the bill.", "note": "račun (inanim. masc. acc. = nom.)" },
+        { "hr": "Tražim nešto za sestru.", "en": "I am looking for something for my sister.", "note": "za + acc: sestra → sestru" },
+        { "hr": "Idem u dućan.", "en": "I am going to the shop.", "note": "u + acc: dućan (inanim. masc. acc. = nom.)" }
+      ]
+    }
+  ]
+}

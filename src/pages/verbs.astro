@@ -1,0 +1,12 @@
+---
+import Layout from "../layouts/Layout.astro";
+import VerbTable from "../components/VerbTable.astro";
+import { getVerbReference } from "../lib/content";
+
+const data = getVerbReference();
+if (!data) return Astro.redirect("/");
+---
+
+<Layout title={`${data.title.en} | Learn Croatian`}>
+  <VerbTable data={data} />
+</Layout>

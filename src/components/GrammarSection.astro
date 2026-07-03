@@ -1,0 +1,72 @@
+---
+import type { Topic } from "../lib/content";
+import FormattedText from "./FormattedText.astro";
+
+interface Props {
+  grammar: Topic["grammar"];
+}
+
+const { grammar } = Astro.props;
+
+const RULE_ACCENTS = [
+  { border: "border-l-blue-500", chip: "bg-blue-50 text-blue-700" },
+  { border: "border-l-purple-500", chip: "bg-purple-50 text-purple-700" },
+  { border: "border-l-amber-500", chip: "bg-amber-50 text-amber-700" },
+  { border: "border-l-emerald-500", chip: "bg-emerald-50 text-emerald-700" },
+  { border: "border-l-rose-500", chip: "bg-rose-50 text-rose-700" },
+];
+---
+
+<section id="grammar" class="scroll-mt-20 py-10">
+  <h2 class="text-xl font-bold text-slate-900">
+    1. Grammar — {grammar.title.en}
+    <span class="ml-2 text-base font-normal text-slate-400">{grammar.title.hr}</span>
+  </h2>
+
+  <div class="mt-3 rounded-xl border border-blue-200 bg-blue-50 p-4 text-blue-900">
+    <FormattedText text={grammar.intro} class="space-y-2 text-sm leading-relaxed" />
+  </div>
+
+  <div class="mt-6 space-y-4">
+    {grammar.rules.map((rule, i) => {
+      const accent = RULE_ACCENTS[i % RULE_ACCENTS.length];
+      return (
+        <div class={`rounded-xl border border-slate-200 border-l-4 ${accent.border} bg-white p-5 shadow-sm`}>
+          <h3 class="font-semibold text-slate-900">{rule.label}</h3>
+          <FormattedText text={rule.explanation} class="mt-1 space-y-1.5 text-sm text-slate-600" />
+          <ul class="mt-3 space-y-1.5">
+            {rule.examples.map((ex) => (
+              <li class="text-sm">
+                <span class={`rounded px-1.5 py-0.5 font-mono font-medium ${accent.chip}`}>{ex.hr}</span>
+                <span class="text-slate-500"> — {ex.en}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      );
+    })}
+  </div>
+
+  {grammar.table && (
+    <div class="mt-6 overflow-x-auto rounded-xl border border-slate-200">
+      <table class="w-full text-left text-sm">
+        <thead class="bg-blue-600">
+          <tr>
+            {grammar.table.headers.map((h) => (
+              <th class="px-4 py-2 font-semibold text-white">{h}</th>
+            ))}
+          </tr>
+        </thead>
+        <tbody>
+          {grammar.table.rows.map((row, i) => (
+            <tr class={i % 2 === 0 ? "bg-white" : "bg-slate-50"}>
+              {row.map((cell) => (
+                <td class="px-4 py-2 text-slate-700">{cell}</td>
+              ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  )}
+</section>

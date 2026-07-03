@@ -1,0 +1,52 @@
+{
+  "id": "cafe",
+  "level": "a1",
+  "order": 2,
+  "title": { "hr": "U kafiću", "en": "At the Café" },
+  "topicsUsed": ["greetings", "present-tense", "food", "numbers", "polite-phrases"],
+  "paragraphs": [
+    {
+      "hr": "Ben je turist iz Engleske. Danas je prvi put u Zagrebu. Ulazi u kafić blizu Trga bana Jelačića. Kafić se zove Mali Medo. Unutra je toplo i mirno. Ben sjeda za mali stol kraj prozora.",
+      "en": "Ben is a tourist from England. Today is his first time in Zagreb. He enters a café near Ban Jelačić Square. The café is called Mali Medo. Inside it is warm and quiet. Ben sits down at a small table by the window."
+    },
+    {
+      "hr": "Konobarica Ana dolazi do stola. Ona se osmijehuje i kaže: Dobar dan! Što želite? Ben kaže: Dobar dan! Jednu kavu, molim. Ana pita: Toplu ili hladnu? Ben odgovara: Toplu, molim vas. Ana odlazi i donosi kavu za dvije minute.",
+      "en": "Waitress Ana comes to the table. She smiles and says: Good afternoon! What would you like? Ben says: Good afternoon! One coffee, please. Ana asks: Hot or cold? Ben replies: Hot, please. Ana goes away and brings the coffee in two minutes."
+    },
+    {
+      "hr": "Ben pita: Koliko košta kava? Ana odgovara: Jedan euro i pedeset centi. Ben plaća karticom. On kaže hvala na hrvatskom. Ana se veseli — turist govori hrvatski! Ona kaže: Govorite li vi hrvatski? Ben odgovara: Malo. Učim šest mjeseci.",
+      "en": "Ben asks: How much does the coffee cost? Ana replies: One euro and fifty cents. Ben pays by card. He says thank you in Croatian. Ana is pleased — the tourist speaks Croatian! She says: Do you speak Croatian? Ben replies: A little. I have been learning for six months."
+    },
+    {
+      "hr": "Ana sjeda na stolicu kraj Bena. Ona pita: Jeste li prvi put u Zagrebu? Ben odgovara: Da, to je moj prvi posjet. Zagreb je lijep grad. Ana se smiješi i kaže: Hvala! Zagreb je moj grad. Ima puno starih zgrada, parkova i dobrih restorana.",
+      "en": "Ana sits down on a chair next to Ben. She asks: Is this your first time in Zagreb? Ben replies: Yes, this is my first visit. Zagreb is a beautiful city. Ana smiles and says: Thank you! Zagreb is my city. There are many old buildings, parks and good restaurants."
+    },
+    {
+      "hr": "Ben pije kavu polako. Kava je ukusna i vruća. On gleda ljude koji prolaze ulicom kroz prozor. Zagreb je lijep — puno starih zgrada i zelenih parkova. Ben je sretan. On želi opet doći u ovaj kafić sutra. On kaže doviđenja i odlazi u grad.",
+      "en": "Ben drinks his coffee slowly. The coffee is delicious and hot. He watches the people walking along the street through the window. Zagreb is beautiful — many old buildings and green parks. Ben is happy. He wants to come back to this café again tomorrow. He says goodbye and sets off into the city."
+    }
+  ],
+  "vocabulary": {
+    "verbs": [
+      { "hr": "ući", "en": "to enter" },
+      { "hr": "donijeti", "en": "to bring" },
+      { "hr": "platiti", "en": "to pay" },
+      { "hr": "piti", "en": "to drink" },
+      { "hr": "učiti", "en": "to learn" }
+    ],
+    "nouns": [
+      { "hr": "kafić", "en": "café" },
+      { "hr": "kava", "en": "coffee" },
+      { "hr": "konobarica", "en": "waitress" },
+      { "hr": "turist", "en": "tourist" },
+      { "hr": "prozor", "en": "window" }
+    ],
+    "adjectives": [
+      { "hr": "topao / topla", "en": "warm / hot" },
+      { "hr": "ukusan / ukusna", "en": "delicious" },
+      { "hr": "lijep / lijepa", "en": "beautiful" },
+      { "hr": "sretan / sretna", "en": "happy" },
+      { "hr": "miran / mirna", "en": "quiet / peaceful" }
+    ]
+  }
+}

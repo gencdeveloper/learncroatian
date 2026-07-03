@@ -1,0 +1,563 @@
+{
+  "id": "cases",
+  "title": { "hr": "Sustav padeža u hrvatskom", "en": "The Croatian Case System" },
+  "intro": "Croatian has seven grammatical cases — each gives a noun a different ending depending on its role in the sentence. Adjectives, pronouns and numbers must also agree in case, gender and number.",
+  "cases": [
+    {
+      "id": "nominative",
+      "name": { "hr": "Nominativ", "en": "Nominative" },
+      "question": "Tko? Što? — Who? What?",
+      "usage": "The nominative is the default dictionary form. It marks the subject of the sentence — the person or thing performing the action. Adjectives and predicate nouns after biti (to be) also take the nominative. Example: Marko je student. (Marko is a student.) The word Marko is the subject; student is the predicate nominative.",
+      "endings": {
+        "headers": ["", "Masculine", "Feminine", "Neuter"],
+        "rows": [
+          ["Singular", "grad, brat, stol", "žena, knjiga, stvar", "more, dijete, ime"],
+          ["Plural", "gradovi, braća, stolovi", "žene, knjige, stvari", "mora, djeca, imena"]
+        ]
+      },
+      "examples": [
+        { "hr": "Marko je visok.", "en": "Marko is tall." },
+        { "hr": "Ana i Petra su prijateljice.", "en": "Ana and Petra are friends." },
+        { "hr": "Grad je velik.", "en": "The city is big." },
+        { "hr": "Djeca se igraju u parku.", "en": "The children are playing in the park." },
+        { "hr": "Knjiga je na stolu.", "en": "The book is on the table." }
+      ],
+      "exercises": [
+        {
+          "id": "nom-q1",
+          "prompt": "Which word is the subject in: 'Autobus kasni deset minuta.'?",
+          "options": ["deset", "kasni", "autobus", "minuta"],
+          "correctIndex": 2,
+          "explanation": "Autobus (the bus) is the subject — it is the thing performing the action (being late). It is in the nominative."
+        },
+        {
+          "id": "nom-q2",
+          "prompt": "Complete: ___ je zatvorena. (The pharmacy is closed.)",
+          "options": ["Ljekarnu", "Ljekarnom", "Ljekarna", "Ljekarni"],
+          "correctIndex": 2,
+          "explanation": "The subject of 'je zatvorena' is Ljekarna (pharmacy, feminine). Nominative singular of feminine -a nouns stays as -a."
+        },
+        {
+          "id": "nom-q3",
+          "prompt": "Which is the correct nominative plural of grad (city)?",
+          "options": ["grade", "gradi", "gradovi", "gradu"],
+          "correctIndex": 2,
+          "explanation": "Most masculine nouns form their nominative plural with -ovi: grad → gradovi."
+        },
+        {
+          "id": "nom-q4",
+          "prompt": "Complete: Moja ___ radi u bolnici. (My sister works at the hospital.)",
+          "options": ["sestru", "sestri", "sestrom", "sestra"],
+          "correctIndex": 3,
+          "explanation": "Sestra (sister) is the subject of the sentence, so it takes the nominative: sestra."
+        },
+        {
+          "id": "nom-q5",
+          "prompt": "After biti (to be), a predicate noun takes which case?",
+          "options": ["Accusative", "Nominative", "Dative", "Genitive"],
+          "correctIndex": 1,
+          "explanation": "Predicate nouns after biti take the nominative: On je učitelj. (He is a teacher.) — učitelj is in the nominative."
+        },
+        {
+          "id": "nom-q6",
+          "prompt": "Complete: ___ su skupi. (The tickets are expensive.)",
+          "options": ["Kartu", "Karti", "Karte", "Kartom"],
+          "correctIndex": 2,
+          "explanation": "Karte (tickets, feminine plural) is the subject. Feminine -a nouns form their nominative plural with -e: karta → karte."
+        },
+        {
+          "id": "nom-q7",
+          "prompt": "Which sentence uses the nominative correctly?",
+          "options": ["Vidim lijepa plaža.", "Lijepa plaža je blizu.", "Idem na lijepu plažu.", "Na lijepoj plaži."],
+          "correctIndex": 1,
+          "explanation": "Lijepa plaža je blizu — plaža is the subject (nominative). The other options use accusative, locative contexts."
+        },
+        {
+          "id": "nom-q8",
+          "prompt": "What is the nominative plural of dijete (child)?",
+          "options": ["djeteti", "djeca", "djece", "djecu"],
+          "correctIndex": 1,
+          "explanation": "Dijete has the irregular plural djeca (collective noun, treated as feminine singular grammatically)."
+        }
+      ]
+    },
+    {
+      "id": "accusative",
+      "name": { "hr": "Akuzativ", "en": "Accusative" },
+      "question": "Koga? Što? — Whom? What?",
+      "usage": "The accusative marks the direct object — the person or thing directly affected by the verb. Inanimate masculine nouns look identical to the nominative; animate masculine nouns take -a. Feminine -a nouns change to -u. Neuter nouns are unchanged. The accusative also follows the prepositions u and na when indicating movement toward a place (Idem u grad — I am going to the city).",
+      "endings": {
+        "headers": ["", "M (inanimate)", "M (animate)", "Feminine (-a)", "Neuter"],
+        "rows": [
+          ["Singular", "grad → grad", "brat → brata", "žena → ženu", "more → more"],
+          ["Plural", "gradovi → gradove", "braća → braću", "žene → žene", "mora → mora"]
+        ]
+      },
+      "examples": [
+        { "hr": "Čitam knjigu.", "en": "I am reading a book." },
+        { "hr": "Volim brata.", "en": "I love my brother." },
+        { "hr": "Idem u grad.", "en": "I am going to the city." },
+        { "hr": "Vidim more.", "en": "I can see the sea." },
+        { "hr": "Pišem pismo.", "en": "I am writing a letter." }
+      ],
+      "exercises": [
+        {
+          "id": "acc-q1",
+          "prompt": "Complete: Kupujem ___ . (I am buying bread.)",
+          "options": ["kruha", "kruhu", "kruh", "kruhom"],
+          "correctIndex": 2,
+          "explanation": "Kruh (bread) is masculine and inanimate. Inanimate masculine nouns are identical in nominative and accusative: kruh → kruh."
+        },
+        {
+          "id": "acc-q2",
+          "prompt": "Complete: Zovem ___. (I am calling my mum.)",
+          "options": ["mama", "mami", "mamu", "mamom"],
+          "correctIndex": 2,
+          "explanation": "Mama (mum) is feminine -a. Feminine -a nouns change to -u in the accusative: mama → mamu."
+        },
+        {
+          "id": "acc-q3",
+          "prompt": "Complete: Čekam ___. (I am waiting for the bus.)",
+          "options": ["autobus", "autobusa", "autobusu", "autobusom"],
+          "correctIndex": 0,
+          "explanation": "Autobus is masculine and inanimate. Inanimate masculine accusative = nominative: autobus stays autobus."
+        },
+        {
+          "id": "acc-q4",
+          "prompt": "Complete: Vidim ___. (I can see the waiter.)",
+          "options": ["konobar", "konobara", "konobaru", "konobarom"],
+          "correctIndex": 1,
+          "explanation": "Konobar (waiter) is masculine and animate. Animate masculine nouns take -a in the accusative: konobar → konobara."
+        },
+        {
+          "id": "acc-q5",
+          "prompt": "Complete: Idem ___ posao. (I am going to work — movement.)",
+          "options": ["s", "iz", "na", "od"],
+          "correctIndex": 2,
+          "explanation": "Na + accusative expresses movement toward an open space or an event/institution. Na posao = to work (going there)."
+        },
+        {
+          "id": "acc-q6",
+          "prompt": "Complete: Rezerviram ___ . (I am booking a room.)",
+          "options": ["sobu", "soba", "sobi", "sobom"],
+          "correctIndex": 0,
+          "explanation": "Soba (room) is feminine -a. Accusative: soba → sobu."
+        },
+        {
+          "id": "acc-q7",
+          "prompt": "Complete: Pijemo ___. (We are drinking coffee.)",
+          "options": ["kave", "kavi", "kavu", "kavom"],
+          "correctIndex": 2,
+          "explanation": "Kava (coffee) is feminine -a. Accusative: kava → kavu. Piti (to drink) takes a direct object in the accusative."
+        },
+        {
+          "id": "acc-q8",
+          "prompt": "Which sentence shows movement (requiring accusative after u)?",
+          "options": ["Radim u uredu.", "Sjedim u kafiću.", "Idem u kafić.", "Živim u gradu."],
+          "correctIndex": 2,
+          "explanation": "Idem u kafić — the verb ići (to go) expresses movement, so u + accusative is used: kafić (not kafiću). The other sentences use locative."
+        }
+      ]
+    },
+    {
+      "id": "genitive",
+      "name": { "hr": "Genitiv", "en": "Genitive" },
+      "question": "Koga? Čega? — Of whom? Of what?",
+      "usage": "The genitive expresses possession or origin (Markova knjiga — Marko's book), and is required after quantities and numbers from 2 upwards with special rules (pet knjiga — five books). It follows many prepositions: bez (without), od (from/of), do (until/to), kod (at/by), pored (beside), zbog (because of), umjesto (instead of), and others. Negated direct objects often shift from accusative to genitive (Nemam vremena — I have no time).",
+      "endings": {
+        "headers": ["", "Singular", "Plural"],
+        "rows": [
+          ["Masculine", "brat → brata", "braća → braće"],
+          ["Feminine (-a)", "žena → žene", "žena → žena (zero ending)"],
+          ["Feminine (cons.)", "stvar → stvari", "stvari → stvari"],
+          ["Neuter", "more → mora", "mora → mora (zero ending)"]
+        ]
+      },
+      "examples": [
+        { "hr": "To je torba moje sestre.", "en": "That is my sister's bag." },
+        { "hr": "Trebam čašu vode.", "en": "I need a glass of water." },
+        { "hr": "Nema kruha.", "en": "There is no bread." },
+        { "hr": "Radim bez pauze.", "en": "I am working without a break." },
+        { "hr": "Zatvoreno je zbog bolesti.", "en": "It is closed because of illness." }
+      ],
+      "exercises": [
+        {
+          "id": "gen-q1",
+          "prompt": "Complete: To je auto mog ___. (That is my brother's car.)",
+          "options": ["brat", "brata", "bratu", "bratom"],
+          "correctIndex": 1,
+          "explanation": "Possession uses the genitive. Brat (masculine) → brata in the genitive singular."
+        },
+        {
+          "id": "gen-q2",
+          "prompt": "Complete: Nemam ___. (I have no money.)",
+          "options": ["novac", "novca", "novcu", "novcem"],
+          "correctIndex": 1,
+          "explanation": "Negated direct objects take the genitive in Croatian. Novac (money, masculine) → novca in the genitive."
+        },
+        {
+          "id": "gen-q3",
+          "prompt": "Complete: Idem do ___. (I am going to the centre.)",
+          "options": ["centar", "centru", "centra", "centrom"],
+          "correctIndex": 2,
+          "explanation": "Do (to / until) always takes the genitive. Centar (masculine) → centra in the genitive."
+        },
+        {
+          "id": "gen-q4",
+          "prompt": "Complete: Kava je bez ___. (The coffee has no sugar — is without sugar.)",
+          "options": ["šećer", "šećeru", "šećera", "šećerom"],
+          "correctIndex": 2,
+          "explanation": "Bez (without) takes the genitive. Šećer (sugar, masculine) → šećera."
+        },
+        {
+          "id": "gen-q5",
+          "prompt": "Complete: Imam puno ___. (I have a lot of work.)",
+          "options": ["posao", "poslu", "posla", "poslom"],
+          "correctIndex": 2,
+          "explanation": "Puno (a lot of) takes the genitive. Posao (work, masculine) → posla in the genitive."
+        },
+        {
+          "id": "gen-q6",
+          "prompt": "Complete: Nema ___ na plaži. (There are no people at the beach.)",
+          "options": ["ljudi", "ljude", "ljudima", "ljud"],
+          "correctIndex": 0,
+          "explanation": "Nema (there is/are no) takes the genitive. Ljudi (people) is already the genitive plural of čovjek."
+        },
+        {
+          "id": "gen-q7",
+          "prompt": "Complete: Restoran je zatvoren zbog ___. (The restaurant is closed because of a holiday.)",
+          "options": ["blagdan", "blagdanu", "blagdana", "blagdanom"],
+          "correctIndex": 2,
+          "explanation": "Zbog (because of) takes the genitive. Blagdan (holiday, masculine) → blagdana."
+        },
+        {
+          "id": "gen-q8",
+          "prompt": "Complete: Čaša ___ , molim. (A glass of water, please.)",
+          "options": ["voda", "vodi", "vode", "vodom"],
+          "correctIndex": 2,
+          "explanation": "A container quantity (čaša — a glass of) takes the genitive. Voda (water, feminine -a) → vode in the genitive."
+        }
+      ]
+    },
+    {
+      "id": "dative",
+      "name": { "hr": "Dativ", "en": "Dative" },
+      "question": "Komu? Čemu? — To whom? To what?",
+      "usage": "The dative marks the indirect object — the recipient or beneficiary of an action. It is used after verbs like dati (to give), reći (to say), pomoći (to help), pisati (to write), and slati (to send). Some verbs govern only the dative: vjerovati (to believe), sviđati se (to like/appeal to), nedostajati (to miss). Impersonal expressions also use the dative: Hladno mi je (I am cold — literally cold to me), Žao mi je (I am sorry).",
+      "endings": {
+        "headers": ["", "Singular", "Plural"],
+        "rows": [
+          ["Masculine / Neuter", "-u  (bratu, moru)", "-ima  (braći, morima)"],
+          ["Feminine (-a)", "-i  (ženi, knjizi)", "-ama  (ženama, knjigama)"],
+          ["Feminine (cons.)", "-i  (stvari)", "-ima  (stvarima)"]
+        ]
+      },
+      "examples": [
+        { "hr": "Dao sam sestri poklon.", "en": "I gave my sister a gift." },
+        { "hr": "Pomozi mi, molim te!", "en": "Help me, please!" },
+        { "hr": "Sviđa mi se Zagreb.", "en": "I like Zagreb." },
+        { "hr": "Pišem prijatelju pismo.", "en": "I am writing a letter to my friend." },
+        { "hr": "Hladno mi je.", "en": "I am cold." }
+      ],
+      "exercises": [
+        {
+          "id": "dat-q1",
+          "prompt": "Complete: Daj ___ , molim. (Give it to me, please.)",
+          "options": ["ja", "mene", "mi", "mnom"],
+          "correctIndex": 2,
+          "explanation": "The dative of ja (I) is mi. Dati (to give) requires the dative for the recipient: Daj mi = Give to me."
+        },
+        {
+          "id": "dat-q2",
+          "prompt": "Complete: Poslao sam cvijeće ___. (I sent flowers to my girlfriend.)",
+          "options": ["djevojka", "djevojku", "djevojki", "djevojkom"],
+          "correctIndex": 2,
+          "explanation": "Djevojka (girlfriend, feminine -a) takes the dative ending -i: djevojki. She is the recipient of the action."
+        },
+        {
+          "id": "dat-q3",
+          "prompt": "Complete: Sviđa ___ se ovaj restoran. (He likes this restaurant.)",
+          "options": ["ga", "mu", "njega", "njemu"],
+          "correctIndex": 1,
+          "explanation": "Sviđati se takes the dative. The dative clitic of on (he) is mu. So: Sviđa mu se = He likes it."
+        },
+        {
+          "id": "dat-q4",
+          "prompt": "Complete: Žao ___ je. (I am sorry.)",
+          "options": ["me", "mi", "mene", "mnom"],
+          "correctIndex": 1,
+          "explanation": "Žao mi je is the fixed expression for I am sorry / I feel bad. Mi is the dative clitic of ja."
+        },
+        {
+          "id": "dat-q5",
+          "prompt": "Complete: Rekao sam ___ istinu. (I told my father the truth.)",
+          "options": ["tata", "tatu", "tati", "tatom"],
+          "correctIndex": 2,
+          "explanation": "Tata (dad, masculine -a) forms dative with -i: tati. He is the indirect object of reći (to tell)."
+        },
+        {
+          "id": "dat-q6",
+          "prompt": "Complete: Nedostaje ___ more. (She misses the sea.)",
+          "options": ["ona", "nju", "joj", "njoj"],
+          "correctIndex": 2,
+          "explanation": "Nedostajati (to be missed by someone) takes the dative. The dative clitic of ona (she) is joj."
+        },
+        {
+          "id": "dat-q7",
+          "prompt": "Complete: Toplo ___ je? (Are you warm? — informal)",
+          "options": ["te", "ti", "tebe", "tobom"],
+          "correctIndex": 1,
+          "explanation": "Toplo ti je = You are warm. Ti is the dative clitic of ti (you). Impersonal weather/sensation expressions use the dative."
+        },
+        {
+          "id": "dat-q8",
+          "prompt": "Complete: Pomozi ___! (Help the children!)",
+          "options": ["djece", "djecu", "djeci", "djecom"],
+          "correctIndex": 2,
+          "explanation": "Pomoći (to help) takes the dative. Djeca (children) → dative: djeci."
+        }
+      ]
+    },
+    {
+      "id": "locative",
+      "name": { "hr": "Lokativ", "en": "Locative" },
+      "question": "O komu? O čemu? Gdje? — About whom? About what? Where?",
+      "usage": "The locative always follows a preposition — it never appears alone. The main prepositions are: u (in — location inside), na (on / at — surface or open area), o (about), po (around / throughout), and pri (at / near — formal). Distinguish from the accusative: u/na + accusative shows movement toward; u/na + locative shows location already there. Note velar softening before -u: k becomes c, g becomes z, h becomes s (e.g. u rijeci — in the river).",
+      "endings": {
+        "headers": ["", "Singular", "Plural"],
+        "rows": [
+          ["Masculine / Neuter", "-u  (gradu, moru) — velar softening applies", "-ima  (gradovima, morima)"],
+          ["Feminine (-a)", "-i  (ženi, knjizi)", "-ama  (ženama, knjigama)"],
+          ["Feminine (cons.)", "-i  (stvari)", "-ima  (stvarima)"]
+        ]
+      },
+      "examples": [
+        { "hr": "Živim u gradu.", "en": "I live in the city." },
+        { "hr": "Knjiga je na stolu.", "en": "The book is on the table." },
+        { "hr": "Razgovaramo o poslu.", "en": "We are talking about work." },
+        { "hr": "Hodaju po parku.", "en": "They are walking around the park." },
+        { "hr": "Radim u uredu.", "en": "I work in an office." }
+      ],
+      "exercises": [
+        {
+          "id": "loc-q1",
+          "prompt": "Complete: Radim u ___. (I work in a hospital.)",
+          "options": ["bolnica", "bolnicu", "bolnici", "bolnicom"],
+          "correctIndex": 2,
+          "explanation": "U + locative expresses location. Bolnica (hospital, feminine -a) → bolnici in the locative."
+        },
+        {
+          "id": "loc-q2",
+          "prompt": "Complete: Knjige su na ___. (The books are on the shelf.)",
+          "options": ["polica", "policu", "polici", "policom"],
+          "correctIndex": 2,
+          "explanation": "Na + locative expresses position on a surface. Polica (shelf, feminine -a) → polici."
+        },
+        {
+          "id": "loc-q3",
+          "prompt": "Complete: Govorimo o ___. (We are talking about the problem.)",
+          "options": ["problem", "problema", "problemu", "problemom"],
+          "correctIndex": 2,
+          "explanation": "O (about) always takes the locative. Problem (masculine) → problemu in the locative."
+        },
+        {
+          "id": "loc-q4",
+          "prompt": "Which sentence uses the locative correctly?",
+          "options": ["Idem u kafić.", "Sjedim u kafiću.", "Kafiću je blizu.", "Kafiće su otvorene."],
+          "correctIndex": 1,
+          "explanation": "Sjedim u kafiću — u + locative shows where I already am. Idem u kafić uses the accusative (movement toward)."
+        },
+        {
+          "id": "loc-q5",
+          "prompt": "Complete: Stanuje na ___. (She lives on the first floor.)",
+          "options": ["prvog kata", "prvom katu", "prvom katom", "prvi kat"],
+          "correctIndex": 1,
+          "explanation": "Na + locative: kat (floor, masculine) → katu. The ordinal adjective prvom also takes the locative: na prvom katu."
+        },
+        {
+          "id": "loc-q6",
+          "prompt": "Complete: Šetamo po ___. (We are walking around the market.)",
+          "options": ["tržnica", "tržnicu", "tržnici", "tržnicom"],
+          "correctIndex": 2,
+          "explanation": "Po (around / throughout) takes the locative. Tržnica (market, feminine -a) → tržnici."
+        },
+        {
+          "id": "loc-q7",
+          "prompt": "Complete: Stanuje u ___. (She lives in Split.)",
+          "options": ["Split", "Splita", "Splitu", "Splitom"],
+          "correctIndex": 2,
+          "explanation": "U + locative for living in a city. Split (masculine) → Splitu."
+        },
+        {
+          "id": "loc-q8",
+          "prompt": "What happens to the k in tijek when it takes the locative ending -u?",
+          "options": ["k stays: u tijeku", "k disappears: u tijeu", "k → c: u tijeku stays k here; actually k→c in ruka→ruci; tijek→tijeku stays", "k → č: u tiječu"],
+          "correctIndex": 0,
+          "explanation": "Tijek → u tijeku — the k survives in masculine/neuter locative -u endings. Velar softening (k→c) happens in feminine nouns (ruka → ruci) and in certain forms. Masculine nouns keep k before -u: tijek → tijeku, vojnik → vojniku."
+        }
+      ]
+    },
+    {
+      "id": "instrumental",
+      "name": { "hr": "Instrumental", "en": "Instrumental" },
+      "question": "S kim? S čim? Čime? — With whom? With what?",
+      "usage": "The instrumental expresses accompaniment with the preposition s/sa (I am going with a friend — Idem s prijateljem), the means or tool used to perform an action without a preposition (pišem olovkom — I write with a pen), the mode of transport (putujem vlakom — I travel by train), and time expressions (noću — at night, ljeti — in summer). After the verb biti, professions and identities are in the instrumental (on je liječnikom — he is a doctor, though nominative is also common in speech).",
+      "endings": {
+        "headers": ["", "Singular", "Plural"],
+        "rows": [
+          ["Masculine (hard)", "-om  (bratom, gradom)", "-ima  (braćom, gradovima)"],
+          ["Masculine (soft)", "-em  (mužem, nožem)", "-ima  (muževima)"],
+          ["Neuter", "-om  (morom)", "-ima  (morima)"],
+          ["Feminine (-a)", "-om  (ženom, knjigom)", "-ama  (ženama)"],
+          ["Feminine (cons.)", "-i  (stvari) or -om regional", "-ima  (stvarima)"]
+        ]
+      },
+      "examples": [
+        { "hr": "Idem s Markom u kino.", "en": "I am going to the cinema with Marko." },
+        { "hr": "Pišem olovkom.", "en": "I am writing with a pencil." },
+        { "hr": "Putujemo vlakom do Splita.", "en": "We are travelling by train to Split." },
+        { "hr": "Noću je tiho.", "en": "It is quiet at night." },
+        { "hr": "Razgovarala sam s prijateljicom.", "en": "I was talking with my friend." }
+      ],
+      "exercises": [
+        {
+          "id": "ins-q1",
+          "prompt": "Complete: Idem na kavu s ___. (I am going for a coffee with my sister.)",
+          "options": ["sestra", "sestru", "sestri", "sestrom"],
+          "correctIndex": 3,
+          "explanation": "S/sa + instrumental for accompaniment. Sestra (feminine -a) → sestrom in the instrumental."
+        },
+        {
+          "id": "ins-q2",
+          "prompt": "Complete: Putujem ___. (I am travelling by plane.)",
+          "options": ["avion", "aviona", "avionu", "avionom"],
+          "correctIndex": 3,
+          "explanation": "Mode of transport uses the instrumental without a preposition. Avion (plane, masculine) → avionom."
+        },
+        {
+          "id": "ins-q3",
+          "prompt": "Complete: Jede ___. (She is eating with a fork.)",
+          "options": ["vilica", "vilicu", "vilicom", "vilici"],
+          "correctIndex": 2,
+          "explanation": "Using a tool/utensil uses the instrumental without a preposition. Vilica (fork, feminine -a) → vilicom."
+        },
+        {
+          "id": "ins-q4",
+          "prompt": "Complete: Razgovaramo s ___. (We are talking with the boss.)",
+          "options": ["šef", "šefa", "šefu", "šefom"],
+          "correctIndex": 3,
+          "explanation": "S/sa + instrumental. Šef (boss, masculine) → šefom."
+        },
+        {
+          "id": "ins-q5",
+          "prompt": "Complete: ___ je sve mirno. (At night everything is quiet.)",
+          "options": ["Noć", "Noći", "Noću", "Noćom"],
+          "correctIndex": 2,
+          "explanation": "Noću (at night) is a fixed instrumental time expression. The instrumental without a preposition expresses time of day: noću (night), danju (day), jutrom (morning)."
+        },
+        {
+          "id": "ins-q6",
+          "prompt": "Complete: Dolazi s ___. (He is coming with his dog.)",
+          "options": ["pas", "psa", "psu", "psom"],
+          "correctIndex": 3,
+          "explanation": "S + instrumental. Pas (dog, masculine) → psom. Note: ps- cluster stays."
+        },
+        {
+          "id": "ins-q7",
+          "prompt": "Complete: Placam ___. (I am paying by card.)",
+          "options": ["kartica", "karticu", "karticom", "kartici"],
+          "correctIndex": 2,
+          "explanation": "Means of payment uses the instrumental. Kartica (card, feminine -a) → karticom."
+        },
+        {
+          "id": "ins-q8",
+          "prompt": "Which sentence uses the instrumental for transport?",
+          "options": ["Idem na autobus.", "Čekam autobus.", "Dolazim autobusom.", "Volim autobus."],
+          "correctIndex": 2,
+          "explanation": "Dolazim autobusom — autobus (bus, masculine inanimate) → autobusom (instrumental). This expresses the means of transport."
+        }
+      ]
+    },
+    {
+      "id": "vocative",
+      "name": { "hr": "Vokativ", "en": "Vocative" },
+      "question": "Direct address — calling or addressing someone",
+      "usage": "The vocative is used when speaking directly to someone. It is not used after a preposition and does not function as a grammatical subject or object — it stands apart from the sentence structure. Masculine rules: hard-consonant stems add -e (student → studente); k/g/h soften to č/ž/š before -e (junak → junače, Bog → Bože); professional titles and -telj words take -u (profesore uses -e but učitelju uses -u); names ending in -o are unchanged (Marko → Marko). Feminine rules: -a nouns change to -o (žena → ženo, majka → majko); -ica nouns change to -ice (učiteljica → učiteljice). Neuter and plurals use the nominative form.",
+      "endings": {
+        "headers": ["Type", "Nominative", "Vocative"],
+        "rows": [
+          ["M hard-stem", "student", "studente"],
+          ["M velar k/g/h", "junak / Bog", "junače / Bože"],
+          ["M -telj / title", "učitelj / doktor", "učitelju / doktore"],
+          ["F -a nouns", "žena / prijateljica", "ženo / prijateljice"],
+          ["Names in -o", "Marko / Ivo", "Marko / Ivo (unchanged)"]
+        ]
+      },
+      "examples": [
+        { "hr": "Profesore, imam pitanje.", "en": "Professor, I have a question." },
+        { "hr": "Marko, dođi ovamo!", "en": "Marko, come here!" },
+        { "hr": "Prijatelju, kako si?", "en": "Friend, how are you?" },
+        { "hr": "Mama, gdje si?", "en": "Mum, where are you?" },
+        { "hr": "Gospođo, molim vas!", "en": "Madam, please!" }
+      ],
+      "exercises": [
+        {
+          "id": "voc-q1",
+          "prompt": "You want to call out to your friend Ivan. What do you say?",
+          "options": ["Ivana!", "Ivanu!", "Ivane!", "Ivanom!"],
+          "correctIndex": 2,
+          "explanation": "Ivan is a masculine hard-stem name. Vocative: add -e → Ivane! (Most masculine names not ending in -o take -e.)"
+        },
+        {
+          "id": "voc-q2",
+          "prompt": "You are addressing your teacher (učiteljica, female). What is the vocative?",
+          "options": ["učiteljice", "učiteljico", "učiteljica", "učiteljici"],
+          "correctIndex": 0,
+          "explanation": "Feminine nouns ending in -ica change to -ice in the vocative: učiteljica → učiteljice."
+        },
+        {
+          "id": "voc-q3",
+          "prompt": "You want to say 'Mum, where are you?' What is the vocative of mama?",
+          "options": ["Mame", "Mami", "Mama", "Mamo"],
+          "correctIndex": 3,
+          "explanation": "Feminine -a nouns take -o in the vocative: mama → Mamo! (Mama stays mama in informal use, but Mamo is the standard vocative.)"
+        },
+        {
+          "id": "voc-q4",
+          "prompt": "A doctor (doktor) is being addressed formally. Which is correct?",
+          "options": ["Doktore", "Doktoru", "Doktora", "Doktorom"],
+          "correctIndex": 0,
+          "explanation": "Doktor (masculine hard-stem) → vocative: doktore. (Some titles use -u, but doktor follows the regular -e pattern.)"
+        },
+        {
+          "id": "voc-q5",
+          "prompt": "Calling out to Marko (a name ending in -o): what do you say?",
+          "options": ["Marke!", "Markoe!", "Marku!", "Marko!"],
+          "correctIndex": 3,
+          "explanation": "Names ending in -o are unchanged in the vocative: Marko → Marko!"
+        },
+        {
+          "id": "voc-q6",
+          "prompt": "The masculine noun Bog (God) has a velar stem. What is the vocative?",
+          "options": ["Boge", "Bogu", "Bože", "Bogom"],
+          "correctIndex": 2,
+          "explanation": "Velar softening before -e: g → ž. So Bog → Bože! This is the same rule as junak → junače (k→č) and duh → duše (h→š)."
+        },
+        {
+          "id": "voc-q7",
+          "prompt": "Complete: ___ , možeš li mi pomoći? (Friend [m], can you help me?)",
+          "options": ["Prijatelja", "Prijatelju", "Prijateljem", "Prijatelji"],
+          "correctIndex": 1,
+          "explanation": "Prijatelj (friend, masculine) ends in -lj (soft consonant). Vocative of soft-stem masculines: add -u → prijatelju."
+        },
+        {
+          "id": "voc-q8",
+          "prompt": "Complete: ___ , kako si? (Ana, how are you?)",
+          "options": ["Ana", "Ane", "Ano", "Ani"],
+          "correctIndex": 2,
+          "explanation": "Ana is a feminine -a noun. Vocative: -a → -o. So Ana → Ano! Common in everyday speech: 'Ano, kako si?'"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "id": "making-plans",
+  "level": "a2",
+  "order": 10,
+  "title": { "en": "Making Plans & Suggestions", "hr": "Planiranje i prijedlozi" },
+  "grammar": {
+    "title": { "en": "How to Make Plans and Suggestions in Croatian", "hr": "Kako planirati i davati prijedloge na hrvatskom" },
+    "intro": "Croatian has several natural ways to make suggestions, accept them, and decline politely.\n\nThe most common suggestion structures use **Hoćemo li + infinitive** (shall we...?), **Što kažeš da + present** (what do you say we...?), or **Zašto ne bismo + past participle** (why don't we...?).\n\nFor arranging where and when to meet, a few fixed phrases cover most real-life situations.",
+    "rules": [
+      {
+        "label": "Making suggestions",
+        "explanation": "Three main structures for suggestions:\n\n- **Hoćemo li + infinitive?** — Shall we...? (most common, neutral)\n- **Što kažeš da + present tense?** — What do you say we...? (informal, friendly)\n- **Zašto ne bismo + past active participle?** — Why don't we...? (slightly more formal)\n\nAll three are widely used in everyday Croatian speech.",
+        "examples": [
+          { "hr": "Hoćemo li ići na kavu?", "en": "Shall we go for a coffee?" },
+          { "hr": "Što kažeš da odemo na plažu?", "en": "What do you say we go to the beach?" },
+          { "hr": "Zašto ne bismo večerali vani?", "en": "Why don't we have dinner out?" }
+        ]
+      },
+      {
+        "label": "Accepting suggestions",
+        "explanation": "Common ways to accept a suggestion:\n- **Dobra ideja!** — Good idea!\n- **Zvuči odlično!** — Sounds great!\n- **Slažem se.** — I agree.\n- **Naravno!** — Of course!\n- **Svakako!** — Definitely!\n- **Rado!** — Gladly!\n\nThese can be combined: *Dobra ideja! Slažem se.*",
+        "examples": [
+          { "hr": "Dobra ideja! Idemo!", "en": "Good idea! Let's go!" },
+          { "hr": "Zvuči odlično! Slažem se.", "en": "Sounds great! I agree." },
+          { "hr": "Naravno, rado ću doći.", "en": "Of course, I'll gladly come." }
+        ]
+      },
+      {
+        "label": "Declining politely",
+        "explanation": "Common ways to decline a suggestion politely:\n- **Nažalost, ne mogu.** — Unfortunately, I can't.\n- **Možda drugi put.** — Maybe another time.\n- **Imam druge planove.** — I have other plans.\n- **Nije mi zgodno.** — It's not convenient for me.\n- **Žao mi je, ali ne mogu.** — I'm sorry, but I can't.\n\nAlways soften a refusal with *nažalost* (unfortunately) or *žao mi je* (I'm sorry).",
+        "examples": [
+          { "hr": "Nažalost, ne mogu taj dan.", "en": "Unfortunately, I can't that day." },
+          { "hr": "Možda drugi put — imam druge planove.", "en": "Maybe another time — I have other plans." },
+          { "hr": "Žao mi je, ali nije mi zgodno.", "en": "I'm sorry, but it's not convenient for me." }
+        ]
+      },
+      {
+        "label": "Arranging where and when",
+        "explanation": "Key phrases for fixing a time and place to meet:\n- **Gdje se nađemo?** — Where shall we meet?\n- **Kada ti odgovara?** — When is convenient for you?\n- **Nađimo se u + time.** — Let's meet at... (e.g. *Nađimo se u 7.*)\n- **Nađimo se ispred + place.** — Let's meet in front of...\n- **Vidimo se!** — See you!\n- **Kako ti odgovara?** — How does that work for you?",
+        "examples": [
+          { "hr": "Gdje se nađemo? Ispred kina?", "en": "Where shall we meet? In front of the cinema?" },
+          { "hr": "Nađimo se u osam ujutro na kolodvoru.", "en": "Let's meet at eight in the morning at the station." },
+          { "hr": "Kada ti odgovara — u 7 ili u 8?", "en": "When is convenient for you — at 7 or at 8?" }
+        ]
+      },
+      {
+        "label": "Preferences and polite conditional",
+        "explanation": "To ask about preferences, use:\n- **Što bi više volio / voljela?** — What would you prefer? (m. / f. answer)\n- **Kako ti odgovara?** — How does that suit you?\n\nThe conditional forms **bih / bi / bi / bismo / biste / bi** + past active participle express polite suggestions:\n- **(Ja) bih volio / voljela ići...** — I would like to go... (m. / f.)\n- **Možda bismo mogli...** — Maybe we could...\n- **Što bi više volio / voljela?** — What would you prefer?",
+        "examples": [
+          { "hr": "Što bi više voljela — more ili planine?", "en": "What would you prefer — the sea or the mountains? (asking a female)" },
+          { "hr": "Možda bismo mogli ići u petak?", "en": "Maybe we could go on Friday?" },
+          { "hr": "Ja bih više volio restoran nego fast food.", "en": "I would prefer a restaurant rather than fast food. (male speaker)" }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Suggestion", "Acceptance", "Polite decline"],
+      "rows": [
+        ["Hoćemo li ići na kavu?", "Da, idemo! / Zvuči odlično!", "Nažalost, ne mogu."],
+        ["Što kažeš da odemo na plažu?", "Dobra ideja! / Slažem se.", "Možda drugi put."],
+        ["Zašto ne bismo večerali vani?", "Super! / Naravno.", "Imam druge planove."],
+        ["Možda bismo mogli ići u kino?", "Odlično! / Svakako.", "Nije mi zgodno."],
+        ["Hoćeš li doći sa mnom?", "Rado! / Naravno da hoću.", "Žao mi je, ali ne mogu."]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "Planning a Trip to Dubrovnik", "hr": "Planiranje putovanja u Dubrovnik" },
+    "paragraphs": [
+      {
+        "hr": "Marko šalje poruku Ani i predlaže: — Što kažeš da idemo u Dubrovnik sljedeći mjesec? Ana se odmah slaže. — Dobra ideja! Zvuči odlično!",
+        "en": "Marko sends Ana a message and suggests: — What do you say we go to Dubrovnik next month? Ana agrees straight away. — Good idea! Sounds great!"
+      },
+      {
+        "hr": "— Hoćemo li rezervirati hotel odmah? — pita Marko. — Naravno, — kaže Ana, — ali prvo dogovorimo što ćemo tamo raditi.",
+        "en": "— Shall we book a hotel right away? — asks Marko. — Of course, — says Ana, — but first let's agree on what we'll do there."
+      },
+      {
+        "hr": "— Zašto ne bismo otišli na Game of Thrones turu? — predlaže Marko. — Zvuči sjajno! A što kažeš da idemo i na kajakarenje po moru? — odgovara Ana.",
+        "en": "— Why don't we go on the Game of Thrones tour? — suggests Marko. — Sounds brilliant! And what do you say we also go sea kayaking? — replies Ana."
+      },
+      {
+        "hr": "— Hoćemo li rezervirati večeru na zidinama za zadnju večer? — pita Ana. — Slažem se, to je odlična ideja! — kaže Marko. — Zalazak sunca tamo je najljepši u cijelom gradu.",
+        "en": "— Shall we book dinner on the city walls for the last evening? — asks Ana. — I agree, that's an excellent idea! — says Marko. — The sunset there is the most beautiful in the whole city."
+      },
+      {
+        "hr": "— Možda bismo mogli otići i brodićem na Lokrum? — predlaže Marko. — Nažalost, ne mogu drugi dan — imam rezervaciju za kajakarenje. Ali možemo ići prvi dan! — kaže Ana.",
+        "en": "— Maybe we could also go by boat to Lokrum? — suggests Marko. — Unfortunately, I can't on the second day — I have a kayaking booking. But we can go on the first day! — says Ana."
+      },
+      {
+        "hr": "— Gdje se nađemo? — pita Marko. — Nađimo se na autobusnom kolodvoru u 8 ujutro, — predlaže Ana. — Kada ti odgovara? — Savršeno! Vidimo se! — odgovara Marko.",
+        "en": "— Where shall we meet? — asks Marko. — Let's meet at the bus station at 8 in the morning, — suggests Ana. — When is that convenient for you? — Perfect! See you there! — replies Marko."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "making-plans-q1",
+      "prompt": "Where do Marko and Ana plan to go?",
+      "promptHr": "Kamo Marko i Ana planiraju ići?",
+      "options": [
+        "Split",
+        "Dubrovnik",
+        "Zadar",
+        "Zagreb"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marko suggests \"idemo u Dubrovnik sljedeći mjesec\" — let's go to Dubrovnik next month."
+    },
+    {
+      "id": "making-plans-q2",
+      "prompt": "Who suggests the Game of Thrones tour?",
+      "promptHr": "Tko predlaže Game of Thrones turu?",
+      "options": [
+        "Ana",
+        "Marko",
+        "Both of them together",
+        "A travel agent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marko says \"Zašto ne bismo otišli na Game of Thrones turu?\" — it is Marko's suggestion."
+    },
+    {
+      "id": "making-plans-q3",
+      "prompt": "What does Ana suggest they do on the water?",
+      "promptHr": "Što Ana predlaže da rade na vodi?",
+      "options": [
+        "Take a sunset cruise",
+        "Go swimming",
+        "Go sea kayaking",
+        "Take a boat to Lokrum on day two"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana suggests \"idemo i na kajakarenje po moru\" — sea kayaking."
+    },
+    {
+      "id": "making-plans-q4",
+      "prompt": "Why can't Ana go to Lokrum on the second day?",
+      "promptHr": "Zašto Ana ne može ići na Lokrum drugi dan?",
+      "options": [
+        "She has a dinner reservation.",
+        "She has a kayaking booking.",
+        "She wants to go on the Game of Thrones tour.",
+        "She is leaving early."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana says \"Nažalost, ne mogu drugi dan — imam rezervaciju za kajakarenje\" — she has a kayaking booking."
+    },
+    {
+      "id": "making-plans-q5",
+      "prompt": "Where and when do Marko and Ana agree to meet?",
+      "promptHr": "Gdje i kada se Marko i Ana dogovaraju naći?",
+      "options": [
+        "At the harbour at 7 in the evening.",
+        "In front of the hotel at 9 in the morning.",
+        "At the bus station at 8 in the morning.",
+        "At the city walls at sunset."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana suggests \"Nađimo se na autobusnom kolodvoru u 8 ujutro\" — at the bus station at 8 in the morning."
+    }
+  ],
+  "test": [
+    {
+      "id": "making-plans-q6",
+      "prompt": "What does \"Hoćemo li ići?\" mean in English?",
+      "options": ["We are going.", "Shall we go?", "We should go.", "Are we going?"],
+      "correctIndex": 1,
+      "explanation": "\"Hoćemo li + infinitive\" is the standard Croatian structure for \"Shall we...?\""
+    },
+    {
+      "id": "making-plans-q7",
+      "prompt": "How do you say \"Good idea!\" in Croatian?",
+      "options": ["Slažem se.", "Nažalost.", "Dobra ideja!", "Možda."],
+      "correctIndex": 2,
+      "explanation": "\"Dobra ideja!\" literally means \"Good idea!\" and is a common way to accept a suggestion."
+    },
+    {
+      "id": "making-plans-q8",
+      "prompt": "Which structure means \"Shall we + infinitive?\" in Croatian?",
+      "options": ["Što kažeš da...", "Hoćemo li...", "Zašto ne bismo...", "Možda bi..."],
+      "correctIndex": 1,
+      "explanation": "\"Hoćemo li + infinitive\" is the direct equivalent of \"Shall we...?\" in Croatian."
+    },
+    {
+      "id": "making-plans-q9",
+      "prompt": "Translate to Croatian: \"Where shall we meet?\"",
+      "options": [
+        "Kada se nađemo?",
+        "Gdje se nađemo?",
+        "Zašto se nađemo?",
+        "Kako se nađemo?"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Gdje\" means \"where\". \"Gdje se nađemo?\" — Where shall we meet? (literally: Where do we find each other?)"
+    },
+    {
+      "id": "making-plans-q10",
+      "prompt": "Which phrase is a polite way to decline a suggestion?",
+      "options": [
+        "Dobra ideja!",
+        "Slažem se.",
+        "Nažalost, ne mogu.",
+        "Zvuči odlično!"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Nažalost, ne mogu.\" means \"Unfortunately, I can't.\" — a polite decline using the softener \"nažalost\"."
+    },
+    {
+      "id": "making-plans-q11",
+      "prompt": "What does \"Zvuči odlično!\" mean in English?",
+      "options": ["That sounds great!", "I agree.", "Good idea!", "Let's go!"],
+      "correctIndex": 0,
+      "explanation": "\"Zvuči\" = it sounds; \"odlično\" = excellent / great. So \"Zvuči odlično!\" = Sounds great!"
+    },
+    {
+      "id": "making-plans-q12",
+      "prompt": "Fill in: \"___ ići na more?\" (Shall we go to the sea?)",
+      "options": ["Hoćemo li", "Nažalost", "Gdje se", "Možda bi"],
+      "correctIndex": 0,
+      "explanation": "\"Hoćemo li ići na more?\" — Shall we go to the sea? The structure is Hoćemo li + infinitive."
+    },
+    {
+      "id": "making-plans-q13",
+      "prompt": "How do you say \"Maybe another time.\" in Croatian?",
+      "options": [
+        "Nažalost, ne mogu.",
+        "Imam druge planove.",
+        "Možda drugi put.",
+        "Ne, hvala."
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Možda drugi put.\" = Maybe another time. — a friendly and polite way to decline."
+    },
+    {
+      "id": "making-plans-q14",
+      "prompt": "What does \"Kada ti odgovara?\" mean?",
+      "options": [
+        "Where shall we meet?",
+        "What do you prefer?",
+        "When is convenient for you?",
+        "Why not?"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Kada\" = when; \"ti odgovara\" = suits you / is convenient for you. Used to ask about timing."
+    },
+    {
+      "id": "making-plans-q15",
+      "prompt": "Translate to Croatian: \"Sounds great!\"",
+      "options": [
+        "Zvuči odlično!",
+        "Dobra ideja!",
+        "Slažem se.",
+        "Idemo!"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Zvuči odlično!\" = Sounds great! \"Dobra ideja!\" means \"Good idea!\" — a different expression."
+    },
+    {
+      "id": "making-plans-q16",
+      "prompt": "Which structure means \"What do you say we...?\" (informal suggestion) in Croatian?",
+      "options": [
+        "Hoćemo li + infinitive?",
+        "Što kažeš da + present tense?",
+        "Nađimo se u...",
+        "Kada ti odgovara?"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Što kažeš da + present tense\" = What do you say we...? e.g. \"Što kažeš da idemo u kino?\""
+    },
+    {
+      "id": "making-plans-q17",
+      "prompt": "Fill in: \"Nađimo se ___ 7.\" (Let's meet at 7.)",
+      "options": ["od", "za", "u", "na"],
+      "correctIndex": 2,
+      "explanation": "\"Nađimo se u 7.\" — Let's meet at 7. Time expressions with clock times use the preposition \"u\" in Croatian."
+    },
+    {
+      "id": "making-plans-q18",
+      "prompt": "How do you say \"I have other plans.\" in Croatian?",
+      "options": [
+        "Možda drugi put.",
+        "Imam druge planove.",
+        "Nažalost, ne mogu.",
+        "Ne ide mi."
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Imam druge planove.\" = I have other plans. — a common reason given when declining."
+    },
+    {
+      "id": "making-plans-q19",
+      "prompt": "What does \"Vidimo se!\" mean?",
+      "options": [
+        "See you!",
+        "Nice to meet you!",
+        "Let's meet!",
+        "Goodbye forever!"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Vidimo se!\" literally means \"We see each other!\" and is used as \"See you!\" in Croatian."
+    },
+    {
+      "id": "making-plans-q20",
+      "prompt": "Translate to Croatian: \"When is convenient for you?\"",
+      "options": [
+        "Što bi više volio?",
+        "Gdje se nađemo?",
+        "Kada ti odgovara?",
+        "Hoćeš li doći?"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Kada ti odgovara?\" — When is convenient for you? \"Odgovarati\" here means to suit / to be convenient."
+    },
+    {
+      "id": "making-plans-q21",
+      "prompt": "Which conditional form is used for polite suggestions with the first person singular (I)?",
+      "options": ["bih", "bi", "bismo", "biste"],
+      "correctIndex": 0,
+      "explanation": "\"bih\" is the first person singular conditional: \"Ja bih volio...\" (I would like...). \"bi\" is used for 2nd/3rd person singular."
+    },
+    {
+      "id": "making-plans-q22",
+      "prompt": "Fill in: \"Što bi više ___ — more ili planine?\" (What would you prefer — the sea or the mountains? Asking a female friend.)",
+      "options": ["volio", "voljela", "voljeti", "voliti"],
+      "correctIndex": 1,
+      "explanation": "\"voljela\" is the feminine past active participle. When the person being addressed is female, use \"voljela\"."
+    },
+    {
+      "id": "making-plans-q23",
+      "prompt": "Which phrase means \"Why don't we...?\" in Croatian?",
+      "options": [
+        "Hoćemo li...?",
+        "Što kažeš da...?",
+        "Zašto ne bismo...?",
+        "Nađimo se..."
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Zašto ne bismo...?\" = Why don't we...? It uses the conditional \"bismo\" (we would) with the negative \"ne\"."
+    },
+    {
+      "id": "making-plans-q24",
+      "prompt": "Translate to Croatian: \"Unfortunately, I can't.\"",
+      "options": [
+        "Možda drugi put.",
+        "Nažalost, ne mogu.",
+        "Imam druge planove.",
+        "Nije moguće."
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Nažalost, ne mogu.\" — Nažalost = unfortunately; ne mogu = I can't. A direct and polite refusal."
+    },
+    {
+      "id": "making-plans-q25",
+      "prompt": "Fill in: \"Zašto ne bismo ___ na kayaking?\" (Why don't we go kayaking?)",
+      "options": ["idemo", "idi", "išli", "ići"],
+      "correctIndex": 2,
+      "explanation": "\"Zašto ne bismo + past active participle\" — the structure requires the past active participle: \"išli\" (gone / having gone)."
+    },
+    {
+      "id": "making-plans-q26",
+      "prompt": "What does \"Slažem se.\" mean in English?",
+      "options": ["I disagree.", "I understand.", "I agree.", "I'm not sure."],
+      "correctIndex": 2,
+      "explanation": "\"Slažem se.\" = I agree. From the verb \"slagati se\" (to agree). Used to accept a plan or idea."
+    },
+    {
+      "id": "making-plans-q27",
+      "prompt": "Which phrase would you use to suggest meeting at a specific time?",
+      "options": [
+        "Kada ti odgovara?",
+        "Nađimo se u 8.",
+        "Što bi više volio?",
+        "Gdje se nađemo?"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Nađimo se u 8.\" = Let's meet at 8. This is a firm suggestion of a time, using the imperative of \"naći se\"."
+    },
+    {
+      "id": "making-plans-q28",
+      "prompt": "Translate to Croatian: \"What do you say we go to the cinema?\"",
+      "options": [
+        "Hoćemo li ići u kino?",
+        "Što kažeš da idemo u kino?",
+        "Zašto ne bismo u kino?",
+        "Idemo li u kino?"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Što kažeš da + present tense\" = What do you say we...? So \"Što kažeš da idemo u kino?\" is correct."
+    },
+    {
+      "id": "making-plans-q29",
+      "prompt": "Fill in: \"Vidimo ___ ispred hotela!\" (See you in front of the hotel!)",
+      "options": ["se", "te", "si", "nas"],
+      "correctIndex": 0,
+      "explanation": "\"Vidimo se\" = we see each other — \"se\" is the reflexive pronoun. This is the standard \"See you!\" phrase."
+    },
+    {
+      "id": "making-plans-q30",
+      "prompt": "Which phrase is the most polite way to make a suggestion in Croatian?",
+      "options": [
+        "Idemo!",
+        "Hoćemo li...?",
+        "Što kažeš da...?",
+        "Možda bismo mogli...?"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Možda bismo mogli...?\" (Maybe we could...?) uses the conditional mood, making it the most polite and tentative of the four options."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Making suggestions",
+      "items": [
+        { "hr": "Hoćemo li ići na kavu?", "en": "Shall we go for a coffee?", "note": "Hoćemo li + infinitive" },
+        { "hr": "Što kažeš da odemo na plažu?", "en": "What do you say we go to the beach?", "note": "Što kažeš da + present" },
+        { "hr": "Zašto ne bismo večerali vani?", "en": "Why don't we eat dinner out?", "note": "Zašto ne bismo + past participle" },
+        { "hr": "Možda bismo mogli ići u petak?", "en": "Maybe we could go on Friday?", "note": "polite conditional" },
+        { "hr": "Hoćeš li doći sa mnom?", "en": "Would you like to come with me?" },
+        { "hr": "Imam prijedlog!", "en": "I have a suggestion!" }
+      ]
+    },
+    {
+      "context": "Accepting suggestions",
+      "items": [
+        { "hr": "Dobra ideja!", "en": "Good idea!" },
+        { "hr": "Zvuči odlično!", "en": "Sounds great!" },
+        { "hr": "Slažem se.", "en": "I agree." },
+        { "hr": "Naravno!", "en": "Of course!" },
+        { "hr": "Svakako!", "en": "Definitely!" },
+        { "hr": "Rado!", "en": "Gladly!" },
+        { "hr": "Super, idemo!", "en": "Great, let's go!" }
+      ]
+    },
+    {
+      "context": "Declining politely",
+      "items": [
+        { "hr": "Nažalost, ne mogu.", "en": "Unfortunately, I can't.", "note": "most common polite refusal" },
+        { "hr": "Možda drugi put.", "en": "Maybe another time." },
+        { "hr": "Imam druge planove.", "en": "I have other plans." },
+        { "hr": "Nije mi zgodno.", "en": "It's not convenient for me." },
+        { "hr": "Žao mi je, ali ne mogu.", "en": "I'm sorry, but I can't." },
+        { "hr": "Ne ide mi taj dan.", "en": "That day doesn't work for me." }
+      ]
+    },
+    {
+      "context": "Arranging where & when",
+      "items": [
+        { "hr": "Gdje se nađemo?", "en": "Where shall we meet?" },
+        { "hr": "Kada ti odgovara?", "en": "When is convenient for you?" },
+        { "hr": "Kako ti odgovara?", "en": "How does that suit you?" },
+        { "hr": "Nađimo se u 7.", "en": "Let's meet at 7.", "note": "u + time for clock times" },
+        { "hr": "Nađimo se ispred kina.", "en": "Let's meet in front of the cinema." },
+        { "hr": "Vidimo se!", "en": "See you!" },
+        { "hr": "Vidimo se sutra u 6!", "en": "See you tomorrow at 6!" }
+      ]
+    },
+    {
+      "context": "Useful planning phrases",
+      "items": [
+        { "hr": "Što bi više volio?", "en": "What would you prefer? (asking a male)", "note": "volio = masc. past participle" },
+        { "hr": "Što bi više voljela?", "en": "What would you prefer? (asking a female)", "note": "voljela = fem. past participle" },
+        { "hr": "Hoćemo li rezervirati?", "en": "Shall we make a reservation?" },
+        { "hr": "Dogovoreno!", "en": "It's agreed! / Deal!", "note": "very common to seal a plan" },
+        { "hr": "Savršeno!", "en": "Perfect!" },
+        { "hr": "Naći ćemo se tamo.", "en": "We will meet there.", "note": "future tense — more definite" }
+      ]
+    }
+  ]
+}

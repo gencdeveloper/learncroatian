@@ -1,0 +1,60 @@
+{
+  "id": "new-job",
+  "level": "b1",
+  "order": 1,
+  "title": { "hr": "Ana pronalazi novi posao", "en": "Ana Finds a New Job" },
+  "topicsUsed": ["work-career", "past-tense", "modal-verbs", "conditional", "indirect-speech"],
+  "paragraphs": [
+    {
+      "hr": "Ana je radila kao konobarica dvije godine, ali je uvijek sanjala o uredskom poslu u marketingu. Jedne večeri je na internetu pronašla oglas za posao asistentice u marketingu u jednoj mladoj tvrtki u centru Zagreba. Oglas je tražio nekoga s dobrim engleskim i kreativnim umom. Ana je pomislila: Ovo je moja šansa!",
+      "en": "Ana had been working as a waitress for two years, but she had always dreamed of an office job in marketing. One evening she found an advertisement online for a marketing assistant position at a young company in the centre of Zagreb. The advertisement was looking for someone with good English and a creative mind. Ana thought: This is my chance!"
+    },
+    {
+      "hr": "Cijelu noć je pisala životopis i motivacijsko pismo. Nije bila sigurna hoće li se prijaviti jer nije imala radno iskustvo u uredu. Nazvala je svoju prijateljicu Maju i pitala je što misli. Maja joj je rekla da mora pokušati jer nema što izgubiti. Ana je ujutro poslala prijavu i onda je čekala — jedan dan, dva dana, tri dana.",
+      "en": "She spent the whole night writing her CV and cover letter. She was not sure whether she would apply because she had no office work experience. She called her friend Maja and asked her what she thought. Maja told her she had to try because she had nothing to lose. Ana sent her application in the morning and then waited — one day, two days, three days."
+    },
+    {
+      "hr": "Četvrtog dana stigao je e-mail s pozivom na razgovor za posao. Ana je bila toliko sretna da je zaplakala. Idućih dana se pripremala: istraživala je tvrtku, vježbala odgovore na tipična pitanja i kupila novu bluzu za intervju. Maja joj je rekla da se ne brine — rekla je da je Ana pametna i da će impresionirati svakoga.",
+      "en": "On the fourth day an email arrived with an invitation for a job interview. Ana was so happy that she cried. In the following days she prepared: she researched the company, practised answers to typical questions and bought a new blouse for the interview. Maja told her not to worry — she said Ana was smart and would impress anyone."
+    },
+    {
+      "hr": "Na dan intervjua Ana je uzela tramvaj do modernog ureda u poslovnoj četvrti. Dočekala ju je voditeljica ljudskih resursa, gospođa Petra Kovač, koja je bila prijazna i nasmijana. Razgovor je trajao četrdeset minuta. Ana je odgovarala na pitanja o svom iskustvu, o kreativnosti i o tome zašto želi raditi u marketingu.",
+      "en": "On the day of the interview Ana took the tram to a modern office in the business district. She was welcomed by the head of human resources, Mrs Petra Kovač, who was friendly and smiling. The interview lasted forty minutes. Ana answered questions about her experience, about creativity and about why she wanted to work in marketing."
+    },
+    {
+      "hr": "Tri dana poslije intervjua stigao je e-mail. Ana ga je otvorila s tremom u rukama i pročitala: Draga Ana, drago nam je što Vas možemo obavijestiti da ste primljeni na poziciju asistentice u marketingu. Ana je odmah nazvala mamu i rekla joj da je dobila posao. Mama je plakala od sreće i rekla da je ponosna na nju.",
+      "en": "Three days after the interview an email arrived. Ana opened it with trembling hands and read: Dear Ana, we are pleased to inform you that you have been accepted for the position of marketing assistant. Ana immediately called her mum and told her she had got the job. Her mum cried with joy and said she was proud of her."
+    },
+    {
+      "hr": "Prvog dana u novom uredu Ana je upoznala cijeli tim. Kolega Marko joj je pokazao gdje je sve i objasnio koje programe koriste. Bila je malo nervozna, ali svi su joj bili dragi. Šefica joj je dala prvi zadatak: trebala je osmisliti prijedlog za kampanju na društvenim mrežama.",
+      "en": "On her first day in the new office Ana met the whole team. Her colleague Marko showed her where everything was and explained which programmes they use. She was a little nervous, but everyone was kind to her. Her boss gave her the first task: she had to come up with a proposal for a social media campaign."
+    },
+    {
+      "hr": "Na kraju prvog tjedna šefica je pohvalila Anin rad i rekla da je zadovoljna njezinom idejom za kampanju. Marko je pitao Anu je li sretna u novom poslu. Ana mu je odgovorila da je posao izazovniji nego što je mislila, ali da ga voli i da bi se teško zamislila negdje drugdje. Rekla je samoj sebi: Napokon sam na pravom mjestu.",
+      "en": "At the end of her first week the boss praised Ana's work and said she was pleased with her campaign idea. Marko asked Ana whether she was happy in her new job. Ana replied to him that the job was more challenging than she had thought, but that she loved it and could hardly imagine herself anywhere else. She said to herself: I am finally in the right place."
+    }
+  ],
+  "vocabulary": {
+    "verbs": [
+      { "hr": "prijaviti se", "en": "to apply" },
+      { "hr": "pripremati se", "en": "to prepare oneself" },
+      { "hr": "impresionirati", "en": "to impress" },
+      { "hr": "pohvaliti", "en": "to praise" },
+      { "hr": "osmisliti", "en": "to come up with / to devise" }
+    ],
+    "nouns": [
+      { "hr": "oglas za posao", "en": "job advertisement" },
+      { "hr": "motivacijsko pismo", "en": "cover letter" },
+      { "hr": "razgovor za posao", "en": "job interview" },
+      { "hr": "kampanja", "en": "campaign" },
+      { "hr": "trema", "en": "stage fright / nerves" }
+    ],
+    "adjectives": [
+      { "hr": "kreativan / kreativna", "en": "creative" },
+      { "hr": "nervozan / nervozna", "en": "nervous" },
+      { "hr": "izazovan / izazovna", "en": "challenging" },
+      { "hr": "ponosan / ponosna", "en": "proud" },
+      { "hr": "zadovoljan / zadovoljna", "en": "satisfied / pleased" }
+    ]
+  }
+}

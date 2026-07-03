@@ -1,0 +1,28 @@
+---
+import type { Topic } from "../lib/content";
+
+interface Props {
+  reading: Topic["reading"];
+}
+
+const { reading } = Astro.props;
+---
+
+<section id="reading" class="scroll-mt-20 py-10">
+  <h2 class="text-xl font-bold text-slate-900">
+    2. Reading Text — {reading.title.en}
+    <span class="ml-2 text-base font-normal text-slate-400">{reading.title.hr}</span>
+  </h2>
+
+  <div class="mt-6 space-y-4 rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+    {reading.paragraphs.map((p) => (
+      <div>
+        <p class="text-slate-900">{p.hr}</p>
+        <details class="mt-1">
+          <summary class="cursor-pointer text-sm text-blue-600">Show English translation</summary>
+          <p class="mt-1 text-sm text-slate-500">{p.en}</p>
+        </details>
+      </div>
+    ))}
+  </div>
+</section>

@@ -1,0 +1,616 @@
+{
+  "id": "indirect-speech",
+  "level": "b1",
+  "order": 8,
+  "title": {
+    "hr": "Neupravni govor",
+    "en": "Indirect Speech"
+  },
+  "grammar": {
+    "title": {
+      "hr": "Neupravni govor u hrvatskom jeziku",
+      "en": "Indirect Speech in Croatian"
+    },
+    "intro": "**Neupravni govor** (indirect speech) allows you to report what someone said without quoting them directly. Croatian indirect speech works differently from English in one key way: there is **no backshift of tenses**. The original tense is kept exactly as spoken. The connecting word **da** (that) links the main verb of saying or asking to the reported clause.\n\n- **Direktni govor** (direct speech): Ana je rekla: „Hrvatska je prekrasna.“\n- **Neupravni govor** (indirect speech): Ana je rekla da je Hrvatska prekrasna.",
+    "rules": [
+      {
+        "label": "Statements (Izjavne rečenice)",
+        "explanation": "To report a statement, use a verb of saying (**reći**, **kazati**, **pričati**) followed by **da** + the clause. The tense of the original sentence does **not** change in Croatian — this is the single most important rule to remember.",
+        "examples": [
+          {
+            "hr": "Rekao je: „Umoran sam.“ → Rekao je da je umoran.",
+            "en": "He said: I am tired. → He said that he was tired."
+          },
+          {
+            "hr": "Rekla je: „Idem sutra.“ → Rekla je da ide sutra.",
+            "en": "She said: I am going tomorrow. → She said she was going tomorrow."
+          },
+          {
+            "hr": "Kazali su: „Volimo Zagreb.“ → Kazali su da vole Zagreb.",
+            "en": "They said: We love Zagreb. → They said they love Zagreb."
+          }
+        ]
+      },
+      {
+        "label": "Yes/No Questions (Da/Ne pitanja)",
+        "explanation": "To report a yes/no question, use a verb of asking (**pitati**) followed by **je li** or **da li** + the clause. Both forms are accepted; **je li** is slightly more formal and common in standard written Croatian. The subject-verb order does **not** invert.",
+        "examples": [
+          {
+            "hr": "Pitala je: „Je li on doma?“ → Pitala je je li on doma.",
+            "en": "She asked: Is he at home? → She asked whether he was at home."
+          },
+          {
+            "hr": "Pitao je: „Ideš li na posao?“ → Pitao je da li ide na posao.",
+            "en": "He asked: Are you going to work? → He asked whether he was going to work."
+          },
+          {
+            "hr": "Pitali su: „Ima li mjesta?“ → Pitali su je li ima mjesta.",
+            "en": "They asked: Is there room? → They asked whether there was room."
+          }
+        ]
+      },
+      {
+        "label": "Wh-Questions (Upitne rečenice s upitnim riječima)",
+        "explanation": "To report a wh-question, keep the question word (**gdje**, **što**, **tko**, **kada**, **kako**, **zašto**) and use normal declarative word order — no inversion, and no extra connector such as **da** or **je li** before the question word.",
+        "examples": [
+          {
+            "hr": "Pitao je: „Gdje živiš?“ → Pitao je gdje živim.",
+            "en": "He asked: Where do you live? → He asked where I lived."
+          },
+          {
+            "hr": "Pitala je: „Što radiš?“ → Pitala je što radim.",
+            "en": "She asked: What are you doing? → She asked what I was doing."
+          },
+          {
+            "hr": "Pitali su: „Kada dolazite?“ → Pitali su kada dolazimo.",
+            "en": "They asked: When are you coming? → They asked when we were coming."
+          }
+        ]
+      },
+      {
+        "label": "Commands (Zapovijedne rečenice)",
+        "explanation": "To report a command or request, use **reći**, **zamoliti**, or **tražiti** + **da** + the **present tense** of the verb. The imperative form from the original is always replaced by **da + present tense**. The verb ending also shifts to reflect the new subject.",
+        "examples": [
+          {
+            "hr": "Rekla mi je: „Idi kući!“ → Rekla mi je da idem kući.",
+            "en": "She told me: Go home! → She told me to go home."
+          },
+          {
+            "hr": "Zamolio me je: „Dođi sutra.“ → Zamolio me je da dođem sutra.",
+            "en": "He asked me: Come tomorrow. → He asked me to come tomorrow."
+          },
+          {
+            "hr": "Tražili su: „Budite tiho!“ → Tražili su da budemo tiho.",
+            "en": "They asked: Be quiet! → They asked us to be quiet."
+          }
+        ]
+      },
+      {
+        "label": "No Tense Backshift (Bez pomaka vremena)",
+        "explanation": "Unlike English, Croatian does **not** shift tenses backwards when converting to indirect speech. The present stays present, and the past stays past. This is one of the most important differences from English indirect speech — do not apply English rules here.",
+        "examples": [
+          {
+            "hr": "Rekao je: „Radim.“ → Rekao je da radi. (ne: da je radio)",
+            "en": "He said: I work. → He said that he works. (NOT: that he worked)"
+          },
+          {
+            "hr": "Rekla je: „Bila sam u Londonu.“ → Rekla je da je bila u Londonu.",
+            "en": "She said: I was in London. → She said that she was in London."
+          },
+          {
+            "hr": "Kazao je: „Putovat ću.“ → Kazao je da će putovati.",
+            "en": "He said: I will travel. → He said that he will travel."
+          }
+        ]
+      },
+      {
+        "label": "Pronoun Shifts (Promjena zamjenica)",
+        "explanation": "When reporting speech, pronouns shift to reflect who is now speaking about whom. Key shifts: **ja → on/ona**, **ti → ja/on/ona**, and corresponding object pronouns **te → me**, **mi → mu/joj**, possessives **tvoj → moj**, **moj → njegov/njezin**.",
+        "examples": [
+          {
+            "hr": "Rekla je: „Volim te.“ → Rekla mi je da me voli.",
+            "en": "She said: I love you. → She told me that she loves me."
+          },
+          {
+            "hr": "Rekao je: „Zovem te večeras.“ → Rekao mi je da me zove večeras.",
+            "en": "He said: I will call you tonight. → He told me he would call me tonight."
+          },
+          {
+            "hr": "Rekla je: „Tvoja sestra je došla.“ → Rekla mi je da je moja sestra došla.",
+            "en": "She said: Your sister has come. → She told me that my sister had come."
+          }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Type", "Direct speech", "Indirect speech", "Key structure"],
+      "rows": [
+        ["Statement", "„Umoran sam.“", "Rekao je da je umoran.", "da + clause (no tense shift)"],
+        ["Yes/No question", "„Je li on doma?“", "Pitala je je li on doma.", "je li or da li + clause"],
+        ["Wh-question", "„Gdje živiš?“", "Pitao je gdje živim.", "question word + normal order"],
+        ["Command", "„Idi kući!“", "Rekla mi je da idem kući.", "da + present tense"],
+        ["Pronoun shift", "„Volim te.“", "Rekla mi je da me voli.", "te → me, ja volim → ona voli"]
+      ]
+    }
+  },
+  "reading": {
+    "title": {
+      "hr": "Što je Ana rekla",
+      "en": "What Ana Said"
+    },
+    "paragraphs": [
+      {
+        "hr": "Marko je sreo svoju kolegicu Petru u uredu i rekao joj da je nedavno razgovarao s Anom, svojom prijateljicom iz Londona. Petra ga je odmah upitala o čemu su razgovarali i što je Ana rekla.",
+        "en": "Marko met his colleague Petra at the office and told her that he had recently talked with Ana, his friend from London. Petra immediately asked him what they had talked about and what Ana had said."
+      },
+      {
+        "hr": "Marko je rekao da je Ana pričala o Hrvatskoj s velikim oduševljenjem. Rekla je da je Hrvatska jedna od najljepših zemalja koje je ikad posjetila i da će se sigurno vratiti. Kazala je da joj je posebno drago što je naučila nekoliko hrvatskih riječi.",
+        "en": "Marko said that Ana had talked about Croatia with great enthusiasm. She said that Croatia was one of the most beautiful countries she had ever visited and that she would definitely come back. She said she was especially glad that she had learned a few Croatian words."
+      },
+      {
+        "hr": "Petra je pitala je li Ana postavljala pitanja o Zagrebu. Marko je rekao da jest — pitala je gdje se nalazi stari grad i koje su najpoznatije atrakcije. Pitala je i da li ima dobrih restorana u centru grada gdje može probati domaću hranu.",
+        "en": "Petra asked whether Ana had asked questions about Zagreb. Marko said she had — she asked where the old town was located and what the most famous attractions were. She also asked whether there were good restaurants in the city centre where she could try local food."
+      },
+      {
+        "hr": "Petra je bila radoznala pa je upitala da li je Ana rekla hoće li se vratiti u Hrvatsku. Marko je odgovorio da je Ana rekla da se definitivno želi vratiti, i to već sljedeće ljeto. Dodala je da želi naučiti više hrvatskog jezika prije sljedećeg posjeta.",
+        "en": "Petra was curious, so she asked whether Ana had said whether she would return to Croatia. Marko answered that Ana had said she definitely wants to come back, even as early as next summer. She added that she wants to learn more Croatian before her next visit."
+      },
+      {
+        "hr": "Marko je ispričao i što mu je Ana preporučila o posjetu Londonu. Rekla mu je da dođe u London što prije. Zamolila ga je da je nazove kada stigne i rekla mu je da posjeti Tower of London i Britansko muzej. Savjetovala mu je da kupi kartu unaprijed jer su redovi veliki.",
+        "en": "Marko also shared what Ana had recommended about visiting London. She told him to come to London as soon as possible. She asked him to call her when he arrives and told him to visit the Tower of London and the British Museum. She advised him to buy tickets in advance because the queues are long."
+      },
+      {
+        "hr": "Na kraju, Petra je upitala što je Ana mislila o hrvatskoj hrani. Marko je rekao da je Ana bila oduševljena. Rekla je da je prstima lizala i da nikad nije jela tako dobru janjetinu. Kazala je da će pokušati kuhati hrvatska jela kad se vrati kući, ali je dodala da sumnja da će biti tako ukusna.",
+        "en": "Finally, Petra asked what Ana had thought about Croatian food. Marko said that Ana had been delighted. She said she licked her fingers and had never eaten such good lamb. She said she would try to cook Croatian dishes when she got home, but added that she doubted they would be as tasty."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "indirect-speech-q1",
+      "prompt": "What did Ana say about Croatia?",
+      "promptHr": "Što je Ana rekla o Hrvatskoj?",
+      "options": [
+        "She said Croatia was too crowded for her taste.",
+        "She said Croatia was one of the most beautiful countries she had ever visited.",
+        "She said she did not enjoy her visit to Croatia.",
+        "She said she would not come back to Croatia."
+      ],
+      "correctIndex": 1,
+      "explanation": "The text states: Rekla je da je Hrvatska jedna od najljepših zemalja koje je ikad posjetila — She said Croatia was one of the most beautiful countries she had ever visited."
+    },
+    {
+      "id": "indirect-speech-q2",
+      "prompt": "What did Ana ask about Zagreb?",
+      "promptHr": "Što je Ana pitala o Zagrebu?",
+      "options": [
+        "She asked where the airport was and how to get a taxi.",
+        "She asked where the old town was and whether there were good restaurants in the city centre.",
+        "She asked about the price of hotels near the sea.",
+        "She asked whether Zagreb has an underground metro."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana pitala je gdje se nalazi stari grad i da li ima dobrih restorana u centru grada gdje može probati domaću hranu."
+    },
+    {
+      "id": "indirect-speech-q3",
+      "prompt": "Did Ana say she would return to Croatia? What did she say exactly?",
+      "promptHr": "Je li Ana rekla da će se vratiti u Hrvatsku? Što je točno rekla?",
+      "options": [
+        "She said she was not sure yet about returning.",
+        "She said she would probably never come back.",
+        "She said she definitely wants to come back, even as early as next summer.",
+        "She said she might come back in a few years if possible."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana je rekla da se definitivno želi vratiti, i to već sljedeće ljeto — she wants to come back as early as next summer."
+    },
+    {
+      "id": "indirect-speech-q4",
+      "prompt": "What did Ana tell Marko to do regarding London?",
+      "promptHr": "Što je Ana rekla Marku da napravi u vezi s Londonom?",
+      "options": [
+        "She told him to avoid the Tower of London because it is expensive.",
+        "She told him to come to London, call her when he arrives, and visit the Tower of London and the British Museum.",
+        "She told him to book a hotel in advance but not to bother calling her.",
+        "She told him to visit London only in winter when there are fewer tourists."
+      ],
+      "correctIndex": 1,
+      "explanation": "Rekla mu je da dođe u London, da je nazove kada stigne i da posjeti Tower of London i Britansko muzej — three separate indirect commands."
+    },
+    {
+      "id": "indirect-speech-q5",
+      "prompt": "What did Ana say about Croatian food?",
+      "promptHr": "Što je Ana rekla o hrvatskoj hrani?",
+      "options": [
+        "She said Croatian food was too salty for her taste.",
+        "She said Croatian food was similar to British food.",
+        "She said she was delighted, had never eaten such good lamb, and would try to cook Croatian dishes at home.",
+        "She said she preferred Italian food to Croatian food."
+      ],
+      "correctIndex": 2,
+      "explanation": "Rekla je da je bila oduševljena, da je prstima lizala, da nikad nije jela tako dobru janjetinu, i da će pokušati kuhati hrvatska jela kod kuće."
+    }
+  ],
+  "test": [
+    {
+      "id": "indirect-speech-q6",
+      "prompt": "Convert to indirect speech. Direct: „Umoran sam.“ He said...",
+      "promptHr": "Pretvori u neupravni govor. Direktno: „Umoran sam.“ Rekao je...",
+      "options": [
+        "Rekao je da je umoran.",
+        "Rekao je da sam umoran.",
+        "Rekao je da bio je umoran.",
+        "Rekao je da umoran."
+      ],
+      "correctIndex": 0,
+      "explanation": "Use **da + clause** with a pronoun shift: ja sam → on je. No tense backshift in Croatian — present stays present."
+    },
+    {
+      "id": "indirect-speech-q7",
+      "prompt": "Which sentence correctly reports the yes/no question: „Je li Marko kod kuće?“",
+      "promptHr": "Koja rečenica ispravno prenosi pitanje: „Je li Marko kod kuće?“",
+      "options": [
+        "Pitala je gdje je Marko kod kuće.",
+        "Pitala je je li Marko kod kuće.",
+        "Pitala je da Marko je kod kuće.",
+        "Pitala je što Marko kod kuće."
+      ],
+      "correctIndex": 1,
+      "explanation": "Yes/no questions use **je li** + clause in indirect speech. **Gdje** and **što** are only for wh-questions."
+    },
+    {
+      "id": "indirect-speech-q8",
+      "prompt": "Convert to indirect speech. Direct: „Gdje živiš?“ She asked...",
+      "promptHr": "Pretvori u neupravni govor. Direktno: „Gdje živiš?“ Pitala je...",
+      "options": [
+        "Pitala je da li živim.",
+        "Pitala je gdje li živim.",
+        "Pitala je gdje živim.",
+        "Pitala je gdje živiš."
+      ],
+      "correctIndex": 2,
+      "explanation": "Wh-questions keep the question word (**gdje**) and use normal word order — no inversion, no **da** or **je li** before it. Pronoun shifts: živiš → živim."
+    },
+    {
+      "id": "indirect-speech-q9",
+      "prompt": "Convert the command to indirect speech. Direct: „Idi kući!“ She told me...",
+      "promptHr": "Pretvori zapovijed u neupravni govor. Direktno: „Idi kući!“ Rekla mi je...",
+      "options": [
+        "Rekla mi je da idem kući.",
+        "Rekla mi je da idi kući.",
+        "Rekla mi je ići kući.",
+        "Rekla mi je da sam išao kući."
+      ],
+      "correctIndex": 0,
+      "explanation": "Commands become **da + present tense**: idi → da idem (with pronoun shift: ti → ja). The imperative form is never used in indirect speech."
+    },
+    {
+      "id": "indirect-speech-q10",
+      "prompt": "Choose the correct word to fill the blank. Pitao je ___ ona dolazi.",
+      "promptHr": "Odaberi ispravnu riječ za popunjavanje praznine. Pitao je ___ ona dolazi.",
+      "options": [
+        "da",
+        "je li",
+        "što",
+        "ako"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is a yes/no question (is she coming?) in indirect speech — use **je li**. The sentence means: He asked whether she was coming."
+    },
+    {
+      "id": "indirect-speech-q11",
+      "prompt": "Identify the type of indirect speech: Pitao je što radim.",
+      "promptHr": "Prepoznaj vrstu neupravnog govora: Pitao je što radim.",
+      "options": [
+        "Indirect statement",
+        "Indirect yes/no question",
+        "Indirect wh-question",
+        "Indirect command"
+      ],
+      "correctIndex": 2,
+      "explanation": "**Što** is a wh-question word. This is an indirect wh-question: Pitao je što radim — He asked what I was doing."
+    },
+    {
+      "id": "indirect-speech-q12",
+      "prompt": "Which sentence correctly reports: „Dođi sutra!“ He asked me...",
+      "promptHr": "Koja rečenica ispravno prenosi: „Dođi sutra!“ Zamolio me je...",
+      "options": [
+        "Zamolio me je da dođem sutra.",
+        "Zamolio me je doći sutra.",
+        "Zamolio me je da dođi sutra.",
+        "Zamolio me je dođem sutra."
+      ],
+      "correctIndex": 0,
+      "explanation": "Commands → **da + present tense**: dođi → da dođem (pronoun shift ti → ja). The imperative form dođi is never carried into indirect speech."
+    },
+    {
+      "id": "indirect-speech-q13",
+      "prompt": "True or False: Croatian shifts tenses when converting to indirect speech, just like English.",
+      "promptHr": "Točno ili netočno: Hrvatski jezik mijenja vremena pri prelasku u neupravni govor, kao i engleski.",
+      "options": [
+        "True — Croatian always shifts the present tense to past in indirect speech.",
+        "False — Croatian keeps the original tense without any backshift.",
+        "True — Croatian shifts the past tense to past perfect in indirect speech.",
+        "False — Croatian does not use any tenses in indirect speech."
+      ],
+      "correctIndex": 1,
+      "explanation": "Croatian does **not** backshift tenses. The original tense is preserved: Rekao je da je umoran (not: da je bio umoran). This is one of the biggest differences from English."
+    },
+    {
+      "id": "indirect-speech-q14",
+      "prompt": "What is the Croatian for: She said she loves Zagreb.",
+      "promptHr": "Kako se na hrvatskom kaže: She said she loves Zagreb.",
+      "options": [
+        "Rekla je da voli Zagreb.",
+        "Rekla je da volim Zagreb.",
+        "Rekla je da je voljela Zagreb.",
+        "Rekla je što voli Zagreb."
+      ],
+      "correctIndex": 0,
+      "explanation": "**Rekla je da voli Zagreb.** — da + present (no tense shift); pronoun shift: ja volim → ona voli."
+    },
+    {
+      "id": "indirect-speech-q15",
+      "prompt": "Which connecting word is used to introduce indirect wh-questions in Croatian?",
+      "promptHr": "Koja se vezna riječ koristi za uvođenje neupravnih upitnih pitanja u hrvatskom?",
+      "options": [
+        "da",
+        "je li",
+        "da li",
+        "The wh-word itself (gdje, što, tko, kada, kako, zašto)"
+      ],
+      "correctIndex": 3,
+      "explanation": "In indirect wh-questions, the **question word itself** (gdje, što, tko, kada, kako, zašto) acts as the connector — no extra da or je li is added before it."
+    },
+    {
+      "id": "indirect-speech-q16",
+      "prompt": "Convert to indirect speech. Direct: „Volim te.“ She told me...",
+      "promptHr": "Pretvori u neupravni govor. Direktno: „Volim te.“ Rekla mi je...",
+      "options": [
+        "Rekla mi je da te voli.",
+        "Rekla mi je da me voli.",
+        "Rekla mi je da sam je voljela.",
+        "Rekla mi je da voli mene."
+      ],
+      "correctIndex": 1,
+      "explanation": "Pronoun shift: **te** (you, accusative) → **me** (me, accusative) because the original addressee is now the one reporting the speech."
+    },
+    {
+      "id": "indirect-speech-q17",
+      "prompt": "Choose the correct form to complete the sentence. Pitala je ___ li ima slobodnih mjesta.",
+      "promptHr": "Odaberi ispravni oblik za dovršetak rečenice. Pitala je ___ li ima slobodnih mjesta.",
+      "options": [
+        "da",
+        "je",
+        "što",
+        "kako"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct phrase is **je li** (written as je + li). Pitala je **je li** ima slobodnih mjesta — She asked whether there were any free seats."
+    },
+    {
+      "id": "indirect-speech-q18",
+      "prompt": "What does this sentence mean in English? Rekao je da sutra dolazi.",
+      "promptHr": "Što ova rečenica znači na engleskom? Rekao je da sutra dolazi.",
+      "options": [
+        "He asked if he was coming tomorrow.",
+        "He said that he is coming tomorrow.",
+        "He told me to come tomorrow.",
+        "He asked when he would come tomorrow."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Rekao je da sutra dolazi** = He said that he is coming tomorrow. (Indirect statement; present tense is kept, not shifted to past.)"
+    },
+    {
+      "id": "indirect-speech-q19",
+      "prompt": "Identify the grammatical structure used in: Tražio je da budemo tiho.",
+      "promptHr": "Prepoznaj gramatičku strukturu u: Tražio je da budemo tiho.",
+      "options": [
+        "Indirect wh-question",
+        "Indirect yes/no question",
+        "Indirect command using da + present tense",
+        "Indirect statement using da + past tense"
+      ],
+      "correctIndex": 2,
+      "explanation": "**Tražio je da budemo tiho** = He asked that we be quiet. This is an indirect command: **tražiti + da + present tense** (budemo), with a pronoun shift from vi to mi."
+    },
+    {
+      "id": "indirect-speech-q20",
+      "prompt": "Which is the correct indirect form of: „Kada dolazite?“ They asked...",
+      "promptHr": "Koji je ispravni neupravni oblik od: „Kada dolazite?“ Pitali su...",
+      "options": [
+        "Pitali su je li dolazimo.",
+        "Pitali su da dolazimo.",
+        "Pitali su kada dolazimo.",
+        "Pitali su kada li dolazimo."
+      ],
+      "correctIndex": 2,
+      "explanation": "Wh-question indirect speech: keep **kada** and use normal word order — no je li, no da before it. Pitali su **kada dolazimo**."
+    },
+    {
+      "id": "indirect-speech-q21",
+      "prompt": "Convert to indirect speech. Direct: „Nisam bila u Zagrebu.“ She said...",
+      "promptHr": "Pretvori u neupravni govor. Direktno: „Nisam bila u Zagrebu.“ Rekla je...",
+      "options": [
+        "Rekla je da nije bila u Zagrebu.",
+        "Rekla je da nisam bila u Zagrebu.",
+        "Rekla je da nije u Zagreb.",
+        "Rekla je da nisam u Zagrebu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pronoun shift: ja nisam bila → **ona nije bila**. The past tense is kept as-is; no further backshift is applied."
+    },
+    {
+      "id": "indirect-speech-q22",
+      "prompt": "What is the English meaning of: Pitao me je zašto kasnim.",
+      "promptHr": "Što znači na engleskom: Pitao me je zašto kasnim.",
+      "options": [
+        "He told me why I was late.",
+        "He asked me why I was late.",
+        "He asked me whether I was late.",
+        "He said that I was late."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Pitao me je zašto kasnim** = He asked me why I was late. (Indirect wh-question with **zašto** — why.)"
+    },
+    {
+      "id": "indirect-speech-q23",
+      "prompt": "Choose the correct Croatian sentence. Ana told me to wait.",
+      "promptHr": "Odaberi ispravnu hrvatsku rečenicu za: Ana told me to wait.",
+      "options": [
+        "Ana mi je rekla čekati.",
+        "Ana mi je rekla da čekam.",
+        "Ana mi je rekla da čekaj.",
+        "Ana mi je rekla je li čekam."
+      ],
+      "correctIndex": 1,
+      "explanation": "Indirect command: **da + present tense**: Ana mi je rekla **da čekam** — the imperative čekaj is replaced by da + present."
+    },
+    {
+      "id": "indirect-speech-q24",
+      "prompt": "Which sentence uses **da li** correctly?",
+      "promptHr": "Koja rečenica ispravno koristi **da li**?",
+      "options": [
+        "Pitao je da li gdje stanuje.",
+        "Pitao je da li je umoran.",
+        "Pitao je da li što radi.",
+        "Rekao je da li je došao."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Da li** introduces an indirect yes/no question. Pitao je **da li je umoran** — He asked whether he was tired. Options A and C wrongly combine da li with wh-words; option D uses it after reći (a verb of stating, not asking)."
+    },
+    {
+      "id": "indirect-speech-q25",
+      "prompt": "What is wrong here? Original direct speech: „Umorna sam.“ Reported: Rekla je da je bila umorna.",
+      "promptHr": "Što nije u redu? Originalni direktni govor: „Umorna sam.“ Prijenos: Rekla je da je bila umorna.",
+      "options": [
+        "Nothing is wrong — this is the correct form.",
+        "The verb should be in future tense: da će biti umorna.",
+        "Croatian does not backshift tenses — it should be: Rekla je da je umorna.",
+        "The connecting word da should be replaced by je li."
+      ],
+      "correctIndex": 2,
+      "explanation": "Croatian does **not** backshift tenses. The original „Umorna sam“ uses the present, so the report keeps present: Rekla je da je **umorna** — not da je **bila** umorna."
+    },
+    {
+      "id": "indirect-speech-q26",
+      "prompt": "Fill in the blank: Pitala me je ___ imam brata.",
+      "promptHr": "Popuni prazninu: Pitala me je ___ imam brata.",
+      "options": [
+        "gdje",
+        "da",
+        "je li",
+        "kako"
+      ],
+      "correctIndex": 2,
+      "explanation": "This is a yes/no question (do you have a brother?) in indirect speech — use **je li**: Pitala me je **je li** imam brata."
+    },
+    {
+      "id": "indirect-speech-q27",
+      "prompt": "Convert to indirect speech. Direct: „Zovem te večeras.“ He told me...",
+      "promptHr": "Pretvori u neupravni govor. Direktno: „Zovem te večeras.“ Rekao mi je...",
+      "options": [
+        "Rekao mi je da te zove večeras.",
+        "Rekao mi je da me zove večeras.",
+        "Rekao mi je da zovem te večeras.",
+        "Rekao mi je zove me večeras."
+      ],
+      "correctIndex": 1,
+      "explanation": "Pronoun shift: **te** (you, accusative) → **me** (me, accusative). Rekao mi je da **me** zove večeras — He told me he would call me tonight."
+    },
+    {
+      "id": "indirect-speech-q28",
+      "prompt": "Which of these is an indirect statement (not a question or command)?",
+      "promptHr": "Koja od ovih rečenica je neupravna izjavna rečenica (a ne pitanje ili zapovijed)?",
+      "options": [
+        "Pitao je je li gladna.",
+        "Rekla je da studira medicinu.",
+        "Pitala je gdje živi.",
+        "Zamolio me je da dođem."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Rekla je da studira medicinu** = She said she studies medicine. This is an indirect **statement** (reći + da + clause). A is yes/no question, C is wh-question, D is command."
+    },
+    {
+      "id": "indirect-speech-q29",
+      "prompt": "Translate into Croatian: He asked whether she was coming to the party.",
+      "promptHr": "Prevedi na hrvatski: He asked whether she was coming to the party.",
+      "options": [
+        "Pitao je da ona dolazi na zabavu.",
+        "Pitao je gdje ona dolazi na zabavu.",
+        "Pitao je je li ona dolazi na zabavu.",
+        "Pitao je što ona dolazi na zabavu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Yes/no question in indirect speech: Pitao je **je li** ona dolazi na zabavu — whether introduces indirect yes/no questions, translated as je li or da li."
+    },
+    {
+      "id": "indirect-speech-q30",
+      "prompt": "Which sentence correctly reports the negative command: „Nemoj kasniti!“ She told me...",
+      "promptHr": "Koja rečenica ispravno prenosi negativnu zapovijed: „Nemoj kasniti!“ Rekla mi je...",
+      "options": [
+        "Rekla mi je da ne kasnim.",
+        "Rekla mi je nemoj kasniti.",
+        "Rekla mi je da ne kasnit.",
+        "Rekla mi je je li kasnim."
+      ],
+      "correctIndex": 0,
+      "explanation": "Negative command in indirect speech: nemoj kasniti → **da ne kasnim** (da + negative present tense). The negative imperative nemoj is always replaced by da + present."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Indirect statements (Neupravne izjavne rečenice) — da + clause, no tense backshift",
+      "items": [
+        { "hr": "Rekao je da je umoran.", "en": "He said that he was tired.", "note": "da + present; no tense backshift" },
+        { "hr": "Rekla je da ide sutra.", "en": "She said she was going tomorrow.", "note": "da + present; sutra stays as-is" },
+        { "hr": "Kazali su da vole Zagreb.", "en": "They said they love Zagreb.", "note": "pronoun shift: mi volimo → oni vole" },
+        { "hr": "Rekao je da je bio u Splitu.", "en": "He said he had been in Split.", "note": "past tense kept: bio je" },
+        { "hr": "Rekla je da studira medicinu.", "en": "She said she studies medicine.", "note": "da + present tense" },
+        { "hr": "Kazao je da neće doći.", "en": "He said he would not come.", "note": "neće = will not; future tense kept" }
+      ]
+    },
+    {
+      "context": "Indirect yes/no questions (Neupravna da/ne pitanja) — je li or da li",
+      "items": [
+        { "hr": "Pitala je je li on doma.", "en": "She asked whether he was at home.", "note": "je li for yes/no questions — formal register" },
+        { "hr": "Pitao je da li ide na posao.", "en": "He asked whether he was going to work.", "note": "da li — equally correct, slightly informal" },
+        { "hr": "Pitali su je li ima mjesta.", "en": "They asked whether there was room.", "note": "je li + ima (impersonal)" },
+        { "hr": "Pitala me je da li imam vremena.", "en": "She asked me whether I had time.", "note": "da li before first person singular" },
+        { "hr": "Pitao je je li ona udata.", "en": "He asked whether she was married.", "note": "je li + adjective predicate" }
+      ]
+    },
+    {
+      "context": "Indirect wh-questions (Neupravna upitna pitanja) — question word + normal order, no inversion",
+      "items": [
+        { "hr": "Pitao je gdje živim.", "en": "He asked where I lived.", "note": "gdje kept, normal word order, no inversion" },
+        { "hr": "Pitala je što radim.", "en": "She asked what I was doing.", "note": "što kept, no da or je li added" },
+        { "hr": "Pitali su kada dolazimo.", "en": "They asked when we were coming.", "note": "kada kept" },
+        { "hr": "Pitao je tko je došao.", "en": "He asked who had come.", "note": "tko kept" },
+        { "hr": "Pitala je zašto kasnim.", "en": "She asked why I was late.", "note": "zašto kept" },
+        { "hr": "Pitao je kako se zove.", "en": "He asked what his name was.", "note": "kako kept; 3rd person: se zove" }
+      ]
+    },
+    {
+      "context": "Indirect commands (Neupravne zapovijedne rečenice) — da + present tense",
+      "items": [
+        { "hr": "Rekla mi je da idem kući.", "en": "She told me to go home.", "note": "idi → da idem (imperative → da + present)" },
+        { "hr": "Zamolio me je da dođem sutra.", "en": "He asked me to come tomorrow.", "note": "dođi → da dođem" },
+        { "hr": "Tražili su da budemo tiho.", "en": "They asked us to be quiet.", "note": "budite → da budemo (pronoun shift included)" },
+        { "hr": "Rekla mi je da ne kasnim.", "en": "She told me not to be late.", "note": "nemoj kasniti → da ne kasnim (negative present)" },
+        { "hr": "Savjetovala me je da kupim kartu unaprijed.", "en": "She advised me to buy a ticket in advance.", "note": "savjetovati + da + present" }
+      ]
+    },
+    {
+      "context": "Pronoun shifts in indirect speech (Promjena zamjenica u neupravnom govoru)",
+      "items": [
+        { "hr": "„Volim te.“ → Rekla mi je da me voli.", "en": "I love you. → She told me she loves me.", "note": "te (you, acc.) → me (me, acc.)" },
+        { "hr": "„Zovem te večeras.“ → Rekao mi je da me zove večeras.", "en": "I will call you tonight. → He told me he would call me tonight.", "note": "te → me; subject pronoun ja omitted" },
+        { "hr": "„Tvoja sestra je tu.“ → Rekla mi je da je moja sestra tu.", "en": "Your sister is here. → She told me my sister is here.", "note": "tvoja → moja (possessive shift)" },
+        { "hr": "„Ja sam student.“ → Rekao je da je on student.", "en": "I am a student. → He said he is a student.", "note": "ja sam → on je (subject shift)" },
+        { "hr": "„Mi idemo kući.“ → Rekli su da oni idu kući.", "en": "We are going home. → They said they are going home.", "note": "mi idemo → oni idu (1st pl → 3rd pl)" }
+      ]
+    }
+  ]
+}

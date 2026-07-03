@@ -1,0 +1,64 @@
+---
+interface Props {
+  text: string;
+  class?: string;
+}
+
+const { text, class: className } = Astro.props;
+
+function parseInline(s: string): string {
+  return s.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>");
+}
+
+type Block =
+  | { type: "paragraph"; html: string }
+  | { type: "list"; items: string[] }
+  | { type: "intro-list"; introHtml: string; items: string[] };
+
+const blocks: Block[] = text.split("\n\n").map((block) => {
+  const lines = block.split("\n");
+  const firstListIdx = lines.findIndex((l) => l.startsWith("- "));
+
+  if (firstListIdx === -1) {
+    return { type: "paragraph", html: parseInline(block) };
+  }
+  if (firstListIdx === 0) {
+    return {
+      type: "list",
+      items: lines.map((l) => l.replace(/^-\s*/, "")).map(parseInline),
+    };
+  }
+  const intro = lines.slice(0, firstListIdx).join(" ");
+  const items = lines
+    .slice(firstListIdx)
+    .map((l) => l.replace(/^-\s*/, ""))
+    .map(parseInline);
+  return { type: "intro-list", introHtml: parseInline(intro), items };
+});
+---
+
+<div class={className}>
+  {blocks.map((block) => {
+    if (block.type === "list") {
+      const b = block as { type: "list"; items: string[] };
+      return (
+        <ul class="list-disc pl-5 space-y-1">
+          {b.items.map((item) => <li set:html={item} />)}
+        </ul>
+      );
+    }
+    if (block.type === "intro-list") {
+      const b = block as { type: "intro-list"; introHtml: string; items: string[] };
+      return (
+        <div>
+          <p set:html={b.introHtml} />
+          <ul class="list-disc pl-5 space-y-1 mt-1">
+            {b.items.map((item) => <li set:html={item} />)}
+          </ul>
+        </div>
+      );
+    }
+    const b = block as { type: "paragraph"; html: string };
+    return <p set:html={b.html} />;
+  })}
+</div>

@@ -1,0 +1,507 @@
+{
+  "id": "daily-routine",
+  "level": "a1",
+  "order": 14,
+  "title": { "en": "Daily Routine & Professions", "hr": "Dnevna rutina i zanimanja" },
+  "grammar": {
+    "title": { "en": "Daily Routine & Professions – Grammar", "hr": "Dnevna rutina i zanimanja – Gramatika" },
+    "intro": "This topic covers three connected areas: reflexive verbs used in daily routines (many take the particle 'se'), time expressions for saying when you do things, and profession nouns — which in Croatian have distinct masculine and feminine forms. Use 'Radim kao…' (I work as…) or 'Ja sam…' (I am…) to talk about your job.",
+    "rules": [
+      {
+        "label": "Reflexive verbs for daily routines",
+        "explanation": "Many everyday verbs in Croatian are reflexive — they take the particle 'se'. The 'se' typically appears in second position in the sentence or directly after the verb. Key routine verbs: 'ustajati se' (to get up), 'tuširati se' (to shower), 'oblačiti se' (to get dressed). Note that 'prati zube' (to brush teeth) and 'ići spavati' (to go to sleep) are not reflexive.",
+        "examples": [
+          { "hr": "Ustajem u sedam sati.", "en": "I get up at seven o'clock." },
+          { "hr": "Tuširam se svako jutro.", "en": "I shower every morning." },
+          { "hr": "Oblačim se brzo.", "en": "I get dressed quickly." }
+        ]
+      },
+      {
+        "label": "Expressing time with activities",
+        "explanation": "To say when you do something, use 'u' followed by the time. For clock hours, say 'u [number] sat/sati'. Special time adverbs: 'ujutro' (in the morning), 'u podne' (at noon), 'popodne' (in the afternoon), 'navečer' (in the evening), 'noću' (at night).",
+        "examples": [
+          { "hr": "Ustajem u šest sati.", "en": "I get up at six o'clock." },
+          { "hr": "U podne jedem ručak.", "en": "At noon I eat lunch." },
+          { "hr": "Idem spavati u jedanaest sati.", "en": "I go to sleep at eleven o'clock." }
+        ]
+      },
+      {
+        "label": "Professions – masculine and feminine forms, and how to use them",
+        "explanation": "Croatian profession nouns have separate masculine and feminine forms. The feminine is usually formed by adding '-ica' to the masculine (inženjer → inženjerica) or replacing the ending (kuhar → kuharica). Use 'Radim kao…' (I work as…) followed by the profession in the nominative. Alternatively say 'Ja sam…' (I am…). To ask about someone's job: 'Što radite?' (formal) or 'Što radiš?' (informal).",
+        "examples": [
+          { "hr": "Radim kao liječnik. / Radim kao liječnica.", "en": "I work as a doctor. (male) / I work as a doctor. (female)" },
+          { "hr": "Ja sam učiteljica.", "en": "I am a teacher. (female)" },
+          { "hr": "Što radite? – Radim kao inženjer.", "en": "What do you do? (formal) – I work as an engineer." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["English", "Masculine (m)", "Feminine (f)"],
+      "rows": [
+        ["teacher", "učitelj", "učiteljica"],
+        ["doctor", "liječnik", "liječnica"],
+        ["engineer", "inženjer", "inženjerica"],
+        ["cook / chef", "kuhar", "kuharica"],
+        ["driver", "vozač", "vozačica"],
+        ["programmer", "programer", "programerica"],
+        ["salesperson", "prodavač", "prodavačica"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "A Day in the Life", "hr": "Dan iz života" },
+    "paragraphs": [
+      {
+        "hr": "Marko je softverski inženjer i živi u Zagrebu. Svaki radni dan ustaje u šest i pol sati. Nije lako ustati tako rano, ali Marko je discipliniran.",
+        "en": "Marko is a software engineer and lives in Zagreb. Every weekday he gets up at half past six. It is not easy to get up so early, but Marko is disciplined."
+      },
+      {
+        "hr": "Marko se tušira i oblači. Zatim pije kavu i jede doručak. U sedam i pol sati odlazi na posao tramvajem.",
+        "en": "Marko showers and gets dressed. Then he drinks coffee and has breakfast. At half past seven he goes to work by tram."
+      },
+      {
+        "hr": "Na poslu Marko radi kao programer. U podne jede ručak u restoranu blizu ureda. Razgovara s kolegama i malo se odmara.",
+        "en": "At work Marko works as a programmer. At noon he eats lunch in a restaurant near the office. He chats with colleagues and rests a little."
+      },
+      {
+        "hr": "Nakon posla, u šest sati, Marko ide na teretanu. Vježba sat vremena. Zatim se vraća kući tramvajem.",
+        "en": "After work, at six o'clock, Marko goes to the gym. He exercises for an hour. Then he returns home by tram."
+      },
+      {
+        "hr": "Kod kuće Marko kuha večeru i jede. Zatim gleda televiziju ili čita knjigu. Ide spavati u jedanaest sati.",
+        "en": "At home Marko cooks and eats dinner. Then he watches television or reads a book. He goes to sleep at eleven o'clock."
+      },
+      {
+        "hr": "Ana je studentica i živi u Londonu. Njena rutina je drugačija od Markove. Ustaje u osam sati, jede doručak i ide na fakultet autobusom. Navečer se vraća kući i uči.",
+        "en": "Ana is a student and lives in London. Her routine is different from Marko's. She gets up at eight o'clock, has breakfast and goes to university by bus. In the evening she returns home and studies."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "daily-routine-q1",
+      "prompt": "What is Marko's profession?",
+      "options": [
+        "Teacher",
+        "Doctor",
+        "Software engineer",
+        "Driver"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text says 'Marko je softverski inženjer' (Marko is a software engineer). At the office he works specifically as a programmer ('radi kao programer')."
+    },
+    {
+      "id": "daily-routine-q2",
+      "prompt": "What time does Marko get up every weekday?",
+      "options": [
+        "At six o'clock",
+        "At half past six",
+        "At seven o'clock",
+        "At half past seven"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text states 'Svaki radni dan ustaje u šest i pol sati' (Every weekday he gets up at half past six). 'Šest i pol' = six and a half = half past six."
+    },
+    {
+      "id": "daily-routine-q3",
+      "prompt": "How does Marko travel to work?",
+      "options": [
+        "By bus",
+        "By car",
+        "By bicycle",
+        "By tram"
+      ],
+      "correctIndex": 3,
+      "explanation": "The text says 'odlazi na posao tramvajem' (he goes to work by tram). 'Tramvajem' is the instrumental of 'tramvaj'."
+    },
+    {
+      "id": "daily-routine-q4",
+      "prompt": "What does Marko do immediately after work?",
+      "options": [
+        "He reads a book",
+        "He watches television",
+        "He goes to the gym",
+        "He cooks dinner"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text says 'Nakon posla… Marko ide na teretanu' (After work… Marko goes to the gym). He cooks dinner and reads later, at home."
+    },
+    {
+      "id": "daily-routine-q5",
+      "prompt": "Where does Ana live?",
+      "options": [
+        "In Zagreb",
+        "In Split",
+        "In London",
+        "In Vienna"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text says 'Ana je studentica i živi u Londonu' (Ana is a student and lives in London). She travels to university by bus."
+    }
+  ],
+  "test": [
+    {
+      "id": "daily-routine-q6",
+      "prompt": "What does 'ustajati se' mean?",
+      "options": [
+        "to shower",
+        "to get up",
+        "to get dressed",
+        "to go to sleep"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ustajati se' means to get up (habitual/imperfective). The perfective counterpart is 'ustati se'. First-person singular: 'Ustajem (se)' — I get up."
+    },
+    {
+      "id": "daily-routine-q7",
+      "prompt": "What does 'tuširati se' mean?",
+      "options": [
+        "to shower",
+        "to brush teeth",
+        "to get dressed",
+        "to eat breakfast"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Tuširati se' means to shower (reflexive verb). First-person singular: 'Tuširam se' — I shower. 'Tuš' means shower (the appliance)."
+    },
+    {
+      "id": "daily-routine-q8",
+      "prompt": "What does 'oblačiti se' mean?",
+      "options": [
+        "to wash",
+        "to cook",
+        "to get dressed",
+        "to sleep"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Oblačiti se' means to get dressed (reflexive). First-person singular: 'Oblačim se'. 'Odjeća' means clothing/clothes — the same root."
+    },
+    {
+      "id": "daily-routine-q9",
+      "prompt": "What does 'prati zube' mean?",
+      "options": [
+        "to wash hands",
+        "to brush hair",
+        "to wash face",
+        "to brush teeth"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Prati zube' means to brush teeth. 'Prati' = to wash; 'zube' is the accusative plural of 'zub' (tooth). This verb is NOT reflexive — there is no 'se'."
+    },
+    {
+      "id": "daily-routine-q10",
+      "prompt": "What does 'ići spavati' mean?",
+      "options": [
+        "to take a nap",
+        "to go to sleep",
+        "to wake up",
+        "to rest"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ići spavati' means to go to sleep. 'Ići' = to go; 'spavati' = to sleep. This phrase is not reflexive. First-person: 'Idem spavati u jedanaest.' (I go to sleep at eleven.)"
+    },
+    {
+      "id": "daily-routine-q11",
+      "prompt": "Fill in the blank: 'Ustajem u ___ sati.' (I get up at seven o'clock.)",
+      "promptHr": "Popunite prazninu: 'Ustajem u ___ sati.'",
+      "options": [
+        "sedam",
+        "osam",
+        "devet",
+        "šest"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Sedam' means seven. The full sentence is 'Ustajem u sedam sati' (I get up at seven o'clock). Key numbers: šest (6), sedam (7), osam (8), devet (9)."
+    },
+    {
+      "id": "daily-routine-q12",
+      "prompt": "What does 'u podne' mean?",
+      "options": [
+        "in the morning",
+        "in the evening",
+        "at noon",
+        "at night"
+      ],
+      "correctIndex": 2,
+      "explanation": "'U podne' means at noon (midday). Other time-of-day adverbs: 'ujutro' (in the morning), 'popodne' (in the afternoon), 'navečer' (in the evening), 'noću' (at night)."
+    },
+    {
+      "id": "daily-routine-q13",
+      "prompt": "Which sentence correctly means 'I eat breakfast at eight o'clock'?",
+      "options": [
+        "Jedem ručak u osam sati.",
+        "Jedem doručak u sedam sati.",
+        "Jedem doručak u osam sati.",
+        "Pijem kavu u osam sati."
+      ],
+      "correctIndex": 2,
+      "explanation": "Option C is correct: 'jedem' (I eat) + 'doručak' (breakfast) + 'u osam sati' (at eight o'clock). Option A says 'lunch' (ručak), not breakfast; option B has the wrong time (seven, not eight); option D says 'I drink coffee'."
+    },
+    {
+      "id": "daily-routine-q14",
+      "prompt": "What is the feminine form of 'učitelj' (teacher)?",
+      "options": [
+        "učiteljka",
+        "učiteljice",
+        "učiteljica",
+        "učiteljku"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Učiteljica' is the standard feminine form of 'učitelj'. The suffix '-ica' is the most common way to form feminine profession nouns in Croatian."
+    },
+    {
+      "id": "daily-routine-q15",
+      "prompt": "What is the masculine form of 'liječnica' (female doctor)?",
+      "options": [
+        "liječnik",
+        "liječnje",
+        "liječniku",
+        "liječniče"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Liječnik' is the masculine form of the word for doctor. 'Liječnica' is the feminine form. 'Liječniku' and 'liječniče' are grammatical cases of the same word, not separate forms."
+    },
+    {
+      "id": "daily-routine-q16",
+      "prompt": "What does 'kuhar / kuharica' mean?",
+      "options": [
+        "baker",
+        "cook / chef",
+        "waiter",
+        "farmer"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Kuhar' (male) / 'kuharica' (female) means cook or chef. The root verb is 'kuhati' (to cook). 'Kuharica' also means 'cookery book' in everyday Croatian."
+    },
+    {
+      "id": "daily-routine-q17",
+      "prompt": "Which sentence correctly uses 'radim kao' to say 'I work as a programmer'?",
+      "options": [
+        "Radim kao programera.",
+        "Radim kao programer.",
+        "Radim u programer.",
+        "Radim za programer."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Radim kao programer.' is correct. After 'radim kao' (I work as), the profession stays in the nominative case. 'Programera' (option A) is genitive; 'u' (option C) means 'in'; 'za' (option D) means 'for' — none of these collocate with profession nouns here."
+    },
+    {
+      "id": "daily-routine-q18",
+      "prompt": "What does 'Što radite?' mean?",
+      "options": [
+        "What do you do? (informal)",
+        "What do you do? (formal)",
+        "What are you making?",
+        "What is your name?"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Što radite?' uses 'radite', the formal second-person (Vi) conjugation of 'raditi'. It is the polite way to ask someone's occupation or what they are doing. The informal equivalent is 'Što radiš?'"
+    },
+    {
+      "id": "daily-routine-q19",
+      "prompt": "What does 'Što radiš?' mean?",
+      "options": [
+        "What do you do? (formal)",
+        "What are you making? (formal)",
+        "What do you do? (informal)",
+        "What is your job? (formal)"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Što radiš?' uses 'radiš', the informal second-person (ti) conjugation of 'raditi'. It is the casual way to ask a friend or peer about their job or what they are doing."
+    },
+    {
+      "id": "daily-routine-q20",
+      "prompt": "What is the feminine form of 'vozač' (driver)?",
+      "options": [
+        "vozačka",
+        "vozačica",
+        "vozačinja",
+        "vozačice"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Vozačica' is the feminine form of 'vozač'. The suffix '-ica' is added to the masculine stem: vozač + ica = vozačica. 'Vozačice' is the genitive of 'vozačica', not a separate form."
+    },
+    {
+      "id": "daily-routine-q21",
+      "prompt": "What is the feminine form of 'programer' (programmer)?",
+      "options": [
+        "programerica",
+        "programerka",
+        "programerinja",
+        "programerice"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Programerica' is the feminine form of 'programer'. Like most '-er' nouns, it adds '-ica' to the masculine form. 'Programerice' is the genitive of 'programerica', not a separate form."
+    },
+    {
+      "id": "daily-routine-q22",
+      "prompt": "Which sentence means 'I shower every morning'?",
+      "options": [
+        "Tuširam se svako jutro.",
+        "Perem se svako jutro.",
+        "Oblačim se svako jutro.",
+        "Ustajem svako jutro."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Tuširam se svako jutro' is correct. 'Tuširam se' = I shower (reflexive); 'svako jutro' = every morning. 'Perem se' (B) = I wash myself; 'Oblačim se' (C) = I get dressed; 'Ustajem' (D) = I get up."
+    },
+    {
+      "id": "daily-routine-q23",
+      "prompt": "What does 'Ja sam prodavačica.' mean?",
+      "options": [
+        "I am a saleswoman.",
+        "I am a teacher.",
+        "I am a cook.",
+        "I am a driver."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ja sam prodavačica' means 'I am a saleswoman'. 'Prodavačica' is the feminine form of 'prodavač' (salesperson/vendor). The masculine would be 'Ja sam prodavač'."
+    },
+    {
+      "id": "daily-routine-q24",
+      "prompt": "Which is the correct first-person singular (I) form of 'ustajati se' (to get up)?",
+      "options": [
+        "ustaje",
+        "ustaju",
+        "ustajem",
+        "ustajemo"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Ustajem' is the correct first-person singular. Conjugation: ustajem (I), ustaješ (you, informal), ustaje (he/she), ustajemo (we), ustajete (you, pl/formal), ustaju (they)."
+    },
+    {
+      "id": "daily-routine-q25",
+      "prompt": "What does 'ujutro' mean?",
+      "options": [
+        "in the evening",
+        "in the morning",
+        "at night",
+        "at noon"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ujutro' means 'in the morning'. The root is 'jutro' (morning). Full set of time adverbs: ujutro (morning), u podne (noon), popodne (afternoon), navečer (evening), noću (night)."
+    },
+    {
+      "id": "daily-routine-q26",
+      "prompt": "What does 'navečer' mean?",
+      "options": [
+        "in the morning",
+        "at noon",
+        "at night",
+        "in the evening"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Navečer' means 'in the evening'. It comes from 'večer' (evening). Compare: 'noću' means at night (the darker, later period), while 'navečer' is the earlier evening hours."
+    },
+    {
+      "id": "daily-routine-q27",
+      "prompt": "What does 'nakon posla' mean?",
+      "options": [
+        "after work",
+        "before work",
+        "at work",
+        "without work"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nakon posla' means 'after work'. 'Nakon' is a preposition meaning after, always followed by the genitive; 'posao' (work) → genitive 'posla'. Compare: 'prije posla' (before work), 'na poslu' (at work)."
+    },
+    {
+      "id": "daily-routine-q28",
+      "prompt": "What does 'Čitam knjigu.' mean?",
+      "options": [
+        "I write a book.",
+        "I buy a book.",
+        "I read a book.",
+        "I find a book."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Čitam' is the first-person singular of 'čitati' (to read). 'Knjiga' = book; 'knjigu' is its accusative form (the direct object). The full sentence means 'I read a book' or 'I am reading a book'."
+    },
+    {
+      "id": "daily-routine-q29",
+      "prompt": "What is the feminine form of 'inženjer' (engineer)?",
+      "options": [
+        "inženjera",
+        "inženjerica",
+        "inženjerka",
+        "inženjerice"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Inženjerica' is the feminine form of 'inženjer'. The suffix '-ica' is added: inženjer + ica = inženjerica. 'Inženjera' is the genitive of the masculine form, not a separate feminine form."
+    },
+    {
+      "id": "daily-routine-q30",
+      "prompt": "Which sentence means 'I get dressed quickly'?",
+      "options": [
+        "Perem se brzo.",
+        "Ustajem brzo.",
+        "Tuširam se brzo.",
+        "Oblačim se brzo."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Oblačim se brzo' means 'I get dressed quickly'. 'Oblačiti se' = to get dressed (reflexive); 'brzo' = quickly. Compare: 'Perem se' (I wash myself), 'Ustajem' (I get up), 'Tuširam se' (I shower)."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Morning routine",
+      "items": [
+        { "hr": "ustati se / ustajati se", "en": "to get up", "note": "1sg: 'Ustajem.' Perfective (one time): ustati se; imperfective (habitual): ustajati se" },
+        { "hr": "tuširati se", "en": "to shower", "note": "1sg: 'Tuširam se.' Reflexive — always used with 'se'" },
+        { "hr": "oblačiti se", "en": "to get dressed", "note": "1sg: 'Oblačim se.' Reflexive" },
+        { "hr": "prati zube", "en": "to brush teeth", "note": "1sg: 'Perem zube.' Not reflexive — no 'se'" },
+        { "hr": "piti kavu", "en": "to drink coffee", "note": "1sg: 'Pijem kavu.' 'Kava' = coffee (Croatian term; 'kafa' is used in Bosnia/Serbia)" },
+        { "hr": "jesti doručak", "en": "to eat breakfast", "note": "1sg: 'Jedem doručak.' 'Doručak' = breakfast" },
+        { "hr": "ujutro", "en": "in the morning", "note": "Time adverb from 'jutro' (morning); no case change needed" }
+      ]
+    },
+    {
+      "context": "Daytime activities",
+      "items": [
+        { "hr": "ići na posao", "en": "to go to work", "note": "1sg: 'Idem na posao.' 'Posao' = work/job" },
+        { "hr": "raditi", "en": "to work", "note": "1sg: 'Radim.' Also used for 'to do': 'Što radiš?' = What are you doing?" },
+        { "hr": "jesti ručak", "en": "to eat lunch", "note": "1sg: 'Jedem ručak.' 'Ručak' = lunch" },
+        { "hr": "u podne", "en": "at noon", "note": "Fixed phrase; 'podne' means midday/noon" },
+        { "hr": "odmor", "en": "break / rest", "note": "'Odmarati se' = to rest; 'odmor' = the rest or break itself" },
+        { "hr": "razgovarati", "en": "to chat / to have a conversation", "note": "1sg: 'Razgovaram.' 'Razgovor' = conversation" },
+        { "hr": "kolega / kolegica", "en": "colleague (m / f)", "note": "Used for work colleagues; 'prijatelj / prijateljica' = friend" }
+      ]
+    },
+    {
+      "context": "Evening routine",
+      "items": [
+        { "hr": "ići kući", "en": "to go home", "note": "1sg: 'Idem kući.' 'Kući' is the dative/directional of 'kuća' (house/home)" },
+        { "hr": "kuhati večeru", "en": "to cook dinner", "note": "1sg: 'Kuham večeru.' 'Večera' = dinner/supper" },
+        { "hr": "jesti večeru", "en": "to eat dinner", "note": "1sg: 'Jedem večeru.'" },
+        { "hr": "gledati televiziju", "en": "to watch television", "note": "1sg: 'Gledam televiziju.' Also: 'gledati film' = to watch a film" },
+        { "hr": "čitati", "en": "to read", "note": "1sg: 'Čitam.' Direct object in accusative: 'čitati knjigu' = to read a book" },
+        { "hr": "ići spavati", "en": "to go to sleep", "note": "1sg: 'Idem spavati.' Not reflexive. 'Spavati' = to sleep" },
+        { "hr": "navečer", "en": "in the evening", "note": "Time adverb from 'večer' (evening); use it like 'ujutro' (in the morning)" }
+      ]
+    },
+    {
+      "context": "Professions (m / f pairs)",
+      "items": [
+        { "hr": "učitelj / učiteljica", "en": "teacher (m / f)", "note": "Feminine adds '-ica': učitelj + ica = učiteljica" },
+        { "hr": "liječnik / liječnica", "en": "doctor (m / f)", "note": "Feminine: liječnik → liječnica (drop -k, add -ca)" },
+        { "hr": "inženjer / inženjerica", "en": "engineer (m / f)", "note": "Feminine: inženjer + ica = inženjerica" },
+        { "hr": "kuhar / kuharica", "en": "cook / chef (m / f)", "note": "'Kuharica' also means cookery book in everyday usage" },
+        { "hr": "vozač / vozačica", "en": "driver (m / f)", "note": "Feminine: vozač + ica = vozačica" },
+        { "hr": "programer / programerica", "en": "programmer (m / f)", "note": "Feminine: programer + ica = programerica" },
+        { "hr": "prodavač / prodavačica", "en": "salesperson (m / f)", "note": "Feminine: prodavač + ica = prodavačica" }
+      ]
+    },
+    {
+      "context": "Talking about your job",
+      "items": [
+        { "hr": "Što radite?", "en": "What do you do? (formal)", "note": "'Radite' is the formal Vi-form of 'raditi'. Use with strangers, elders, professionals." },
+        { "hr": "Što radiš?", "en": "What do you do? (informal)", "note": "'Radiš' is the informal ti-form. Use with friends, classmates, peers." },
+        { "hr": "Radim kao…", "en": "I work as…", "note": "Followed by the profession in nominative case: 'Radim kao liječnik.'" },
+        { "hr": "Ja sam…", "en": "I am…", "note": "Also used with profession: 'Ja sam učiteljica.' (I am a teacher.)" },
+        { "hr": "na poslu", "en": "at work", "note": "'Na' + locative for location; 'posao' → locative 'poslu'" },
+        { "hr": "zanimanje", "en": "profession / occupation", "note": "'Moje zanimanje je…' = My profession is… — slightly more formal phrasing" },
+        { "hr": "radno mjesto", "en": "workplace / job position", "note": "Literally 'working place'; used in formal or written contexts" }
+      ]
+    }
+  ]
+}

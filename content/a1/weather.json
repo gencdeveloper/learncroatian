@@ -1,0 +1,376 @@
+{
+  "id": "weather",
+  "level": "a1",
+  "order": 11,
+  "title": { "en": "Weather", "hr": "Kakvo je vrijeme?" },
+  "grammar": {
+    "title": { "en": "Talking About the Weather", "hr": "Razgovor o vremenu" },
+    "intro": "**Kakvo je vrijeme?** (What is the weather like?) is the key question for any weather conversation.\n\nTwo main patterns for answering:\n- Adjective + **je**: **Sunčano je.** (It is sunny.)\n- **Pada** + noun: **Pada kiša.** (It is raining.)",
+    "rules": [
+      {
+        "label": "Asking about the weather: 'Kakvo je vrijeme?'",
+        "explanation": "**Kakvo** = what kind of, **je** = is, **vrijeme** = weather (also means 'time' — context makes it clear).\n\nThis is the essential weather question in Croatian. Add **danas** (today) or a place name to be more specific.",
+        "examples": [
+          { "hr": "Kakvo je vrijeme danas?", "en": "What is the weather like today?" },
+          { "hr": "Kakvo je vrijeme u Zagrebu?", "en": "What is the weather like in Zagreb?" },
+          { "hr": "Kakvo je bilo vrijeme jučer?", "en": "What was the weather like yesterday?" }
+        ]
+      },
+      {
+        "label": "Weather adjectives used as predicates with 'je'",
+        "explanation": "Describe weather with a neuter adjective + **je**. The adjective comes first:\n\n- **Sunčano je.** – It is sunny.\n- **Oblačno je.** – It is cloudy.\n- **Vjetrovito je.** – It is windy.\n\nNo noun needed — the adjective stands alone.",
+        "examples": [
+          { "hr": "Sunčano je i toplo.", "en": "It is sunny and warm." },
+          { "hr": "Danas je oblačno i vjetrovito.", "en": "Today it is cloudy and windy." },
+          { "hr": "Zimi je hladno i snježno.", "en": "In winter it is cold and snowy." }
+        ]
+      },
+      {
+        "label": "The 'pada' (falls) construction for rain and snow",
+        "explanation": "Use **pada** (falls/is falling) + noun for rain or snow:\n\n- **Pada kiša.** – It is raining.\n- **Pada snijeg.** – It is snowing.\n\n**Kišovito je** = generally rainy; **Pada kiša** = rain is falling right now.",
+        "examples": [
+          { "hr": "Pada kiša.", "en": "It is raining. (lit. Rain is falling.)" },
+          { "hr": "Pada snijeg.", "en": "It is snowing. (lit. Snow is falling.)" },
+          { "hr": "Sutra će padati kiša.", "en": "Tomorrow it will rain." }
+        ]
+      },
+      {
+        "label": "Asking about temperature: 'Koliko je stupnjeva?'",
+        "explanation": "**Koliko je stupnjeva?** = How many degrees is it? Croatia uses Celsius.\n\n**Stupnjeva** is the genitive plural of **stupanj** (degree). To answer, say the number + **stupnjeva Celzijusa**: **Dvadeset je stupnjeva Celzijusa.**",
+        "examples": [
+          { "hr": "Koliko je stupnjeva danas?", "en": "How many degrees is it today?" },
+          { "hr": "Deset je stupnjeva Celzijusa.", "en": "It is ten degrees Celsius." },
+          { "hr": "Temperatura je dvadeset tri stupnja.", "en": "The temperature is twenty-three degrees." }
+        ]
+      },
+      {
+        "label": "Seasons and weather: ljeti, zimi, u proljeće, u jesen",
+        "explanation": "Seasons use different forms in Croatian:\n\n- **Ljeti** (in summer) – locative, no preposition\n- **Zimi** (in winter) – locative, no preposition\n- **U proljeće** (in spring) – u + accusative\n- **U jesen** (in autumn) – u + accusative\n\nCombine with any weather expression: **Ljeti je vruće.**",
+        "examples": [
+          { "hr": "Ljeti je vruće i sunčano na obali.", "en": "In summer it is hot and sunny on the coast." },
+          { "hr": "Zimi je hladno i pada snijeg u planinama.", "en": "In winter it is cold and it snows in the mountains." },
+          { "hr": "U proljeće često pada kiša.", "en": "In spring it often rains." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Adjective (pridjev)", "English", "Example sentence (primjer)"],
+      "rows": [
+        ["sunčan / sunčano", "sunny", "Danas je sunčano."],
+        ["oblačan / oblačno", "cloudy", "Oblačno je i sivo."],
+        ["kišovit / kišovito", "rainy", "Kišovito je cijeli dan."],
+        ["vjetrovit / vjetrovito", "windy", "Vjetrovito je na moru."],
+        ["hladan / hladno", "cold", "Zimi je hladno."],
+        ["topao / toplo", "warm", "U proljeće je toplo."],
+        ["vruć / vruće", "hot", "Ljeti je vruće."],
+        ["snježan / snježno", "snowy", "Snježno je u planinama."]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "A Trip to Plitvice Lakes", "hr": "Izlet na Plitvička jezera" },
+    "paragraphs": [
+      {
+        "hr": "Ana zove Marka u subotu ujutro. \"Marko, hoćemo li ići na Plitvička jezera ovaj vikend?\" pita Ana. \"Odlična ideja!\" odgovara Marko. \"Ali, kakvo je vrijeme za vikend?\"",
+        "en": "Ana calls Marko on Saturday morning. \"Marko, shall we go to Plitvice Lakes this weekend?\" asks Ana. \"Great idea!\" answers Marko. \"But, what is the weather like for the weekend?\""
+      },
+      {
+        "hr": "Ana provjerava vremensku prognozu na svom telefonu. \"Za subotu, prognoza kaže sunčano i toplo — oko dvadeset tri stupnja Celzijusa. Ali za nedjelju — oblačno i pada kiša.\" Marko sluša pažljivo.",
+        "en": "Ana checks the weather forecast on her phone. \"For Saturday, the forecast says sunny and warm — around twenty-three degrees Celsius. But for Sunday — cloudy and it will rain.\" Marko listens carefully."
+      },
+      {
+        "hr": "\"Idemo u subotu onda!\" kaže Marko. \"Savršeno. Ali, što trebamo ponijeti?\" Ana razmišlja. \"Trebamo sunčane naočale jer je sunčano. I udobne cipele za hodanje. Voda, sendviči...\" Marko se smije. \"Da, da — i kapu i jaknu. U planinama uvijek može biti vjetrovito!\"",
+        "en": "\"Let's go on Saturday then!\" says Marko. \"Perfect. But, what do we need to bring?\" Ana thinks. \"We need sunglasses because it is sunny. And comfortable shoes for walking. Water, sandwiches...\" Marko laughs. \"Yes, yes — and a hat and jacket. In the mountains it can always be windy!\""
+      },
+      {
+        "hr": "Razgovaraju o vremenu u Hrvatskoj općenito. \"Kakvo je obično vrijeme u proljeće?\" pita Marko. \"U proljeće je uglavnom toplo, ali često pada kiša,\" kaže Ana. \"Ljeti je vruće i sunčano, posebno na Jadranu. Zimi je hladno — pada snijeg u Gorskom kotaru i Lici. A u jesen je oblačno i kišovito.\"",
+        "en": "They talk about the weather in Croatia in general. \"What is the weather usually like in spring?\" asks Marko. \"In spring it is mostly warm, but it often rains,\" says Ana. \"In summer it is hot and sunny, especially on the Adriatic. In winter it is cold — it snows in Gorski kotar and Lika. And in autumn it is cloudy and rainy.\""
+      },
+      {
+        "hr": "\"A kakvo je vrijeme u Engleskoj?\" pita Ana. Marko se smije. \"U Engleskoj uvijek pada kiša! Malo se šalim... ali uglavnom je oblačno i vjetrovito. Rijetko je vruće — možda petnaest ili šesnaest stupnjeva ljeti. Ovdje u Hrvatskoj je puno bolje ljeti!\"",
+        "en": "\"And what is the weather like in England?\" asks Ana. Marko laughs. \"In England it always rains! I'm joking a little... but it is mostly cloudy and windy. It is rarely hot — maybe fifteen or sixteen degrees in summer. Here in Croatia it is much better in summer!\""
+      },
+      {
+        "hr": "U subotu Ana i Marko kreću rano ujutro. Sunčano je, ali hladno — samo deset stupnjeva. Oboje znaju da će postati toplije. Plitvička jezera su prekrasna: vedro plavo nebo, zelene šume i tirkizne vode. \"Kakvo savršeno vrijeme za izlet!\" kaže Ana. \"Slažem se,\" odgovara Marko s osmijehom.",
+        "en": "On Saturday Ana and Marko set off early in the morning. It is sunny but cold — only ten degrees. They both know it will get warmer. Plitvice Lakes are beautiful: a clear blue sky, green forests, and turquoise waters. \"What perfect weather for a day trip!\" says Ana. \"I agree,\" answers Marko with a smile."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "weather-q1",
+      "prompt": "What does the Saturday weather forecast say, according to Ana?",
+      "promptHr": "Što prognoza kaže za subotu, prema Ani?",
+      "options": ["Cloudy and windy", "Sunny and warm, around 23 degrees", "Rainy and cold", "Snowy"],
+      "correctIndex": 1,
+      "explanation": "Ana reads: 'Za subotu, prognoza kaže sunčano i toplo — oko dvadeset tri stupnja Celzijusa.'"
+    },
+    {
+      "id": "weather-q2",
+      "prompt": "Why does Marko suggest bringing a hat and jacket?",
+      "promptHr": "Zašto Marko predlaže ponijeti kapu i jaknu?",
+      "options": ["Because it will snow", "Because it will rain heavily", "Because in the mountains it can always be windy", "Because it will be cold all day"],
+      "correctIndex": 2,
+      "explanation": "Marko says 'U planinama uvijek može biti vjetrovito!' — In the mountains it can always be windy."
+    },
+    {
+      "id": "weather-q3",
+      "prompt": "What is the weather like in Croatia in summer, according to Ana?",
+      "promptHr": "Kakvo je vrijeme u Hrvatskoj ljeti, prema Ani?",
+      "options": ["Warm and rainy", "Cold and snowy", "Hot and sunny, especially on the Adriatic", "Cloudy and windy"],
+      "correctIndex": 2,
+      "explanation": "Ana says 'Ljeti je vruće i sunčano, posebno na Jadranu.'"
+    },
+    {
+      "id": "weather-q4",
+      "prompt": "How does Marko describe the weather in England?",
+      "promptHr": "Kako Marko opisuje vrijeme u Engleskoj?",
+      "options": ["Hot and sunny", "Cold and snowy all year", "Mostly cloudy and windy, and it often rains", "Perfect, just like Croatia"],
+      "correctIndex": 2,
+      "explanation": "Marko says it is 'uglavnom oblačno i vjetrovito' and that 'U Engleskoj uvijek pada kiša!'"
+    },
+    {
+      "id": "weather-q5",
+      "prompt": "What is the temperature when Ana and Marko leave for Plitvice on Saturday morning?",
+      "promptHr": "Koliko je stupnjeva kada Ana i Marko kreću u subotu ujutro?",
+      "options": ["23 degrees", "15 degrees", "10 degrees", "30 degrees"],
+      "correctIndex": 2,
+      "explanation": "The text says 'hladno — samo deset stupnjeva' — cold, only ten degrees."
+    }
+  ],
+  "test": [
+    {
+      "id": "weather-q6",
+      "prompt": "What does 'Kakvo je vrijeme?' mean?",
+      "options": ["How are you?", "What time is it?", "What is the weather like?", "Where is the weather forecast?"],
+      "correctIndex": 2,
+      "explanation": "'Kakvo' = what kind of, 'je' = is, 'vrijeme' = weather. Together: 'What is the weather like?'"
+    },
+    {
+      "id": "weather-q7",
+      "prompt": "How do you say 'It is sunny' in Croatian?",
+      "options": ["Pada sunce.", "Je sunčano.", "Sunčano je.", "Sunce je toplo."],
+      "correctIndex": 2,
+      "explanation": "'Sunčano je.' — the adjective in its neuter/predicate form + 'je'. Adjective-first is the most natural word order."
+    },
+    {
+      "id": "weather-q8",
+      "prompt": "What does 'Pada kiša' mean?",
+      "options": ["It is a rainy day", "It is raining / Rain is falling", "The rain has stopped", "It was raining yesterday"],
+      "correctIndex": 1,
+      "explanation": "'Pada' = falls/is falling, 'kiša' = rain. Literally 'Rain is falling' — the standard way to say 'It is raining'."
+    },
+    {
+      "id": "weather-q9",
+      "prompt": "How do you say 'It is snowing' in Croatian?",
+      "options": ["Snijeg je.", "Snježno je.", "Pada snijeg.", "Je snijeg."],
+      "correctIndex": 2,
+      "explanation": "'Pada snijeg.' (Snow is falling / It is snowing) — use the 'pada' + noun construction, just as with rain."
+    },
+    {
+      "id": "weather-q10",
+      "prompt": "What does 'vjetrovito' mean?",
+      "options": ["cloudy", "rainy", "windy", "snowy"],
+      "correctIndex": 2,
+      "explanation": "'Vjetrovito' comes from 'vjetar' (wind). 'Vjetrovito je.' = It is windy."
+    },
+    {
+      "id": "weather-q11",
+      "prompt": "What does 'hladno' mean?",
+      "options": ["hot", "warm", "cold", "cool"],
+      "correctIndex": 2,
+      "explanation": "'Hladno je.' = It is cold. The opposites are 'toplo' (warm) and 'vruće' (hot)."
+    },
+    {
+      "id": "weather-q12",
+      "prompt": "How do you ask 'How many degrees is it?' in Croatian?",
+      "options": ["Koliko je vruće?", "Koliko je stupnjeva?", "Koja je temperatura danas?", "Koliko je sati?"],
+      "correctIndex": 1,
+      "explanation": "'Koliko je stupnjeva?' = How many degrees is it? 'Stupnjeva' is the genitive plural of 'stupanj' (degree)."
+    },
+    {
+      "id": "weather-q13",
+      "prompt": "What does 'oblačno' mean?",
+      "options": ["sunny", "snowy", "windy", "cloudy"],
+      "correctIndex": 3,
+      "explanation": "'Oblačno je.' = It is cloudy. 'Oblak' means cloud."
+    },
+    {
+      "id": "weather-q14",
+      "prompt": "How do you say 'It is hot and sunny' in Croatian?",
+      "options": ["Toplo je i kišovito.", "Vruće je i sunčano.", "Hladno je i oblačno.", "Vjetrovito je i sunčano."],
+      "correctIndex": 1,
+      "explanation": "'Vruće je i sunčano.' — 'vruće' = hot, 'sunčano' = sunny."
+    },
+    {
+      "id": "weather-q15",
+      "prompt": "What is the Croatian word for 'warm'?",
+      "options": ["vruće", "hladno", "toplo", "sunčano"],
+      "correctIndex": 2,
+      "explanation": "'Toplo' means warm. 'Vruće' means hot — a stronger degree of heat."
+    },
+    {
+      "id": "weather-q16",
+      "prompt": "Fill in the blank: 'Zimi je ___.' (In winter it is cold.)",
+      "options": ["vruće", "sunčano", "hladno", "toplo"],
+      "correctIndex": 2,
+      "explanation": "'Zimi je hladno.' = In winter it is cold. 'Zimi' is the locative form of 'zima' (winter)."
+    },
+    {
+      "id": "weather-q17",
+      "prompt": "Fill in the blank: 'Ljeti je ___ na obali.' (In summer it is hot on the coast.)",
+      "options": ["hladno", "snježno", "oblačno", "vruće"],
+      "correctIndex": 3,
+      "explanation": "'Ljeti je vruće na obali.' = In summer it is hot on the coast. 'Vruće' = hot."
+    },
+    {
+      "id": "weather-q18",
+      "prompt": "What does 'u proljeće' mean?",
+      "options": ["in winter", "in summer", "in autumn", "in spring"],
+      "correctIndex": 3,
+      "explanation": "'U proljeće' = in spring. 'Proljeće' means spring."
+    },
+    {
+      "id": "weather-q19",
+      "prompt": "How do you say 'It is twenty degrees Celsius' in Croatian?",
+      "options": ["Dvadeset je stupnjeva Celzijusa.", "Temperatura Celzijusa je dvadeset.", "Je dvadeset stupnjeva.", "Dvadeset stupnjeva Celsius je."],
+      "correctIndex": 0,
+      "explanation": "'Dvadeset je stupnjeva Celzijusa.' — number first, then 'je', then 'stupnjeva Celzijusa'."
+    },
+    {
+      "id": "weather-q20",
+      "prompt": "What does 'kišovito' mean?",
+      "options": ["windy", "cloudy", "snowy", "rainy"],
+      "correctIndex": 3,
+      "explanation": "'Kišovito je.' = It is rainy. 'Kiša' means rain; 'kišovit / kišovito' means rainy."
+    },
+    {
+      "id": "weather-q21",
+      "prompt": "Which sentence means 'It is windy today'?",
+      "options": ["Danas pada kiša.", "Danas je oblačno.", "Danas je vjetrovito.", "Danas je sunčano."],
+      "correctIndex": 2,
+      "explanation": "'Danas je vjetrovito.' = Today it is windy. 'Danas' = today."
+    },
+    {
+      "id": "weather-q22",
+      "prompt": "Which season is best described by 'Pada snijeg i hladno je'?",
+      "options": ["Spring (proljeće)", "Summer (ljeto)", "Autumn (jesen)", "Winter (zima)"],
+      "correctIndex": 3,
+      "explanation": "Snow and cold are characteristic of winter — 'zima'. 'Zimi pada snijeg i hladno je.'"
+    },
+    {
+      "id": "weather-q23",
+      "prompt": "What does 'sunčano' mean?",
+      "options": ["snowy", "sunny", "rainy", "warm"],
+      "correctIndex": 1,
+      "explanation": "'Sunčano' comes from 'sunce' (sun). 'Sunčano je.' = It is sunny."
+    },
+    {
+      "id": "weather-q24",
+      "prompt": "If someone says 'Vjetrovito je', what clothing makes most sense?",
+      "options": ["Sunglasses (sunčane naočale)", "A swimsuit (kupaći kostim)", "A jacket (jakna)", "Sandals (sandale)"],
+      "correctIndex": 2,
+      "explanation": "'Vjetrovito je' = It is windy. A jacket (jakna) protects you from the wind."
+    },
+    {
+      "id": "weather-q25",
+      "prompt": "How do you say 'In autumn it is cloudy and rainy' in Croatian?",
+      "options": ["U jesen je sunčano i toplo.", "Ljeti je oblačno i kišovito.", "U jesen je oblačno i kišovito.", "Zimi je vjetrovito i kišovito."],
+      "correctIndex": 2,
+      "explanation": "'U jesen je oblačno i kišovito.' = In autumn it is cloudy and rainy. 'Jesen' = autumn."
+    },
+    {
+      "id": "weather-q26",
+      "prompt": "What does 'snježno' mean?",
+      "options": ["cold", "icy", "snowy", "frozen"],
+      "correctIndex": 2,
+      "explanation": "'Snježno' comes from 'snijeg' (snow). 'Snježno je.' = It is snowy."
+    },
+    {
+      "id": "weather-q27",
+      "prompt": "Which is the correct way to say 'It is raining' in Croatian?",
+      "options": ["Kišovito je.", "Pada kiša.", "Kiša je.", "Je kiša."],
+      "correctIndex": 1,
+      "explanation": "'Pada kiša.' is the standard phrase — literally 'Rain is falling.' 'Kišovito je' means it is a rainy day in general."
+    },
+    {
+      "id": "weather-q28",
+      "prompt": "What does 'Toplo je' mean?",
+      "options": ["It is cold.", "It is hot.", "It is warm.", "It is cloudy."],
+      "correctIndex": 2,
+      "explanation": "'Toplo je.' = It is warm. Remember: 'toplo' = warm, 'vruće' = hot, 'hladno' = cold."
+    },
+    {
+      "id": "weather-q29",
+      "prompt": "What does 'Puše vjetar' mean?",
+      "options": ["It is snowing", "The wind is blowing", "It is raining", "The sun is shining"],
+      "correctIndex": 1,
+      "explanation": "'Puše' = blows (from 'puhati', to blow), 'vjetar' = wind. Together: 'The wind is blowing.'"
+    },
+    {
+      "id": "weather-q30",
+      "prompt": "Which answer correctly responds to 'Kakvo je vrijeme danas?'",
+      "options": ["Danas je ponedjeljak.", "Tri sata i dvadeset minuta.", "Sunčano je i toplo.", "Ona je lijepa."],
+      "correctIndex": 2,
+      "explanation": "'Sunčano je i toplo.' = It is sunny and warm — a perfect answer to 'What is the weather like today?'"
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Use these adjectives in their neuter/predicate form with 'je' to describe current weather. The most natural word order places the adjective before 'je': 'Sunčano je.'",
+      "items": [
+        { "hr": "Sunčano je.", "en": "It is sunny." },
+        { "hr": "Oblačno je.", "en": "It is cloudy." },
+        { "hr": "Kišovito je.", "en": "It is rainy." },
+        { "hr": "Vjetrovito je.", "en": "It is windy." },
+        { "hr": "Hladno je.", "en": "It is cold." },
+        { "hr": "Toplo je.", "en": "It is warm." },
+        { "hr": "Vruće je.", "en": "It is hot." },
+        { "hr": "Snježno je.", "en": "It is snowy." }
+      ]
+    },
+    {
+      "context": "Use these words and phrases when discussing temperature and checking the weather forecast.",
+      "items": [
+        { "hr": "Koliko je stupnjeva?", "en": "How many degrees is it?" },
+        { "hr": "Deset je stupnjeva Celzijusa.", "en": "It is ten degrees Celsius.", "note": "Replace 'deset' with any number." },
+        { "hr": "temperatura", "en": "temperature" },
+        { "hr": "vremenska prognoza", "en": "weather forecast" },
+        { "hr": "termometar", "en": "thermometer" },
+        { "hr": "Sutra će biti sunčano.", "en": "Tomorrow it will be sunny." }
+      ]
+    },
+    {
+      "context": "Seasonal weather in Croatia. 'Ljeti' and 'zimi' are locative forms used without a preposition; 'u proljeće' and 'u jesen' use 'u' + accusative.",
+      "items": [
+        { "hr": "ljeto → ljeti", "en": "summer → in summer", "note": "Ljeti je vruće i sunčano." },
+        { "hr": "zima → zimi", "en": "winter → in winter", "note": "Zimi je hladno i pada snijeg." },
+        { "hr": "proljeće → u proljeće", "en": "spring → in spring", "note": "U proljeće pada kiša." },
+        { "hr": "jesen → u jesen", "en": "autumn → in autumn", "note": "U jesen je oblačno i kišovito." },
+        { "hr": "godišnja doba", "en": "seasons (lit. yearly times)" }
+      ]
+    },
+    {
+      "context": "'Pada' (falls) is used with 'kiša' (rain) and 'snijeg' (snow). 'Puše' (blows) is used with 'vjetar' (wind). These verbs replace the adjective when weather is actively happening.",
+      "items": [
+        { "hr": "Pada kiša.", "en": "It is raining. (lit. Rain is falling.)" },
+        { "hr": "Pada snijeg.", "en": "It is snowing. (lit. Snow is falling.)" },
+        { "hr": "Puše vjetar.", "en": "The wind is blowing." },
+        { "hr": "kiša", "en": "rain" },
+        { "hr": "snijeg", "en": "snow" },
+        { "hr": "vjetar", "en": "wind" }
+      ]
+    },
+    {
+      "context": "Practical phrases for everyday weather conversations.",
+      "items": [
+        { "hr": "Kakvo je vrijeme?", "en": "What is the weather like?" },
+        { "hr": "Kakvo je vrijeme danas?", "en": "What is the weather like today?" },
+        { "hr": "Lijepo je vrijeme.", "en": "The weather is nice." },
+        { "hr": "Ružno je vrijeme.", "en": "The weather is bad / unpleasant." },
+        { "hr": "Uzmi kišobran!", "en": "Take an umbrella!", "note": "kišobran = umbrella" },
+        { "hr": "Obući ću jaknu.", "en": "I will put on a jacket." }
+      ]
+    }
+  ]
+}

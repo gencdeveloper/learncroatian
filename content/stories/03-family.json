@@ -1,0 +1,60 @@
+{
+  "id": "croatian-family",
+  "level": "a2",
+  "order": 2,
+  "title": { "hr": "Petrova velika obitelj", "en": "Petra's Big Family" },
+  "topicsUsed": ["family", "describing-people", "comparatives", "dative-case", "genitive-case"],
+  "paragraphs": [
+    {
+      "hr": "Zovem se Petra i imam dvadeset i osam godina. Radim kao učiteljica u Zagrebu, ali svake nedjelje se vraćam u rodni grad Karlovac na obiteljski ručak. Moja obitelj nije mala — nas je ukupno četrnaest ako dođe sva rodbina. Nedjelja je moj omiljeni dan u tjednu.",
+      "en": "My name is Petra and I am twenty-eight years old. I work as a teacher in Zagreb, but every Sunday I return to my hometown of Karlovac for the family lunch. My family is not small — there are fourteen of us in total if all the relatives come. Sunday is my favourite day of the week."
+    },
+    {
+      "hr": "Moj otac Ivan je visok i jak muškarac s tamnom kosom i smeđim očima. On je inženjer i radi u velikoj tvornici. Moja majka Ana je nježna i vesela žena s plavom kosom i zelenim očima. Ona je bolja kuharica od svih kuhara koje poznajem — njezina sarma i juha od povrća su najukusnije jelo.",
+      "en": "My father Ivan is a tall and strong man with dark hair and brown eyes. He is an engineer and works in a large factory. My mother Ana is a gentle and cheerful woman with blonde hair and green eyes. She is a better cook than any chef I know — her stuffed cabbage rolls and vegetable soup are the most delicious dish."
+    },
+    {
+      "hr": "Imam starijeg brata Marka koji je viši od mene i koji je završio fakultet prošle godine. Marko sada radi kao inženjer poput oca i živi u Rijeci sa svojom djevojkom Lanom. Moja mlađa sestra Lucija ima petnaest godina — njezina kosa je kratka i kovrčava, a lice joj je uvijek nasmijano.",
+      "en": "I have an older brother Marko who is taller than me and who finished university last year. Marko now works as an engineer like our father and lives in Rijeka with his girlfriend Lana. My younger sister Lucija is fifteen years old — her hair is short and curly, and her face is always smiling."
+    },
+    {
+      "hr": "Naši baka i djed žive u malom selu petnaest kilometara od Karlovca. Njihova kuća je stara, ali topla i udobna, s velikim vrtom punim cvijeća i voćaka. Svake nedjelje vozimo se autom do njihove kuće. Djed nas uvijek čeka pred kućom i maše rukom čim ugleda naš auto na cesti.",
+      "en": "Our grandmother and grandfather live in a small village fifteen kilometres from Karlovac. Their house is old, but warm and comfortable, with a large garden full of flowers and fruit trees. Every Sunday we drive by car to their house. Grandfather always waits for us in front of the house and waves as soon as he spots our car on the road."
+    },
+    {
+      "hr": "Kad stignemo, baka je uvijek u kuhinji. Ona kuha satima i nikada ne sjedne za stol dok ne donese sva jela. Djedu davamo cvijeće koje kupujemo usput, a on nam priča stare priče o životu u Karlovcu u mladosti. Djed je pripovijedač koji zna učiniti svaku priču uzbudljivom.",
+      "en": "When we arrive, grandmother is always in the kitchen. She cooks for hours and never sits at the table until she has brought all the dishes. We give grandfather flowers that we buy on the way, and he tells us old stories about life in Karlovac in his youth. Grandfather is a storyteller who knows how to make every story exciting."
+    },
+    {
+      "hr": "Za stolom sjedi cijela obitelj. Ujak Tomislav uvijek donosi vino iz svog podruma, a ujna Vesna donosi domaći kolač. Njihova djeca Nikola i Sara, moji mlađi rođaci, igraju se u vrtu dok odrasli pričaju. Na kraju ručka baka donosi tortu i svi pjevamo za čiji god je rođendan.",
+      "en": "The whole family sits at the table. Uncle Tomislav always brings wine from his cellar, and aunt Vesna brings homemade cake. Their children Nikola and Sara, my younger cousins, play in the garden while the adults talk. At the end of lunch grandmother brings a cake and we all sing for whoever's birthday it is."
+    },
+    {
+      "hr": "Kad se navečer vraćamo u Zagreb, uvijek se osjećam sretnom i punom energije. Bakina hrana, djedove priče, bratov smijeh i sestrine šale — to su stvari koje me čine sretnijom od svega. Dajem baki nježan zagrljaj na odlasku i kažem joj koliko je volim. Ona mi uvijek odgovori: I ja tebe, draga moja.",
+      "en": "When we return to Zagreb in the evening, I always feel happy and full of energy. Grandmother's food, grandfather's stories, brother's laughter and sister's jokes — these are the things that make me happiest. I give grandmother a gentle hug when leaving and tell her how much I love her. She always replies: I love you too, my dear."
+    }
+  ],
+  "vocabulary": {
+    "verbs": [
+      { "hr": "vraćati se", "en": "to return / to come back" },
+      { "hr": "kuhati", "en": "to cook" },
+      { "hr": "mahati", "en": "to wave" },
+      { "hr": "zagrliti", "en": "to hug" },
+      { "hr": "pjevati", "en": "to sing" }
+    ],
+    "nouns": [
+      { "hr": "rodbina", "en": "relatives / family members" },
+      { "hr": "vrt", "en": "garden" },
+      { "hr": "pripovijedač", "en": "storyteller" },
+      { "hr": "podrum", "en": "cellar" },
+      { "hr": "zagrljaj", "en": "hug / embrace" }
+    ],
+    "adjectives": [
+      { "hr": "nježan / nježna", "en": "gentle" },
+      { "hr": "veseo / vesela", "en": "cheerful / merry" },
+      { "hr": "kovrčav / kovrčava", "en": "curly" },
+      { "hr": "uzbudljiv / uzbudljiva", "en": "exciting" },
+      { "hr": "udoban / udobna", "en": "comfortable" }
+    ]
+  }
+}

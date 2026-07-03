@@ -1,0 +1,19 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import ChunkCollectionPage from "../../components/ChunkCollectionPage.astro";
+import { getAllChunkCollections } from "../../lib/content";
+
+export async function getStaticPaths() {
+  const collections = getAllChunkCollections();
+  return collections.map((collection) => ({
+    params: { id: collection.id },
+    props: { collection },
+  }));
+}
+
+const { collection } = Astro.props;
+---
+
+<Layout title={`${collection.title.en} | Learn Croatian`}>
+  <ChunkCollectionPage collection={collection} />
+</Layout>

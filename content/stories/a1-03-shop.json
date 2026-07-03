@@ -1,0 +1,52 @@
+{
+  "id": "shop",
+  "level": "a1",
+  "order": 3,
+  "title": { "hr": "U dućanu", "en": "At the Shop" },
+  "topicsUsed": ["food", "numbers", "prices", "present-tense", "polite-phrases"],
+  "paragraphs": [
+    {
+      "hr": "Petra ide u dućan svaki dan. Danas treba kupiti voće i povrće. Lokalni dućan je blizu njezina stana. Vlasnik dućana se zove Branko. On uvijek ima svježe voće i zeleno povrće.",
+      "en": "Petra goes to the shop every day. Today she needs to buy fruit and vegetables. The local shop is near her flat. The shop owner's name is Branko. He always has fresh fruit and green vegetables."
+    },
+    {
+      "hr": "Petra uzima košaricu. Ona vidi jabuke — crvene i lijepe. Uzima pet jabuka. Zatim vidi banane — žute i zrele. Uzima tri banane. Petra voli voće jer je zdravo i ukusno.",
+      "en": "Petra takes a basket. She sees apples — red and beautiful. She takes five apples. Then she sees bananas — yellow and ripe. She takes three bananas. Petra loves fruit because it is healthy and delicious."
+    },
+    {
+      "hr": "Petra ide do polica s povrćem. Ona treba rajčice i luk. Uzima četiri rajčice i jedan luk. Rajčice su velike i crvene. Petra voli kuhati. Danas pravi umak za tjesteninu.",
+      "en": "Petra goes to the shelves with vegetables. She needs tomatoes and an onion. She takes four tomatoes and one onion. The tomatoes are big and red. Petra loves cooking. Today she is making pasta sauce."
+    },
+    {
+      "hr": "Na kraju uzima kruh i mlijeko. Branko je za blagajnom. On kaže: Dobar dan, Petra! Sve zajedno je pet eura i dvadeset centi. Petra plaća gotovinom. Branko daje kusur — osamdeset centi. Petra kaže: Hvala lijepa, doviđenja!",
+      "en": "Finally she takes bread and milk. Branko is at the till. He says: Good afternoon, Petra! All together it is five euros and twenty cents. Petra pays in cash. Branko gives change — eighty cents. Petra says: Thank you very much, goodbye!"
+    },
+    {
+      "hr": "Petra ide kući s namirnicama. Torba je teška ali ona je sretna. Ona će kuhati ručak za sebe i susjeda Marka. Marko je star sedamdeset godina i Petra mu uvijek donosi hranu. Ona je dobra susjeda.",
+      "en": "Petra goes home with the groceries. The bag is heavy but she is happy. She will cook lunch for herself and her neighbour Marko. Marko is seventy years old and Petra always brings him food. She is a good neighbour."
+    }
+  ],
+  "vocabulary": {
+    "verbs": [
+      { "hr": "kupiti", "en": "to buy" },
+      { "hr": "uzeti", "en": "to take" },
+      { "hr": "platiti", "en": "to pay" },
+      { "hr": "kuhati", "en": "to cook" },
+      { "hr": "trebati", "en": "to need" }
+    ],
+    "nouns": [
+      { "hr": "dućan", "en": "shop" },
+      { "hr": "jabuka", "en": "apple" },
+      { "hr": "rajčica", "en": "tomato" },
+      { "hr": "namirnice", "en": "groceries" },
+      { "hr": "kusur", "en": "change (money)" }
+    ],
+    "adjectives": [
+      { "hr": "svjež / svježa", "en": "fresh" },
+      { "hr": "crven / crvena", "en": "red" },
+      { "hr": "velik / velika", "en": "big" },
+      { "hr": "zdrav / zdrava", "en": "healthy" },
+      { "hr": "težak / teška", "en": "heavy" }
+    ]
+  }
+}

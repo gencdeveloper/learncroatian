@@ -1,0 +1,56 @@
+{
+  "id": "new-flat",
+  "level": "a2",
+  "order": 4,
+  "title": { "hr": "Novi stan", "en": "New Flat" },
+  "topicsUsed": ["past-tense", "future-tense", "comparatives", "genitive-case", "modal-verbs"],
+  "paragraphs": [
+    {
+      "hr": "Sara i njezin dečko David su odlučili živjeti zajedno. Tražili su stan u Zagrebu tri tjedna. Gledali su oglase na internetu svaki dan. Vidjeli su puno stanova — neki su bili premali, drugi preskupi, a jedan je bio toliko prljav da su odmah otišli.",
+      "en": "Sara and her boyfriend David decided to live together. They searched for a flat in Zagreb for three weeks. They looked at advertisements online every day. They saw many flats — some were too small, others too expensive, and one was so dirty that they left immediately."
+    },
+    {
+      "hr": "U srijedu su išli pogledati stan u Trešnjevki. Stan je bio na drugom katu stare zgrade. Imao je dvije sobe, kuhinju, kupaonicu i mali balkon. Balkon je imao pogled na tihu ulicu s drvećem. Sara je odmah rekla: Ovo mi se sviđa!",
+      "en": "On Wednesday they went to look at a flat in Trešnjevka. The flat was on the second floor of an old building. It had two rooms, a kitchen, a bathroom and a small balcony. The balcony had a view of a quiet street with trees. Sara immediately said: I like this!"
+    },
+    {
+      "hr": "Stan je bio veći nego prethodni koji su pogledali i bliži centru. Bio je malo stariji, ali u dobrom stanju. Renovirana kupaonica bila je nova i čista. Podovi su bili drveni i lijepi. David je rekao da je stan bolji od svih koje su vidjeli do tada.",
+      "en": "The flat was larger than the previous one they had seen and closer to the centre. It was a bit older, but in good condition. The renovated bathroom was new and clean. The floors were wooden and beautiful. David said the flat was better than all the ones they had seen so far."
+    },
+    {
+      "hr": "Vlasnik stana, gospodin Perić, bio je stariji čovjek. Rekao im je da je stan slobodan od prvog listopada. Najam je bio osam stotina eura na mjesec. Sara i David su pitali može li biti manje. Gospodin Perić je razmišljao i rekao da može spustiti na sedam stotina pedeset.",
+      "en": "The flat owner, Mr Perić, was an older man. He told them the flat would be available from the first of October. The rent was eight hundred euros a month. Sara and David asked if it could be less. Mr Perić thought about it and said he could lower it to seven hundred and fifty."
+    },
+    {
+      "hr": "Sara i David su rekli da će razmisliti do sutra. Kod kuće su razgovarali o prednostima i nedostacima. Sara je rekla da je lokacija savršena i da su drveni podovi predivni. David je rekao da je stanarina još uvijek skupa, ali da je stan zaista dobar. Na kraju su odlučili uzeti ga.",
+      "en": "Sara and David said they would think about it until tomorrow. At home they talked about the pros and cons. Sara said the location was perfect and the wooden floors were beautiful. David said the rent was still expensive but the flat was really good. In the end they decided to take it."
+    },
+    {
+      "hr": "Nazvali su gospodina Perića i rekli mu da ga uzimaju. Potpisali su ugovor u četvrtak. Useljavaju se prvog listopada. Sara je već počela pakirati stvari. David je mislio gdje će staviti namještaj. Oboje su uzbuđeni i ne mogu čekati da počnu novi život zajedno.",
+      "en": "They called Mr Perić and told him they would take it. They signed the contract on Thursday. They move in on the first of October. Sara has already started packing her things. David was thinking about where to put the furniture. They are both excited and cannot wait to start their new life together."
+    }
+  ],
+  "vocabulary": {
+    "verbs": [
+      { "hr": "tražiti", "en": "to search / to look for" },
+      { "hr": "pogledati", "en": "to look at / to visit (a flat)" },
+      { "hr": "potpisati", "en": "to sign" },
+      { "hr": "useliti se", "en": "to move in" },
+      { "hr": "pakirati", "en": "to pack" }
+    ],
+    "nouns": [
+      { "hr": "oglas", "en": "advertisement" },
+      { "hr": "balkon", "en": "balcony" },
+      { "hr": "stanarina / najam", "en": "rent" },
+      { "hr": "ugovor", "en": "contract" },
+      { "hr": "namještaj", "en": "furniture" }
+    ],
+    "adjectives": [
+      { "hr": "prljav / prljava", "en": "dirty" },
+      { "hr": "slobodan / slobodna", "en": "available / free" },
+      { "hr": "drveni / drvena", "en": "wooden" },
+      { "hr": "savršen / savršena", "en": "perfect" },
+      { "hr": "uzbuđen / uzbuđena", "en": "excited" }
+    ]
+  }
+}

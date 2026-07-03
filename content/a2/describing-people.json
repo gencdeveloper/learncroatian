@@ -1,0 +1,344 @@
+{
+  "id": "describing-people",
+  "level": "a2",
+  "order": 7,
+  "title": { "en": "Describing People", "hr": "Opisivanje ljudi" },
+  "grammar": {
+    "title": { "en": "Adjectives for Describing People", "hr": "Pridjevi za opisivanje ljudi" },
+    "intro": "In Croatian, adjectives agree in **gender** (masculine/feminine/neuter) and **number** with the noun they describe.\n\nThe main gender endings for adjectives are:\n- Masculine: consonant or **-ao** (e.g. **visok**, **debeo**)\n- Feminine: **-a** (e.g. **visoka**, **debela**)\n- Neuter: **-o** (e.g. **visoko**, **debelo**)",
+    "rules": [
+      {
+        "label": "Physical appearance adjectives",
+        "explanation": "Use **'On je'** (He is) or **'Ona je'** (She is) before the adjective. The adjective must match the gender of the person:\n- Masculine: **visok**, **nizak**, **mršav**, **debeo**, **mlad**, **star**, **plavokos**\n- Feminine: **visoka**, **niska**, **mršava**, **debela**, **mlada**, **stara**, **plavokosa**",
+        "examples": [
+          { "hr": "On je visok i mlad.", "en": "He is tall and young." },
+          { "hr": "Ona je niska i mršava.", "en": "She is short and slim." },
+          { "hr": "Baka je stara ali energična.", "en": "Grandma is old but energetic." }
+        ]
+      },
+      {
+        "label": "Using 'Ima' for physical features",
+        "explanation": "To describe specific features (eyes, hair, smile), use **'Ima'** (He/She has) followed by an adjective + noun.\n\nThe adjective agrees with the **noun**, not the person:\n- **plave oči** (blue eyes — feminine plural)\n- **kratku kosu** (short hair — feminine accusative)\n- **lijep osmijeh** (nice smile — masculine)",
+        "examples": [
+          { "hr": "Ima plave oči.", "en": "He/She has blue eyes." },
+          { "hr": "Ima kratku tamnu kosu.", "en": "He/She has short dark hair." },
+          { "hr": "Ima lijep osmijeh.", "en": "He/She has a nice smile." }
+        ]
+      },
+      {
+        "label": "Comparing with 'izgleda kao' and 'podsjeća me na'",
+        "explanation": "Use **'Izgleda kao...'** to say someone looks like something, and **'Podsjeća me na...'** to say someone reminds you of someone.\n\n**'Podsjeća me na...'** is followed by the accusative case.",
+        "examples": [
+          { "hr": "Izgleda kao filmska zvijezda.", "en": "She looks like a movie star." },
+          { "hr": "Podsjeća me na mog oca.", "en": "He reminds me of my father." },
+          { "hr": "Izgleda mlado za svoje godine.", "en": "He/She looks young for his/her age." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Masculine", "Feminine", "Neuter", "English"],
+      "rows": [
+        ["visok", "visoka", "visoko", "tall"],
+        ["nizak", "niska", "nisko", "short"],
+        ["mršav", "mršava", "mršavo", "slim"],
+        ["debeo", "debela", "debelo", "fat/overweight"],
+        ["mlad", "mlada", "mlado", "young"],
+        ["star", "stara", "staro", "old"],
+        ["plavokos", "plavokosa", "plavokoso", "blonde"],
+        ["pametan", "pametna", "pametno", "clever"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "Two Very Different Friends", "hr": "Dva potpuno različita prijatelja" },
+    "paragraphs": [
+      {
+        "hr": "Ana i Marko sjede u kafiću i razgovaraju o njihovim prijateljima.",
+        "en": "Ana and Marko are sitting in a café talking about their friends."
+      },
+      {
+        "hr": "„Moja prijateljica Emma je visoka i plavokosa,\" kaže Ana. „Ima plave oči i uvijek se smije. Jako je vesela.\"",
+        "en": "\"My friend Emma is tall and blonde,\" says Ana. \"She has blue eyes and always laughs. She is very cheerful.\""
+      },
+      {
+        "hr": "„Zvuči kao jako sretna osoba,\" kaže Marko. „Je li i ljubazna?\"",
+        "en": "\"She sounds like a very happy person,\" says Marko. \"Is she also kind?\""
+      },
+      {
+        "hr": "„Da, jako je ljubazna i uvijek pomaže drugima. Izgleda kao filmska zvijezda!\" odgovara Ana.",
+        "en": "\"Yes, she is very kind and always helps others. She looks like a movie star!\" Ana replies."
+      },
+      {
+        "hr": "„Moj kolega Ivan je potpuno drugačiji,\" kaže Marko. „Srednje je visine, ima tamnu kratku kosu i smeđe oči. Uvijek je ozbiljan.\"",
+        "en": "\"My colleague Ivan is completely different,\" says Marko. \"He is of medium height, has dark short hair and brown eyes. He is always serious.\""
+      },
+      {
+        "hr": "„Ali je jako pametan i marljiv,\" dodaje Marko. „Naši prijatelji su stvarno različiti — ali oboje su divni!\"",
+        "en": "\"But he is very clever and hardworking,\" Marko adds. \"Our friends are really different — but both of them are wonderful!\""
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "describing-people-q1",
+      "prompt": "What color are Emma's eyes?",
+      "options": ["Brown (smeđe)", "Green (zelene)", "Blue (plave)", "Dark (tamne)"],
+      "correctIndex": 2,
+      "explanation": "Ana says Emma has 'plave oči' — blue eyes."
+    },
+    {
+      "id": "describing-people-q2",
+      "prompt": "How does Ana describe Emma's personality?",
+      "options": ["Serious and patient", "Kind and always laughing", "Shy and hardworking", "Clever but lazy"],
+      "correctIndex": 1,
+      "explanation": "Ana describes Emma as 'jako ljubazna' (very kind) and says she 'uvijek se smije' (always laughs)."
+    },
+    {
+      "id": "describing-people-q3",
+      "prompt": "What does Ivan look like according to Marko?",
+      "options": ["Tall with blonde hair and blue eyes", "Medium height with dark short hair and brown eyes", "Short with red hair and green eyes", "Tall with dark hair and blue eyes"],
+      "correctIndex": 1,
+      "explanation": "Marko says Ivan is 'srednje visine' (medium height), has 'tamnu kratku kosu' (dark short hair) and 'smeđe oči' (brown eyes)."
+    },
+    {
+      "id": "describing-people-q4",
+      "prompt": "What does Ana compare Emma to?",
+      "options": ["A famous singer", "A movie star", "Her sister", "A teacher"],
+      "correctIndex": 1,
+      "explanation": "Ana says Emma 'Izgleda kao filmska zvijezda' — she looks like a movie star."
+    },
+    {
+      "id": "describing-people-q5",
+      "prompt": "How does Marko describe Ivan's character?",
+      "options": ["Funny and outgoing", "Shy and lazy", "Serious but clever and hardworking", "Kind and patient"],
+      "correctIndex": 2,
+      "explanation": "Marko says Ivan is 'ozbiljan' (serious) but 'jako pametan i marljiv' (very clever and hardworking)."
+    }
+  ],
+  "test": [
+    {
+      "id": "describing-people-q6",
+      "prompt": "What is the Croatian word for 'tall' (masculine form)?",
+      "options": ["visok", "nizak", "star", "mlad"],
+      "correctIndex": 0
+    },
+    {
+      "id": "describing-people-q7",
+      "prompt": "What does 'mršav' mean?",
+      "options": ["fat/overweight", "slim", "tall", "young"],
+      "correctIndex": 1
+    },
+    {
+      "id": "describing-people-q8",
+      "prompt": "Which word means 'blonde' (masculine form)?",
+      "options": ["riđokos", "crn", "plavokos", "smeđ"],
+      "correctIndex": 2
+    },
+    {
+      "id": "describing-people-q9",
+      "prompt": "What does 'nizak' mean?",
+      "options": ["young", "tall", "short (height)", "slim"],
+      "correctIndex": 2
+    },
+    {
+      "id": "describing-people-q10",
+      "prompt": "What does 'star' mean when describing a person?",
+      "options": ["young", "kind", "old", "short"],
+      "correctIndex": 2
+    },
+    {
+      "id": "describing-people-q11",
+      "prompt": "Choose the correct feminine form of 'visok':",
+      "options": ["visoko", "visoka", "visokan", "visoki"],
+      "correctIndex": 1
+    },
+    {
+      "id": "describing-people-q12",
+      "prompt": "Fill in: 'Ona je ___ .' (She is serious.)",
+      "promptHr": "Dopuni rečenicu: 'Ona je ___ .'",
+      "options": ["ozbiljan", "ozbiljno", "ozbiljna", "ozbiljni"],
+      "correctIndex": 2,
+      "explanation": "'Ona' is feminine, so the adjective 'ozbiljan' takes the feminine form 'ozbiljna'."
+    },
+    {
+      "id": "describing-people-q13",
+      "prompt": "What is the neuter form of 'mršav'?",
+      "options": ["mršava", "mršavo", "mršav", "mršavi"],
+      "correctIndex": 1
+    },
+    {
+      "id": "describing-people-q14",
+      "prompt": "Which form of 'pametan' (clever) is correct for a woman?",
+      "options": ["pametno", "pametan", "pametna", "pametni"],
+      "correctIndex": 2,
+      "explanation": "For a feminine subject, use the feminine adjective form: 'pametna'."
+    },
+    {
+      "id": "describing-people-q15",
+      "prompt": "How do you say 'She has blue eyes' in Croatian?",
+      "options": ["Ona je plave oči.", "Ima plave oči.", "Ima plavu oko.", "Ima plavi oči."],
+      "correctIndex": 1,
+      "explanation": "Use 'Ima' (has) + adjective + noun for physical features. 'Oči' (eyes) is feminine plural, so 'plave'."
+    },
+    {
+      "id": "describing-people-q16",
+      "prompt": "How do you say 'He has short hair' in Croatian?",
+      "options": ["Ima kratku kosu.", "Ima kratki kosa.", "Ima kratak kosa.", "Ima kratka kosu."],
+      "correctIndex": 0,
+      "explanation": "'Kosa' (hair) is feminine. In the accusative case: 'kratku kosu'."
+    },
+    {
+      "id": "describing-people-q17",
+      "prompt": "What does 'ljubazan' mean?",
+      "options": ["serious", "shy", "kind", "funny"],
+      "correctIndex": 2
+    },
+    {
+      "id": "describing-people-q18",
+      "prompt": "What is the feminine form of 'lijen' (lazy)?",
+      "options": ["lijeno", "lijena", "lijen", "lijeni"],
+      "correctIndex": 1
+    },
+    {
+      "id": "describing-people-q19",
+      "prompt": "What does 'marljiv' mean?",
+      "options": ["lazy", "patient", "hardworking", "funny"],
+      "correctIndex": 2
+    },
+    {
+      "id": "describing-people-q20",
+      "prompt": "What does 'stidljiva' mean?",
+      "options": ["serious", "outgoing", "hardworking", "shy"],
+      "correctIndex": 3
+    },
+    {
+      "id": "describing-people-q21",
+      "prompt": "How do you say 'She looks like a movie star' in Croatian?",
+      "options": ["Podsjeća me na filmsku zvijezdu.", "Izgleda kao filmska zvijezda.", "Ona je filmska zvijezda.", "Izgleda filmsku zvijezdu."],
+      "correctIndex": 1,
+      "explanation": "'Izgleda kao...' means 'looks like...'"
+    },
+    {
+      "id": "describing-people-q22",
+      "prompt": "How do you say 'He reminds me of my father' in Croatian?",
+      "options": ["Izgleda kao moj otac.", "Podsjeća me na mog oca.", "On je kao moj otac.", "Podsjeća njega na mog oca."],
+      "correctIndex": 1,
+      "explanation": "'Podsjeća me na...' means 'reminds me of...'"
+    },
+    {
+      "id": "describing-people-q23",
+      "prompt": "Fill in: 'Ona je ___ i ___ .' (tall, blonde — about a woman)",
+      "promptHr": "Odaberi točne oblike: 'Ona je ___ i ___ .'",
+      "options": ["visok i plavokos", "visoka i plavokosa", "visoko i plavokoso", "visoki i plavokosi"],
+      "correctIndex": 1,
+      "explanation": "For 'Ona' (she), use feminine forms: 'visoka' and 'plavokosa'."
+    },
+    {
+      "id": "describing-people-q24",
+      "prompt": "Fill in: 'On je ___ ali ___ .' (serious but clever — about a man)",
+      "promptHr": "Odaberi točne oblike: 'On je ___ ali ___ .'",
+      "options": ["ozbiljna ali pametna", "ozbiljan ali pametan", "ozbiljno ali pametno", "ozbiljni ali pametni"],
+      "correctIndex": 1,
+      "explanation": "For 'On' (he), use masculine forms: 'ozbiljan' and 'pametan'."
+    },
+    {
+      "id": "describing-people-q25",
+      "prompt": "What does 'Ona je ljubazna' mean?",
+      "options": ["She is funny.", "She is serious.", "She is kind.", "She is shy."],
+      "correctIndex": 2
+    },
+    {
+      "id": "describing-people-q26",
+      "prompt": "Translate: 'She is clever and hardworking.'",
+      "options": ["Ona je pametna i marljiva.", "Ona je pametan i marljiv.", "Ona je pametno i marljivo.", "Ona ima pametna i marljiva."],
+      "correctIndex": 0
+    },
+    {
+      "id": "describing-people-q27",
+      "prompt": "What does 'Ima smeđe oči' mean?",
+      "options": ["He/She has blue eyes.", "He/She has brown eyes.", "He/She has dark hair.", "He/She has green eyes."],
+      "correctIndex": 1
+    },
+    {
+      "id": "describing-people-q28",
+      "prompt": "What does 'Izgleda mlado' mean?",
+      "options": ["He/She looks old.", "He/She looks young.", "He/She is young.", "He/She looks small."],
+      "correctIndex": 1
+    },
+    {
+      "id": "describing-people-q29",
+      "prompt": "Which word means 'shy'?",
+      "options": ["otvoren", "smiješan", "strpljiv", "stidljiv"],
+      "correctIndex": 3
+    },
+    {
+      "id": "describing-people-q30",
+      "prompt": "What does 'Podsjeća me na sestru' mean?",
+      "options": ["I look like my sister.", "She looks like my sister.", "He/She reminds me of my sister.", "My sister reminds me of her."],
+      "correctIndex": 2
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Physical appearance",
+      "items": [
+        { "hr": "visok / visoka / visoko", "en": "tall (m/f/n)", "note": "Use visok for men, visoka for women" },
+        { "hr": "nizak / niska / nisko", "en": "short/low (m/f/n)" },
+        { "hr": "mršav / mršava / mršavo", "en": "slim (m/f/n)" },
+        { "hr": "debeo / debela / debelo", "en": "fat/overweight (m/f/n)" },
+        { "hr": "mlad / mlada / mlado", "en": "young (m/f/n)" },
+        { "hr": "star / stara / staro", "en": "old (m/f/n)" },
+        { "hr": "srednje visine", "en": "of medium height" }
+      ]
+    },
+    {
+      "context": "Hair & eyes",
+      "items": [
+        { "hr": "plavokos / plavokosa / plavokoso", "en": "blonde (m/f/n)" },
+        { "hr": "riđokos / riđokosa / riđokoso", "en": "red-haired (m/f/n)" },
+        { "hr": "crn / crna / crno", "en": "dark/black (m/f/n)", "note": "Used for hair or complexion" },
+        { "hr": "kratka kosa", "en": "short hair" },
+        { "hr": "duga kosa", "en": "long hair" },
+        { "hr": "plave oči", "en": "blue eyes" },
+        { "hr": "smeđe oči", "en": "brown eyes" },
+        { "hr": "zelene oči", "en": "green eyes" },
+        { "hr": "tamne oči", "en": "dark eyes" }
+      ]
+    },
+    {
+      "context": "Personality adjectives",
+      "items": [
+        { "hr": "ljubazan / ljubazna", "en": "kind (m/f)" },
+        { "hr": "strpljiv / strpljiva", "en": "patient (m/f)" },
+        { "hr": "smiješan / smiješna", "en": "funny (m/f)" },
+        { "hr": "ozbiljan / ozbiljna", "en": "serious (m/f)" },
+        { "hr": "pametan / pametna", "en": "clever (m/f)" },
+        { "hr": "lijen / lijena", "en": "lazy (m/f)" },
+        { "hr": "marljiv / marljiva", "en": "hardworking (m/f)" },
+        { "hr": "stidljiv / stidljiva", "en": "shy (m/f)" },
+        { "hr": "otvoren / otvorena", "en": "open/outgoing (m/f)" }
+      ]
+    },
+    {
+      "context": "Describing expressions (izgleda/podsjeća)",
+      "items": [
+        { "hr": "Izgleda kao...", "en": "He/She looks like..." },
+        { "hr": "Podsjeća me na...", "en": "He/She reminds me of..." },
+        { "hr": "Izgleda mlado.", "en": "He/She looks young." },
+        { "hr": "Izgleda kao filmska zvijezda.", "en": "He/She looks like a movie star." },
+        { "hr": "Podsjeća me na mog oca.", "en": "He reminds me of my father." }
+      ]
+    },
+    {
+      "context": "Useful describing phrases",
+      "items": [
+        { "hr": "On/Ona je visok/visoka.", "en": "He/She is tall." },
+        { "hr": "Ima plave oči.", "en": "He/She has blue eyes." },
+        { "hr": "Ima kratku kosu.", "en": "He/She has short hair." },
+        { "hr": "Ima lijep osmijeh.", "en": "He/She has a nice smile." },
+        { "hr": "Uvijek se smije.", "en": "He/She always laughs/smiles." },
+        { "hr": "Jako je ljubazan/ljubazna.", "en": "He/She is very kind." }
+      ]
+    }
+  ]
+}

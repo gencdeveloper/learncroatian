@@ -1,0 +1,367 @@
+{
+  "id": "colors",
+  "level": "a1",
+  "order": 4,
+  "title": { "hr": "Boje i pridjevi", "en": "Colors & Adjectives" },
+  "grammar": {
+    "title": { "hr": "Slaganje pridjeva i imenica", "en": "Adjective Agreement with Nouns" },
+    "intro": "Croatian adjectives must agree in **gender** with the noun they describe.\n\nEvery noun has one of three genders:\n\n- **Masculine (m)** — adjective ends in **-i**\n- **Feminine (f)** — adjective ends in **-a**\n- **Neuter (n)** — adjective ends in **-o**\n\nThe adjective normally comes **before** the noun — e.g. **crvena haljina** (red dress).",
+    "rules": [
+      {
+        "label": "Adjective gender agreement",
+        "explanation": "Always match the adjective ending to the noun's gender:\n\n- Masculine → **-i** (crveni auto)\n- Feminine → **-a** (crvena torba)\n- Neuter → **-o** (crveno nebo)",
+        "examples": [
+          { "hr": "crveni auto (m) — crvena torba (f) — crveno nebo (n)", "en": "red car (m) — red bag (f) — red sky (n)" },
+          { "hr": "plavi brod (m) — plava haljina (f) — plavo more (n)", "en": "blue ship (m) — blue dress (f) — blue sea (n)" },
+          { "hr": "zeleni park (m) — zelena trava (f) — zeleno drvo (n)", "en": "green park (m) — green grass (f) — green tree (n)" }
+        ]
+      },
+      {
+        "label": "Color adjectives in three genders",
+        "explanation": "The colour stem stays the same — only the ending changes.\n\n- **Masculine:** crven**i**, plav**i**, zelen**i**\n- **Feminine:** crven**a**, plav**a**, zelen**a**\n- **Neuter:** crven**o**, plav**o**, zelen**o**",
+        "examples": [
+          { "hr": "bijeli snijeg (m), bijela kuća (f), bijelo mlijeko (n)", "en": "white snow (m), white house (f), white milk (n)" },
+          { "hr": "crni pas (m), crna mačka (f), crno pero (n)", "en": "black dog (m), black cat (f), black pen (n)" },
+          { "hr": "žuti limun (m), žuta banana (f), žuto sunce (n)", "en": "yellow lemon (m), yellow banana (f), yellow sun (n)" }
+        ]
+      },
+      {
+        "label": "Adjective position",
+        "explanation": "Adjectives go **before** the noun, just like in English.\n\nAfter the verb **biti** (to be), the adjective still agrees with the subject's gender:\n\n- **crvena haljina** — red dress\n- **Haljina je crvena.** — The dress is red.",
+        "examples": [
+          { "hr": "To je velika kuća.", "en": "That is a big house." },
+          { "hr": "Kupila sam novu haljinu.", "en": "I bought a new dress." },
+          { "hr": "Haljina je nova.", "en": "The dress is new." }
+        ]
+      },
+      {
+        "label": "Size and quality adjectives",
+        "explanation": "Common adjective pairs follow the same gender pattern:\n\n- **veliki / velika / veliko** — big\n- **mali / mala / malo** — small\n- **lijep / lijepa / lijepo** — beautiful\n- **nov / nova / novo** — new",
+        "examples": [
+          { "hr": "veliki grad (m) — velika škola (f) — veliko more (n)", "en": "big city (m) — big school (f) — big sea (n)" },
+          { "hr": "mali pas (m) — mala mačka (f) — malo dijete (n)", "en": "small dog (m) — small cat (f) — small child (n)" },
+          { "hr": "nova knjiga (f) — stari auto (m)", "en": "new book (f) — old car (m)" }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["English", "Masculine (-i)", "Feminine (-a)", "Neuter (-o)"],
+      "rows": [
+        ["red", "crveni", "crvena", "crveno"],
+        ["blue", "plavi", "plava", "plavo"],
+        ["green", "zeleni", "zelena", "zeleno"],
+        ["yellow", "žuti", "žuta", "žuto"],
+        ["white", "bijeli", "bijela", "bijelo"],
+        ["black", "crni", "crna", "crno"],
+        ["orange", "narančasti", "narančasta", "narančasto"],
+        ["purple", "ljubičasti", "ljubičasta", "ljubičasto"],
+        ["pink", "ružičasti", "ružičasta", "ružičasto"],
+        ["brown", "smeđi", "smeđa", "smeđo"],
+        ["grey", "sivi", "siva", "sivo"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "hr": "Ana na dubrovačkoj tržnici", "en": "Ana at the Dubrovnik Market" },
+    "paragraphs": [
+      {
+        "hr": "Ana je danas u Dubrovniku. Ona posjećuje veliku tržnicu blizu Stare luke. Sunce sja, nebo je plavo i toplo je.",
+        "en": "Ana is in Dubrovnik today. She is visiting the big market near the Old Harbour. The sun is shining, the sky is blue and it is warm."
+      },
+      {
+        "hr": "Na tržnici ima mnogo šarenih štandova. Prodavači prodaju odjeću, nakit i suvenire. Sve je lijepo i živopisno.",
+        "en": "At the market there are many colourful stalls. Vendors sell clothes, jewellery and souvenirs. Everything is beautiful and lively."
+      },
+      {
+        "hr": "Ana vidi crvenu haljinu na prvom štandu. Haljina je lijepa i nova. Prodavačica kaže: 'Ovo je naša najljepša haljina!' Ana se smiješi.",
+        "en": "Ana sees a red dress at the first stall. The dress is beautiful and new. The vendor says: 'This is our most beautiful dress!' Ana smiles."
+      },
+      {
+        "hr": "Pored haljine visi velika plava torba. Ana uzima torbu i gleda je. Torba je moderna i jeftina. Ana želi kupiti i haljinu i torbu!",
+        "en": "Next to the dress hangs a big blue bag. Ana picks up the bag and looks at it. The bag is modern and cheap. Ana wants to buy both the dress and the bag!"
+      },
+      {
+        "hr": "Poslije tržnice Ana šeta prema luci. Tamo vidi veliki bijeli brod. Brod je star ali lijep i impozantan.",
+        "en": "After the market Ana walks towards the harbour. There she sees a big white ship. The ship is old but beautiful and imposing."
+      },
+      {
+        "hr": "Na kraju, Ana kupuje žutu šalu na zadnjem štandu. Prodavač se smije i kaže: 'Žuta boja je vesela!' Ana se slaže, plaća i odlazi sretna kući.",
+        "en": "In the end, Ana buys a yellow scarf at the last stall. The vendor laughs and says: 'The colour yellow is cheerful!' Ana agrees, pays and goes home happy."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "colors-q1",
+      "prompt": "Which city does Ana visit?",
+      "promptHr": "Koji grad Ana posjećuje?",
+      "options": ["Split", "Zagreb", "Dubrovnik", "Rijeka"],
+      "correctIndex": 2,
+      "explanation": "The text says 'Ana je danas u Dubrovniku' — Ana is in Dubrovnik today."
+    },
+    {
+      "id": "colors-q2",
+      "prompt": "What color is the dress Ana sees at the first stall?",
+      "promptHr": "Koje boje je haljina na prvom štandu?",
+      "options": ["Blue", "Green", "Red", "Yellow"],
+      "correctIndex": 2,
+      "explanation": "The text says 'Ana vidi crvenu haljinu' — Ana sees a red (crvenu) dress."
+    },
+    {
+      "id": "colors-q3",
+      "prompt": "What color is the bag hanging next to the dress?",
+      "promptHr": "Koje boje je torba koja visi pored haljine?",
+      "options": ["Green", "Blue", "Red", "White"],
+      "correctIndex": 1,
+      "explanation": "The text says 'Pored haljine visi velika plava torba' — a big blue (plava) bag hangs next to the dress."
+    },
+    {
+      "id": "colors-q4",
+      "prompt": "What does Ana see at the harbour?",
+      "promptHr": "Što Ana vidi u luci?",
+      "options": ["A small red boat", "A new yellow boat", "A big white ship", "A blue fishing boat"],
+      "correctIndex": 2,
+      "explanation": "The text says 'vidi veliki bijeli brod' — she sees a big white (bijeli) ship."
+    },
+    {
+      "id": "colors-q5",
+      "prompt": "What does Ana buy at the last stall?",
+      "promptHr": "Što Ana kupuje na zadnjem štandu?",
+      "options": ["A red dress", "A blue bag", "A yellow scarf", "Green shoes"],
+      "correctIndex": 2,
+      "explanation": "The text says 'Ana kupuje žutu šalu' — Ana buys a yellow (žutu) scarf."
+    }
+  ],
+  "test": [
+    {
+      "id": "colors-q6",
+      "prompt": "What does 'crvena' mean in English?",
+      "options": ["blue", "green", "red", "yellow"],
+      "correctIndex": 2,
+      "explanation": "'Crvena' means red (feminine form). Masculine: 'crveni', neuter: 'crveno'."
+    },
+    {
+      "id": "colors-q7",
+      "prompt": "How do you say 'blue' in Croatian (masculine form)?",
+      "options": ["plava", "plavi", "plavo", "plavni"],
+      "correctIndex": 1,
+      "explanation": "'Plavi' is the masculine form of blue. Feminine: 'plava', neuter: 'plavo'."
+    },
+    {
+      "id": "colors-q8",
+      "prompt": "What does 'žuto' mean in English?",
+      "options": ["green", "white", "yellow", "orange"],
+      "correctIndex": 2,
+      "explanation": "'Žuto' is the neuter form of yellow. Masculine: 'žuti', feminine: 'žuta'."
+    },
+    {
+      "id": "colors-q9",
+      "prompt": "Which is the correct feminine form of 'green'?",
+      "options": ["zeleni", "zelena", "zeleno", "zelen"],
+      "correctIndex": 1,
+      "explanation": "'Zelena' is the feminine form of green. Masculine: 'zeleni', neuter: 'zeleno'."
+    },
+    {
+      "id": "colors-q10",
+      "prompt": "How do you say 'white' in Croatian (neuter form)?",
+      "options": ["bijeli", "bijela", "bijelo", "bjelov"],
+      "correctIndex": 2,
+      "explanation": "'Bijelo' is the neuter form of white. Masculine: 'bijeli', feminine: 'bijela'."
+    },
+    {
+      "id": "colors-q11",
+      "prompt": "What does 'crna' mean in English?",
+      "options": ["grey", "brown", "white", "black"],
+      "correctIndex": 3,
+      "explanation": "'Crna' means black (feminine form). Masculine: 'crni', neuter: 'crno'."
+    },
+    {
+      "id": "colors-q12",
+      "prompt": "What does 'narančasta' mean in English?",
+      "options": ["purple", "pink", "orange", "yellow"],
+      "correctIndex": 2,
+      "explanation": "'Narančasta' means orange (feminine form), from 'naranča' (orange fruit)."
+    },
+    {
+      "id": "colors-q13",
+      "prompt": "What does 'ljubičasti' mean in English?",
+      "options": ["pink", "purple", "brown", "grey"],
+      "correctIndex": 1,
+      "explanation": "'Ljubičasti' means purple (masculine form), from 'ljubičica' (violet flower)."
+    },
+    {
+      "id": "colors-q14",
+      "prompt": "'Auto' (car) is masculine. Which color form is correct?",
+      "options": ["crveni auto", "crvena auto", "crveno auto", "crven auto"],
+      "correctIndex": 0,
+      "explanation": "Because 'auto' is masculine, we use the masculine adjective form 'crveni': 'crveni auto' (red car)."
+    },
+    {
+      "id": "colors-q15",
+      "prompt": "'Haljina' (dress) is feminine. Which color form is correct?",
+      "options": ["plavi haljina", "plava haljina", "plavo haljina", "plaven haljina"],
+      "correctIndex": 1,
+      "explanation": "Because 'haljina' is feminine, we use the feminine form 'plava': 'plava haljina' (blue dress)."
+    },
+    {
+      "id": "colors-q16",
+      "prompt": "'Nebo' (sky) is neuter. Which color form is correct?",
+      "options": ["bijeli nebo", "bijela nebo", "bijelo nebo", "bijen nebo"],
+      "correctIndex": 2,
+      "explanation": "Because 'nebo' is neuter, we use the neuter form 'bijelo': 'bijelo nebo' (white sky)."
+    },
+    {
+      "id": "colors-q17",
+      "prompt": "'Torba' (bag) is feminine. Which form of 'green' is correct?",
+      "options": ["zeleni", "zelena", "zeleno", "zelen"],
+      "correctIndex": 1,
+      "explanation": "Because 'torba' is feminine, we use the feminine form 'zelena': 'zelena torba' (green bag)."
+    },
+    {
+      "id": "colors-q18",
+      "prompt": "'Brod' (ship) is masculine. Which form of 'big' is correct?",
+      "options": ["velika", "veliki", "veliko", "veliku"],
+      "correctIndex": 1,
+      "explanation": "Because 'brod' is masculine, we use the masculine form 'veliki': 'veliki brod' (big ship)."
+    },
+    {
+      "id": "colors-q19",
+      "prompt": "'More' (sea) is neuter. Which form of 'beautiful' is correct?",
+      "options": ["lijep", "lijepa", "lijepo", "lijepi"],
+      "correctIndex": 2,
+      "explanation": "Because 'more' is neuter, we use the neuter form 'lijepo': 'lijepo more' (beautiful sea)."
+    },
+    {
+      "id": "colors-q20",
+      "prompt": "'Kuća' (house) is feminine. Which form of 'old' is correct?",
+      "options": ["stari", "stara", "staro", "stare"],
+      "correctIndex": 1,
+      "explanation": "Because 'kuća' is feminine, we use the feminine form 'stara': 'stara kuća' (old house)."
+    },
+    {
+      "id": "colors-q21",
+      "prompt": "Fill in the blank: '_____ auto' (new car; 'auto' is masculine)",
+      "options": ["nova", "novi", "novo", "nov"],
+      "correctIndex": 1,
+      "explanation": "'Auto' is masculine, so we use the masculine form 'novi': 'novi auto' (new car)."
+    },
+    {
+      "id": "colors-q22",
+      "prompt": "Fill in the blank: '_____ haljina' (beautiful dress; 'haljina' is feminine)",
+      "options": ["lijepa", "lijep", "lijepi", "lijepo"],
+      "correctIndex": 0,
+      "explanation": "'Haljina' is feminine, so we use the feminine form 'lijepa': 'lijepa haljina' (beautiful dress)."
+    },
+    {
+      "id": "colors-q23",
+      "prompt": "Fill in the blank: '_____ more' (big sea; 'more' is neuter)",
+      "options": ["veliki", "velika", "veliko", "veliku"],
+      "correctIndex": 2,
+      "explanation": "'More' is neuter, so we use the neuter form 'veliko': 'veliko more' (big sea)."
+    },
+    {
+      "id": "colors-q24",
+      "prompt": "Which Croatian word means 'big' (masculine form)?",
+      "options": ["mali", "stari", "veliki", "novi"],
+      "correctIndex": 2,
+      "explanation": "'Veliki' means big (masculine form). The opposite is 'mali' (small)."
+    },
+    {
+      "id": "colors-q25",
+      "prompt": "Which Croatian word means 'old' (referring to objects)?",
+      "options": ["nov", "velik", "star", "lijep"],
+      "correctIndex": 2,
+      "explanation": "'Star' means old (masculine indefinite form). 'Star auto' = old car. The opposite is 'nov' (new)."
+    },
+    {
+      "id": "colors-q26",
+      "prompt": "What does 'lijep' mean in English?",
+      "options": ["ugly", "beautiful", "big", "small"],
+      "correctIndex": 1,
+      "explanation": "'Lijep' means beautiful / handsome (masculine indefinite form). The opposite is 'ružan' (ugly)."
+    },
+    {
+      "id": "colors-q27",
+      "prompt": "What does 'ružan' mean in English?",
+      "options": ["new", "old", "ugly", "beautiful"],
+      "correctIndex": 2,
+      "explanation": "'Ružan' means ugly. Its opposite is 'lijep' (beautiful)."
+    },
+    {
+      "id": "colors-q28",
+      "prompt": "Where do adjectives normally go in a Croatian sentence?",
+      "options": ["after the noun", "before the noun", "at the end of the sentence", "between subject and verb"],
+      "correctIndex": 1,
+      "explanation": "Croatian adjectives normally come BEFORE the noun, just like in English: 'crvena haljina' (red dress), 'veliki brod' (big ship)."
+    },
+    {
+      "id": "colors-q29",
+      "prompt": "What does 'crvena haljina' mean in English?",
+      "options": ["red shoe", "blue dress", "red dress", "big dress"],
+      "correctIndex": 2,
+      "explanation": "'Crvena' = red (feminine), 'haljina' = dress. So 'crvena haljina' = red dress."
+    },
+    {
+      "id": "colors-q30",
+      "prompt": "What does 'mali auto' mean in English?",
+      "options": ["new car", "small car", "old car", "big car"],
+      "correctIndex": 1,
+      "explanation": "'Mali' means small (masculine form) and 'auto' means car. So 'mali auto' = small car."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Basic colors",
+      "items": [
+        { "hr": "crveni / crvena / crveno", "en": "red (m / f / n)" },
+        { "hr": "plavi / plava / plavo", "en": "blue (m / f / n)" },
+        { "hr": "zeleni / zelena / zeleno", "en": "green (m / f / n)" },
+        { "hr": "žuti / žuta / žuto", "en": "yellow (m / f / n)" },
+        { "hr": "bijeli / bijela / bijelo", "en": "white (m / f / n)" },
+        { "hr": "crni / crna / crno", "en": "black (m / f / n)" }
+      ]
+    },
+    {
+      "context": "More colors",
+      "items": [
+        { "hr": "narančasti / narančasta / narančasto", "en": "orange (m / f / n)", "note": "From 'naranča' (orange fruit)" },
+        { "hr": "ljubičasti / ljubičasta / ljubičasto", "en": "purple (m / f / n)", "note": "From 'ljubičica' (violet flower)" },
+        { "hr": "ružičasti / ružičasta / ružičasto", "en": "pink (m / f / n)", "note": "From 'ruža' (rose)" },
+        { "hr": "smeđi / smeđa / smeđo", "en": "brown (m / f / n)" },
+        { "hr": "sivi / siva / sivo", "en": "grey (m / f / n)" }
+      ]
+    },
+    {
+      "context": "Size adjectives",
+      "items": [
+        { "hr": "veliki / velika / veliko", "en": "big (m / f / n)" },
+        { "hr": "mali / mala / malo", "en": "small (m / f / n)" },
+        { "hr": "veliki grad", "en": "a big city", "note": "Masculine noun → masculine adjective" },
+        { "hr": "mala kuća", "en": "a small house", "note": "Feminine noun → feminine adjective" },
+        { "hr": "malo dijete", "en": "a small child", "note": "Neuter noun → neuter adjective" }
+      ]
+    },
+    {
+      "context": "Quality adjectives",
+      "items": [
+        { "hr": "lijep / lijepa / lijepo", "en": "beautiful / handsome (m / f / n)" },
+        { "hr": "ružan / ružna / ružno", "en": "ugly (m / f / n)" },
+        { "hr": "nov / nova / novo", "en": "new (m / f / n)" },
+        { "hr": "star / stara / staro", "en": "old (m / f / n)" },
+        { "hr": "jeftin / jeftina / jeftino", "en": "cheap (m / f / n)" },
+        { "hr": "skup / skupa / skupo", "en": "expensive (m / f / n)" }
+      ]
+    },
+    {
+      "context": "Colors in use (phrases)",
+      "items": [
+        { "hr": "crvena haljina", "en": "red dress", "note": "'haljina' is feminine → crvena" },
+        { "hr": "plavi auto", "en": "blue car", "note": "'auto' is masculine → plavi" },
+        { "hr": "bijelo nebo", "en": "white sky", "note": "'nebo' is neuter → bijelo" },
+        { "hr": "zelena trava", "en": "green grass", "note": "'trava' is feminine → zelena" },
+        { "hr": "crni pas", "en": "black dog", "note": "'pas' is masculine → crni" },
+        { "hr": "žuto sunce", "en": "yellow sun", "note": "'sunce' is neuter → žuto" }
+      ]
+    }
+  ]
+}

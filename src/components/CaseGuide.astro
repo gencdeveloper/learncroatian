@@ -1,0 +1,82 @@
+---
+import type { CaseStudyGuide } from "../lib/content";
+import SiteNav from "./SiteNav.astro";
+import QuestionList from "./QuestionList.astro";
+
+interface Props {
+  data: CaseStudyGuide;
+}
+
+const { data } = Astro.props;
+---
+
+<header class="sticky top-0 z-10 border-b border-slate-200 bg-white/90 backdrop-blur">
+  <div class="mx-auto max-w-3xl px-6 py-4">
+    <div class="flex items-center gap-3">
+      <SiteNav />
+      <h1 class="text-lg font-bold text-slate-900">{data.title.en}</h1>
+    </div>
+    <nav class="mt-3 flex flex-wrap gap-3 text-sm font-medium text-slate-500">
+      {data.cases.map((c) => (
+        <a href={`#${c.id}`} class="hover:text-blue-600">{c.name.en}</a>
+      ))}
+    </nav>
+  </div>
+</header>
+
+<main class="mx-auto max-w-3xl px-6 py-10">
+  <p class="mb-8 text-slate-600">{data.intro}</p>
+
+  {data.cases.map((c) => (
+    <section id={c.id} class="scroll-mt-20 mb-12 rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+      <h2 class="text-xl font-bold text-slate-900">
+        {c.name.en}
+        <span class="ml-2 text-base font-normal text-slate-400">{c.name.hr}</span>
+      </h2>
+      <p class="mt-1 text-sm font-medium text-blue-600">{c.question}</p>
+      <p class="mt-3 text-sm text-slate-600">{c.usage}</p>
+
+      {c.endings && (
+        <div class="mt-4 overflow-x-auto rounded-lg border border-slate-200">
+          <table class="w-full text-sm">
+            <thead class="bg-blue-600">
+              <tr>
+                {c.endings.headers.map((h) => (
+                  <th class="px-3 py-2 text-left font-semibold text-white">{h}</th>
+                ))}
+              </tr>
+            </thead>
+            <tbody>
+              {c.endings.rows.map((row, i) => (
+                <tr class={i % 2 === 0 ? "bg-white" : "bg-slate-50"}>
+                  {row.map((cell) => (
+                    <td class="px-3 py-2 text-slate-700">{cell}</td>
+                  ))}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+
+      <ul class="mt-4 space-y-2">
+        {c.examples.map((ex) => (
+          <li class="text-sm">
+            <span class="rounded bg-blue-50 px-1.5 py-0.5 font-mono font-medium text-blue-700">{ex.hr}</span>
+            <span class="ml-2 text-slate-500">{ex.en}</span>
+          </li>
+        ))}
+      </ul>
+
+      {c.exercises && c.exercises.length > 0 && (
+        <div class="mt-6 border-t border-slate-100 pt-6">
+          <QuestionList
+            sectionId={`${c.id}-exercises`}
+            heading={`Practice: ${c.name.en}`}
+            questions={c.exercises}
+          />
+        </div>
+      )}
+    </section>
+  ))}
+</main>

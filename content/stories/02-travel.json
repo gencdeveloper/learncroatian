@@ -1,0 +1,60 @@
+{
+  "id": "travel",
+  "level": "a2",
+  "order": 1,
+  "title": { "hr": "Vikend u Splitu", "en": "A Weekend in Split" },
+  "topicsUsed": ["transport", "accusative-case", "future-tense", "past-tense", "places"],
+  "paragraphs": [
+    {
+      "hr": "James je britanski student koji studira kroatistiku u Zagrebu. U petak popodne je sreo svoju prijateljicu Maju u knjižnici. Maja je upitala: Što radiš ovaj vikend? James je odgovorio da nema planova. Maja se nasmijala i rekla: Onda idemo u Split! Vlak sutra ujutro polazi u osam i trideset.",
+      "en": "James is a British student who studies Croatian in Zagreb. On Friday afternoon he met his friend Maja in the library. Maja asked: What are you doing this weekend? James replied that he had no plans. Maja laughed and said: Then we are going to Split! The train departs tomorrow morning at half past eight."
+    },
+    {
+      "hr": "Sutradan su James i Maja kupili karte na kolodvoru. Jedna karta do Splita koštala je šezdeset i pet eura. Vlak je bio ugodan — imali su mjesta pokraj prozora i mogli su gledati krajolik. Putovanje je trajalo skoro pet sati. Maja je objašnjavala Jamesu što vide kroz prozor: rijeka Sava, Slavonska polja i kratki prolaz kroz Bosnu.",
+      "en": "The next day James and Maja bought tickets at the station. One ticket to Split cost sixty-five euros. The train was comfortable — they had seats by the window and could watch the landscape. The journey lasted almost five hours. Maja explained to James what they could see through the window: the Sava river, the Slavonian plains and a brief passage through Bosnia."
+    },
+    {
+      "hr": "Kad su stigli u Split, James je ostao bez daha. Odmah su vidjeli more — plavo i mirno u ljetnom suncu. Uzeli su torbe i pješice otišli do Dioklecijanove palače koja je u samom centru grada. Palača je stara gotovo sedamnaest stoljeća i James nikada u životu nije vidio ništa tako staro.",
+      "en": "When they arrived in Split, James was left breathless. They immediately saw the sea — blue and calm in the summer sunshine. They picked up their bags and walked to Diocletian's Palace which is right in the city centre. The palace is almost seventeen centuries old and James had never in his life seen anything so ancient."
+    },
+    {
+      "hr": "Za ručak su sjeli na Rivi, dugoj šetnici uz more. Naručili su pečenu ribu i salatu od hobotnice. James je pojeo sve do zadnjeg zalogaja i rekao konobaru da je riba bila najukusnija u životu. Platili su gotovinom i ostavili napojnicu. Nakon ručka otišli su na plažu Bačvice gdje su plivali i odmarali se do zalaska sunca.",
+      "en": "For lunch they sat on the Riva, the long promenade by the sea. They ordered grilled fish and octopus salad. James ate everything to the last bite and told the waiter that the fish was the most delicious of his life. They paid in cash and left a tip. After lunch they went to Bačvice beach where they swam and rested until sunset."
+    },
+    {
+      "hr": "U nedjelju ujutro uzeli su trajekt do Trogira, malog grada spojenog s kopnom mostom. Trogir je UNESCO-ova svjetska baština — stari grad je sačuvan s romaničkom katedralom i uskim kamenim ulicama. James je fotografirao svaki kutić. Kušali su lokalno vino i razgovarali s vlasnikom bara koji je govorio malo engleski.",
+      "en": "On Sunday morning they took a ferry to Trogir, a small town connected to the mainland by a bridge. Trogir is a UNESCO World Heritage Site — the old town is preserved with a Romanesque cathedral and narrow stone streets. James photographed every corner. They tried local wine and chatted with the bar owner who spoke a little English."
+    },
+    {
+      "hr": "Popodne su krenuli natrag u Zagreb autobusom. James je pisao poruke roditeljima u Englesku: Hrvatska obala je nevjerojatna. More je toplije nego kod nas, hrana je izvrsna, a Hrvati su gostoljubivi. Maja se nasmijala i rekla: Vidim da voliš Hrvatsku više nego Englesku!",
+      "en": "In the afternoon they set off back to Zagreb by bus. James was writing messages to his parents in England: The Croatian coast is incredible. The sea is warmer than at home, the food is excellent, and Croatians are hospitable. Maja laughed and said: I can see you love Croatia more than England!"
+    },
+    {
+      "hr": "Stigli su u Zagreb kasno navečer, umorni ali sretni. James je rekao Maji da će definitivno doći u Split opet — možda već sljedećeg vikenda. Naučio je nekoliko novih hrvatskih izraza: more, plaža, pečena riba i nevjerojatno. Maja mu je rekla da će sljedeći put otići na Hvar. James jedva čeka.",
+      "en": "They arrived in Zagreb late in the evening, tired but happy. James told Maja he would definitely come to Split again — perhaps the very next weekend. He had learnt several new Croatian expressions: sea, beach, grilled fish and incredible. Maja told him that next time they would go to Hvar. James can hardly wait."
+    }
+  ],
+  "vocabulary": {
+    "verbs": [
+      { "hr": "kupiti kartu", "en": "to buy a ticket" },
+      { "hr": "stići", "en": "to arrive" },
+      { "hr": "naručiti", "en": "to order" },
+      { "hr": "fotografirati", "en": "to take photos" },
+      { "hr": "krenuti natrag", "en": "to set off back" }
+    ],
+    "nouns": [
+      { "hr": "kolodvor", "en": "train station" },
+      { "hr": "krajolik", "en": "landscape" },
+      { "hr": "plaža", "en": "beach" },
+      { "hr": "napojnica", "en": "tip" },
+      { "hr": "trajekt", "en": "ferry" }
+    ],
+    "adjectives": [
+      { "hr": "udoban / udobna", "en": "comfortable" },
+      { "hr": "nevjerojatan / nevjerojatna", "en": "incredible" },
+      { "hr": "gostoljubiv / gostoljubiva", "en": "hospitable" },
+      { "hr": "sačuvan / sačuvana", "en": "preserved" },
+      { "hr": "umoran / umorna", "en": "tired" }
+    ]
+  }
+}

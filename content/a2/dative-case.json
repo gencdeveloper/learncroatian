@@ -1,0 +1,411 @@
+{
+  "id": "dative-case",
+  "level": "a2",
+  "order": 4,
+  "title": { "en": "Dative Case", "hr": "Dativ" },
+  "grammar": {
+    "title": { "en": "The Dative Case in Croatian", "hr": "Dativ u hrvatskom jeziku" },
+    "intro": "The **dative** case marks the **indirect object** — the person or thing to whom or for whom something is done. It answers *komu?* (to whom?) and *čemu?* (to what?).\n\nThe dative is used with verbs of giving, telling, showing, and sending. It also appears in expressions like **sviđa mi se** (I like it) and **treba mi** (I need). Pronoun dative forms are essential for everyday Croatian.",
+    "rules": [
+      {
+        "label": "Masculine and neuter singular: add -u",
+        "explanation": "**Masculine** nouns add **-u** to the stem to form the dative: **brat → bratu**, **grad → gradu**, **prijatelj → prijatelju**.\n\n**Neuter** nouns also add **-u**: **selo → selu**, **pismo → pismu**.",
+        "examples": [
+          { "hr": "Dala sam cvijeće bratu.", "en": "I gave flowers to my brother." },
+          { "hr": "Pišem pismo prijatelju.", "en": "I am writing a letter to a friend." },
+          { "hr": "Nosim hranu selu.", "en": "I am bringing food to the village." }
+        ]
+      },
+      {
+        "label": "Feminine singular: -a changes to -i",
+        "explanation": "Feminine nouns ending in **-a** change **-a → -i** in the dative: **žena → ženi**, **sestra → sestri**.\n\nImportant: feminine nouns ending in **-ka** or **-ga** undergo **velar softening** — the consonant changes before **-i**:\n- **-ka → -ci**: **majka → majci**\n- **-ga → -zi**: **knjiga → knjizi**",
+        "examples": [
+          { "hr": "Dala sam cvijeće majci.", "en": "I gave flowers to my mother." },
+          { "hr": "Pišem pismo sestri.", "en": "I am writing a letter to my sister." },
+          { "hr": "Dao sam knjigu prijateljici.", "en": "I gave the book to my (female) friend." }
+        ]
+      },
+      {
+        "label": "Pronoun dative forms",
+        "explanation": "Croatian pronouns have special dative (short/clitic) forms used as indirect objects:\n- **ja → mi** (to me)\n- **ti → ti** (to you, sg)\n- **on → mu** (to him)\n- **ona → joj** (to her)\n- **mi → nam** (to us)\n- **vi → vam** (to you, pl/formal)\n- **oni/one → im** (to them)\n\nThese short forms always come early in the sentence, before the verb or after the first word.",
+        "examples": [
+          { "hr": "Dao mi je knjigu.", "en": "He gave me the book." },
+          { "hr": "Pišem ti.", "en": "I am writing to you." },
+          { "hr": "Rekao joj je istinu.", "en": "He told her the truth." }
+        ]
+      },
+      {
+        "label": "Key verbs that take the dative",
+        "explanation": "These common verbs require a **dative** indirect object (the person receiving the action):\n- **dati** — to give: *dao sam bratu* (I gave to my brother)\n- **reći** — to tell/say: *rekla sam joj* (I told her)\n- **pokazati** — to show: *pokazao mi je* (he showed me)\n- **poslati** — to send: *poslala sam vam* (I sent to you)\n- **zahvaliti** — to thank: *zahvalila je sestri* (she thanked her sister)\n- **trebati** (impersonal) — to need: *treba mi novac* (I need money)",
+        "examples": [
+          { "hr": "Rekao sam bratu istinu.", "en": "I told my brother the truth." },
+          { "hr": "Treba mi pomoć.", "en": "I need help." },
+          { "hr": "Zahvalila je prijatelju.", "en": "She thanked her friend." }
+        ]
+      },
+      {
+        "label": "Sviđa mi se — 'I like it'",
+        "explanation": "'**Sviđa mi se**' literally means 'it pleases to me.' The thing that is liked is the **nominative subject**, and the dative pronoun shows who likes it.\n\n- Use **sviđa** (singular) when one thing is liked\n- Use **sviđaju** (plural) when several things are liked\n\nChange the dative pronoun to change who likes it: *sviđa **ti** se* (you like it), *sviđa **joj** se* (she likes it).",
+        "examples": [
+          { "hr": "Sviđa mi se ova knjiga.", "en": "I like this book." },
+          { "hr": "Sviđa joj se Zagreb.", "en": "She likes Zagreb." },
+          { "hr": "Sviđaju nam se ove cipele.", "en": "We like these shoes." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Type", "Nominative / Subject", "Dative form", "English"],
+      "rows": [
+        ["Noun (Masc.)", "brat", "bratu", "(to) brother"],
+        ["Noun (Masc.)", "grad", "gradu", "(to) the city"],
+        ["Noun (Masc.)", "prijatelj", "prijatelju", "(to a) friend"],
+        ["Noun (Fem.)", "žena", "ženi", "(to the) woman"],
+        ["Noun (Fem.)", "sestra", "sestri", "(to) sister"],
+        ["Noun (Fem.)", "majka", "majci", "(to) mother — velar softening"],
+        ["Noun (Fem.)", "knjiga", "knjizi", "(to the) book — velar softening"],
+        ["Noun (Neut.)", "selo", "selu", "(to the) village"],
+        ["Noun (Neut.)", "pismo", "pismu", "(to the) letter"],
+        ["Pronoun 1sg", "ja", "mi", "to me"],
+        ["Pronoun 2sg", "ti", "ti", "to you (sg)"],
+        ["Pronoun 3sg m", "on", "mu", "to him"],
+        ["Pronoun 3sg f", "ona", "joj", "to her"],
+        ["Pronoun 1pl", "mi", "nam", "to us"],
+        ["Pronoun 2pl", "vi", "vam", "to you (pl/formal)"],
+        ["Pronoun 3pl", "oni/one", "im", "to them"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "A Birthday Gift for Mum", "hr": "Poklon za mamu za rođendan" },
+    "paragraphs": [
+      {
+        "hr": "Ana treba pronaći poklon za majku za rođendan. Pita Marka za pomoć jer dobro poznaje ovaj dio Zagreba.",
+        "en": "Ana needs to find a birthday gift for her mother. She asks Marko for help because he knows this part of Zagreb well."
+      },
+      {
+        "hr": "Marko predlaže knjigu. 'Ne, hvala,' kaže Ana. 'Mojoj majci se ne sviđa čitanje. Treba mi nešto drugo.'",
+        "en": "'No, thank you,' says Ana. 'My mother doesn't like reading. I need something else.'"
+      },
+      {
+        "hr": "Marko joj pokazuje mali zlatarnički dućan nedaleko tržnice. 'Ovdje prodaju lijep hrvatski nakit,' kaže joj. 'Hoće li joj se svidjeti?'",
+        "en": "Marko shows her a small jewellery shop not far from the market. 'They sell beautiful Croatian jewellery here,' he tells her. 'Do you think she'll like it?'"
+      },
+      {
+        "hr": "Ana ulazi i pronalazi narukvicu od srebra. Zahvaljuje prodavačici i pita je za cijenu.",
+        "en": "Ana goes in and finds a silver bracelet. She thanks the shop assistant and asks her the price."
+      },
+      {
+        "hr": "'Sviđa mi se ova narukvica,' kaže Ana. 'Mislim da će se i majci svidjeti.' Odlučuje kupiti narukvicu.",
+        "en": "'I like this bracelet,' says Ana. 'I think my mother will like it too.' She decides to buy the bracelet."
+      },
+      {
+        "hr": "Na kraju Ana pita Marka da joj pomogne napisati poruku na karti na hrvatskom jeziku. Marko joj piše: 'Dragoj mami, sretan rođendan!'",
+        "en": "In the end Ana asks Marko to help her write a message on the card in Croatian. Marko writes for her: 'Dear Mum, happy birthday!'"
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "dative-case-q1",
+      "prompt": "Why is Ana looking for a gift?",
+      "promptHr": "Zašto Ana traži poklon?",
+      "options": ["It's her brother's birthday", "It's her mother's birthday", "It's her friend's wedding", "It's a national holiday"],
+      "correctIndex": 1,
+      "explanation": "'Ana treba pronaći poklon za majku za rođendan' — she needs to find a birthday gift for her mother."
+    },
+    {
+      "id": "dative-case-q2",
+      "prompt": "Why does Ana reject Marko's first suggestion?",
+      "promptHr": "Zašto Ana odbija Markov prvi prijedlog?",
+      "options": ["Her mother already has that book", "Her mother doesn't like reading", "The book is too expensive", "The bookshop is closed"],
+      "correctIndex": 1,
+      "explanation": "'Mojoj majci se ne sviđa čitanje' — my mother doesn't like reading."
+    },
+    {
+      "id": "dative-case-q3",
+      "prompt": "What kind of shop does Marko show Ana?",
+      "promptHr": "Kakav dućan Marko pokazuje Ani?",
+      "options": ["A bookshop", "A clothing store", "A jewellery shop", "A music store"],
+      "correctIndex": 2,
+      "explanation": "'Marko joj pokazuje mali zlatarnički dućan' — Marko shows her a small jewellery shop."
+    },
+    {
+      "id": "dative-case-q4",
+      "prompt": "What does Ana find in the shop?",
+      "promptHr": "Što Ana pronalazi u dućanu?",
+      "options": ["A gold necklace", "A silver bracelet", "A pair of earrings", "A silver ring"],
+      "correctIndex": 1,
+      "explanation": "'Pronalazi narukvicu od srebra' — she finds a silver bracelet."
+    },
+    {
+      "id": "dative-case-q5",
+      "prompt": "What does Ana ask Marko to do at the end?",
+      "promptHr": "Što Ana na kraju traži od Marka?",
+      "options": ["Take her to a restaurant", "Pay for the gift", "Help her write a card in Croatian", "Find a taxi home"],
+      "correctIndex": 2,
+      "explanation": "'Ana pita Marka da joj pomogne napisati poruku na karti na hrvatskom jeziku' — she asks him to help her write a card in Croatian."
+    }
+  ],
+  "test": [
+    {
+      "id": "dative-case-q6",
+      "prompt": "What is the dative form of 'brat' (brother — masculine)?",
+      "options": ["brata", "bratom", "bratu", "braći"],
+      "correctIndex": 2,
+      "explanation": "Masculine nouns add -u to form the dative: brat → bratu."
+    },
+    {
+      "id": "dative-case-q7",
+      "prompt": "What is the dative form of 'žena' (woman — feminine)?",
+      "options": ["ženu", "ženom", "ženi", "žene"],
+      "correctIndex": 2,
+      "explanation": "Feminine -a nouns change -a to -i in the dative: žena → ženi."
+    },
+    {
+      "id": "dative-case-q8",
+      "prompt": "What is the dative form of 'selo' (village — neuter)?",
+      "options": ["selu", "sela", "selom", "sele"],
+      "correctIndex": 0,
+      "explanation": "Neuter nouns add -u to form the dative: selo → selu."
+    },
+    {
+      "id": "dative-case-q9",
+      "prompt": "What is the dative form of 'majka' (mother — note the spelling change)?",
+      "options": ["majku", "majki", "majkom", "majci"],
+      "correctIndex": 3,
+      "explanation": "Feminine nouns ending in -ka undergo velar softening: k → c before -i. So majka → majci."
+    },
+    {
+      "id": "dative-case-q10",
+      "prompt": "Fill in the blank: 'Sviđa ___ se ova knjiga.' (I like this book.)",
+      "options": ["ja", "meni", "mi", "me"],
+      "correctIndex": 2,
+      "explanation": "'Mi' is the short dative pronoun for 'ja': sviđa mi se = it pleases to me = I like it."
+    },
+    {
+      "id": "dative-case-q11",
+      "prompt": "Which short dative pronoun corresponds to 'on' (he)?",
+      "options": ["ga", "mu", "im", "njim"],
+      "correctIndex": 1,
+      "explanation": "The short dative pronoun for 'on' (he) is 'mu': Dao mu je knjigu. (He gave him the book.)"
+    },
+    {
+      "id": "dative-case-q12",
+      "prompt": "Which short dative pronoun corresponds to 'ona' (she)?",
+      "options": ["je", "joj", "njoj", "nju"],
+      "correctIndex": 1,
+      "explanation": "The short dative pronoun for 'ona' (she) is 'joj': Dao joj je poklon. (He gave her a gift.)"
+    },
+    {
+      "id": "dative-case-q13",
+      "prompt": "Which short dative pronoun corresponds to 'mi' (we)?",
+      "options": ["nas", "nam", "nami", "ni"],
+      "correctIndex": 1,
+      "explanation": "The dative pronoun for 'mi' (we) is 'nam': Dao nam je... (He gave us...)"
+    },
+    {
+      "id": "dative-case-q14",
+      "prompt": "What does 'Sviđa mi se Zagreb.' mean?",
+      "options": ["Zagreb needs me.", "I am going to Zagreb.", "I like Zagreb.", "I am from Zagreb."],
+      "correctIndex": 2,
+      "explanation": "'Sviđa mi se' = I like (lit. it pleases to me); mi is the dative of ja."
+    },
+    {
+      "id": "dative-case-q15",
+      "prompt": "Fill in the blank: 'Dala sam poklon ___.' — sestra (dative)",
+      "options": ["sestru", "sestri", "sestre", "sestrom"],
+      "correctIndex": 1,
+      "explanation": "Sestra is a feminine -a noun; dative changes -a to -i: sestra → sestri."
+    },
+    {
+      "id": "dative-case-q16",
+      "prompt": "Translate: 'I am writing a letter to my brother.'",
+      "options": [
+        "Pišem pismo bratu.",
+        "Pišem pismo brata.",
+        "Pišem pismo brat.",
+        "Pišem pismo bratom."
+      ],
+      "correctIndex": 0,
+      "explanation": "'To my brother' requires the dative: brat → bratu. So: Pišem pismo bratu."
+    },
+    {
+      "id": "dative-case-q17",
+      "prompt": "Which verb always requires a dative indirect object?",
+      "options": ["kupiti (to buy)", "vidjeti (to see)", "sviđati se (to please / like)", "tražiti (to look for)"],
+      "correctIndex": 2,
+      "explanation": "'Sviđati se' (to please/like) always takes a dative: Sviđa mi se (I like it) / Sviđa joj se (She likes it)."
+    },
+    {
+      "id": "dative-case-q18",
+      "prompt": "Fill in the blank: 'Rekao sam ___ istinu.' — ona (her)",
+      "options": ["njezin", "je", "joj", "nju"],
+      "correctIndex": 2,
+      "explanation": "'Reći' (to tell) takes a dative indirect object; 'joj' is the short dative pronoun for 'ona'."
+    },
+    {
+      "id": "dative-case-q19",
+      "prompt": "What does 'Treba mi novac.' mean?",
+      "options": ["I have money.", "I need money.", "I am spending money.", "I found money."],
+      "correctIndex": 1,
+      "explanation": "'Treba mi' = I need (lit. it is needed to me); 'mi' is the dative pronoun for 'ja'."
+    },
+    {
+      "id": "dative-case-q20",
+      "prompt": "Choose the correct Croatian for: 'He showed me the way.'",
+      "options": [
+        "Pokazao me put.",
+        "Pokazao mi je put.",
+        "Pokazao sam put.",
+        "Pokazao je put meni."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Pokazati' (to show) takes a dative indirect object; 'mi' = to me. Correct clitic order: mi je."
+    },
+    {
+      "id": "dative-case-q21",
+      "prompt": "What is the dative form of 'knjiga' (book — note the spelling change)?",
+      "options": ["knjigu", "knjige", "knjizi", "knjigom"],
+      "correctIndex": 2,
+      "explanation": "Feminine nouns ending in -ga undergo velar softening: g → z before -i. So knjiga → knjizi."
+    },
+    {
+      "id": "dative-case-q22",
+      "prompt": "Fill in the blank: 'Zahvalila je ___.' — prijateljica (female friend)",
+      "options": ["prijateljicu", "prijeteljičom", "prijateljiči", "prijateljici"],
+      "correctIndex": 3,
+      "explanation": "'Zahvaliti' (to thank) takes the dative; prijateljica is feminine -a → dative: prijateljici."
+    },
+    {
+      "id": "dative-case-q23",
+      "prompt": "Translate: 'She likes the bracelet.'",
+      "options": [
+        "Sviđa joj se narukvica.",
+        "Sviđa je narukvica.",
+        "Sviđa njoj narukvica.",
+        "Joj sviđa narukvica."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Sviđa joj se' = she likes (lit. it pleases to her); narukvica is the nominative subject."
+    },
+    {
+      "id": "dative-case-q24",
+      "prompt": "Which dative pronoun means 'to you' (plural or formal)?",
+      "options": ["ti", "vam", "im", "nam"],
+      "correctIndex": 1,
+      "explanation": "'Vam' is the dative pronoun for 'vi' (you plural/formal): Pišem vam. (I am writing to you.)"
+    },
+    {
+      "id": "dative-case-q25",
+      "prompt": "Fill in the blank: 'Poslala sam poruku ___.' — on (him)",
+      "options": ["ga", "njega", "mu", "njemu"],
+      "correctIndex": 2,
+      "explanation": "'Poslati' (to send) takes dative for the recipient; 'mu' is the short dative pronoun for 'on'."
+    },
+    {
+      "id": "dative-case-q26",
+      "prompt": "What is the dative form of 'prijatelj' (friend — masculine)?",
+      "options": ["prijatelja", "prijatelju", "prijateljem", "prijatelji"],
+      "correctIndex": 1,
+      "explanation": "Masculine nouns add -u to form the dative: prijatelj → prijatelju."
+    },
+    {
+      "id": "dative-case-q27",
+      "prompt": "Choose the correct Croatian for: 'I like these shoes.' (cipele = plural)",
+      "options": [
+        "Sviđaju mi se ove cipele.",
+        "Sviđa mi se ove cipele.",
+        "Sviđaju joj se ove cipele.",
+        "Vole mi se ove cipele."
+      ],
+      "correctIndex": 0,
+      "explanation": "When the thing liked is plural, use 'sviđaju' (not 'sviđa'). 'Mi' = dative of 'ja': Sviđaju mi se ove cipele."
+    },
+    {
+      "id": "dative-case-q28",
+      "prompt": "Fill in the blank: 'Daj ___ tu torbu!' (Give me that bag!)",
+      "options": ["ja", "me", "mi", "mene"],
+      "correctIndex": 2,
+      "explanation": "The short dative pronoun for 'ja' used as an indirect object is 'mi': Daj mi tu torbu!"
+    },
+    {
+      "id": "dative-case-q29",
+      "prompt": "Translate: 'Marko sent a letter to his sister.'",
+      "options": [
+        "Marko je poslao pismo sestre.",
+        "Marko je poslao pismo sestri.",
+        "Marko je poslao pismo sestrom.",
+        "Marko je poslao pismo sestru."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Poslati' (to send) requires dative for the recipient: sestra → sestri."
+    },
+    {
+      "id": "dative-case-q30",
+      "prompt": "What does 'Sviđaju nam se ove cipele.' mean?",
+      "options": ["We are buying these shoes.", "We are looking for these shoes.", "We like these shoes.", "We found these shoes."],
+      "correctIndex": 2,
+      "explanation": "'Sviđaju nam se' = we like them (lit. they please to us); 'nam' is the dative pronoun for 'mi' (we)."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Dative pronouns (mi/ti/mu/joj...)",
+      "items": [
+        { "hr": "mi", "en": "to me", "note": "dative of ja" },
+        { "hr": "ti", "en": "to you (singular)", "note": "dative of ti" },
+        { "hr": "mu", "en": "to him", "note": "dative of on" },
+        { "hr": "joj", "en": "to her", "note": "dative of ona" },
+        { "hr": "nam", "en": "to us", "note": "dative of mi" },
+        { "hr": "vam", "en": "to you (plural / formal)", "note": "dative of vi" },
+        { "hr": "im", "en": "to them", "note": "dative of oni/one" }
+      ]
+    },
+    {
+      "context": "Verbs that take dative",
+      "items": [
+        { "hr": "dati + dativ", "en": "to give (to someone)", "note": "Dao sam bratu. – I gave to my brother." },
+        { "hr": "reći + dativ", "en": "to tell / say (to someone)", "note": "Rekla sam joj. – I told her." },
+        { "hr": "pokazati + dativ", "en": "to show (to someone)", "note": "Pokazao mi je. – He showed me." },
+        { "hr": "poslati + dativ", "en": "to send (to someone)", "note": "Poslala sam mu. – I sent to him." },
+        { "hr": "zahvaliti + dativ", "en": "to thank (someone)", "note": "Zahvalila je sestri. – She thanked her sister." },
+        { "hr": "sviđati se + dativ", "en": "to please / be liked by", "note": "Sviđa mi se. – I like it." },
+        { "hr": "trebati + dativ", "en": "to need (impersonal)", "note": "Treba mi novac. – I need money." }
+      ]
+    },
+    {
+      "context": "Sviđa mi se (I like it)",
+      "items": [
+        { "hr": "Sviđa mi se.", "en": "I like it.", "note": "mi = dative of ja" },
+        { "hr": "Sviđa ti se.", "en": "You like it.", "note": "ti = dative of ti" },
+        { "hr": "Sviđa mu se.", "en": "He likes it.", "note": "mu = dative of on" },
+        { "hr": "Sviđa joj se.", "en": "She likes it.", "note": "joj = dative of ona" },
+        { "hr": "Sviđaju mi se.", "en": "I like them. (plural things)", "note": "sviđaju = 3rd pl. form" },
+        { "hr": "Sviđa mi se Zagreb.", "en": "I like Zagreb.", "note": "Zagreb = nominative subject" },
+        { "hr": "Sviđaju nam se ove cipele.", "en": "We like these shoes.", "note": "nam = dative of mi (we)" }
+      ]
+    },
+    {
+      "context": "Giving & telling (dati/reći)",
+      "items": [
+        { "hr": "Dao sam mu knjigu.", "en": "I gave him the book.", "note": "mu = to him (dative of on)" },
+        { "hr": "Rekla sam joj istinu.", "en": "I told her the truth.", "note": "joj = to her (dative of ona)" },
+        { "hr": "Dala sam sestri cvijeće.", "en": "I gave my sister flowers.", "note": "sestri = dative of sestra" },
+        { "hr": "Rekao je bratu.", "en": "He told his brother.", "note": "bratu = dative of brat" },
+        { "hr": "Dao mi je poklon.", "en": "He gave me a gift.", "note": "mi = to me (dative of ja)" },
+        { "hr": "Poslala sam vam poruku.", "en": "I sent you all a message.", "note": "vam = to you (plural)" }
+      ]
+    },
+    {
+      "context": "Useful dative phrases",
+      "items": [
+        { "hr": "Treba mi...", "en": "I need...", "note": "treba + dative = impersonal 'need'" },
+        { "hr": "Nije mi dobro.", "en": "I don't feel well.", "note": "mi = dative; lit. 'it is not well to me'" },
+        { "hr": "Hvala vam.", "en": "Thank you (formal / plural).", "note": "vam = dative of vi" },
+        { "hr": "Hvala ti.", "en": "Thank you (informal).", "note": "ti = dative of ti" },
+        { "hr": "Što mu je?", "en": "What's wrong with him?", "note": "mu = dative of on" },
+        { "hr": "Drago mi je.", "en": "Nice to meet you. / I'm glad.", "note": "mi = dative; lit. 'it is dear to me'" }
+      ]
+    }
+  ]
+}

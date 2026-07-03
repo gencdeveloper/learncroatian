@@ -1,0 +1,541 @@
+{
+  "id": "education",
+  "level": "a2",
+  "order": 13,
+  "title": {
+    "en": "Education & School",
+    "hr": "Obrazovanje i škola"
+  },
+  "grammar": {
+    "title": {
+      "en": "Education: vocabulary and verbs",
+      "hr": "Obrazovanje: vokabular i glagoli"
+    },
+    "intro": "Croatian has clear vocabulary for each level of the education system.\n\nThis topic covers school types, subjects, university life, and key phrases for discussing exams.\n\n- Use **studiram** (I study) for university-level degree programmes\n- Use **pohađam** (I attend) for any school, class, or course\n- Use **imam ispit iz + genitive** to say 'I have an exam in...'",
+    "rules": [
+      {
+        "label": "Key education vocabulary",
+        "explanation": "Learn these nouns to talk about the Croatian education system and school roles.\n\n- **osnovna škola** (f) — primary school\n- **srednja škola** (f) — secondary / high school\n- **fakultet** (m) — faculty / college (part of a university)\n- **sveučilište** (n) — university\n- **student** (m) / **studentica** (f) — male / female student\n- **profesor** (m) / **profesorica** (f) — teacher / professor\n- **predmet** (m) — subject\n- **ocjena** (f) — grade\n- **ispit** (m) — exam\n- **tečaj** (m) — course",
+        "examples": [
+          { "hr": "Pohađam osnovnu školu u Zagrebu.", "en": "I attend primary school in Zagreb." },
+          { "hr": "Ona je studentica na sveučilištu.", "en": "She is a student at university." },
+          { "hr": "Profesor nam daje ocjene.", "en": "The professor gives us grades." }
+        ]
+      },
+      {
+        "label": "School subjects and their grammatical gender",
+        "explanation": "Most school subjects are **feminine** because they end in **-a** or **-ost**. Some are masculine adjective-noun phrases.\n\n- **matematika** (f), **fizika** (f), **kemija** (f), **biologija** (f) — end in **-a** → feminine\n- **povijest** (f), **književnost** (f) — end in **-ost** → feminine\n- **informatika** (f) — ends in **-a** → feminine\n- **engleski jezik** (m), **hrvatski jezik** (m) — adjective + masculine noun\n- **glazbeni odgoj** (m), **tjelesni odgoj** (m) — adjective + masculine noun\n- **zemljopis** (m) — standalone masculine noun",
+        "examples": [
+          { "hr": "Volim matematiku i biologiju.", "en": "I love mathematics and biology." },
+          { "hr": "Tjelesni odgoj je moj omiljeni predmet.", "en": "Physical education is my favourite subject." },
+          { "hr": "Kemija i fizika su teške.", "en": "Chemistry and physics are difficult." }
+        ]
+      },
+      {
+        "label": "Studiram + accusative (I study...)",
+        "explanation": "Use **studiram** with the **accusative case** to say what you study at university level. This verb is only for degree programmes.\n\n- Feminine nouns: **-a** → **-u** (medicina → **medicinu**, ekonomija → **ekonomiju**)\n- Neuter nouns: unchanged (pravo → **pravo**)\n- Masculine inanimate nouns: unchanged (sport → **sport**)\n\nCommon programmes: **pravo** (law), **medicina** (medicine), **ekonomija** (economics), **arhitektura** (architecture), **jezici → jezike** (languages)",
+        "examples": [
+          { "hr": "Studiram medicinu na Medicinskom fakultetu.", "en": "I study medicine at the Medical Faculty." },
+          { "hr": "Studiram pravo i ekonomiju.", "en": "I study law and economics." },
+          { "hr": "On studira arhitekturu u Zagrebu.", "en": "He studies architecture in Zagreb." }
+        ]
+      },
+      {
+        "label": "Pohađam + accusative (I attend...)",
+        "explanation": "Use **pohađam** with the **accusative case** to say you attend a class, course, or school. It works at all education levels.\n\nCompare:\n- **Studiram** = I study (a degree programme at university)\n- **Pohađam** = I attend (any class, course, or school at any level)",
+        "examples": [
+          { "hr": "Pohađam tečaj hrvatskog.", "en": "I attend a Croatian course." },
+          { "hr": "Pohađam srednju školu u Splitu.", "en": "I attend high school in Split." },
+          { "hr": "Pohađam večernji tečaj engleskog.", "en": "I attend an evening English course." }
+        ]
+      },
+      {
+        "label": "Imam ispit iz... / Položio/la sam. / Pao/Pala sam.",
+        "explanation": "Use **imam ispit iz + genitive** to say you have an exam in a subject. Feminine nouns add **-e** or **-i** in the genitive; masculine nouns add **-a**.\n\n- matematika → iz **matematike**\n- fizika → iz **fizike**\n- kemija → iz **kemije**\n- povijest → iz **povijesti**\n- zemljopis → iz **zemljopisa**\n\nFor exam results and preparation:\n- **Položio sam.** / **Položila sam.** — I passed. (male / female)\n- **Pao sam.** / **Pala sam.** — I failed. (male / female)\n- **Pripremam se za + accusative** — I am preparing for...",
+        "examples": [
+          { "hr": "Imam ispit iz matematike u petak.", "en": "I have a maths exam on Friday." },
+          { "hr": "Položila sam! Jako sam sretna!", "en": "I passed! I am very happy!" },
+          { "hr": "Pripremam se za ispit iz kemije.", "en": "I am preparing for the chemistry exam." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Subject (English)", "Croatian", "Gender"],
+      "rows": [
+        ["Mathematics", "matematika", "feminine (f)"],
+        ["Physics", "fizika", "feminine (f)"],
+        ["Chemistry", "kemija", "feminine (f)"],
+        ["Biology", "biologija", "feminine (f)"],
+        ["History", "povijest", "feminine (f)"],
+        ["Geography", "zemljopis", "masculine (m)"],
+        ["Literature", "književnost", "feminine (f)"],
+        ["English language", "engleski jezik", "masculine (m)"],
+        ["Croatian language", "hrvatski jezik", "masculine (m)"],
+        ["Music education", "glazbeni odgoj", "masculine (m)"],
+        ["Physical education", "tjelesni odgoj", "masculine (m)"],
+        ["Computer science / IT", "informatika", "feminine (f)"]
+      ]
+    }
+  },
+  "reading": {
+    "title": {
+      "en": "Ana and Marko: student life",
+      "hr": "Ana i Marko: studentski život"
+    },
+    "paragraphs": [
+      {
+        "hr": "Ana je studentica lingvistike na Sveučilištu u Londonu. Ona studira kroatistiku i hispanistiku, a ovo je njezina treća godina studija. Ana jako voli jezike i uvijek je znatiželjna za kulture.",
+        "en": "Ana is a linguistics student at the University of London. She studies Croatian and Hispanic studies, and this is her third year of study. Ana loves languages and is always curious about cultures."
+      },
+      {
+        "hr": "Njezin raspored je pun. Ponedjeljkom i srijedom ima predavanja iz fonetike i morfologije, a petkom pohađa tečaj prevođenja. 'Volim lingvistiku,' kaže Ana, 'ali statistika je jako teška.'",
+        "en": "Her timetable is full. On Mondays and Wednesdays she has lectures in phonetics and morphology, and on Fridays she attends a translation course. 'I love linguistics,' says Ana, 'but statistics is very difficult.'"
+      },
+      {
+        "hr": "Ana ima ispit iz fonetike sljedeći tjedan i intenzivno se priprema za njega. 'Nadam se da ću položiti,' kaže. 'Prošli put sam pala, ali sada sam bolje pripremljena.'",
+        "en": "Ana has a phonetics exam next week and is preparing intensively for it. 'I hope I will pass,' she says. 'Last time I failed, but now I am better prepared.'"
+      },
+      {
+        "hr": "Marko je studirao računarstvo na Sveučilištu u Zagrebu. 'Prve dvije godine su bile jako naporne,' kaže on Ani. 'Imali smo puno predmeta iz matematike i fizike, a sati su bili jako dugi.'",
+        "en": "Marko studied computer science at the University of Zagreb. 'The first two years were very demanding,' he tells Ana. 'We had many subjects in mathematics and physics, and the hours were very long.'"
+      },
+      {
+        "hr": "Marko je imao posebno teške ispite iz algoritama i programiranja. Jednom je pao ispit i morao ga je polagati ponovno. 'To je bila teška lekcija,' kaže, 'ali naučio sam mnogo iz toga.'",
+        "en": "Marko had particularly difficult exams in algorithms and programming. Once he failed an exam and had to resit it. 'It was a hard lesson,' he says, 'but I learned a lot from it.'"
+      },
+      {
+        "hr": "Na kraju, Marko je diplomirao s odličnim ocjenama i dobio posao kao programer. Ana i Marko se slažu: obrazovanje je vrijedno, ali zahtjevno. 'Najvažnije je biti uporan i ne odustati,' kaže Marko s osmijehom.",
+        "en": "In the end, Marko graduated with excellent grades and got a job as a programmer. Ana and Marko agree: education is worthwhile, but demanding. 'The most important thing is to be persistent and not give up,' says Marko with a smile."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "education-q1",
+      "prompt": "What is Ana studying at university?",
+      "options": [
+        "Medicine and biology",
+        "Law and economics",
+        "Linguistics (Croatian and Hispanic studies)",
+        "Computer science"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana studira kroatistiku i hispanistiku — she studies Croatian and Hispanic studies, both branches of linguistics."
+    },
+    {
+      "id": "education-q2",
+      "prompt": "Which subject does Ana find very difficult?",
+      "options": [
+        "Phonetics",
+        "Statistics",
+        "Croatian language",
+        "Morphology"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana says 'statistika je jako teška' — statistics is very difficult."
+    },
+    {
+      "id": "education-q3",
+      "prompt": "What exam does Ana have next week?",
+      "options": [
+        "Statistics",
+        "Translation",
+        "Morphology",
+        "Phonetics"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ana ima ispit iz fonetike sljedeći tjedan — she has a phonetics exam next week."
+    },
+    {
+      "id": "education-q4",
+      "prompt": "What did Marko study at university?",
+      "options": [
+        "Mathematics",
+        "Physics",
+        "Computer science",
+        "Linguistics"
+      ],
+      "correctIndex": 2,
+      "explanation": "Marko je studirao računarstvo — Marko studied computer science."
+    },
+    {
+      "id": "education-q5",
+      "prompt": "What is Marko's job now?",
+      "options": [
+        "Teacher",
+        "Professor",
+        "Programmer",
+        "Student"
+      ],
+      "correctIndex": 2,
+      "explanation": "Marko je dobio posao kao programer — Marko got a job as a programmer."
+    }
+  ],
+  "test": [
+    {
+      "id": "education-q6",
+      "prompt": "What does 'osnovna škola' mean in English?",
+      "options": [
+        "High school",
+        "Primary school",
+        "University",
+        "Course"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Osnovna škola' means primary school — the first level of compulsory education in Croatia."
+    },
+    {
+      "id": "education-q7",
+      "prompt": "What does 'srednja škola' mean in English?",
+      "options": [
+        "Primary school",
+        "University",
+        "High school / secondary school",
+        "Faculty"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Srednja škola' means secondary or high school — the level between primary school and university."
+    },
+    {
+      "id": "education-q8",
+      "prompt": "What does 'sveučilište' mean in English?",
+      "options": [
+        "Faculty",
+        "Course",
+        "High school",
+        "University"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Sveučilište' means university — the full institution. 'Fakultet' is a faculty (e.g. Medical Faculty) within a university."
+    },
+    {
+      "id": "education-q9",
+      "prompt": "What is the feminine form of 'student'?",
+      "options": [
+        "studentka",
+        "studentica",
+        "studenta",
+        "studentinja"
+      ],
+      "correctIndex": 1,
+      "explanation": "The feminine form is 'studentica'. The suffix '-ica' is the standard way to form many feminine agent nouns in Croatian."
+    },
+    {
+      "id": "education-q10",
+      "prompt": "What case does 'studiram' require?",
+      "options": [
+        "Genitive",
+        "Dative",
+        "Accusative",
+        "Instrumental"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Studiram' (I study) takes the accusative case: Studiram medicinu, Studiram pravo, Studiram ekonomiju."
+    },
+    {
+      "id": "education-q11",
+      "prompt": "How do you say 'I study law' in Croatian?",
+      "options": [
+        "Studiram pravo",
+        "Studiram prava",
+        "Pohađam pravo",
+        "Učim pravo"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Pravo' (law) is a neuter noun; its accusative form is unchanged: Studiram pravo."
+    },
+    {
+      "id": "education-q12",
+      "prompt": "How do you say 'I study medicine' in Croatian?",
+      "options": [
+        "Studiram medicinu",
+        "Studiram medicina",
+        "Studiram medicini",
+        "Pohađam medicinu"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Medicina' is feminine; accusative = 'medicinu' (-a → -u). 'Pohađam' means to attend, not to study a degree."
+    },
+    {
+      "id": "education-q13",
+      "prompt": "How do you say 'I attend a Croatian course'?",
+      "options": [
+        "Studiram tečaj hrvatskog",
+        "Pohađam tečaj hrvatskog",
+        "Imam tečaj hrvatskog",
+        "Učim tečaj hrvatskog"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Pohađam' (I attend) is used for attending a course or school. 'Studiram' is only for university degree programmes."
+    },
+    {
+      "id": "education-q14",
+      "prompt": "What is the grammatical gender of 'matematika'?",
+      "options": [
+        "Masculine",
+        "Neuter",
+        "Feminine",
+        "It has no gender"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Matematika' ends in '-a', which is a clear marker of feminine gender in Croatian."
+    },
+    {
+      "id": "education-q15",
+      "prompt": "What is the grammatical gender of 'zemljopis'?",
+      "options": [
+        "Feminine",
+        "Masculine",
+        "Neuter",
+        "Variable"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Zemljopis' ends in a consonant and is masculine — unlike most school subjects, which are feminine."
+    },
+    {
+      "id": "education-q16",
+      "prompt": "How do you say 'I have an exam in mathematics'?",
+      "options": [
+        "Imam ispit matematike",
+        "Imam ispit iz matematike",
+        "Imam matematiku ispit",
+        "Imam ispit o matematici"
+      ],
+      "correctIndex": 1,
+      "explanation": "The structure is 'imam ispit iz + genitive'. 'Matematika' → genitive 'matematike': Imam ispit iz matematike."
+    },
+    {
+      "id": "education-q17",
+      "prompt": "How does a male speaker say 'I passed' (the exam)?",
+      "options": [
+        "Položila sam",
+        "Prošao sam",
+        "Položio sam",
+        "Prošla sam"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Položio sam' is the masculine past tense of 'položiti' (to pass an exam). The feminine form is 'Položila sam'."
+    },
+    {
+      "id": "education-q18",
+      "prompt": "How does a female speaker say 'I failed'?",
+      "options": [
+        "Pao sam",
+        "Pala sam",
+        "Pala je",
+        "Pao je"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Pala sam' is the feminine past tense of 'pasti' (to fall/fail). The masculine form is 'Pao sam'."
+    },
+    {
+      "id": "education-q19",
+      "prompt": "How do you say 'I am preparing for the exam'?",
+      "options": [
+        "Pripremam ispit",
+        "Učim ispit",
+        "Pripremam se za ispit",
+        "Idem na ispit"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Pripremam se za + accusative' means 'I am preparing for...'. 'Ispit' (masculine inanimate) is unchanged in accusative."
+    },
+    {
+      "id": "education-q20",
+      "prompt": "What does 'predmet' mean in English?",
+      "options": [
+        "Grade",
+        "Exam",
+        "Course",
+        "Subject"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Predmet' means subject — a school or university discipline like mathematics or history."
+    },
+    {
+      "id": "education-q21",
+      "prompt": "What does 'ocjena' mean in English?",
+      "options": [
+        "Exam",
+        "Grade",
+        "Subject",
+        "Timetable"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ocjena' means grade or mark — the score you receive for a subject or exam."
+    },
+    {
+      "id": "education-q22",
+      "prompt": "What does 'ispit' mean in English?",
+      "options": [
+        "Grade",
+        "Subject",
+        "Exam",
+        "Course"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Ispit' means exam or test — the formal assessment you take at school or university."
+    },
+    {
+      "id": "education-q23",
+      "prompt": "What is the Croatian word for 'biology'?",
+      "options": [
+        "biologija",
+        "kemija",
+        "fizika",
+        "botanika"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Biologija' is biology. Note: 'kemija' = chemistry, 'fizika' = physics."
+    },
+    {
+      "id": "education-q24",
+      "prompt": "What is the Croatian name for the school subject 'computer science' or 'IT'?",
+      "options": [
+        "računarstvo",
+        "informatika",
+        "programiranje",
+        "tehnologija"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Informatika' is the standard school subject name for computer science / IT in Croatian schools."
+    },
+    {
+      "id": "education-q25",
+      "prompt": "What is the Croatian for 'physical education'?",
+      "options": [
+        "glazbeni odgoj",
+        "sport",
+        "tjelesni odgoj",
+        "tjelovježba"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Tjelesni odgoj' (lit. bodily upbringing) is the school subject physical education. 'Sport' is a general word."
+    },
+    {
+      "id": "education-q26",
+      "prompt": "What is the Croatian for 'music education'?",
+      "options": [
+        "glazba",
+        "tjelesni odgoj",
+        "muzički odgoj",
+        "glazbeni odgoj"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Glazbeni odgoj' is the correct name for the school subject. 'Glazba' means music in general."
+    },
+    {
+      "id": "education-q27",
+      "prompt": "Which sentence correctly says 'I study economics'?",
+      "options": [
+        "Studiram ekonomija",
+        "Pohađam ekonomiju",
+        "Studiram ekonomiju",
+        "Učim ekonomiji"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Ekonomija' is feminine: accusative = 'ekonomiju' (-a → -u). 'Pohađam' means to attend, not to study a university programme."
+    },
+    {
+      "id": "education-q28",
+      "prompt": "Which sentence correctly says 'I attend a course'?",
+      "options": [
+        "Pohađam tečaj",
+        "Studiram tečaj",
+        "Imam tečaj",
+        "Idem tečaj"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Pohađam tečaj' means I attend a course. 'Tečaj' (masculine inanimate) is unchanged in the accusative."
+    },
+    {
+      "id": "education-q29",
+      "prompt": "What does 'tečaj' mean in English?",
+      "options": [
+        "Exam",
+        "Grade",
+        "Subject",
+        "Course"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Tečaj' means course — a short or non-degree programme of study, such as a language course."
+    },
+    {
+      "id": "education-q30",
+      "prompt": "What is the feminine form of 'profesor'?",
+      "options": [
+        "profesorka",
+        "profesorica",
+        "profesora",
+        "profesorinja"
+      ],
+      "correctIndex": 1,
+      "explanation": "The feminine form of 'profesor' is 'profesorica'. The suffix '-ica' forms feminine versions of many profession nouns in Croatian."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Types of schools and educational institutions in Croatia",
+      "items": [
+        { "hr": "osnovna škola", "en": "primary school", "note": "compulsory, ages 6–14" },
+        { "hr": "srednja škola", "en": "secondary / high school", "note": "ages 14–18/19" },
+        { "hr": "fakultet", "en": "faculty / college", "note": "e.g. Medicinski fakultet — Medical Faculty" },
+        { "hr": "sveučilište", "en": "university", "note": "neuter noun" },
+        { "hr": "tečaj", "en": "course", "note": "short or non-degree programme" },
+        { "hr": "predavanje", "en": "lecture", "note": "university-level class" }
+      ]
+    },
+    {
+      "context": "Names of school subjects in Croatian",
+      "items": [
+        { "hr": "matematika", "en": "mathematics", "note": "feminine (f)" },
+        { "hr": "fizika", "en": "physics", "note": "feminine (f)" },
+        { "hr": "kemija", "en": "chemistry", "note": "feminine (f)" },
+        { "hr": "biologija", "en": "biology", "note": "feminine (f)" },
+        { "hr": "povijest", "en": "history", "note": "feminine (f), ends in -ost" },
+        { "hr": "zemljopis", "en": "geography", "note": "masculine (m)" },
+        { "hr": "književnost", "en": "literature", "note": "feminine (f), ends in -ost" },
+        { "hr": "informatika", "en": "computer science / IT", "note": "feminine (f)" },
+        { "hr": "engleski jezik", "en": "English language", "note": "masculine (m)" },
+        { "hr": "glazbeni odgoj", "en": "music education", "note": "masculine (m)" },
+        { "hr": "tjelesni odgoj", "en": "physical education", "note": "masculine (m)" }
+      ]
+    },
+    {
+      "context": "People and roles in university life",
+      "items": [
+        { "hr": "student", "en": "male student" },
+        { "hr": "studentica", "en": "female student" },
+        { "hr": "profesor", "en": "male professor / teacher" },
+        { "hr": "profesorica", "en": "female professor / teacher" },
+        { "hr": "raspored", "en": "timetable / schedule" },
+        { "hr": "predmet", "en": "subject" },
+        { "hr": "ocjena", "en": "grade" },
+        { "hr": "diplomirati", "en": "to graduate" }
+      ]
+    },
+    {
+      "context": "Phrases for talking about exams and results",
+      "items": [
+        { "hr": "ispit", "en": "exam" },
+        { "hr": "Imam ispit iz matematike.", "en": "I have a maths exam.", "note": "ispit iz + genitive of subject" },
+        { "hr": "Položio sam.", "en": "I passed. (male speaker)", "note": "past tense, male" },
+        { "hr": "Položila sam.", "en": "I passed. (female speaker)", "note": "past tense, female" },
+        { "hr": "Pao sam.", "en": "I failed. (male speaker)" },
+        { "hr": "Pala sam.", "en": "I failed. (female speaker)" },
+        { "hr": "Moram polagati ponovno.", "en": "I have to resit it." }
+      ]
+    },
+    {
+      "context": "Key phrases for talking about your studies",
+      "items": [
+        { "hr": "Studiram medicinu.", "en": "I study medicine.", "note": "studiram + accusative" },
+        { "hr": "Pohađam tečaj hrvatskog.", "en": "I attend a Croatian course.", "note": "pohađam + accusative" },
+        { "hr": "Pripremam se za ispit.", "en": "I am preparing for the exam." },
+        { "hr": "Koje predmete imaš?", "en": "Which subjects do you have?" },
+        { "hr": "Moj omiljeni predmet je književnost.", "en": "My favourite subject is literature." },
+        { "hr": "Teško mi je.", "en": "It is difficult for me." }
+      ]
+    }
+  ]
+}

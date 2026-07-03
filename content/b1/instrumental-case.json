@@ -1,0 +1,487 @@
+{
+  "id": "instrumental-case",
+  "level": "b1",
+  "order": 2,
+  "title": {
+    "hr": "Instrumental",
+    "en": "Instrumental Case"
+  },
+  "grammar": {
+    "title": {
+      "hr": "Instrumentalni padež",
+      "en": "The Instrumental Case"
+    },
+    "intro": "The **instrumental case** (*instrumentalni padež*) is the sixth case in Croatian. It answers the questions *čime?* (with what?) and *s kim?* (with whom?). It expresses the **means** by which an action is performed, **accompaniment** with s/sa, **transport**, **time**, and **profession** after the verb *biti* (to be).",
+    "rules": [
+      {
+        "label": "Masculine and Neuter Singular: -om / -em",
+        "explanation": "Most masculine and neuter nouns take the ending **-om** in the instrumental singular.\n\n- **Hard stem** (most nouns): add **-om** → *vlak* → *vlakom*, *auto* → *autom*\n- **Soft stem** (nouns ending in *-j*, *-š*, *-ž*, *-č*, *-ć*, *-đ*, *-lj*, *-nj*, *-c*): add **-em** → *prijatelj* → *prijateljem*, *muž* → *mužem*\n\nNeuter nouns follow the same rule: *pero* → *perom*, *polje* → *poljem*.",
+        "examples": [
+          { "hr": "Putuje **vlakom**.", "en": "She travels **by train**." },
+          { "hr": "Idem s **prijateljem**.", "en": "I go with my **friend** (m)." },
+          { "hr": "Pišem **perom**.", "en": "I write with a **pen**." }
+        ]
+      },
+      {
+        "label": "Feminine Singular: -a → -om",
+        "explanation": "Feminine nouns ending in **-a** in the nominative drop the **-a** and add **-om**.\n\n- *žena* → *ženom*\n- *knjiga* → *knjigom*\n- *olovka* → *olovkom*\n- *majka* → *majkom*\n\nNote: feminine nouns ending in a consonant (e.g. *noć*, *stvar*) have a frozen instrumental adverb form: *noću* (at night) survives from an older grammatical pattern.",
+        "examples": [
+          { "hr": "Pišem **olovkom**.", "en": "I write with a **pencil**." },
+          { "hr": "Razgovaram s **prijateljicom**.", "en": "I talk with my (female) **friend**." },
+          { "hr": "Putujem **podzemnom željeznicom**.", "en": "I travel by **underground**." }
+        ]
+      },
+      {
+        "label": "Plural: -ima (M/N) and -ama / -ima (F)",
+        "explanation": "In the plural, the instrumental endings are:\n\n- **Masculine and Neuter**: add **-ima** → *prijatelji* → *prijateljima*, *pera* → *perima*\n- **Feminine**: most add **-ama** → *žene* → *ženama*, *knjige* → *knjigama*; consonant-stem feminines take **-ima** → *stvari* → *stvarima*",
+        "examples": [
+          { "hr": "Razgovaram s **prijateljima**.", "en": "I talk with my **friends** (m. pl.)." },
+          { "hr": "Pišem s **olovkama**.", "en": "I write with **pencils**." },
+          { "hr": "Idem s **kolegama**.", "en": "I go with my **colleagues**." }
+        ]
+      },
+      {
+        "label": "Five Main Uses of the Instrumental",
+        "explanation": "The instrumental case appears in five main contexts:\n\n- **Means / instrument**: how the action is done → *Pišem olovkom.* (I write with a pencil.)\n- **Accompaniment with s/sa**: going or being with someone → *Idem s prijateljem.* (I go with a friend.) Use **sa** before words beginning with *s-*, *š-*, *z-*, *ž-*, or a consonant cluster.\n- **Transport**: the vehicle used → *Putujem autobusom.* (I travel by bus.) No preposition is needed.\n- **Time expressions**: *noću* (at night), *danju* (by day), *ljeti* (in summer), *zimi* (in winter), *jutrom* (in the morning)\n- **Profession after biti**: *Ona je liječnicom.* (She is a doctor.) — the nominative is equally common in everyday speech.",
+        "examples": [
+          { "hr": "Pišem **olovkom**.", "en": "I write with a **pencil**. (means)" },
+          { "hr": "Idem **s prijateljem** u kino.", "en": "I go to the cinema **with a friend**. (accompaniment)" },
+          { "hr": "Dolazim **autobusom**.", "en": "I am coming **by bus**. (transport)" },
+          { "hr": "**Noću** je hladno.", "en": "It is cold **at night**. (time)" },
+          { "hr": "Ona je **liječnicom**.", "en": "She is a **doctor**. (profession after biti)" }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Gender / Number", "Nominative", "Instrumental", "Example sentence"],
+      "rows": [
+        ["M singular (hard)", "vlak (train)", "vlakom", "Putujem **vlakom**."],
+        ["M singular (soft)", "prijatelj (friend)", "prijateljem", "Idem s **prijateljem**."],
+        ["N singular (hard)", "pero (pen)", "perom", "Pišem **perom**."],
+        ["N singular (soft)", "polje (field)", "poljem", "Šetam **poljem**."],
+        ["F singular (-a)", "žena (woman)", "ženom", "Razgovaram s **ženom**."],
+        ["F singular (-a)", "olovka (pencil)", "olovkom", "Pišem **olovkom**."],
+        ["M plural", "prijatelji (friends)", "prijateljima", "Idem s **prijateljima**."],
+        ["N plural", "pera (pens)", "perima", "Pišem s **perima**."],
+        ["F plural", "žene (women)", "ženama", "Razgovaram s **ženama**."]
+      ]
+    }
+  },
+  "reading": {
+    "title": {
+      "hr": "Razglednica iz Londona",
+      "en": "A Postcard from London"
+    },
+    "paragraphs": [
+      {
+        "hr": "Ana sjedi za stolom u svojoj sobi u Londonu i piše razglednicu svojoj obitelji u Zagrebu. Uzela je svoju omiljenu olovku — tanku plavu olovku koju je kupila na aerodromu — i počela pisati sitnim, urednim slovima.",
+        "en": "Ana is sitting at a table in her room in London, writing a postcard to her family in Zagreb. She has taken her favourite pen — a thin blue pen she bought at the airport — and has begun to write in small, neat letters."
+      },
+      {
+        "hr": "„Draga obitelji,“ piše Ana pažljivo svojom omiljenom olovkom, „London je prekrasan! Svaki dan otkrivam nešto novo. Ulice su pune turista i lokalnih stanovnika koji žure na posao.“",
+        "en": "“Dear family,” Ana writes carefully with her favourite pen, “London is beautiful! Every day I discover something new. The streets are full of tourists and locals hurrying to work.”"
+      },
+      {
+        "hr": "Ana svaki dan putuje autobusom i podzemnom željeznicom po gradu. London ima odličan javni prijevoz, pa ne treba automobil. Ujutro ide autobusom do posla, a navečer se vraća podzemnom željeznicom.",
+        "en": "Ana travels around the city by bus and underground every day. London has excellent public transport, so a car is not needed. In the morning she goes to work by bus, and in the evening she returns by underground."
+      },
+      {
+        "hr": "Ove subote Ana ide u kazalište sa svojim cimerom iz stana — Markom. Marko je student medicine i jako voli kulturu. Zajedno su već posjetili nekoliko muzeja i jednu izložbu suvremene umjetnosti.",
+        "en": "This Saturday Ana is going to the theatre with her flatmate — Marko. Marko is a medical student and loves culture very much. Together they have already visited several museums and one contemporary art exhibition."
+      },
+      {
+        "hr": "Vikendom Ana i Marko zajedno kuhaju hrvatsku hranu u zajedničkoj kuhinji. Marko je naučio praviti sarme, a Ana kuha juhu s povrćem i mesom. Susjedi uvijek osjete dobre mirise i pitaju što kuhaju.",
+        "en": "At weekends Ana and Marko cook Croatian food together in the shared kitchen. Marko has learnt to make sarma (stuffed cabbage rolls), and Ana cooks soup with vegetables and meat. The neighbours always notice the good aromas and ask what they are cooking."
+      },
+      {
+        "hr": "„Nedostajete mi svi,“ završava Ana svoju razglednicu, „ali jako mi je lijepo ovdje. Nadam se da ću vas posjetiti za Božić. Sve vas ljubim! Ana.“ Zatim lijepi marku, stavlja razglednici u torbicu i sretna izlazi da je ubaci u poštanski sandučić.",
+        "en": "“I miss you all,” Ana ends her postcard, “but I am very happy here. I hope to visit you at Christmas. Lots of love! Ana.” She then sticks on a stamp, puts the postcard in her bag, and happily goes out to drop it in the postbox."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "instrumental-case-q1",
+      "prompt": "What is Ana writing in London?",
+      "promptHr": "Što Ana piše u Londonu?",
+      "options": [
+        "A letter to a friend",
+        "A postcard to her family in Zagreb",
+        "An email to her boss",
+        "A diary entry"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says Ana is writing a postcard (*razglednica*) to her family (*obitelji*) in Zagreb."
+    },
+    {
+      "id": "instrumental-case-q2",
+      "prompt": "What does Ana use to write the postcard?",
+      "promptHr": "Čime Ana piše razglednicu?",
+      "options": [
+        "A red pen she brought from Croatia",
+        "A pencil from the hotel",
+        "Her favourite thin blue pen bought at the airport",
+        "A borrowed pen from her flatmate"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text says she took her favourite pen (*omiljenu olovku*) — a thin blue one (*tanku plavu olovku*) bought at the airport. In Croatian this is expressed with the **instrumental**: *omiljenom olovkom*."
+    },
+    {
+      "id": "instrumental-case-q3",
+      "prompt": "How does Ana travel around London?",
+      "promptHr": "Kako Ana putuje po Londonu?",
+      "options": [
+        "By car and bicycle",
+        "By train and on foot",
+        "By bus and underground",
+        "By taxi and tram"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text says Ana travels *autobusom i podzemnom željeznicom* — **by bus and underground** (both are instrumental forms expressing transport)."
+    },
+    {
+      "id": "instrumental-case-q4",
+      "prompt": "Who is Marko, and where is Ana going with him this Saturday?",
+      "promptHr": "Tko je Marko i kamo Ana ide s njim ove subote?",
+      "options": [
+        "A colleague from work; they go to a museum",
+        "Her flatmate and a medical student; they go to the theatre",
+        "Her brother; they go to a Croatian restaurant",
+        "A tourist guide; they go to an art exhibition"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marko is Ana’s flatmate (*cimer iz stana*) and a medical student (*student medicine*). They go to the theatre (*kazalište*) — *sa svojim cimerom* uses the **instrumental** with the preposition *sa*."
+    },
+    {
+      "id": "instrumental-case-q5",
+      "prompt": "What do Ana and Marko do together at weekends?",
+      "promptHr": "Što Ana i Marko rade zajedno vikendom?",
+      "options": [
+        "They go sightseeing around London",
+        "They cook Croatian food together",
+        "They visit Croatian friends",
+        "They watch Croatian films"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says *vikendom zajedno kuhaju hrvatsku hranu* — at weekends they **cook Croatian food** together in the shared kitchen."
+    }
+  ],
+  "test": [
+    {
+      "id": "instrumental-case-q6",
+      "prompt": "Choose the correct instrumental form of *olovka* (pencil, F sg).",
+      "promptHr": "Odaberite točan instrumental od *olovka*.",
+      "options": ["olovku", "olovke", "olovkom", "olovki"],
+      "correctIndex": 2,
+      "explanation": "Feminine nouns ending in **-a** take **-om** in the instrumental: *olovka* → **olovkom**."
+    },
+    {
+      "id": "instrumental-case-q7",
+      "prompt": "Choose the correct instrumental form of *vlak* (train, M sg).",
+      "promptHr": "Odaberite točan instrumental od *vlak*.",
+      "options": ["vlakom", "vlaku", "vlaka", "vlake"],
+      "correctIndex": 0,
+      "explanation": "Hard-stem masculine nouns add **-om**: *vlak* → **vlakom**."
+    },
+    {
+      "id": "instrumental-case-q8",
+      "prompt": "Fill in the blank: “Idem ___ prijateljem u kino.”",
+      "promptHr": "Dopunite rečenicu: “Idem ___ prijateljem u kino.”",
+      "options": ["za", "na", "s", "od"],
+      "correctIndex": 2,
+      "explanation": "Accompaniment in Croatian uses the preposition **s** (or *sa*) + instrumental: *s prijateljem* = with a friend."
+    },
+    {
+      "id": "instrumental-case-q9",
+      "prompt": "She is a doctor. Which form correctly expresses her profession after *biti*?",
+      "promptHr": "Ona je ___. Odaberite točan oblik za zanimanje nakon glagola *biti*.",
+      "options": ["liječnica", "liječnicom", "liječnici", "liječnicu"],
+      "correctIndex": 1,
+      "explanation": "Professions after *biti* can take the instrumental: *Ona je **liječnicom**.* The feminine noun *liječnica* → instrumental *liječnicom*."
+    },
+    {
+      "id": "instrumental-case-q10",
+      "prompt": "Which phrase correctly means “by underground”?",
+      "promptHr": "Koji izraz znači “by underground” na hrvatskom?",
+      "options": [
+        "podzemnom željeznicom",
+        "podzemna željeznica",
+        "podzemnoj željeznici",
+        "podzemnu željeznicom"
+      ],
+      "correctIndex": 0,
+      "explanation": "*Podzemna željeznica* (underground, F) takes the instrumental: **podzemnom željeznicom**. Both the adjective (*podzemna* → *podzemnom*) and the noun (*željeznica* → *željeznicom*) change."
+    },
+    {
+      "id": "instrumental-case-q11",
+      "prompt": "Translate into Croatian: “I travel by bus.”",
+      "promptHr": "Prevedite na hrvatski: “I travel by bus.”",
+      "options": [
+        "Putujem autobusom.",
+        "Putujem autobus.",
+        "Putujem autobusu.",
+        "Putujem autobusa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Transport uses the instrumental **without a preposition**: *autobus* (M) → **autobusom**. The full sentence is *Putujem **autobusom**.*"
+    },
+    {
+      "id": "instrumental-case-q12",
+      "prompt": "Which sentence correctly says “It is cold at night”?",
+      "promptHr": "Koja rečenica točno znači “It is cold at night”?",
+      "options": [
+        "Noćem je hladno.",
+        "Noću je hladno.",
+        "Na noć je hladno.",
+        "U noći je hladno."
+      ],
+      "correctIndex": 1,
+      "explanation": "The time expression **noću** (at night) is a frozen instrumental form used adverbially. *Noćem* is not standard Croatian."
+    },
+    {
+      "id": "instrumental-case-q13",
+      "prompt": "Fill in the blank: “Razgovaram s ___ (kolega, M sg).”",
+      "promptHr": "Dopunite: “Razgovaram s ___ (kolega).”",
+      "options": ["kolega", "kolegu", "kolegom", "kolegi"],
+      "correctIndex": 2,
+      "explanation": "*Kolega* is a masculine noun with a feminine-type declension. Its instrumental singular is **kolegom**."
+    },
+    {
+      "id": "instrumental-case-q14",
+      "prompt": "Translate: “She goes to work with her mother.”",
+      "promptHr": "Prevedite: “She goes to work with her mother.”",
+      "options": [
+        "Ide na posao s majkama.",
+        "Ide na posao s majkom.",
+        "Ide na posao za majku.",
+        "Ide na posao od majke."
+      ],
+      "correctIndex": 1,
+      "explanation": "*Majka* (mother, F) → instrumental *majkom*. Accompaniment: *s **majkom***."
+    },
+    {
+      "id": "instrumental-case-q15",
+      "prompt": "What is the instrumental **plural** of *prijatelj* (friend, M)?",
+      "promptHr": "Koji je instrumental množine od *prijatelj*?",
+      "options": ["prijatelju", "prijatelje", "prijateljima", "prijatelji"],
+      "correctIndex": 2,
+      "explanation": "Masculine plural instrumental adds **-ima**: *prijatelji* → **prijateljima**."
+    },
+    {
+      "id": "instrumental-case-q16",
+      "prompt": "What is the instrumental singular of *knjiga* (book, F)?",
+      "promptHr": "Koji je instrumental jednine od *knjiga*?",
+      "options": ["knjigom", "knjigi", "knjige", "knjigu"],
+      "correctIndex": 0,
+      "explanation": "Feminine nouns ending in **-a** replace **-a** with **-om**: *knjiga* → **knjigom**."
+    },
+    {
+      "id": "instrumental-case-q17",
+      "prompt": "Marko is a medical student. Which form correctly describes his profession after *biti*?",
+      "promptHr": "Marko je ___. Koji je oblik instrumentala točan?",
+      "options": [
+        "student medicine",
+        "studentom medicine",
+        "studenta medicine",
+        "studentu medicine"
+      ],
+      "correctIndex": 1,
+      "explanation": "After *biti*, profession can be expressed in the instrumental: *Marko je **studentom medicine**.* (*student* M → *studentom*)"
+    },
+    {
+      "id": "instrumental-case-q18",
+      "prompt": "Translate: “We cook together with our friends.”",
+      "promptHr": "Prevedite: “We cook together with our friends.”",
+      "options": [
+        "Kuhamo zajedno s prijatelje.",
+        "Kuhamo zajedno s prijatelji.",
+        "Kuhamo zajedno s prijateljima.",
+        "Kuhamo zajedno za prijatelje."
+      ],
+      "correctIndex": 2,
+      "explanation": "*Prijatelji* (friends, M pl.) → instrumental plural **prijateljima**. Accompaniment: *s **prijateljima***."
+    },
+    {
+      "id": "instrumental-case-q19",
+      "prompt": "What does the time expression *ljeti* mean?",
+      "promptHr": "Što znači vremenski izraz *ljeti*?",
+      "options": ["in winter", "in spring", "in summer", "in autumn"],
+      "correctIndex": 2,
+      "explanation": "**Ljeti** is a frozen instrumental time expression meaning *in summer*. Its counterpart is *zimi* (in winter)."
+    },
+    {
+      "id": "instrumental-case-q20",
+      "prompt": "What is the instrumental singular of *pero* (pen, N sg)?",
+      "promptHr": "Koji je instrumental jednine od *pero* (N)?",
+      "options": ["pero", "perom", "peri", "pera"],
+      "correctIndex": 1,
+      "explanation": "Neuter nouns with a hard stem add **-om**: *pero* → **perom**."
+    },
+    {
+      "id": "instrumental-case-q21",
+      "prompt": "What is the instrumental singular of *auto* (car, M)?",
+      "promptHr": "Koji je instrumental jednine od *auto*?",
+      "options": ["autu", "autom", "auta", "aute"],
+      "correctIndex": 1,
+      "explanation": "*Auto* is a hard-stem masculine noun: *auto* → **autom**."
+    },
+    {
+      "id": "instrumental-case-q22",
+      "prompt": "Translate into English: “Idem s prijateljicom u kino.”",
+      "promptHr": "Prevedite na engleski: “Idem s prijateljicom u kino.”",
+      "options": [
+        "I am going to the cinema with a female friend.",
+        "I am going to the cinema with friends (m. pl.).",
+        "I am going to the cinema for a friend.",
+        "I am going to the cinema because of a friend."
+      ],
+      "correctIndex": 0,
+      "explanation": "*Prijateljicom* is the instrumental singular of *prijateljica* (female friend). *S prijateljicom* = **with a (female) friend**."
+    },
+    {
+      "id": "instrumental-case-q23",
+      "prompt": "What is the instrumental **plural** of *žena* (woman, F)?",
+      "promptHr": "Koji je instrumental množine od *žena*?",
+      "options": ["ženima", "ženama", "ženom", "ženi"],
+      "correctIndex": 1,
+      "explanation": "Feminine -a nouns take **-ama** in the instrumental plural: *žene* → **ženama**."
+    },
+    {
+      "id": "instrumental-case-q24",
+      "prompt": "Fill in the blank: “Ana putuje ___ (autobus, M sg) svaki dan.”",
+      "promptHr": "Dopunite: “Ana putuje ___ svaki dan.” (autobus)",
+      "options": ["autobus", "autobusa", "autobusom", "autobusu"],
+      "correctIndex": 2,
+      "explanation": "Transport uses the instrumental case without a preposition: *autobus* → **autobusom**."
+    },
+    {
+      "id": "instrumental-case-q25",
+      "prompt": "Translate into Croatian: “In winter it is cold in London.”",
+      "promptHr": "Prevedite: “In winter it is cold in London.”",
+      "options": [
+        "Ljeti je hladno u Londonu.",
+        "Zimi je hladno u Londonu.",
+        "Noću je hladno u Londonu.",
+        "Jutrom je hladno u Londonu."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Zimi** is the instrumental time expression meaning *in winter*. *Ljeti* = in summer, *noću* = at night, *jutrom* = in the morning."
+    },
+    {
+      "id": "instrumental-case-q26",
+      "prompt": "Choose the correct instrumental form of *majka* (mother, F sg).",
+      "promptHr": "Odaberite točan instrumental od *majka*.",
+      "options": ["majku", "majki", "majkom", "majke"],
+      "correctIndex": 2,
+      "explanation": "Feminine -a nouns: drop **-a**, add **-om**. *Majka* → **majkom**."
+    },
+    {
+      "id": "instrumental-case-q27",
+      "prompt": "Translate: “He is a doctor.” — Use the **instrumental** after *biti*.",
+      "promptHr": "Prevedite (s instrumentalom): “He is a doctor.”",
+      "options": [
+        "On je liječnik.",
+        "On je liječniku.",
+        "On je liječnikom.",
+        "On je liječnika."
+      ],
+      "correctIndex": 2,
+      "explanation": "After *biti*, profession in the instrumental: *liječnik* (M) → **liječnikom**. Full sentence: *On je **liječnikom**.*"
+    },
+    {
+      "id": "instrumental-case-q28",
+      "prompt": "Fill in the blank: “Ana kuha sa ___ (sestra, F sg).”",
+      "promptHr": "Dopunite: “Ana kuha sa ___ (sestra).”",
+      "options": ["sestra", "sestrom", "sestri", "sestru"],
+      "correctIndex": 1,
+      "explanation": "*Sestra* (sister, F) → instrumental **sestrom**. *Sa* is used before *s-*: *sa **sestrom***."
+    },
+    {
+      "id": "instrumental-case-q29",
+      "prompt": "What is the instrumental singular of *muškarac* (man, M)? Note: **-c** is a soft-category consonant.",
+      "promptHr": "Koji je instrumental jednine od *muškarac*?",
+      "options": ["muškarca", "muškarcu", "muškarcem", "muškarci"],
+      "correctIndex": 2,
+      "explanation": "Because *muškarac* ends in **-c** (a soft-category consonant), the instrumental takes **-em**: *muškarac* → **muškarcem**."
+    },
+    {
+      "id": "instrumental-case-q30",
+      "prompt": "Which sentence uses the instrumental case **correctly**?",
+      "promptHr": "Koja rečenica točno koristi instrumental?",
+      "options": [
+        "Putujem autobus svaki dan.",
+        "Idem na prijateljem u kino.",
+        "Pišem olovkom pismo.",
+        "Ona je liječniku u bolnici."
+      ],
+      "correctIndex": 2,
+      "explanation": "**Pišem olovkom pismo.** (I write a letter with a pencil.) correctly uses *olovkom* — the instrumental of *olovka* — to express the means. The other options misuse cases: *autobus* lacks an ending, *na* does not take the instrumental, and *liječniku* is a dative/locative form."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Means (instrument) — pišem olovkom, autobusom",
+      "items": [
+        { "hr": "pišem olovkom", "en": "I write with a pencil", "note": "olovka (F) → olovkom" },
+        { "hr": "pišem perom", "en": "I write with a pen", "note": "pero (N) → perom" },
+        { "hr": "pišem kistom", "en": "I paint with a brush", "note": "kist (M) → kistom" },
+        { "hr": "jedem vilicom", "en": "I eat with a fork", "note": "vilica (F) → vilicom" },
+        { "hr": "jedem žlicom", "en": "I eat with a spoon", "note": "žlica (F) → žlicom" },
+        { "hr": "platiti karticom", "en": "to pay by card", "note": "kartica (F) → karticom" },
+        { "hr": "govorim glasom", "en": "I speak in a (loud/soft) voice", "note": "glas (M) → glasom" }
+      ]
+    },
+    {
+      "context": "s/sa + instrumental (accompaniment)",
+      "items": [
+        { "hr": "s prijateljem", "en": "with a friend (m)", "note": "prijatelj (M soft) → prijateljem" },
+        { "hr": "s prijateljicom", "en": "with a friend (f)", "note": "prijateljica (F) → prijateljicom" },
+        { "hr": "s majkom", "en": "with mother", "note": "majka (F) → majkom" },
+        { "hr": "sa sestrom", "en": "with sister", "note": "sestra (F) → sestrom; sa used before s-" },
+        { "hr": "sa Zoranom", "en": "with Zoran", "note": "sa used before z-" },
+        { "hr": "s kolegama", "en": "with colleagues (pl)", "note": "kolege (F pl) → kolegama" },
+        { "hr": "s prijateljima", "en": "with friends (m pl)", "note": "prijatelji (M pl) → prijateljima" },
+        { "hr": "idem s njim", "en": "I go with him", "note": "instrumental pronoun: on → njim" }
+      ]
+    },
+    {
+      "context": "Transport in instrumental",
+      "items": [
+        { "hr": "autobusom", "en": "by bus", "note": "autobus (M) → autobusom" },
+        { "hr": "vlakom", "en": "by train", "note": "vlak (M) → vlakom" },
+        { "hr": "autom", "en": "by car", "note": "auto (M) → autom" },
+        { "hr": "avionom", "en": "by plane", "note": "avion (M) → avionom" },
+        { "hr": "brodom", "en": "by ship / by boat", "note": "brod (M) → brodom" },
+        { "hr": "tramvajem", "en": "by tram", "note": "tramvaj (M soft) → tramvajem" },
+        { "hr": "biciklom", "en": "by bicycle", "note": "bicikl (M) → biciklom" },
+        { "hr": "podzemnom željeznicom", "en": "by underground / by metro", "note": "podzemna željeznica (F) → podzemnom željeznicom" }
+      ]
+    },
+    {
+      "context": "Professions in instrumental (after biti)",
+      "items": [
+        { "hr": "On je liječnikom.", "en": "He is a doctor.", "note": "liječnik (M) → liječnikom" },
+        { "hr": "Ona je liječnicom.", "en": "She is a doctor.", "note": "liječnica (F) → liječnicom" },
+        { "hr": "On je studentom.", "en": "He is a student.", "note": "student (M) → studentom" },
+        { "hr": "Ona je studentom medicine.", "en": "She is a medical student.", "note": "student (M form) → studentom; medicine is genitive" },
+        { "hr": "On je učiteljem.", "en": "He is a teacher.", "note": "učitelj (M soft) → učiteljem" },
+        { "hr": "Ona je učiteljicom.", "en": "She is a teacher.", "note": "učiteljica (F) → učiteljicom" },
+        { "hr": "On je inženjerom.", "en": "He is an engineer.", "note": "inženjer (M) → inženjerom" },
+        { "hr": "Ona je arhitekticom.", "en": "She is an architect.", "note": "arhitektica (F) → arhitekticom" }
+      ]
+    },
+    {
+      "context": "Time expressions (noću, ljeti…)",
+      "items": [
+        { "hr": "noću", "en": "at night", "note": "frozen instrumental of noć (F)" },
+        { "hr": "danju", "en": "during the day", "note": "frozen instrumental of dan (M)" },
+        { "hr": "jutrom", "en": "in the morning", "note": "jutro (N) → jutrom" },
+        { "hr": "večerom", "en": "in the evening", "note": "večer (F) → večerom" },
+        { "hr": "ljeti", "en": "in summer", "note": "frozen instrumental of ljeto (N)" },
+        { "hr": "zimi", "en": "in winter", "note": "frozen instrumental of zima (F)" },
+        { "hr": "godinama", "en": "for years", "note": "godina (F pl) → godinama — instrumental expressing duration" },
+        { "hr": "satima", "en": "for hours", "note": "sat (M pl) → satima — instrumental expressing duration" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "id": "hobbies",
+  "level": "a1",
+  "order": 12,
+  "title": { "en": "Hobbies & Free Time", "hr": "Hobiji i slobodne aktivnosti" },
+  "grammar": {
+    "title": { "en": "Talking About Hobbies", "hr": "Razgovor o hobijima" },
+    "intro": "The core pattern for talking about hobbies: **Volim + infinitive** (I like to + verb).\n\n- **Volim plivati.** – I like to swim.\n- **Obožavam kuhati.** – I adore cooking.\n\nAdd frequency adverbs like **svaki dan** (every day) or **ponekad** (sometimes) for detail.",
+    "rules": [
+      {
+        "label": "'Volim + infinitive' — I like to / I love to",
+        "explanation": "**Volim** (I like/love) + infinitive is the most natural way to express hobbies. The infinitive always ends in **-ti** or **-ći** — no extra words needed:\n\n- **Volim čitati.** – I like to read.\n- **Volim kuhati.** – I like to cook.",
+        "examples": [
+          { "hr": "Volim plivati.", "en": "I like to swim." },
+          { "hr": "Volim čitati knjige.", "en": "I like to read books." },
+          { "hr": "Volim kuhati.", "en": "I like to cook." }
+        ]
+      },
+      {
+        "label": "Intensifying and negating: Obožavam / Ne volim / Mrzim",
+        "explanation": "All four follow the same pattern: word + infinitive.\n\n- **Obožavam** – I adore (stronger than Volim)\n- **Volim** – I like / I love\n- **Ne volim** – I don't like (add **ne** before volim)\n- **Mrzim** – I hate (strongest negative)",
+        "examples": [
+          { "hr": "Obožavam putovati.", "en": "I adore travelling." },
+          { "hr": "Ne volim gledati televiziju.", "en": "I don't like watching television." },
+          { "hr": "Mrzim pjevati pred drugima.", "en": "I hate singing in front of others." }
+        ]
+      },
+      {
+        "label": "How often? Frequency adverbs and 'Koliko često...?'",
+        "explanation": "Add a frequency adverb to say how often. From most to least frequent:\n\n- **svaki dan** – every day\n- **često** – often\n- **ponekad** – sometimes\n- **rijetko** – rarely\n- **nikad** – never\n\nWith **nikad**, always add **ne** before the verb: **Nikad ne plešem.**",
+        "examples": [
+          { "hr": "Koliko često plavaš?", "en": "How often do you swim?" },
+          { "hr": "Plivam svaki dan.", "en": "I swim every day." },
+          { "hr": "Ponekad igram šah.", "en": "I sometimes play chess." }
+        ]
+      },
+      {
+        "label": "'U slobodno vrijeme...' — In my free time...",
+        "explanation": "Start a sentence with **U slobodno vrijeme** to frame your hobby as leisure.\n\n**Slobodno** = free/spare; **vrijeme** here means *time* — not weather (same word, different context).",
+        "examples": [
+          { "hr": "U slobodno vrijeme volim čitati.", "en": "In my free time I like to read." },
+          { "hr": "Što radiš u slobodno vrijeme?", "en": "What do you do in your free time?" },
+          { "hr": "U slobodno vrijeme igram nogomet.", "en": "In my free time I play football." }
+        ]
+      },
+      {
+        "label": "'Što voliš raditi?' — What do you like to do?",
+        "explanation": "**Što voliš raditi?** = What do you like to do? **Raditi** = to do / to work.\n\nMake it more specific:\n- **Što voliš raditi vikendom?** – ...on weekends?\n- **Što voliš raditi u slobodno vrijeme?** – ...in your free time?",
+        "examples": [
+          { "hr": "Što voliš raditi vikendom?", "en": "What do you like to do on weekends?" },
+          { "hr": "Volim fotografirati i planinariti.", "en": "I like to take photos and hike." },
+          { "hr": "Moj najdraži hobi je čitanje.", "en": "My favourite hobby is reading." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Verb (glagol)", "English", "Example (primjer)"],
+      "rows": [
+        ["plivati", "to swim", "Volim plivati u moru."],
+        ["čitati", "to read", "Čitam svaki dan."],
+        ["gledati", "to watch", "Volim gledati filmove."],
+        ["slušati", "to listen", "Slušam glazbu ponekad."],
+        ["igrati", "to play (games/sport)", "Igram nogomet vikendom."],
+        ["kuhati", "to cook", "Obožavam kuhati."],
+        ["putovati", "to travel", "Volim putovati po Europi."],
+        ["planinariti", "to hike", "Rijetko planarim."],
+        ["fotografirati", "to take photos", "Fotografiram prirodu."],
+        ["plesati", "to dance", "Nikad ne plešem."],
+        ["pjevati", "to sing", "Ponekad pjevam."],
+        ["crtati", "to draw", "Ne volim crtati."]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "What Do You Like to Do?", "hr": "Što voliš raditi?" },
+    "paragraphs": [
+      {
+        "hr": "Ana i Marko sjede u kavani u nedjelju poslijepodne. Naručuju kavu i razgovaraju o hobijima i slobodnom vremenu. \"Što voliš raditi u slobodno vrijeme, Marko?\" pita Ana.",
+        "en": "Ana and Marko are sitting in a café on Sunday afternoon. They order coffee and talk about hobbies and free time. \"What do you like to do in your free time, Marko?\" asks Ana."
+      },
+      {
+        "hr": "\"Pa,\" kaže Marko, \"obožavam igrati nogomet. Igram s prijateljima svaki vikend. Također volim plivati — plivam gotovo svaki dan ujutro. A u slobodno vrijeme volim i kuhati! Kuham večeru svaki dan.\"",
+        "en": "\"Well,\" says Marko, \"I adore playing football. I play with friends every weekend. I also like to swim — I swim almost every morning. And in my free time I also like to cook! I cook dinner every day.\""
+      },
+      {
+        "hr": "Ana se smije. \"Ti kuhaš svaki dan? Ja rijetko kuham!\" \"A što ti voliš raditi?\" pita Marko. \"Obožavam čitati,\" kaže Ana. \"Čitam svaki dan — knjige, časopise, sve. I volim fotografirati — posebno prirodu i arhitekturu.\"",
+        "en": "Ana laughs. \"You cook every day? I rarely cook!\" \"And what do you like to do?\" asks Marko. \"I adore reading,\" says Ana. \"I read every day — books, magazines, everything. And I like to take photos — especially nature and architecture.\""
+      },
+      {
+        "hr": "\"Fotografirati? Zanimljivo!\" kaže Marko. \"Hobi koji mrzim je crtanje — nisam nimalo talentiran za to,\" smije se. \"Ja ne volim gledati televiziju,\" kaže Ana. \"Nikad ne gledam serije. Ali volim gledati dokumentarce ponekad.\"",
+        "en": "\"Taking photos? Interesting!\" says Marko. \"A hobby I hate is drawing — I am not at all talented for it,\" he laughs. \"I don't like watching television,\" says Ana. \"I never watch TV series. But I like to watch documentaries sometimes.\""
+      },
+      {
+        "hr": "\"Voliš li planinariti?\" pita Marko. \"Obožavam planinariti!\" odgovara Ana s entuzijazmom. \"Planarim često — svaki mjesec idemo s grupom prijatelja. A ti?\" Marko razmišlja. \"Ponekad planarim. Ne tako često kao ti.\"",
+        "en": "\"Do you like hiking?\" asks Marko. \"I adore hiking!\" answers Ana with enthusiasm. \"I hike often — every month we go with a group of friends. And you?\" Marko thinks. \"I hike sometimes. Not as often as you.\""
+      },
+      {
+        "hr": "Na kraju razgovora, Ana i Marko shvaćaju da oboje obožavaju putovati. \"Putovanje je moj najdraži hobi!\" kaže Marko. \"Moj također!\" smije se Ana. \"Idemo zajedno na Plitvička jezera sljedeći vikend?\" \"Odlično! Dogovoreno.\"",
+        "en": "At the end of the conversation, Ana and Marko realise that they both adore travelling. \"Travelling is my favourite hobby!\" says Marko. \"Mine too!\" laughs Ana. \"Shall we go to Plitvice Lakes together next weekend?\" \"Excellent! It's agreed.\""
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "hobbies-q1",
+      "prompt": "What sport does Marko play every weekend?",
+      "promptHr": "Koji sport Marko igra svaki vikend?",
+      "options": ["Swimming", "Tennis", "Football", "Basketball"],
+      "correctIndex": 2,
+      "explanation": "Marko says 'obožavam igrati nogomet. Igram s prijateljima svaki vikend.' — he plays football (nogomet) every weekend."
+    },
+    {
+      "id": "hobbies-q2",
+      "prompt": "What hobby does Ana say she does every day?",
+      "promptHr": "Koji hobi Ana kaže da radi svaki dan?",
+      "options": ["Cooking", "Hiking", "Reading", "Swimming"],
+      "correctIndex": 2,
+      "explanation": "Ana says 'Obožavam čitati. Čitam svaki dan.' — she reads every day."
+    },
+    {
+      "id": "hobbies-q3",
+      "prompt": "What hobby does Marko say he hates?",
+      "promptHr": "Koji hobi Marko kaže da mrzi?",
+      "options": ["Cooking", "Drawing", "Singing", "Dancing"],
+      "correctIndex": 1,
+      "explanation": "Marko says 'Hobi koji mrzim je crtanje' — the hobby I hate is drawing (crtanje)."
+    },
+    {
+      "id": "hobbies-q4",
+      "prompt": "How often does Ana go hiking?",
+      "promptHr": "Koliko često Ana planinarit?",
+      "options": ["Every day", "Every month with a group of friends", "Rarely", "Never"],
+      "correctIndex": 1,
+      "explanation": "Ana says 'Planarim često — svaki mjesec idemo s grupom prijatelja.' — she hikes every month with a group of friends."
+    },
+    {
+      "id": "hobbies-q5",
+      "prompt": "What shared hobby do Ana and Marko discover at the end of the conversation?",
+      "promptHr": "Koji zajednički hobi Ana i Marko otkrivaju na kraju razgovora?",
+      "options": ["Cooking", "Football", "Photography", "Travelling"],
+      "correctIndex": 3,
+      "explanation": "Both say 'Putovanje je moj najdraži hobi!' — Travelling is my favourite hobby!"
+    }
+  ],
+  "test": [
+    {
+      "id": "hobbies-q6",
+      "prompt": "What does 'Volim plivati' mean?",
+      "options": ["I swim every day", "I like to swim", "I don't like swimming", "I can swim"],
+      "correctIndex": 1,
+      "explanation": "'Volim' = I like/love, 'plivati' = to swim. Together: 'I like to swim.'"
+    },
+    {
+      "id": "hobbies-q7",
+      "prompt": "How do you say 'I adore travelling' in Croatian?",
+      "options": ["Putovam uvijek.", "Obožavam putovati.", "Mrzim putovati.", "Ne volim putovati."],
+      "correctIndex": 1,
+      "explanation": "'Obožavam' = I adore/love intensely, 'putovati' = to travel. → 'Obožavam putovati.'"
+    },
+    {
+      "id": "hobbies-q8",
+      "prompt": "What does 'Mrzim pjevati' mean?",
+      "options": ["I love to sing", "I like singing sometimes", "I hate to sing", "I have never sung"],
+      "correctIndex": 2,
+      "explanation": "'Mrzim' = I hate, 'pjevati' = to sing. → 'I hate to sing.'"
+    },
+    {
+      "id": "hobbies-q9",
+      "prompt": "What does 'čitati' mean?",
+      "options": ["to listen", "to draw", "to cook", "to read"],
+      "correctIndex": 3,
+      "explanation": "'Čitati' means to read. 'Čitam svaki dan.' = I read every day."
+    },
+    {
+      "id": "hobbies-q10",
+      "prompt": "How do you say 'I don't like dancing' in Croatian?",
+      "options": ["Volim plesati.", "Obožavam plesati.", "Ne volim plesati.", "Mrzim kuhanje."],
+      "correctIndex": 2,
+      "explanation": "'Ne volim plesati.' = I don't like to dance. Adding 'ne' before 'volim' negates it."
+    },
+    {
+      "id": "hobbies-q11",
+      "prompt": "What does 'svaki dan' mean?",
+      "options": ["sometimes", "every day", "rarely", "often"],
+      "correctIndex": 1,
+      "explanation": "'Svaki dan' = every day. 'Svaki' = every, 'dan' = day."
+    },
+    {
+      "id": "hobbies-q12",
+      "prompt": "What does 'ponekad' mean?",
+      "options": ["never", "always", "often", "sometimes"],
+      "correctIndex": 3,
+      "explanation": "'Ponekad' = sometimes. It falls between 'često' (often) and 'rijetko' (rarely) on the frequency scale."
+    },
+    {
+      "id": "hobbies-q13",
+      "prompt": "What does 'fotografirati' mean?",
+      "options": ["to draw", "to paint", "to take photos", "to film"],
+      "correctIndex": 2,
+      "explanation": "'Fotografirati' = to take photos / to photograph. 'Fotografiram prirodu.' = I photograph nature."
+    },
+    {
+      "id": "hobbies-q14",
+      "prompt": "How do you ask 'What do you like to do?' in Croatian?",
+      "options": ["Što radiš?", "Što voliš raditi?", "Koliko često radiš?", "Gdje radiš?"],
+      "correctIndex": 1,
+      "explanation": "'Što voliš raditi?' = What do you like to do? 'Što' = what, 'voliš' = you like, 'raditi' = to do."
+    },
+    {
+      "id": "hobbies-q15",
+      "prompt": "What does 'planinariti' mean?",
+      "options": ["to cycle", "to run", "to hike", "to ski"],
+      "correctIndex": 2,
+      "explanation": "'Planinariti' = to hike / to go hiking. 'Planarim često.' = I hike often."
+    },
+    {
+      "id": "hobbies-q16",
+      "prompt": "What does 'rijetko' mean?",
+      "options": ["never", "always", "often", "rarely"],
+      "correctIndex": 3,
+      "explanation": "'Rijetko' = rarely. 'Rijetko kuham.' = I rarely cook."
+    },
+    {
+      "id": "hobbies-q17",
+      "prompt": "Fill in the blank: '___ glazbu svaki dan.' (I listen to music every day.)",
+      "options": ["Čitam", "Kuham", "Slušam", "Gledam"],
+      "correctIndex": 2,
+      "explanation": "'Slušam glazbu svaki dan.' — 'slušati' = to listen. 'Slušam' is the first-person singular present form."
+    },
+    {
+      "id": "hobbies-q18",
+      "prompt": "What does 'u slobodno vrijeme' mean?",
+      "options": ["in my work time", "in my free time", "on weekdays", "in the morning"],
+      "correctIndex": 1,
+      "explanation": "'U slobodno vrijeme' = in my/one's free time. 'Slobodno' = free/spare, 'vrijeme' here means time."
+    },
+    {
+      "id": "hobbies-q19",
+      "prompt": "Which sentence means 'I like to cook'?",
+      "options": ["Volim jesti.", "Volim kuhati.", "Obožavam čitati.", "Ne volim kuhati."],
+      "correctIndex": 1,
+      "explanation": "'Volim kuhati.' = I like to cook. 'Kuhati' is the infinitive of 'to cook'."
+    },
+    {
+      "id": "hobbies-q20",
+      "prompt": "What does 'nikad' mean?",
+      "options": ["sometimes", "always", "rarely", "never"],
+      "correctIndex": 3,
+      "explanation": "'Nikad' = never. When using it with a verb, add 'ne': 'Nikad ne plešem.' = I never dance."
+    },
+    {
+      "id": "hobbies-q21",
+      "prompt": "How do you say 'How often do you swim?' in Croatian?",
+      "options": ["Gdje plavaš?", "Koliko često plavaš?", "Što voliš plivati?", "Kada plavaš?"],
+      "correctIndex": 1,
+      "explanation": "'Koliko često plavaš?' = How often do you swim? 'Koliko često' = how often, 'plavaš' = you swim."
+    },
+    {
+      "id": "hobbies-q22",
+      "prompt": "What does 'igrati' mean in the context of hobbies?",
+      "options": ["to draw", "to play (games or sport)", "to sing", "to dance"],
+      "correctIndex": 1,
+      "explanation": "'Igrati' = to play (games, sports). 'Igram nogomet.' = I play football. For instruments, use 'svirati'."
+    },
+    {
+      "id": "hobbies-q23",
+      "prompt": "What does 'gledati filmove' mean?",
+      "options": ["to read films", "to make films", "to watch films", "to listen to films"],
+      "correctIndex": 2,
+      "explanation": "'Gledati' = to watch/look at, 'filmove' = films (accusative plural). → 'to watch films'."
+    },
+    {
+      "id": "hobbies-q24",
+      "prompt": "Fill in the blank: 'Obožavam ___.' (I adore dancing.)",
+      "options": ["plesati", "plesa", "pleše", "plešem"],
+      "correctIndex": 0,
+      "explanation": "After 'Obožavam', use the infinitive: 'plesati' (to dance). → 'Obožavam plesati.'"
+    },
+    {
+      "id": "hobbies-q25",
+      "prompt": "What does 'pjevati' mean?",
+      "options": ["to dance", "to play", "to sing", "to draw"],
+      "correctIndex": 2,
+      "explanation": "'Pjevati' = to sing. 'Ponekad pjevam.' = I sometimes sing."
+    },
+    {
+      "id": "hobbies-q26",
+      "prompt": "Which sentence correctly means 'I often hike'?",
+      "options": ["Rijetko planarim.", "Nikad ne planarim.", "Često planarim.", "Ponekad planarim."],
+      "correctIndex": 2,
+      "explanation": "'Često planarim.' = I often hike. 'Često' = often."
+    },
+    {
+      "id": "hobbies-q27",
+      "prompt": "What is the difference between 'Volim' and 'Obožavam'?",
+      "options": ["There is no difference — they are exact synonyms", "'Volim' means I hate, 'Obožavam' means I like", "'Volim' means I like, 'Obožavam' means I adore / love intensely", "'Volim' means I like a little, 'Obožavam' means I dislike"],
+      "correctIndex": 2,
+      "explanation": "'Volim' = I like/love (general), 'Obožavam' = I adore / love intensely. 'Obožavam' is stronger and more enthusiastic."
+    },
+    {
+      "id": "hobbies-q28",
+      "prompt": "What does 'crtati' mean?",
+      "options": ["to sing", "to dance", "to draw", "to read"],
+      "correctIndex": 2,
+      "explanation": "'Crtati' = to draw. 'Mrzim crtati.' = I hate drawing."
+    },
+    {
+      "id": "hobbies-q29",
+      "prompt": "How do you say 'In my free time I like to read books' in Croatian?",
+      "options": ["Čitam knjige svaki dan.", "U slobodno vrijeme volim čitati knjige.", "Obožavam pisati knjige.", "U poslu čitam knjige."],
+      "correctIndex": 1,
+      "explanation": "'U slobodno vrijeme volim čitati knjige.' — 'U slobodno vrijeme' (in my free time) + 'volim čitati' (I like to read) + 'knjige' (books)."
+    },
+    {
+      "id": "hobbies-q30",
+      "prompt": "What does 'Što voliš raditi vikendom?' mean?",
+      "options": ["What are you doing this weekend?", "What do you like to do on weekends?", "What did you do last weekend?", "Do you work on weekends?"],
+      "correctIndex": 1,
+      "explanation": "'Što voliš raditi vikendom?' = What do you like to do on weekends? 'Vikendom' = on weekends (instrumental case of 'vikend')."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Use these verbs with 'Volim' or 'Obožavam' to talk about sports and outdoor activities. 'Igrati' is used for team sports and games; 'svirati' is used for musical instruments.",
+      "items": [
+        { "hr": "plivati", "en": "to swim", "note": "Volim plivati u moru." },
+        { "hr": "igrati nogomet", "en": "to play football", "note": "Igram nogomet svaki vikend." },
+        { "hr": "planinariti", "en": "to hike", "note": "Ponekad planarim." },
+        { "hr": "trčati", "en": "to run", "note": "Trčim u parku." },
+        { "hr": "biciklirati", "en": "to cycle", "note": "Volim biciklirati." },
+        { "hr": "igrati košarku", "en": "to play basketball" },
+        { "hr": "igrati tenis", "en": "to play tennis" }
+      ]
+    },
+    {
+      "context": "Creative and artistic activities. Use 'svirati' (to play) for musical instruments — not 'igrati', which is reserved for games and sport.",
+      "items": [
+        { "hr": "fotografirati", "en": "to take photos", "note": "Fotografiram prirodu." },
+        { "hr": "crtati", "en": "to draw", "note": "Ne volim crtati." },
+        { "hr": "plesati", "en": "to dance", "note": "Obožavam plesati." },
+        { "hr": "pjevati", "en": "to sing", "note": "Ponekad pjevam." },
+        { "hr": "svirati gitaru", "en": "to play guitar", "note": "Use 'svirati' for all instruments." },
+        { "hr": "slikati", "en": "to paint" }
+      ]
+    },
+    {
+      "context": "Things you can enjoy indoors. 'Gledati' means to watch or look at; pair it with 'filmove' (films) or 'televiziju' (television).",
+      "items": [
+        { "hr": "čitati", "en": "to read", "note": "Čitam svaki dan." },
+        { "hr": "gledati filmove", "en": "to watch films" },
+        { "hr": "gledati televiziju", "en": "to watch television" },
+        { "hr": "slušati glazbu", "en": "to listen to music" },
+        { "hr": "kuhati", "en": "to cook", "note": "Obožavam kuhati." },
+        { "hr": "igrati šah", "en": "to play chess" },
+        { "hr": "igrati videoigre", "en": "to play video games" }
+      ]
+    },
+    {
+      "context": "Frequency expressions from most to least often. When using 'nikad' (never), always add 'ne' before the verb: 'Nikad ne plešem.'",
+      "items": [
+        { "hr": "svaki dan", "en": "every day", "note": "Plivam svaki dan." },
+        { "hr": "često", "en": "often", "note": "Često čitam." },
+        { "hr": "ponekad", "en": "sometimes", "note": "Ponekad kuham." },
+        { "hr": "rijetko", "en": "rarely", "note": "Rijetko plešem." },
+        { "hr": "nikad", "en": "never", "note": "Nikad ne pjevam." },
+        { "hr": "svaki vikend", "en": "every weekend" },
+        { "hr": "svaki tjedan", "en": "every week" }
+      ]
+    },
+    {
+      "context": "Key phrases for discussing hobbies and what you enjoy in your free time.",
+      "items": [
+        { "hr": "U slobodno vrijeme...", "en": "In my free time...", "note": "U slobodno vrijeme volim čitati." },
+        { "hr": "Što voliš raditi?", "en": "What do you like to do?" },
+        { "hr": "Koliko često...?", "en": "How often...?" },
+        { "hr": "Moj najdraži hobi je...", "en": "My favourite hobby is..." },
+        { "hr": "Volim + infinitiv", "en": "I like to + verb" },
+        { "hr": "Obožavam + infinitiv", "en": "I adore / love to + verb" },
+        { "hr": "Ne volim + infinitiv", "en": "I don't like to + verb" },
+        { "hr": "Mrzim + infinitiv", "en": "I hate to + verb" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import TestPage from "../../components/TestPage.astro";
+import { getAllTests } from "../../lib/content";
+
+export async function getStaticPaths() {
+  const tests = getAllTests();
+  return tests.map((test) => ({
+    params: { id: test.id },
+    props: { test },
+  }));
+}
+
+const { test } = Astro.props;
+---
+
+<Layout title={`${test.title.en} | Learn Croatian`}>
+  <TestPage test={test} />
+</Layout>

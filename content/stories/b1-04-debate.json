@@ -1,0 +1,60 @@
+{
+  "id": "environmental-debate",
+  "level": "b1",
+  "order": 4,
+  "title": { "hr": "Rasprava o okolišu", "en": "An Environmental Debate" },
+  "topicsUsed": ["passive-voice", "indirect-speech", "subordinate-clauses", "relative-clauses", "conditional"],
+  "paragraphs": [
+    {
+      "hr": "Profesor Horvat zadao je studentima treće godine komunikologije neuobičajen zadatak: pripremiti formalnu raspravu o ekološkim problemima. Studenti su podijeljeni u dvije grupe — jedni su trebali zagovarati strogu zabranu plastičnih vrećica, dok su drugi trebali predložiti umjereniji, porezni pristup. Rasprava je bila zakazana za petak.",
+      "en": "Professor Horvat gave the third-year media studies students an unusual task: to prepare a formal debate on environmental problems. Students were divided into two groups — some were to advocate for a strict ban on plastic bags, while others were to propose a more moderate, tax-based approach. The debate was scheduled for Friday."
+    },
+    {
+      "hr": "Lana, koja je predvodila prvu grupu, otvorila je raspravu tvrdeći da su plastične vrećice jedan od glavnih uzroka zagađenja mora i kopna. Iznijela je podatke prema kojima se godišnje u Europskoj uniji upotrijebi osamdeset milijardi plastičnih vrećica — od kojih je samo mali postotak recikliran. Rekla je da je zabrana jedino rješenje koje donosi brze i mjerljive rezultate.",
+      "en": "Lana, who led the first group, opened the debate by arguing that plastic bags are one of the main causes of sea and land pollution. She presented data according to which eighty billion plastic bags are used annually in the European Union — of which only a small percentage is recycled. She said that a ban was the only solution that brings quick and measurable results."
+    },
+    {
+      "hr": "Nikola iz druge grupe nije se složio. Rekao je da se potpuna zabrana ne može uvesti brzo bez negativnih posljedica za male trgovce koji ne mogu priuštiti skupu alternativnu ambalažu. Predložio je postepeno uvođenje visokog poreza koji bi motivirao potrošače da sami donesu vrećice od kuće, umjesto da se industrija mijenja naglo.",
+      "en": "Nikola from the second group disagreed. He said that a full ban cannot be introduced quickly without negative consequences for small traders who cannot afford expensive alternative packaging. He proposed a gradual introduction of a high tax that would motivate consumers to bring their own bags from home, rather than the industry changing abruptly."
+    },
+    {
+      "hr": "Profesor je upitao o kojim koracima hrvatska vlada već poduzela u borbi s plastičnim otpadom. Studenti su se prisjetili da je Hrvatska uvela zabranu besplatnih plastičnih vrećica 2019. i da je reciklažna infrastruktura ojačana u posljednjih nekoliko godina. Ipak, stopa recikliranja u Hrvatskoj još uvijek zaostaje za europskim prosjekom.",
+      "en": "The professor asked about what steps the Croatian government had already taken in the fight against plastic waste. Students recalled that Croatia had introduced a ban on free plastic bags in 2019 and that recycling infrastructure had been strengthened in recent years. However, Croatia's recycling rate still lags behind the European average."
+    },
+    {
+      "hr": "Rasprava je postala življa kada je Marta, iz prve grupe, rekla da se sustav recikliranja ne može smatrati uspješnim dok god postoje kvartovi bez dovoljno kontejnera za razvrstavanje otpada. Nikola je odgovorio da je to problem gradske uprave, a ne razlog za zabranu. Profesor je tražio da obje strane podrže svoja stajališta konkretnim primjerima iz europske prakse.",
+      "en": "The debate became livelier when Marta, from the first group, said that the recycling system cannot be considered successful as long as there are neighbourhoods without enough containers for sorting waste. Nikola replied that this was a problem for the city administration, not a reason for a ban. The professor asked both sides to support their positions with concrete examples from European practice."
+    },
+    {
+      "hr": "Zaključak rasprave bio je jasan: i zabrana i porez imaju prednosti i nedostatke. Studenti su se složili da je osobna odgovornost važna, ali da sistemske promjene ne mogu čekati dok svi građani ne postanu ekološki svjesni. Profesor Horvat je rekao da je to bila jedna od boljih rasprava koje je vodio u dvadeset godina predavanja.",
+      "en": "The conclusion of the debate was clear: both a ban and a tax have advantages and disadvantages. Students agreed that personal responsibility was important, but that systemic changes could not wait until all citizens became environmentally conscious. Professor Horvat said it had been one of the better debates he had conducted in twenty years of teaching."
+    },
+    {
+      "hr": "Na kraju sata profesor je tražio da studenti glasaju. Četrnaest ih je glasovalo za zabranu, osam za porezni pristup. Lana je slavila malu pobjedu, a Nikola je rekao da će istraživanje pokazati koji pristup donosi bolje rezultate u praksi. Dogovorili su se da za tjedan dana provjere novo istraživanje Europske komisije o plastičnom otpadu.",
+      "en": "At the end of the class the professor asked students to vote. Fourteen voted for the ban, eight for the tax approach. Lana celebrated a small victory, while Nikola said that research would show which approach delivers better results in practice. They agreed to check a new European Commission study on plastic waste the following week."
+    }
+  ],
+  "vocabulary": {
+    "verbs": [
+      { "hr": "zagovarati", "en": "to advocate / to argue for" },
+      { "hr": "uvesti", "en": "to introduce / to implement" },
+      { "hr": "reciklirati", "en": "to recycle" },
+      { "hr": "složiti se", "en": "to agree" },
+      { "hr": "glasovati", "en": "to vote" }
+    ],
+    "nouns": [
+      { "hr": "zabrana", "en": "ban" },
+      { "hr": "zagađenje", "en": "pollution" },
+      { "hr": "porez", "en": "tax" },
+      { "hr": "otpad", "en": "waste" },
+      { "hr": "rasprava", "en": "debate / discussion" }
+    ],
+    "adjectives": [
+      { "hr": "ekološki / ekološka", "en": "ecological / environmental" },
+      { "hr": "mjerljiv / mjerljiva", "en": "measurable" },
+      { "hr": "umjeren / umjerena", "en": "moderate" },
+      { "hr": "svjestan / svjesna", "en": "aware / conscious" },
+      { "hr": "konkretan / konkretna", "en": "concrete / specific" }
+    ]
+  }
+}

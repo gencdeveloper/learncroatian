@@ -1,0 +1,19 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import StoryPage from "../../components/StoryPage.astro";
+import { getAllStories } from "../../lib/content";
+
+export async function getStaticPaths() {
+  const stories = getAllStories();
+  return stories.map((story) => ({
+    params: { id: story.id },
+    props: { story },
+  }));
+}
+
+const { story } = Astro.props;
+---
+
+<Layout title={`${story.title.en} | Learn Croatian`}>
+  <StoryPage story={story} />
+</Layout>

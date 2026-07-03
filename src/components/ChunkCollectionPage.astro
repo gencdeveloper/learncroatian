@@ -1,0 +1,24 @@
+---
+import type { ChunkCollection } from "../lib/content";
+import ChunkSection from "./ChunkSection.astro";
+import SiteNav from "./SiteNav.astro";
+
+interface Props {
+  collection: ChunkCollection;
+}
+
+const { collection } = Astro.props;
+---
+
+<header class="sticky top-0 z-10 border-b border-slate-200 bg-white/90 backdrop-blur">
+  <div class="mx-auto max-w-3xl px-6 py-4 flex items-center gap-3">
+    <SiteNav />
+    <span class="rounded-full bg-indigo-600 px-2.5 py-0.5 text-xs font-bold uppercase text-white">{collection.level}</span>
+    <h1 class="text-lg font-bold text-slate-900">{collection.title.en}</h1>
+  </div>
+</header>
+
+<main class="mx-auto max-w-3xl px-6 py-10">
+  <p class="mb-6 text-slate-600">{collection.intro}</p>
+  <ChunkSection chunks={collection.groups} sectionId="phrases" heading="Phrase Collection" />
+</main>

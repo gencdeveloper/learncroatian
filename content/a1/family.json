@@ -1,0 +1,376 @@
+{
+  "id": "family",
+  "level": "a1",
+  "order": 5,
+  "title": { "en": "Family Members", "hr": "Članovi obitelji" },
+  "grammar": {
+    "title": { "en": "Family Vocabulary & Possessive Adjectives", "hr": "Obiteljski vokabular i posvojne zamjenice" },
+    "intro": "Croatian nouns have three genders: **masculine**, **feminine**, and **neuter**. Possessive adjectives must agree with the noun they modify.\n\nMost family roles come in gendered pairs — e.g. **otac** (father) / **majka** (mother).\n\nTo say what you have or don't have, you need the **accusative case**.",
+    "rules": [
+      {
+        "label": "Moj (my) with masculine nouns",
+        "explanation": "Use **moj** before masculine nouns. Most masculine nouns end in a consonant:\n\n- **otac** (father), **brat** (brother), **sin** (son)\n- **djed** (grandfather), **muž** (husband)",
+        "examples": [
+          { "hr": "moj otac", "en": "my father" },
+          { "hr": "moj brat", "en": "my brother" },
+          { "hr": "moj sin", "en": "my son" }
+        ]
+      },
+      {
+        "label": "Moja (my) with feminine nouns",
+        "explanation": "Use **moja** before feminine nouns. Most feminine nouns end in **-a**:\n\n- **majka** (mother), **sestra** (sister), **baka** (grandmother), **žena** (wife)\n- **kći** (daughter) is an exception — feminine despite not ending in -a.",
+        "examples": [
+          { "hr": "moja majka", "en": "my mother" },
+          { "hr": "moja sestra", "en": "my sister" },
+          { "hr": "moja baka", "en": "my grandmother" }
+        ]
+      },
+      {
+        "label": "Moje (my) with neuter nouns",
+        "explanation": "Use **moje** before neuter nouns. Neuter nouns typically end in **-o** or **-e**.\n\nThe most common family-related neuter noun is **dijete** (child).",
+        "examples": [
+          { "hr": "moje dijete", "en": "my child" },
+          { "hr": "moje ime", "en": "my name" }
+        ]
+      },
+      {
+        "label": "Imam / Nemam + accusative (I have / I don't have)",
+        "explanation": "After **imam** (I have) and **nemam** (I don't have), nouns shift to the **accusative case**:\n\n- Masculine animate: add **-a** → brat → **brata**\n- Feminine in -a: change to **-u** → sestra → **sestru**\n- **kći** → **kćer** in the accusative",
+        "examples": [
+          { "hr": "Imam brata.", "en": "I have a brother." },
+          { "hr": "Nemam sestru.", "en": "I don't have a sister." },
+          { "hr": "Imam dvije sestre.", "en": "I have two sisters." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Relationship", "Male (muški)", "Female (ženski)"],
+      "rows": [
+        ["Parent / Roditelj", "otac (father)", "majka (mother)"],
+        ["Sibling / Brat ili sestra", "brat (brother)", "sestra (sister)"],
+        ["Child / Dijete", "sin (son)", "kći (daughter)"],
+        ["Grandparent / Baka ili djed", "djed (grandfather)", "baka (grandmother)"],
+        ["Spouse / Supružnik", "muž (husband)", "žena (wife)"],
+        ["Uncle / Stric ili ujak", "stric / ujak (uncle)", "teta (aunt)"],
+        ["Cousin / Bratić ili sestrična", "bratić (male cousin)", "sestrična (female cousin)"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "Marko's Family Photo", "hr": "Markova obiteljska fotografija" },
+    "paragraphs": [
+      {
+        "hr": "Marko i Ana sjede u kafiću u centru Zagreba. Sunce sija kroz prozor. Marko vadi mobitel iz džepa i smiješi se.",
+        "en": "Marko and Ana are sitting in a café in the centre of Zagreb. The sun shines through the window. Marko takes his phone out of his pocket and smiles."
+      },
+      {
+        "hr": "\"Pogledaj,\" kaže Marko. \"Ovo je fotografija moje obitelji. Ovdje je moj otac, Tomislav. On je liječnik i živi u Zagrebu. Volim svog oca — uvijek mi pomaže.\"",
+        "en": "\"Look,\" says Marko. \"This is a photo of my family. Here is my father, Tomislav. He is a doctor and lives in Zagreb. I love my father — he always helps me.\""
+      },
+      {
+        "hr": "\"A ovo je moja majka, Ivana. Ona je učiteljica u osnovnoj školi. Voli kuhati i uvijek pravi ukusnu hranu za sve nas. Moja majka je jako vrijedna osoba.\"",
+        "en": "\"And this is my mother, Ivana. She is a teacher in a primary school. She loves cooking and always makes delicious food for all of us. My mother is a very hardworking person.\""
+      },
+      {
+        "hr": "\"Imam brata. Zove se Luka. Ima dvadeset i pet godina i studira arhitekturu u Splitu. Nemam sestru, samo brata. Luka i ja smo dobri prijatelji.\"",
+        "en": "\"I have a brother. His name is Luka. He is twenty-five years old and studies architecture in Split. I don't have a sister, only a brother. Luka and I are good friends.\""
+      },
+      {
+        "hr": "\"Ovo je moja baka, Kata. Ima sedamdeset i dvije godine i živi u malome selu blizu Dubrovnika. Moj djed, Ivan, umro je prije deset godina. Baka Kata je jako jaka žena.\"",
+        "en": "\"This is my grandmother, Kata. She is seventy-two years old and lives in a small village near Dubrovnik. My grandfather, Ivan, passed away ten years ago. Grandma Kata is a very strong woman.\""
+      },
+      {
+        "hr": "\"To je lijepa obitelj!\" kaže Ana. \"Moja obitelj je također velika. Imam dvije sestre i jednog brata. Moj djed i moja baka žive s nama u istoj kući. Volim svoju obitelj jako puno.\"",
+        "en": "\"That is a beautiful family!\" says Ana. \"My family is also big. I have two sisters and one brother. My grandfather and my grandmother live with us in the same house. I love my family very much.\""
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "family-q1",
+      "prompt": "What is Marko's father's profession?",
+      "promptHr": "Što je Markov otac po zanimanju?",
+      "options": ["Teacher", "Doctor", "Architect", "Chef"],
+      "correctIndex": 1,
+      "explanation": "Marko says 'On je liječnik' — He is a doctor."
+    },
+    {
+      "id": "family-q2",
+      "prompt": "Where does Marko's brother Luka study?",
+      "promptHr": "Gdje Markov brat Luka studira?",
+      "options": ["Zagreb", "Dubrovnik", "Split", "Rijeka"],
+      "correctIndex": 2,
+      "explanation": "Marko says Luka 'studira arhitekturu u Splitu' — studies architecture in Split."
+    },
+    {
+      "id": "family-q3",
+      "prompt": "How old is Marko's grandmother Kata?",
+      "promptHr": "Koliko godina ima Markova baka Kata?",
+      "options": ["62", "72", "52", "82"],
+      "correctIndex": 1,
+      "explanation": "Marko says she has 'sedamdeset i dvije godine' — seventy-two years."
+    },
+    {
+      "id": "family-q4",
+      "prompt": "Does Marko have a sister?",
+      "promptHr": "Ima li Marko sestru?",
+      "options": ["Yes, one sister", "Yes, two sisters", "No, he doesn't have a sister", "The text doesn't say"],
+      "correctIndex": 2,
+      "explanation": "Marko explicitly says 'Nemam sestru, samo brata' — I don't have a sister, only a brother."
+    },
+    {
+      "id": "family-q5",
+      "prompt": "Where do Ana's grandparents live?",
+      "promptHr": "Gdje žive Anini baka i djed?",
+      "options": ["In a village near Dubrovnik", "In Zagreb in a separate apartment", "In Split", "With Ana's family in the same house"],
+      "correctIndex": 3,
+      "explanation": "Ana says 'Moj djed i moja baka žive s nama u istoj kući' — My grandfather and grandmother live with us in the same house."
+    }
+  ],
+  "test": [
+    {
+      "id": "family-q6",
+      "prompt": "What does 'otac' mean in English?",
+      "options": ["brother", "father", "son", "grandfather"],
+      "correctIndex": 1,
+      "explanation": "'Otac' means father."
+    },
+    {
+      "id": "family-q7",
+      "prompt": "What does 'majka' mean in English?",
+      "options": ["sister", "aunt", "grandmother", "mother"],
+      "correctIndex": 3,
+      "explanation": "'Majka' means mother."
+    },
+    {
+      "id": "family-q8",
+      "prompt": "How do you say 'my brother' in Croatian?",
+      "options": ["moja brat", "moje brat", "moj brat", "moja brata"],
+      "correctIndex": 2,
+      "explanation": "'Brat' (brother) is masculine, so use the masculine possessive 'moj'. → 'moj brat'."
+    },
+    {
+      "id": "family-q9",
+      "prompt": "How do you say 'my sister' in Croatian?",
+      "options": ["moj sestra", "moje sestra", "moja sestra", "mojeg sestra"],
+      "correctIndex": 2,
+      "explanation": "'Sestra' (sister) is feminine, so use the feminine possessive 'moja'. → 'moja sestra'."
+    },
+    {
+      "id": "family-q10",
+      "prompt": "Which possessive adjective is used with feminine nouns?",
+      "options": ["moj", "moje", "moja", "mojeg"],
+      "correctIndex": 2,
+      "explanation": "Feminine nouns take 'moja' (e.g. moja majka, moja sestra)."
+    },
+    {
+      "id": "family-q11",
+      "prompt": "What does 'Imam sestru' mean?",
+      "options": ["I want a sister", "I have a sister", "I don't have a sister", "She is my sister"],
+      "correctIndex": 1,
+      "explanation": "'Imam' means 'I have'. 'Sestru' is the accusative of 'sestra'. → I have a sister."
+    },
+    {
+      "id": "family-q12",
+      "prompt": "What does 'Nemam brata' mean?",
+      "options": ["I have a brother", "My brother", "I don't have a brother", "He is my brother"],
+      "correctIndex": 2,
+      "explanation": "'Nemam' means 'I don't have'. 'Brata' is the accusative of 'brat'. → I don't have a brother."
+    },
+    {
+      "id": "family-q13",
+      "prompt": "How do you say 'grandfather' in Croatian?",
+      "options": ["ujak", "djed", "stric", "brat"],
+      "correctIndex": 1,
+      "explanation": "'Djed' means grandfather."
+    },
+    {
+      "id": "family-q14",
+      "prompt": "How do you say 'grandmother' in Croatian?",
+      "options": ["teta", "sestra", "baka", "kći"],
+      "correctIndex": 2,
+      "explanation": "'Baka' means grandmother."
+    },
+    {
+      "id": "family-q15",
+      "prompt": "What does 'muž' mean?",
+      "options": ["son", "husband", "brother", "uncle"],
+      "correctIndex": 1,
+      "explanation": "'Muž' means husband."
+    },
+    {
+      "id": "family-q16",
+      "prompt": "What does 'žena' mean in a family context?",
+      "options": ["mother", "sister", "daughter", "wife"],
+      "correctIndex": 3,
+      "explanation": "'Žena' means woman in general, but in a family context it means wife."
+    },
+    {
+      "id": "family-q17",
+      "prompt": "How do you say 'my mother' in Croatian?",
+      "options": ["moja majka", "moj majka", "moje majka", "mojeg majka"],
+      "correctIndex": 0,
+      "explanation": "'Majka' is feminine, so the possessive must also be feminine: 'moja majka'."
+    },
+    {
+      "id": "family-q18",
+      "prompt": "What does 'kći' mean?",
+      "options": ["aunt", "sister", "daughter", "wife"],
+      "correctIndex": 2,
+      "explanation": "'Kći' means daughter."
+    },
+    {
+      "id": "family-q19",
+      "prompt": "How do you say 'my child' in Croatian? (dijete is neuter)",
+      "options": ["moj dijete", "moja dijete", "moje dijete", "mojeg dijete"],
+      "correctIndex": 2,
+      "explanation": "'Dijete' (child) is neuter, so the possessive is 'moje'. → 'moje dijete'."
+    },
+    {
+      "id": "family-q20",
+      "prompt": "What does 'Tko je to?' mean?",
+      "options": ["Where is he?", "Who is that?", "What is that?", "How old is he?"],
+      "correctIndex": 1,
+      "explanation": "'Tko' means 'who', 'je' is 'is', 'to' means 'that'. → Who is that?"
+    },
+    {
+      "id": "family-q21",
+      "prompt": "What does 'Imam dvije sestre' mean?",
+      "options": ["I have two brothers", "I have two sisters", "I have two daughters", "I want two sisters"],
+      "correctIndex": 1,
+      "explanation": "'Imam' = I have, 'dvije' = two (feminine), 'sestre' = sisters (genitive singular after two). → I have two sisters."
+    },
+    {
+      "id": "family-q22",
+      "prompt": "Which sentence correctly says 'my father'?",
+      "options": ["moje otac", "moja otac", "moj otac", "mojeg otac"],
+      "correctIndex": 2,
+      "explanation": "'Otac' (father) is masculine, so the possessive is 'moj'. → 'moj otac'."
+    },
+    {
+      "id": "family-q23",
+      "prompt": "What does 'sin' mean?",
+      "options": ["sister", "son", "grandfather", "husband"],
+      "correctIndex": 1,
+      "explanation": "'Sin' means son."
+    },
+    {
+      "id": "family-q24",
+      "prompt": "How do you say 'I have one brother' in Croatian?",
+      "options": ["Imam jednu brata.", "Imam jednog brata.", "Imam jedan brat.", "Imam jedno brata."],
+      "correctIndex": 1,
+      "explanation": "After 'imam', 'brat' (masculine animate) takes the accusative 'brata'. The numeral 'jedan' also goes to accusative: 'jednog'. → 'Imam jednog brata.'"
+    },
+    {
+      "id": "family-q25",
+      "prompt": "What does 'brat' mean?",
+      "options": ["father", "son", "husband", "brother"],
+      "correctIndex": 3,
+      "explanation": "'Brat' means brother."
+    },
+    {
+      "id": "family-q26",
+      "prompt": "What does 'Moja sestra ima trideset godina' mean?",
+      "options": ["My brother is thirty years old", "My sister is three years old", "My sister is thirty years old", "My aunt is thirty years old"],
+      "correctIndex": 2,
+      "explanation": "'Moja sestra' = my sister, 'ima trideset godina' = is thirty years old. → My sister is thirty years old."
+    },
+    {
+      "id": "family-q27",
+      "prompt": "How do you say 'aunt' in Croatian?",
+      "options": ["ujak", "stric", "teta", "baka"],
+      "correctIndex": 2,
+      "explanation": "'Teta' means aunt. 'Ujak' and 'stric' are both words for uncle (on the mother's side vs father's side)."
+    },
+    {
+      "id": "family-q28",
+      "prompt": "What does 'Moj djed živi u selu' mean?",
+      "options": ["My grandfather lives in the city", "My grandmother lives in a village", "My grandfather lives in a village", "My grandfather is from a village"],
+      "correctIndex": 2,
+      "explanation": "'Moj djed' = my grandfather, 'živi' = lives, 'u selu' = in a village. → My grandfather lives in a village."
+    },
+    {
+      "id": "family-q29",
+      "prompt": "Which of these is a grammatically correct possessive phrase?",
+      "options": ["moj sestra", "moja brat", "moje majka", "moj sin"],
+      "correctIndex": 3,
+      "explanation": "'Sin' (son) is masculine, so 'moj sin' is correct. The others mismatch possessive gender with noun gender."
+    },
+    {
+      "id": "family-q30",
+      "prompt": "What does 'Nemam djeda' mean?",
+      "options": ["I don't have a grandfather", "I have a grandfather", "My grandfather is not here", "Where is my grandfather?"],
+      "correctIndex": 0,
+      "explanation": "'Nemam' = I don't have, 'djeda' is the accusative of 'djed'. → I don't have a grandfather."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Immediate family",
+      "items": [
+        { "hr": "otac", "en": "father" },
+        { "hr": "majka", "en": "mother" },
+        { "hr": "brat", "en": "brother" },
+        { "hr": "sestra", "en": "sister" },
+        { "hr": "sin", "en": "son" },
+        { "hr": "kći", "en": "daughter" },
+        { "hr": "muž", "en": "husband" },
+        { "hr": "žena", "en": "wife" },
+        { "hr": "dijete", "en": "child", "note": "neuter noun; plural: djeca" }
+      ]
+    },
+    {
+      "context": "Extended family",
+      "items": [
+        { "hr": "djed", "en": "grandfather" },
+        { "hr": "baka", "en": "grandmother" },
+        { "hr": "ujak", "en": "uncle (mother's brother)" },
+        { "hr": "stric", "en": "uncle (father's brother)" },
+        { "hr": "teta", "en": "aunt" },
+        { "hr": "bratić", "en": "male cousin" },
+        { "hr": "sestrična", "en": "female cousin" },
+        { "hr": "nećak", "en": "nephew" },
+        { "hr": "nećakinja", "en": "niece" }
+      ]
+    },
+    {
+      "context": "Possessives (my/your family)",
+      "items": [
+        { "hr": "moj otac", "en": "my father", "note": "moj + masculine noun" },
+        { "hr": "moja majka", "en": "my mother", "note": "moja + feminine noun" },
+        { "hr": "moje dijete", "en": "my child", "note": "moje + neuter noun" },
+        { "hr": "tvoj brat", "en": "your brother", "note": "tvoj + masculine noun" },
+        { "hr": "tvoja sestra", "en": "your sister", "note": "tvoja + feminine noun" },
+        { "hr": "njegova baka", "en": "his grandmother", "note": "njegova + feminine noun" },
+        { "hr": "njezin djed", "en": "her grandfather", "note": "njezin + masculine noun" }
+      ]
+    },
+    {
+      "context": "Describing family",
+      "items": [
+        { "hr": "Imam brata.", "en": "I have a brother." },
+        { "hr": "Imam sestru.", "en": "I have a sister." },
+        { "hr": "Nemam brata.", "en": "I don't have a brother." },
+        { "hr": "Nemam sestru.", "en": "I don't have a sister." },
+        { "hr": "Imam dvije sestre.", "en": "I have two sisters." },
+        { "hr": "Imam tri brata.", "en": "I have three brothers." },
+        { "hr": "Moja obitelj je velika.", "en": "My family is big." },
+        { "hr": "Moja obitelj je mala.", "en": "My family is small." },
+        { "hr": "Živimo zajedno.", "en": "We live together." }
+      ]
+    },
+    {
+      "context": "Family phrases",
+      "items": [
+        { "hr": "Tko je to?", "en": "Who is that?" },
+        { "hr": "To je moja majka.", "en": "That is my mother." },
+        { "hr": "Koliko imaš braće i sestara?", "en": "How many brothers and sisters do you have?" },
+        { "hr": "Imam jednog brata i jednu sestru.", "en": "I have one brother and one sister." },
+        { "hr": "Koliko godina ima tvoj otac?", "en": "How old is your father?" },
+        { "hr": "Moj otac ima pedeset godina.", "en": "My father is fifty years old." },
+        { "hr": "Gdje živi tvoja obitelj?", "en": "Where does your family live?" },
+        { "hr": "Moja obitelj živi u Zagrebu.", "en": "My family lives in Zagreb." }
+      ]
+    }
+  ]
+}

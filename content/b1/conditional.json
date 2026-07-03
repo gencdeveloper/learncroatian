@@ -1,0 +1,390 @@
+{
+  "id": "conditional",
+  "level": "b1",
+  "order": 4,
+  "title": { "hr": "Kondicional", "en": "Conditional Mood" },
+  "grammar": {
+    "title": { "hr": "Kondicional — tvorba i upotreba", "en": "Conditional Mood — Formation and Use" },
+    "intro": "**Kondicional** (conditional mood) izražava što bi se dogodilo u određenim okolnostima — želje, ljubazne zahtjeve, hipotetske situacije i prijedloge.\n\nTvori se od **bi-oblika** (bih, bi, bi, bismo, biste, bi) i **glagolskog pridjeva radnog** (past active participle), koji se slaže s rodom i brojem subjekta:\n\n- muški rod (m.): otišao\n- ženski rod (f.): otišla\n- srednji rod (n.): otišlo\n- množina (pl.): otišli / otišle / otišla",
+    "rules": [
+      {
+        "label": "Tvorba afirmativa (Forming the Affirmative)",
+        "explanation": "**Bi-oblik** + **glagolski pridjev radni** (slaganje s rodom i brojem subjekta).\n\nBi-oblici su **enklitike** — nenaglašene čestice koje stoje na **drugom mjestu** u rečenici, iza prve naglašene cjeline.\n\nPrimjeri s glagolom **ići** (to go):\n- Ja **bih** išao / išla.\n- Ti **bi** išao / išla.\n- On/Ona/Ono **bi** išao / išla / išlo.\n- Mi **bismo** išli / išle.\n- Vi **biste** išli / išle.\n- Oni/One/Ona **bi** išli / išle / išla.",
+        "examples": [
+          { "hr": "Volio bih putovati.", "en": "I (m.) would love to travel." },
+          { "hr": "Ana bi ostala kod kuće.", "en": "Ana would stay at home." },
+          { "hr": "Mi bismo kupili novi auto.", "en": "We would buy a new car." }
+        ]
+      },
+      {
+        "label": "Tvorba negativa (Forming the Negative)",
+        "explanation": "**Ne** + **bi-oblik** + **glagolski pridjev radni**.\n\nČestica **ne** stoji neposredno ispred bi-oblika:\n- Ja **ne bih** otišao.\n- Ti **ne bi** otišao.\n- On/Ona **ne bi** otišao/otišla.\n- Mi **ne bismo** otišli.\n- Vi **ne biste** otišli.\n- Oni **ne bi** otišli.",
+        "examples": [
+          { "hr": "Ne bih nikad lagao.", "en": "I would never lie." },
+          { "hr": "Ona ne bi jela meso.", "en": "She would not eat meat." },
+          { "hr": "Ne bismo zaboravili.", "en": "We would not forget." }
+        ]
+      },
+      {
+        "label": "Upotreba 1: Želje (Wishes)",
+        "explanation": "Kondicional se koristi za izražavanje **želja**. Glagolski pridjev radni slaže se s rodom govornika.\n\nČesti glagoli: **voljeti** (to love), **htjeti** (to want), **željeti** (to wish).",
+        "examples": [
+          { "hr": "Volio bih vidjeti more.", "en": "I (m.) would love to see the sea." },
+          { "hr": "Voljela bih naučiti talijanski.", "en": "I (f.) would love to learn Italian." },
+          { "hr": "Htjeli bismo ostati duže.", "en": "We would like to stay longer." }
+        ]
+      },
+      {
+        "label": "Upotreba 2: Ljubazni zahtjevi (Polite Requests)",
+        "explanation": "Oblik **Biste li...?** koristi se za **uljudne zahtjeve** — vi-oblik daje formalnost:\n\n**Biste li** + moći / htjeti + infinitiv\n\nZa treće lice: **Bi li mogao/mogla...?**",
+        "examples": [
+          { "hr": "Biste li mogli pomoći?", "en": "Could you (formal) help?" },
+          { "hr": "Biste li htjeli kafu ili čaj?", "en": "Would you like coffee or tea?" },
+          { "hr": "Bi li mogao otvoriti prozor?", "en": "Could he open the window?" }
+        ]
+      },
+      {
+        "label": "Upotreba 3: Hipotetske rečenice tipa 2 (Type-2 Conditionals)",
+        "explanation": "Za **nestvarne/hipotetske** uvjete (suprotno stvarnosti) koristi se:\n\n**Kad bih** + prezent u uvjetnoj rečenici → **kondicional** u glavnoj rečenici.\n\nOba dijela rečenice stoje u kondicionalnom načinu.",
+        "examples": [
+          { "hr": "Kad bih imao novac, putovao bih.", "en": "If I had money, I would travel." },
+          { "hr": "Kad bih znao, rekao bih ti.", "en": "If I knew, I would tell you." },
+          { "hr": "Kad bih bila mlađa, učila bih više.", "en": "If I were younger (f.), I would study more." }
+        ]
+      },
+      {
+        "label": "Upotreba 4: Prijedlozi i mogućnosti (Suggestions and Possibilities)",
+        "explanation": "Kondicional se koristi i za **prijedloge** i **mogućnosti**:\n\n- **Mogli bismo...** (We could...)\n- **Moglo bi biti...** (It could be...)\n- **Zašto ne bismo...?** (Why wouldn't we...?)",
+        "examples": [
+          { "hr": "Mogli bismo otići u kino.", "en": "We could go to the cinema." },
+          { "hr": "Moglo bi biti lijepo.", "en": "It could be nice." },
+          { "hr": "Zašto ne bismo pokušali?", "en": "Why wouldn't we try?" }
+        ]
+      },
+      {
+        "label": "Položaj klitika (Clitic Position)",
+        "explanation": "Bi-oblici su **enklitike** — nikad ne mogu stajati na početku rečenice. Stoje na **drugom mjestu**, iza prve naglašene cjeline:\n\n- Ja **bih** otišao tamo. (ja = 1. mjesto, bih = 2. mjesto)\n- Sutra **bih** otišao tamo. (sutra = 1. mjesto)\n- Otišao **bih** tamo. (otišao = 1. mjesto)\n\nPogrešno: **Bih** ja otišao tamo.",
+        "examples": [
+          { "hr": "Ja bih voljela ići.", "en": "I (f.) would love to go — bih follows ja." },
+          { "hr": "Sutra bi ona došla.", "en": "She would come tomorrow — bi follows sutra." },
+          { "hr": "U subotu bismo išli.", "en": "We would go on Saturday — bismo follows u subotu." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Lice", "Subjekt", "Afirmativ", "Negativ"],
+      "rows": [
+        ["1. jd.", "ja", "bih + g.p.r.", "ne bih + g.p.r."],
+        ["2. jd.", "ti", "bi + g.p.r.", "ne bi + g.p.r."],
+        ["3. jd.", "on/ona/ono", "bi + g.p.r.", "ne bi + g.p.r."],
+        ["1. mn.", "mi", "bismo + g.p.r.", "ne bismo + g.p.r."],
+        ["2. mn.", "vi", "biste + g.p.r.", "ne biste + g.p.r."],
+        ["3. mn.", "oni/one/ona", "bi + g.p.r.", "ne bi + g.p.r."]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "hr": "Kad bih dobio na lutriji...", "en": "If I Won the Lottery..." },
+    "paragraphs": [
+      {
+        "hr": "Ana i Marko razgovaraju putem videopoziva. Marko sjedi u svom stanu u Zagrebu, a Ana je u Splitu. „Bok, Marko! Kako si?\" pita Ana. „Dobro, hvala. Malo sam umoran od posla,\" odgovara Marko. „Onda ti baš trebam ovaj razgovor,\" smije se Ana.",
+        "en": "Ana and Marko are talking via video call. Marko is sitting in his apartment in Zagreb, and Ana is in Split. „Hi, Marko! How are you?\" asks Ana. „Fine, thanks. I am a little tired from work,\" answers Marko. „Then you really need this conversation,\" laughs Ana."
+      },
+      {
+        "hr": "„Zamisli da smo dobili na lutriji milijun eura,\" kaže Ana. „Što bi napravio?\" Marko se nasmije. „Pa, prvo bih platio sve dugove. Onda bih putovao po cijelom svijetu — Japan, Argentina, Island... Volio bih vidjeti što više mjesta dok sam mlad. A ti?\"",
+        "en": "„Imagine we won a million euros in the lottery,\" says Ana. „What would you do?\" Marko laughs. „Well, first I would pay off all debts. Then I would travel all over the world — Japan, Argentina, Iceland... I would love to see as many places as possible while I am young. And you?\""
+      },
+      {
+        "hr": "„A gdje bi živio? Ostao bi u Hrvatskoj?\" pita Ana. Marko razmišlja trenutak. „Iskreno, ne bih ostao samo u jednom gradu. Kupio bih mali stan u Dubrovniku jer obožavam more, ali i apartman negdje u Europi — možda u Beču ili Barceloni.\"",
+        "en": "„And where would you live? Would you stay in Croatia?\" asks Ana. Marko thinks for a moment. „Honestly, I would not stay in just one city. I would buy a small apartment in Dubrovnik because I love the sea, but also an apartment somewhere in Europe — maybe in Vienna or Barcelona.\""
+      },
+      {
+        "hr": "Ana se nasmije. „Ja bih otvorila vlastitu galeriju. Nikad ne bih radila uredski posao ako ne bih morala. Slikarstvo je moja strast, ali za to mi treba novac. S milijunom eura, mogla bih se posvetiti samo umjetnosti i putovanjima.\"",
+        "en": "Ana laughs. „I would open my own gallery. I would never do office work if I did not have to. Painting is my passion, but I need money for that. With a million euros, I could dedicate myself only to art and travel.\""
+      },
+      {
+        "hr": "„Biste li se ikad preselili u inozemstvo?\" pita Marko. „Definitivno bih razmotrila,\" kaže Ana. „Italija ili Francuska bile bi savršene za slikaricu. Ali ne bih zaboravila Hrvatsku — uvijek bih se vraćala ljeti. Hrvatska je moj dom, bez obzira gdje živjela.\"",
+        "en": "„Would you ever move abroad?\" asks Marko. „I would definitely consider it,\" says Ana. „Italy or France would be perfect for a female painter. But I would not forget Croatia — I would always come back in summer. Croatia is my home, no matter where I lived.\""
+      },
+      {
+        "hr": "Na kraju razgovora, oboje se smiju. „Možda bi jednog dana sve ovo moglo postati stvarnost,\" kaže Marko. „Tko zna — kad bih zaradio dovoljno novca, ostvario bih sve snove.\" Ana klimne glavom: „I ja bih. Ali za sad, nastavljamo sanjati!\"",
+        "en": "At the end of the conversation, they both laugh. „Maybe one day all of this could become reality,\" says Marko. „Who knows — if I earned enough money, I would achieve all my dreams.\" Ana nods: „Me too. But for now, we keep dreaming!\""
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "conditional-q1",
+      "prompt": "Where is Marko during the video call?",
+      "options": ["Zagreb", "Split", "Dubrovnik", "Vienna"],
+      "correctIndex": 0,
+      "explanation": "Marko sjedi u svom stanu u Zagrebu — Marko is sitting in his apartment in Zagreb."
+    },
+    {
+      "id": "conditional-q2",
+      "prompt": "What would Marko do FIRST if he won the lottery?",
+      "options": ["Buy a house in Dubrovnik", "Travel around the world", "Pay off all debts", "Open a gallery"],
+      "correctIndex": 2,
+      "explanation": "Marko kaže: „prvo bih platio sve dugove\" — first I would pay off all debts."
+    },
+    {
+      "id": "conditional-q3",
+      "prompt": "In which city would Marko buy a small apartment because he loves the sea?",
+      "options": ["Barcelona", "Vienna", "Split", "Dubrovnik"],
+      "correctIndex": 3,
+      "explanation": "„Kupio bih mali stan u Dubrovniku jer obožavam more\" — I would buy a small apartment in Dubrovnik because I love the sea."
+    },
+    {
+      "id": "conditional-q4",
+      "prompt": "What would Ana do with lottery money?",
+      "options": ["Travel around the world", "Open her own gallery", "Buy a house in Zagreb", "Move to Japan"],
+      "correctIndex": 1,
+      "explanation": "Ana kaže: „Ja bih otvorila vlastitu galeriju\" — I would open my own gallery."
+    },
+    {
+      "id": "conditional-q5",
+      "prompt": "What does Ana say about Croatia if she moved abroad?",
+      "options": ["She would forget Croatia", "She would sell her apartment in Split", "She would always come back in summer", "She would never return"],
+      "correctIndex": 2,
+      "explanation": "Ana kaže: „uvijek bih se vraćala ljeti\" — I would always come back in summer."
+    }
+  ],
+  "test": [
+    {
+      "id": "conditional-q6",
+      "prompt": "Fill in the blank — Ja ___ otišao na odmor. (I would go on holiday.)",
+      "options": ["bih", "bi", "bismo", "biste"],
+      "correctIndex": 0,
+      "explanation": "**Ja** takes the conditional auxiliary **bih**. Full form: Ja **bih** otišao na odmor."
+    },
+    {
+      "id": "conditional-q7",
+      "prompt": "Fill in the blank — Ti ___ htio ići na koncert. (You would want to go to the concert.)",
+      "options": ["bih", "bi", "bismo", "biste"],
+      "correctIndex": 1,
+      "explanation": "**Ti** takes the conditional auxiliary **bi**. Full form: Ti **bi** htio ići na koncert."
+    },
+    {
+      "id": "conditional-q8",
+      "prompt": "Fill in the blank — Mi ___ kupili novu kuću. (We would buy a new house.)",
+      "options": ["bih", "bi", "bismo", "biste"],
+      "correctIndex": 2,
+      "explanation": "**Mi** takes the conditional auxiliary **bismo**. Full form: Mi **bismo** kupili novu kuću."
+    },
+    {
+      "id": "conditional-q9",
+      "prompt": "Fill in the blank — Vi ___ putovali u Italiju. (You all would travel to Italy.)",
+      "options": ["bih", "bi", "bismo", "biste"],
+      "correctIndex": 3,
+      "explanation": "**Vi** takes the conditional auxiliary **biste**. Full form: Vi **biste** putovali u Italiju."
+    },
+    {
+      "id": "conditional-q10",
+      "prompt": "Choose the correct past participle of otići (to go): Petra bi ___ u Pariz.",
+      "promptHr": "Odaberite ispravni oblik glagola otići: Petra bi ___ u Pariz.",
+      "options": ["otišao", "otišla", "otišlo", "otišli"],
+      "correctIndex": 1,
+      "explanation": "Petra is **female**, so the past participle must agree in gender: **otišla** (feminine form of otišao)."
+    },
+    {
+      "id": "conditional-q11",
+      "prompt": "Choose the correct past participle of htjeti (to want): Dijete bi ___ spavati.",
+      "promptHr": "Odaberite ispravni oblik glagola htjeti: Dijete bi ___ spavati.",
+      "options": ["htio", "htjela", "htjelo", "htjeli"],
+      "correctIndex": 2,
+      "explanation": "Dijete (child) is **neuter** in Croatian, so the past participle must be **neuter**: **htjelo**."
+    },
+    {
+      "id": "conditional-q12",
+      "prompt": "Choose the correct past participle of popiti (to drink): Ivan bi ___ kafu.",
+      "promptHr": "Odaberite ispravni oblik glagola popiti: Ivan bi ___ kafu.",
+      "options": ["popila", "popio", "popilo", "popili"],
+      "correctIndex": 1,
+      "explanation": "Ivan is **male**, so the past participle must be **masculine**: **popio**."
+    },
+    {
+      "id": "conditional-q13",
+      "prompt": "Which is the correct Croatian translation of the phrase: I would not go?",
+      "options": ["Ja bih otišao.", "Ja ne bih otišao.", "Ja ne bi otišao.", "Ja bismo ne otišli."],
+      "correctIndex": 1,
+      "explanation": "**Negative conditional** = **ne** + bi-form + participle. For **ja**: **ne bih** otišao. The negation ne immediately precedes the clitic."
+    },
+    {
+      "id": "conditional-q14",
+      "prompt": "Negative conditional for **ti** — how do you say You would not know?",
+      "options": ["Ti bi znao.", "Ti ne bi znao.", "Ti ne bih znao.", "Ti biste ne znali."],
+      "correctIndex": 1,
+      "explanation": "For **ti**, the negative conditional form is **ne bi**. Correct: Ti **ne bi** znao. Ne bih is first person; biste is plural."
+    },
+    {
+      "id": "conditional-q15",
+      "prompt": "Negative conditional for **mi** — how do you say We would not buy?",
+      "options": ["Mi bismo kupili.", "Mi ne bismo kupili.", "Mi bi ne kupili.", "Mi biste ne kupili."],
+      "correctIndex": 1,
+      "explanation": "For **mi**, the negative conditional is **ne bismo**. Correct: Mi **ne bismo** kupili. The negation ne always comes before the bi-form."
+    },
+    {
+      "id": "conditional-q16",
+      "prompt": "Fill in the blank (polite request) — ___ li mogli otvoriti prozor? (Could you open the window?)",
+      "options": ["Bih", "Bi", "Bismo", "Biste"],
+      "correctIndex": 3,
+      "explanation": "Polite requests use the **vi-form**: **Biste** li mogli...? This expresses formal courtesy (could you...?)."
+    },
+    {
+      "id": "conditional-q17",
+      "prompt": "Which sentence is a polite request in Croatian?",
+      "options": ["Ja bih otišao.", "Ti bi znao.", "Biste li mogli pomoći?", "Mi bismo htjeli."],
+      "correctIndex": 2,
+      "explanation": "**Biste li mogli pomoći?** is the standard form for polite requests (Could you help?). The vi-form biste signals formal register."
+    },
+    {
+      "id": "conditional-q18",
+      "prompt": "How do you say Could you (formal) help me? in Croatian?",
+      "options": ["Možeš li mi pomoći?", "Biste li mi mogli pomoći?", "Bi li mi mogao pomoći?", "Može li mi pomoći?"],
+      "correctIndex": 1,
+      "explanation": "Formal polite request: **Biste li mi mogli pomoći?** uses the vi-form conditional. Možeš/Može li are present tense, less formal."
+    },
+    {
+      "id": "conditional-q19",
+      "prompt": "Complete the type-2 conditional — Kad bih imao novac, ___ auto. (If I had money, I would buy a car.)",
+      "options": ["kupim auto", "kupio bi auto", "kupio bih auto", "bih kupio auto"],
+      "correctIndex": 2,
+      "explanation": "The consequence clause uses the **ja-form bih**: **kupio bih** auto. The clitic bih follows kupio (second position). Bih cannot open a clause."
+    },
+    {
+      "id": "conditional-q20",
+      "prompt": "What type of condition is expressed in: „Kad bih znao, rekao bih ti.\"",
+      "options": ["A real condition about the present", "An unreal or hypothetical condition", "A command or order", "A simple factual statement"],
+      "correctIndex": 1,
+      "explanation": "**Kad bih** + conditional in both clauses signals an **unreal/hypothetical** (type-2) condition. The speaker implies: I do not actually know."
+    },
+    {
+      "id": "conditional-q21",
+      "prompt": "If I were you, I would study more — which Croatian sentence is correct?",
+      "options": ["Kad sam ti, studiram više.", "Kad bih bio ti, učio bih više.", "Kad budem ti, učit ću više.", "Kad bi bio ti, učio bi više."],
+      "correctIndex": 1,
+      "explanation": "Type-2 hypothetical: **Kad bih bio** ti (if I were you) — **učio bih** više (I would study more). Both clauses use the ja-conditional form."
+    },
+    {
+      "id": "conditional-q22",
+      "prompt": "I (female speaker) would love to visit Paris — which is correct?",
+      "options": ["Volio bih posjetiti Pariz.", "Voljela bih posjetiti Pariz.", "Volim posjetiti Pariz.", "Volio bi posjetiti Pariz."],
+      "correctIndex": 1,
+      "explanation": "A **female** speaker uses the feminine past participle: **Voljela** bih posjetiti Pariz. Volio is masculine; bi is wrong form for ja."
+    },
+    {
+      "id": "conditional-q23",
+      "prompt": "He would like to learn Croatian — which is correct?",
+      "options": ["On bi volio naučiti hrvatski.", "On bih volio naučiti hrvatski.", "On biste volio naučiti hrvatski.", "On bismo volio naučiti hrvatski."],
+      "correctIndex": 0,
+      "explanation": "For **on** (he), the conditional auxiliary is **bi**: On **bi** volio naučiti hrvatski. Bih is first person; biste/bismo are plural forms."
+    },
+    {
+      "id": "conditional-q24",
+      "prompt": "Translate to Croatian: We would like to reserve a table.",
+      "options": ["Mi htjeli rezervirati stol.", "Mi bismo htjeli rezervirati stol.", "Mi biste htjeli rezervirati stol.", "Mi bi htjeli rezervirati stol."],
+      "correctIndex": 1,
+      "explanation": "For **mi** (we), use **bismo**: Mi **bismo** htjeli rezervirati stol. Biste is plural/formal second person; bi alone is insufficient for mi."
+    },
+    {
+      "id": "conditional-q25",
+      "prompt": "Translate to Croatian: She would never eat that.",
+      "options": ["Ona nikad ne bi jela to.", "Ona nikad ne bih jela to.", "Ona nikad ne bismo jela to.", "Ona nikad ne biste jela to."],
+      "correctIndex": 0,
+      "explanation": "For **ona** (she), negative conditional is **ne bi** + feminine participle: Ona nikad **ne bi jela** to. Bih is first person; bismo/biste are first/second plural."
+    },
+    {
+      "id": "conditional-q26",
+      "prompt": "Translate to English: „Što bi napravio kad bi imao slobodan dan?\"",
+      "options": ["What did you do when you had a free day?", "What would you do if you had a free day?", "What will you do when you have a free day?", "What do you do on your free day?"],
+      "correctIndex": 1,
+      "explanation": "**Što bi napravio** = what would you do; **kad bi imao** = if you had (type-2 conditional). Both verbs are in conditional mood."
+    },
+    {
+      "id": "conditional-q27",
+      "prompt": "Translate to English: „Moglo bi biti lijepo tamo.\"",
+      "options": ["It was nice there.", "It will be nice there.", "It could be nice there.", "It is nice there."],
+      "correctIndex": 2,
+      "explanation": "**Moglo bi biti** = it could be — a **neuter conditional** form of moći (can/to be able), used here for a suggestion or possibility."
+    },
+    {
+      "id": "conditional-q28",
+      "prompt": "Choose the correct past participle of živjeti (to live): Marko bi ___ u Dubrovniku.",
+      "promptHr": "Odaberite ispravni oblik glagola živjeti: Marko bi ___ u Dubrovniku.",
+      "options": ["živio", "živjela", "živjelo", "živjeli"],
+      "correctIndex": 0,
+      "explanation": "Marko is **male**, so the past participle must be **masculine**: **živio** (from živjeti). Živjela is feminine; živjelo neuter; živjeli plural."
+    },
+    {
+      "id": "conditional-q29",
+      "prompt": "Which sentence correctly places the conditional clitic?",
+      "options": ["Bih ja otišao tamo.", "Ja bih otišao tamo.", "Ja otišao bih tamo.", "Otišao ja bih tamo."],
+      "correctIndex": 1,
+      "explanation": "Clitics are **second-position**: they follow the first stressed element. Ja is the first element → **bih** comes immediately after: Ja **bih** otišao tamo. Bih cannot start a clause."
+    },
+    {
+      "id": "conditional-q30",
+      "prompt": "Which sentence uses the conditional mood to make a suggestion?",
+      "options": ["To je dobra ideja.", "To bi moglo biti dobra ideja.", "To će biti dobra ideja.", "To je bila dobra ideja."],
+      "correctIndex": 1,
+      "explanation": "**To bi moglo biti dobra ideja** = That could be a good idea — uses the **neuter conditional** moglo bi biti to suggest a possibility. Je/će/je bila are indicative/future/past tenses."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "**Kondicional** — bi-oblici za sva lica (bi-forms for all persons)",
+      "items": [
+        { "hr": "ja bih (+ g.p.r.)", "en": "I would (+ past participle)", "note": "1st person singular" },
+        { "hr": "ti bi (+ g.p.r.)", "en": "you would (+ past participle)", "note": "2nd person singular" },
+        { "hr": "on/ona/ono bi (+ g.p.r.)", "en": "he/she/it would (+ past participle)", "note": "3rd person singular" },
+        { "hr": "mi bismo (+ g.p.r.)", "en": "we would (+ past participle)", "note": "1st person plural" },
+        { "hr": "vi biste (+ g.p.r.)", "en": "you would (+ past participle)", "note": "2nd person plural or formal singular" },
+        { "hr": "oni/one/ona bi (+ g.p.r.)", "en": "they would (+ past participle)", "note": "3rd person plural" }
+      ]
+    },
+    {
+      "context": "**Želje** — expressing wishes with the conditional",
+      "items": [
+        { "hr": "Volio bih ići na more.", "en": "I (m.) would love to go to the sea.", "note": "male speaker: volio" },
+        { "hr": "Voljela bih ići na more.", "en": "I (f.) would love to go to the sea.", "note": "female speaker: voljela" },
+        { "hr": "Htio bih kafu, molim.", "en": "I (m.) would like a coffee, please.", "note": "htio = masculine form of htjeti" },
+        { "hr": "Htjela bih kafu, molim.", "en": "I (f.) would like a coffee, please.", "note": "htjela = feminine form" },
+        { "hr": "Željeli bismo ostati duže.", "en": "We would like to stay longer.", "note": "plural: željeli" },
+        { "hr": "Svidjelo bi mi se to.", "en": "I would like that.", "note": "neuter impersonal construction: svidjelo" }
+      ]
+    },
+    {
+      "context": "**Ljubazni zahtjevi** — polite requests with Biste li...?",
+      "items": [
+        { "hr": "Biste li mogli pomoći?", "en": "Could you help?", "note": "formal/plural polite request" },
+        { "hr": "Biste li mogli otvoriti prozor?", "en": "Could you open the window?" },
+        { "hr": "Biste li mi mogli rezervirati stol?", "en": "Could you reserve a table for me?" },
+        { "hr": "Biste li htjeli kafu ili čaj?", "en": "Would you like coffee or tea?" },
+        { "hr": "Bi li mogao doći?", "en": "Could he come?", "note": "3rd person: bi li mogao" },
+        { "hr": "Bismo li mogli razgovarati?", "en": "Could we talk?", "note": "1st person plural: bismo li" }
+      ]
+    },
+    {
+      "context": "**Hipotetske rečenice** — type-2 conditionals with Kad bih...",
+      "items": [
+        { "hr": "Kad bih imao novac, putovao bih.", "en": "If I had money, I would travel.", "note": "male speaker" },
+        { "hr": "Kad bih znao, rekao bih ti.", "en": "If I knew, I would tell you." },
+        { "hr": "Kad bih bila mlađa, učila bih više.", "en": "If I were younger, I would study more.", "note": "female speaker: bila, učila" },
+        { "hr": "Kad bih bio ti, ne bih otišao.", "en": "If I were you, I would not go.", "note": "male speaker: bio" },
+        { "hr": "Što bi napravio da imaš slobodan dan?", "en": "What would you do if you had a free day?", "note": "da + present as alternative to kad bih" },
+        { "hr": "Kad bismo imali više vremena, naučili bismo.", "en": "If we had more time, we would learn.", "note": "plural: bismo...naučili bismo" }
+      ]
+    },
+    {
+      "context": "**Prijedlozi i mogućnosti** — suggestions and possibilities with conditional",
+      "items": [
+        { "hr": "Moglo bi biti dobro.", "en": "It could be good.", "note": "neuter: moglo" },
+        { "hr": "Mogli bismo otići u kino.", "en": "We could go to the cinema." },
+        { "hr": "To bi moglo raditi.", "en": "That could work.", "note": "neuter subject: moglo" },
+        { "hr": "Zašto ne bismo pokušali?", "en": "Why would we not try?" },
+        { "hr": "Možda bih trebao nazvati.", "en": "Maybe I (m.) should call.", "note": "trebao = masculine past participle" },
+        { "hr": "Možda bi bila dobra ideja.", "en": "Maybe it would be a good idea.", "note": "feminine subject: bila" }
+      ]
+    }
+  ]
+}

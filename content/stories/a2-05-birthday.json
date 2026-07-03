@@ -1,0 +1,56 @@
+{
+  "id": "birthday-party",
+  "level": "a2",
+  "order": 5,
+  "title": { "hr": "Tomislavov rođendan", "en": "Tomislav's Birthday" },
+  "topicsUsed": ["past-tense", "food", "modal-verbs", "accusative-case", "time"],
+  "paragraphs": [
+    {
+      "hr": "Prošle subote je Tomislavu bilo trideset godina. Trideset je važan rođendan — nije više dvadesetogodišnjak! Njegova prijatelja Lana i Petar su odlučili organizirati iznenađenje. Tomislav nije znao ništa. Mislio je da će toga dana biti sam kod kuće.",
+      "en": "Last Saturday Tomislav turned thirty. Thirty is an important birthday — he is no longer a twenty-something! His friends Lana and Petar decided to organise a surprise. Tomislav did not know anything. He thought he would be at home alone that day."
+    },
+    {
+      "hr": "Lana je nazvala sve Tomislavove prijatelje tjedan ranije. Trebalo je kupiti tortu, balone i hranu za zabavu. Petar je kupio veliku čokoladnu tortu u slastičarni. Lana je kupila crvene i zlatne balone i ukrašavala Petrov stan. Sve je izgledalo predivno.",
+      "en": "Lana called all Tomislav's friends a week earlier. They needed to buy a cake, balloons and food for the party. Petar bought a large chocolate cake at the patisserie. Lana bought red and golden balloons and decorated Petar's flat. Everything looked wonderful."
+    },
+    {
+      "hr": "U subotu navečer, u osam sati, Petar je nazvao Tomislava i rekao mu da dođe — rekao mu je da ima problema s hladnjakom i da mu treba pomoć. Tomislav je mislio: Čudno, ali dobro. Uzeo je jaknu i otišao. Nije imao pojma o iznenađenju.",
+      "en": "On Saturday evening at eight o'clock Petar called Tomislav and told him to come over — he told him he had a problem with the fridge and needed his help. Tomislav thought: Strange, but okay. He took his jacket and left. He had no idea about the surprise."
+    },
+    {
+      "hr": "Kad je Tomislav otvorio vrata Petrova stana, svi su vikali: Iznenađenje! Tomislav je ostao bez daha. U stanu je bilo petnaest prijatelja — nekoga od njih nije vidio godinama. Bio je toliko sretan da nije mogao govoriti. Lana ga je zagrlila i rekla: Sretan rođendan, prijatelju!",
+      "en": "When Tomislav opened the door of Petar's flat, everyone shouted: Surprise! Tomislav was left breathless. In the flat there were fifteen friends — some of them he had not seen for years. He was so happy he could not speak. Lana hugged him and said: Happy birthday, friend!"
+    },
+    {
+      "hr": "Jeli su, pili i plesali do ponoći. Petar je napravio roštilj — kobasice, ćevapi i piletina. Torta je bila izvrsna — čokoladna i slatka. Tomislav je puhnuo trideset svjećica i svi su pljeskali. Glazba je bila glasna i svi su se odlično zabavili.",
+      "en": "They ate, drank and danced until midnight. Petar made a barbecue — sausages, ćevapi and chicken. The cake was excellent — chocolatey and sweet. Tomislav blew out thirty candles and everyone clapped. The music was loud and everyone had a great time."
+    },
+    {
+      "hr": "Kad su gosti otišli, Tomislav je sjeo i rekao Lani i Petru: Ovo je bio najljepši rođendan u mom životu. Lana mu je rekla da je zaslužio jer je uvijek dobar prijatelj svima. Tomislav je bio zahvalan za sve — obitelj, prijatelje i zdravlje. Trideset godina nije loše uopće.",
+      "en": "When the guests had gone, Tomislav sat down and said to Lana and Petar: That was the most beautiful birthday of my life. Lana told him he deserved it because he was always a good friend to everyone. Tomislav was grateful for everything — family, friends and health. Thirty years is not bad at all."
+    }
+  ],
+  "vocabulary": {
+    "verbs": [
+      { "hr": "organizirati", "en": "to organise" },
+      { "hr": "ukrasiti", "en": "to decorate" },
+      { "hr": "vikati", "en": "to shout" },
+      { "hr": "zagrliti", "en": "to hug" },
+      { "hr": "pljeskati", "en": "to clap" }
+    ],
+    "nouns": [
+      { "hr": "iznenađenje", "en": "surprise" },
+      { "hr": "balon", "en": "balloon" },
+      { "hr": "svjećica", "en": "candle" },
+      { "hr": "roštilj", "en": "barbecue / grill" },
+      { "hr": "slastičarna", "en": "patisserie / cake shop" }
+    ],
+    "adjectives": [
+      { "hr": "čudan / čudna", "en": "strange / odd" },
+      { "hr": "zahvalan / zahvalna", "en": "grateful" },
+      { "hr": "glasan / glasna", "en": "loud" },
+      { "hr": "sladak / slatka", "en": "sweet" },
+      { "hr": "sretan / sretna", "en": "happy" }
+    ]
+  }
+}

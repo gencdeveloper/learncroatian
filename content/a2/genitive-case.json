@@ -1,0 +1,482 @@
+{
+  "id": "genitive-case",
+  "level": "a2",
+  "order": 11,
+  "title": { "en": "Genitive Case", "hr": "Genitiv" },
+  "grammar": {
+    "title": { "en": "The Genitive Case in Croatian", "hr": "Genitiv u hrvatskom jeziku" },
+    "intro": "The **genitive** case is one of the most common cases in Croatian. It answers the questions *čiji?* (whose?) and *od čega?* (of what?).\n\nIt has four main uses:\n- **Possession**: *knjiga moje sestre* (my sister's book)\n- **Quantity**: *puno vode* (a lot of water), *pet knjiga* (five books)\n- **Negation** with **nema**: *Nema kruha.* (There is no bread.)\n- **After prepositions**: **od, do, iz, bez, zbog, kod, ispred, iza, pored**...",
+    "rules": [
+      {
+        "label": "Masculine and neuter singular: add -a",
+        "explanation": "To form the genitive singular of **masculine** nouns, add **-a** to the consonant stem: **brat → brata**, **grad → grada**.\n\nFor **neuter** nouns ending in **-o**, replace **-o** with **-a**: **selo → sela**, **vino → vina**. Neuter nouns ending in **-e** replace **-e** with **-a**: **more → mora**.\n\nNote: some masculine nouns insert a vowel before the ending to break a consonant cluster: **student → studenta**, **pas → psa**.",
+        "examples": [
+          { "hr": "Ovo je auto mog brata.", "en": "This is my brother's car." },
+          { "hr": "Centar grada je blizu.", "en": "The city centre is close by." },
+          { "hr": "Čaša vina, molim.", "en": "A glass of wine, please." }
+        ]
+      },
+      {
+        "label": "Feminine singular: -a changes to -e",
+        "explanation": "Most **feminine** nouns end in **-a** in the nominative. In the genitive singular, **-a** changes to **-e**: **žena → žene**, **kuća → kuće**, **knjiga → knjige**.\n\nFeminine nouns ending in a consonant (like **noć** – night, **stvar** – thing) add **-i** in the genitive: **noći**, **stvari**.\n\nThe ending **-ca** becomes **-ce**: **ulica → ulice**, **pekarnica → pekarnice**.",
+        "examples": [
+          { "hr": "Ovo je knjiga moje sestre.", "en": "This is my sister's book." },
+          { "hr": "Pored pekarnice je kavana.", "en": "Next to the bakery is a café." },
+          { "hr": "Bez vode ne možemo živjeti.", "en": "We cannot live without water." }
+        ]
+      },
+      {
+        "label": "Genitive plural: various endings",
+        "explanation": "The genitive plural is used after numbers 5+ and quantity words. Patterns by gender:\n\n- **Masculine**: most add **-ova** (after a hard consonant) or **-eva** (after a soft consonant): **grad → gradova**, **nož → noževa**. Some add just **-a**: **student → studenata**\n- **Feminine**: drop the **-a**, sometimes inserting a vowel: **knjiga → knjiga**, **žena → žena**, **sestra → sestara**\n- **Neuter**: drop **-o/-e** and add **-a**: **selo → sela**, **more → mora**",
+        "examples": [
+          { "hr": "U gradu ima puno turista.", "en": "There are a lot of tourists in the city." },
+          { "hr": "Kupila sam pet knjiga.", "en": "I bought five books." },
+          { "hr": "Malo sela je ostalo bez struje.", "en": "Few villages were left without electricity." }
+        ]
+      },
+      {
+        "label": "Nema + genitive",
+        "explanation": "**Nema** (there is no / there are no) always requires the **genitive**. It is the negative of **ima** (there is / there are):\n- **Ima kruha.** (There is bread.) → **Nema kruha.** (There is no bread.)\n- **Ima vremena.** (There is time.) → **Nema vremena.** (There is no time.)\n\nUse the **genitive singular** for uncountable nouns and **genitive plural** for countable nouns.",
+        "examples": [
+          { "hr": "Nema kruha u pekarnici.", "en": "There is no bread in the bakery." },
+          { "hr": "Nema turista zimi.", "en": "There are no tourists in winter." },
+          { "hr": "Nema problema!", "en": "No problem!" }
+        ]
+      },
+      {
+        "label": "Prepositions that take the genitive",
+        "explanation": "Many Croatian prepositions always require the **genitive** case:\n\n- **od** – from, of: *od prijatelja* (from a friend)\n- **do** – to, until: *do večeri* (until evening)\n- **iz** – from, out of (a place): *iz Zagreba* (from Zagreb)\n- **bez** – without: *bez šećera* (without sugar)\n- **zbog** – because of: *zbog kiše* (because of the rain)\n- **kod** – at, by (someone's place): *kod prijatelja* (at a friend's place)\n- **ispred** – in front of: *ispred muzeja* (in front of the museum)\n- **iza** – behind: *iza zgrade* (behind the building)\n- **pored** – next to: *pored tržnice* (next to the market)",
+        "examples": [
+          { "hr": "Dolazim iz Splita.", "en": "I am coming from Split." },
+          { "hr": "Kafić je pored knjižare.", "en": "The café is next to the bookshop." },
+          { "hr": "Zbog posla nisam mogao doći.", "en": "Because of work I couldn't come." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Gender", "Nominative (sg)", "Genitive (sg)", "Genitive (pl)", "English"],
+      "rows": [
+        ["Masculine", "grad", "grada", "gradova", "city"],
+        ["Masculine", "student", "studenta", "studenata", "student"],
+        ["Masculine", "nož", "noža", "noževa", "knife"],
+        ["Feminine", "žena", "žene", "žena", "woman"],
+        ["Feminine", "knjiga", "knjige", "knjiga", "book"],
+        ["Feminine", "sestra", "sestre", "sestara", "sister"],
+        ["Neuter", "selo", "sela", "sela", "village"],
+        ["Neuter", "vino", "vina", "vina", "wine"],
+        ["Neuter", "more", "mora", "mora", "sea"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "A Walk Through the Neighbourhood", "hr": "Šetnja kvartom" },
+    "paragraphs": [
+      {
+        "hr": "Marko vodi Anu kroz svoj kvart. Kvart je miran i ima puno zelenih površina. Ana je sretna što može vidjeti mjesto gdje Marko živi.",
+        "en": "Marko is showing Ana around his neighbourhood. The neighbourhood is quiet and has lots of green spaces. Ana is happy to see the place where Marko lives."
+      },
+      {
+        "hr": "\"Ovo je knjižara mog prijatelja Ivana,\" kaže Marko. \"Pored knjižare je mala kavana gdje svako jutro pijem kavu.\"",
+        "en": "\"This is my friend Ivan's bookshop,\" says Marko. \"Next to the bookshop is a small café where I drink coffee every morning.\""
+      },
+      {
+        "hr": "Zatim dolaze do parka. Park je lijep, ali Ana primjećuje da nema klupa. \"Žao mi je,\" kaže Marko, \"park je bez klupa već nekoliko tjedana. Čekaju nove.\"",
+        "en": "Then they come to the park. The park is nice, but Ana notices there are no benches. \"I'm sorry,\" says Marko, \"the park has been without benches for a few weeks now. They are waiting for new ones.\""
+      },
+      {
+        "hr": "Iza parka je restoran obitelji njegova prijatelja Tomislava. Restoran je poznat po ribljim jelima i uvijek je pun gostiju.",
+        "en": "Behind the park is a restaurant belonging to his friend Tomislav's family. The restaurant is known for its fish dishes and is always full of guests."
+      },
+      {
+        "hr": "\"Ljeti ima puno turista u ovom kvartu,\" objašnjava Marko. \"Dolaze iz svih dijelova Europe, posebno iz Njemačke i Austrije.\"",
+        "en": "\"In summer there are a lot of tourists in this neighbourhood,\" Marko explains. \"They come from all parts of Europe, especially from Germany and Austria.\""
+      },
+      {
+        "hr": "Ana pokazuje na veliku zgradu nasuprot tržnice. \"Što je to?\" pita. Marko se smiješi: \"To je gradski muzej. Otvoren je svaki dan osim ponedjeljka. Možemo otići sutra!\"",
+        "en": "Ana points to a large building opposite the market. \"What is that?\" she asks. Marko smiles: \"That is the city museum. It is open every day except Monday. We can go tomorrow!\""
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "genitive-case-q1",
+      "prompt": "Where is the café that Marko visits every morning?",
+      "promptHr": "Gdje je kavana u kojoj Marko svako jutro pije kavu?",
+      "options": [
+        "Behind the park",
+        "Next to the bookshop",
+        "Opposite the market",
+        "In front of the museum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marko says the café is 'pored knjižare' — next to the bookshop."
+    },
+    {
+      "id": "genitive-case-q2",
+      "prompt": "Why does the park have no benches?",
+      "promptHr": "Zašto u parku nema klupa?",
+      "options": [
+        "The park is closed for renovation",
+        "The benches were stolen",
+        "They are waiting for new ones",
+        "There was a flood in the park"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Park je bez klupa već nekoliko tjedana. Čekaju nove.' — The park has been without benches for a few weeks; they are waiting for new ones."
+    },
+    {
+      "id": "genitive-case-q3",
+      "prompt": "Whose family owns the restaurant behind the park?",
+      "promptHr": "Čija obitelj posjeduje restoran iza parka?",
+      "options": [
+        "Ivan's family",
+        "Marko's family",
+        "Ana's family",
+        "Tomislav's family"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Restoran obitelji njegova prijatelja Tomislava' — the restaurant of his friend Tomislav's family."
+    },
+    {
+      "id": "genitive-case-q4",
+      "prompt": "From which countries do most tourists come, according to Marko?",
+      "promptHr": "Iz kojih zemalja dolazi najviše turista, prema Marku?",
+      "options": [
+        "Italy and France",
+        "Germany and Austria",
+        "England and Spain",
+        "Poland and Hungary"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marko says tourists come 'posebno iz Njemačke i Austrije' — especially from Germany and Austria."
+    },
+    {
+      "id": "genitive-case-q5",
+      "prompt": "When is the city museum closed?",
+      "promptHr": "Kada je gradski muzej zatvoren?",
+      "options": [
+        "On Sundays",
+        "On Saturdays",
+        "On Mondays",
+        "On Fridays"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Otvoren je svaki dan osim ponedjeljka.' — It is open every day except Monday."
+    }
+  ],
+  "test": [
+    {
+      "id": "genitive-case-q6",
+      "prompt": "What is the genitive singular of 'grad' (city)?",
+      "options": ["gradu", "gradom", "grada", "grade"],
+      "correctIndex": 2,
+      "explanation": "Masculine nouns add -a in the genitive singular: grad → grada."
+    },
+    {
+      "id": "genitive-case-q7",
+      "prompt": "What is the genitive singular of 'knjiga' (book)?",
+      "options": ["knjigom", "knjizi", "knjigo", "knjige"],
+      "correctIndex": 3,
+      "explanation": "Feminine nouns ending in -a change to -e in the genitive: knjiga → knjige."
+    },
+    {
+      "id": "genitive-case-q8",
+      "prompt": "What is the genitive singular of 'selo' (village)?",
+      "options": ["selu", "sela", "selom", "sele"],
+      "correctIndex": 1,
+      "explanation": "Neuter nouns ending in -o replace -o with -a: selo → sela."
+    },
+    {
+      "id": "genitive-case-q9",
+      "prompt": "Choose the correct Croatian sentence for 'There is no bread.'",
+      "options": [
+        "Nema kruhu.",
+        "Nema kruh.",
+        "Nema kruha.",
+        "Nema kruhom."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nema requires the genitive: kruh → kruha (masculine singular genitive)."
+    },
+    {
+      "id": "genitive-case-q10",
+      "prompt": "Fill in the blank: 'čaša ___' (a glass of water) — voda",
+      "options": ["voda", "vodi", "vode", "vodom"],
+      "correctIndex": 2,
+      "explanation": "After 'čaša' (a glass of), the genitive is required: voda → vode."
+    },
+    {
+      "id": "genitive-case-q11",
+      "prompt": "What does 'puno turista' mean?",
+      "options": [
+        "a few tourists",
+        "some tourists",
+        "no tourists",
+        "a lot of tourists"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Puno' means 'a lot of' and takes the genitive plural: turist → turista."
+    },
+    {
+      "id": "genitive-case-q12",
+      "prompt": "Which preposition means 'without' and takes the genitive?",
+      "options": ["kod", "do", "bez", "od"],
+      "correctIndex": 2,
+      "explanation": "'Bez' means 'without' and always takes the genitive case."
+    },
+    {
+      "id": "genitive-case-q13",
+      "prompt": "Fill in the blank: 'Dolazim ___ Zagreba.' (I am coming from Zagreb.)",
+      "options": ["u", "na", "iz", "od"],
+      "correctIndex": 2,
+      "explanation": "'Iz' means 'from/out of' a place and takes the genitive. 'Od' means 'from' a person or abstract source."
+    },
+    {
+      "id": "genitive-case-q14",
+      "prompt": "What is the genitive singular of 'sestra' (sister)?",
+      "options": ["sestri", "sestre", "sestru", "sestrom"],
+      "correctIndex": 1,
+      "explanation": "Feminine nouns ending in -a change to -e in the genitive: sestra → sestre."
+    },
+    {
+      "id": "genitive-case-q15",
+      "prompt": "What does 'Nema vremena.' mean?",
+      "options": [
+        "There is a lot of time.",
+        "There is no time.",
+        "I don't have a watch.",
+        "What time is it?"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Nema + genitive' expresses absence. 'Vremena' is the genitive of 'vrijeme' (time)."
+    },
+    {
+      "id": "genitive-case-q16",
+      "prompt": "Which sentence correctly uses 'zbog' (because of)?",
+      "options": [
+        "Ostao sam doma zbog kiše.",
+        "Ostao sam doma zbog kiša.",
+        "Ostao sam doma zbog kišom.",
+        "Ostao sam doma zbog kišu."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Zbog' takes the genitive: kiša → kiše. 'Zbog kiše' = because of the rain."
+    },
+    {
+      "id": "genitive-case-q17",
+      "prompt": "What is the genitive plural of 'knjiga' (book)?",
+      "options": ["knjigama", "knjige", "knjiga", "knjigov"],
+      "correctIndex": 2,
+      "explanation": "Feminine nouns ending in -a often have the same form in genitive plural as nominative singular: knjiga → knjiga."
+    },
+    {
+      "id": "genitive-case-q18",
+      "prompt": "How do you say 'five cities' using the correct case?",
+      "options": [
+        "pet gradova",
+        "pet grade",
+        "pet gradom",
+        "pet gradu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Numbers 5+ require the genitive plural. Grad → gradova (masculine genitive plural with -ova)."
+    },
+    {
+      "id": "genitive-case-q19",
+      "prompt": "What does 'ispred muzeja' mean?",
+      "options": [
+        "inside the museum",
+        "behind the museum",
+        "next to the museum",
+        "in front of the museum"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Ispred' means 'in front of' and takes the genitive. 'Muzeja' is genitive of 'muzej'."
+    },
+    {
+      "id": "genitive-case-q20",
+      "prompt": "Fill in the blank for possession: 'knjiga moje ___' (my sister's book) — sestra",
+      "options": [
+        "sestri",
+        "sestre",
+        "sestru",
+        "sestrom"
+      ],
+      "correctIndex": 1,
+      "explanation": "Possession uses the genitive: sestra → sestre. 'Knjiga moje sestre' = my sister's book."
+    },
+    {
+      "id": "genitive-case-q21",
+      "prompt": "Which preposition means 'at / by someone's place' and takes the genitive?",
+      "options": [
+        "iza",
+        "zbog",
+        "kod",
+        "bez"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Kod' means 'at/by' (someone's place) and takes the genitive: 'kod prijatelja' = at a friend's place."
+    },
+    {
+      "id": "genitive-case-q22",
+      "prompt": "What is the genitive singular of 'brat' (brother)?",
+      "options": ["braću", "bratu", "bratom", "brata"],
+      "correctIndex": 3,
+      "explanation": "Masculine nouns add -a in genitive singular: brat → brata."
+    },
+    {
+      "id": "genitive-case-q23",
+      "prompt": "Fill in the blank: 'Ima ___ vode.' (There is a lot of water.) — puno",
+      "options": [
+        "puno voda",
+        "puno vode",
+        "puno vodu",
+        "puno vodom"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Puno' (a lot of) takes the genitive: voda → vode."
+    },
+    {
+      "id": "genitive-case-q24",
+      "prompt": "How do you say 'from the café' in Croatian?",
+      "options": [
+        "u kavani",
+        "na kavanu",
+        "iz kavane",
+        "od kavane"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Iz' + genitive = from/out of a place. 'Kavana' → 'kavane' (genitive). 'Od' is used for 'from' a person, not typically a building."
+    },
+    {
+      "id": "genitive-case-q25",
+      "prompt": "What does 'pored tržnice' mean?",
+      "options": [
+        "inside the market",
+        "next to the market",
+        "opposite the market",
+        "above the market"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Pored' means 'next to' and takes the genitive. 'Tržnice' is genitive of 'tržnica'."
+    },
+    {
+      "id": "genitive-case-q26",
+      "prompt": "Which sentence correctly means 'There are no tourists in winter'?",
+      "options": [
+        "Nema turisti zimi.",
+        "Nema turiste zimi.",
+        "Nema turista zimi.",
+        "Nema turistima zimi."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Nema' takes the genitive plural of countable nouns. 'Turist' → genitive plural 'turista'."
+    },
+    {
+      "id": "genitive-case-q27",
+      "prompt": "Choose the correct translation of 'iza zgrade'.",
+      "options": [
+        "in front of the building",
+        "inside the building",
+        "next to the building",
+        "behind the building"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Iza' means 'behind' and takes the genitive. 'Zgrade' is genitive of 'zgrada' (building)."
+    },
+    {
+      "id": "genitive-case-q28",
+      "prompt": "What does 'do večeri' mean?",
+      "options": [
+        "from the evening",
+        "in the evening",
+        "until evening",
+        "every evening"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Do' means 'until/to' and takes the genitive: 'večeri' is genitive of 'večer' (evening)."
+    },
+    {
+      "id": "genitive-case-q29",
+      "prompt": "Fill in the blank for possession: 'Restoran mog ___.' (My friend's restaurant.) — prijatelj",
+      "options": [
+        "prijatelju",
+        "prijatelja",
+        "prijateljem",
+        "prijatelji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Possession uses the genitive: prijatelj → prijatelja (masculine singular genitive)."
+    },
+    {
+      "id": "genitive-case-q30",
+      "prompt": "How do you say 'several students' using the correct case after 'nekoliko'?",
+      "options": [
+        "nekoliko studentima",
+        "nekoliko studenata",
+        "nekoliko studenti",
+        "nekoliko studentom"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Nekoliko' (several) takes the genitive plural. 'Student' → 'studenata' (genitive plural with inserted -a-)."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Possession (genitive)",
+      "items": [
+        { "hr": "knjiga moje sestre", "en": "my sister's book", "note": "genitive shows who the book belongs to" },
+        { "hr": "auto mog brata", "en": "my brother's car", "note": "brat → brata (masc. gen. sg.)" },
+        { "hr": "restoran obitelji", "en": "family restaurant", "note": "obitelj → obitelji (fem. gen. sg. with -i)" },
+        { "hr": "centar grada", "en": "city centre", "note": "grad → grada (masc. gen. sg.)" },
+        { "hr": "ime prijatelja", "en": "friend's name", "note": "prijatelj → prijatelja (masc. gen. sg.)" }
+      ]
+    },
+    {
+      "context": "Quantity + genitive (puno/malo/nekoliko...)",
+      "items": [
+        { "hr": "puno turista", "en": "a lot of tourists", "note": "puno + genitive plural" },
+        { "hr": "malo vremena", "en": "little time", "note": "malo + genitive singular" },
+        { "hr": "nekoliko knjiga", "en": "several books", "note": "nekoliko + genitive plural" },
+        { "hr": "pet gradova", "en": "five cities", "note": "numbers 5+ take genitive plural" },
+        { "hr": "čaša vode", "en": "a glass of water", "note": "quantity noun + genitive singular" },
+        { "hr": "dosta posla", "en": "enough work / plenty of work", "note": "dosta + genitive singular" }
+      ]
+    },
+    {
+      "context": "Nema + genitive",
+      "items": [
+        { "hr": "Nema kruha.", "en": "There is no bread.", "note": "kruh → kruha (masc. gen. sg.)" },
+        { "hr": "Nema vremena.", "en": "There is no time.", "note": "vrijeme → vremena (neut. gen. sg.)" },
+        { "hr": "Nema klupa.", "en": "There are no benches.", "note": "klupa → klupa (fem. gen. pl.)" },
+        { "hr": "Nema problema!", "en": "No problem!", "note": "very common fixed expression" },
+        { "hr": "Nema turista zimi.", "en": "There are no tourists in winter.", "note": "turist → turista (masc. gen. pl.)" }
+      ]
+    },
+    {
+      "context": "Prepositions + genitive",
+      "items": [
+        { "hr": "iz Zagreba", "en": "from Zagreb", "note": "iz + gen. = from/out of a place" },
+        { "hr": "do večeri", "en": "until evening", "note": "do + gen. = to/until" },
+        { "hr": "bez šećera", "en": "without sugar", "note": "bez + gen. = without" },
+        { "hr": "zbog kiše", "en": "because of the rain", "note": "zbog + gen. = because of" },
+        { "hr": "kod prijatelja", "en": "at a friend's place", "note": "kod + gen. = at/by" },
+        { "hr": "ispred muzeja", "en": "in front of the museum", "note": "ispred + gen. = in front of" },
+        { "hr": "iza zgrade", "en": "behind the building", "note": "iza + gen. = behind" },
+        { "hr": "pored tržnice", "en": "next to the market", "note": "pored + gen. = next to" },
+        { "hr": "od prijatelja", "en": "from a friend", "note": "od + gen. = from (a person or abstract source)" }
+      ]
+    },
+    {
+      "context": "Common genitive expressions",
+      "items": [
+        { "hr": "Nema problema!", "en": "No problem!", "note": "very common spoken expression" },
+        { "hr": "sve vrste", "en": "all kinds of", "note": "vrsta → vrste (fem. gen. sg.)" },
+        { "hr": "osim ponedjeljka", "en": "except Monday", "note": "osim + genitive = except" },
+        { "hr": "dijelovi Europe", "en": "parts of Europe", "note": "genitive shows origin or belonging" },
+        { "hr": "kraj ulice", "en": "end of the street", "note": "kraj (end of) + gen.: ulica → ulice" },
+        { "hr": "pun gostiju", "en": "full of guests", "note": "pun (full of) + gen. pl.: gost → gostiju" }
+      ]
+    }
+  ]
+}

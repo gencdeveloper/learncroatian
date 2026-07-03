@@ -1,0 +1,425 @@
+{
+  "id": "shopping-clothes",
+  "level": "a2",
+  "order": 5,
+  "title": {
+    "hr": "Kupovina i odjeća",
+    "en": "Shopping & Clothes"
+  },
+  "grammar": {
+    "title": {
+      "hr": "Odjeća i kupovina — gramatika",
+      "en": "Clothes and Shopping — Grammar"
+    },
+    "intro": "In Croatian, every noun has a **grammatical gender** — masculine, feminine, or neuter. Clothing nouns are mostly feminine or masculine, and this affects how adjectives (colours) and pronouns agree with them.\n\nKey patterns:\n- Nouns ending in **-a** are usually feminine: **haljina**, **majica**, **jakna**\n- Nouns ending in a consonant are usually masculine: **kaput**, **šal**, **remen**\n- Many clothing items are **plural-only** nouns: **hlače**, **cipele**, **rukavice**, **čarape**",
+    "rules": [
+      {
+        "label": "Adjective Agreement with Clothing Nouns",
+        "explanation": "Colour adjectives must agree with the **gender and number** of the noun they describe:\n- **Masculine** singular → adjective ends in **-i**: **bijeli** šal, **crni** kaput\n- **Feminine** singular → adjective ends in **-a**: **crvena** haljina, **žuta** majica\n- **Plural** → adjective ends in **-e**: **crne** hlače, **plave** cipele",
+        "examples": [
+          { "hr": "crvena haljina", "en": "red dress (feminine noun → -a)" },
+          { "hr": "bijeli šal", "en": "white scarf (masculine noun → -i)" },
+          { "hr": "crne hlače", "en": "black trousers (plural noun → -e)" }
+        ]
+      },
+      {
+        "label": "Accusative Pronouns: ga, je, ih",
+        "explanation": "When referring back to a clothing item, replace the noun with an accusative pronoun matching its **gender**:\n- **ga** → masculine singular: **kaput**, **šal**, **remen**\n- **je** → feminine singular: **haljina**, **jakna**, **majica**, **suknja**\n- **ih** → all plural nouns: **cipele**, **hlače**, **rukavice**, **čarape**",
+        "examples": [
+          { "hr": "Uzimam kaput. → Uzimam ga.", "en": "I'll take the coat. → I'll take it." },
+          { "hr": "Uzimam haljinu. → Uzimam je.", "en": "I'll take the dress. → I'll take it." },
+          { "hr": "Uzimam cipele. → Uzimam ih.", "en": "I'll take the shoes. → I'll take them." }
+        ]
+      },
+      {
+        "label": "Trying On Clothes and Asking for Sizes",
+        "explanation": "Use **Mogu li probati...?** to ask to try something on. For size, use a comparative adjective + **veličina** (size):\n- **Mogu li probati ovu haljinu?** — Can I try on this dress?\n- **Imate li ovu u većoj veličini?** — Do you have this in a larger size?\n- **Imate li ovu u manjoj veličini?** — Do you have this in a smaller size?\n- **Dobro mi pristaje.** — It fits me well.",
+        "examples": [
+          { "hr": "Mogu li probati ovu jaknu?", "en": "Can I try on this jacket?" },
+          { "hr": "Imate li ovu u većoj veličini?", "en": "Do you have this in a larger size?" },
+          { "hr": "Ova mi je premala.", "en": "This one is too small for me." }
+        ]
+      },
+      {
+        "label": "Price and Payment Phrases",
+        "explanation": "Essential phrases for negotiating prices and paying:\n- **Koliko košta?** — How much does it cost?\n- **Preskupo je.** — It's too expensive.\n- **Ima li popusta?** — Is there a discount?\n- **Plaćam karticom / gotovinom.** — I'm paying by card / in cash.",
+        "examples": [
+          { "hr": "Koliko košta ova jakna?", "en": "How much does this jacket cost?" },
+          { "hr": "Preskupo je. Ima li popusta?", "en": "It's too expensive. Is there a discount?" },
+          { "hr": "Uzimam je. Plaćam karticom.", "en": "I'll take it. I'm paying by card." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Croatian", "English", "Gender", "Accusative pronoun"],
+      "rows": [
+        ["kaput", "coat", "masculine", "ga"],
+        ["šal", "scarf", "masculine", "ga"],
+        ["remen", "belt", "masculine", "ga"],
+        ["haljina", "dress", "feminine", "je"],
+        ["majica", "t-shirt", "feminine", "je"],
+        ["košulja", "shirt", "feminine", "je"],
+        ["suknja", "skirt", "feminine", "je"],
+        ["jakna", "jacket", "feminine", "je"],
+        ["torba", "bag", "feminine", "je"],
+        ["kapa", "hat / cap", "feminine", "je"],
+        ["hlače", "trousers", "plural", "ih"],
+        ["čarape", "socks", "plural", "ih"],
+        ["cipele", "shoes", "plural", "ih"],
+        ["čizme", "boots", "plural", "ih"],
+        ["tenisice", "trainers / sneakers", "plural", "ih"],
+        ["rukavice", "gloves", "plural", "ih"]
+      ]
+    }
+  },
+  "reading": {
+    "title": {
+      "hr": "U butiku",
+      "en": "In the Boutique"
+    },
+    "paragraphs": [
+      {
+        "hr": "Ana ulazi u butik u centru Zagreba. Traži novu odjeću za ljeto.",
+        "en": "Ana enters a boutique in the centre of Zagreb. She is looking for new clothes for summer."
+      },
+      {
+        "hr": "Vidi crvenu haljinu na izlogu i pita prodavačicu: \"Mogu li probati ovu haljinu?\"",
+        "en": "She sees a red dress in the display window and asks the saleswoman: \"Can I try on this dress?\""
+      },
+      {
+        "hr": "Haljina je premala. Ana pita: \"Imate li je u većoj veličini?\" Prodavačica donosi broj četrdeset.",
+        "en": "The dress is too small. Ana asks: \"Do you have it in a larger size?\" The saleswoman brings size 40."
+      },
+      {
+        "hr": "Broj četrdeset dobro pristaje, ali Ana zatim vidi crnu jaknu na rasprodaji. Jakna košta pedeset eura umjesto sto.",
+        "en": "Size 40 fits well, but Ana then sees a black jacket on sale. The jacket costs fifty euros instead of one hundred."
+      },
+      {
+        "hr": "Ana pita: \"Ima li kakav dodatni popust?\" Prodavačica odgovara: \"Nažalost, ne. Ovo je već snižena cijena.\"",
+        "en": "Ana asks: \"Is there any additional discount?\" The saleswoman replies: \"Unfortunately, no. This is already the reduced price.\""
+      },
+      {
+        "hr": "Ana odlučuje kupiti jaknu i kaže: \"Uzimam je.\" Plaća karticom i izlazi iz butika zadovoljna.",
+        "en": "Ana decides to buy the jacket and says: \"I'll take it.\" She pays by card and leaves the boutique satisfied."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "shopping-clothes-q1",
+      "prompt": "Where does Ana go shopping in the reading passage?",
+      "options": [
+        "A market in Split",
+        "A department store in Zagreb",
+        "A boutique in the centre of Zagreb",
+        "A shop at the airport"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text says Ana enters 'butik u centru Zagreba' — a boutique in the centre of Zagreb."
+    },
+    {
+      "id": "shopping-clothes-q2",
+      "prompt": "What is the first item Ana tries on?",
+      "options": [
+        "A black jacket",
+        "A red skirt",
+        "A red dress",
+        "A white shirt"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana sees 'crvenu haljinu' (a red dress) and asks to try it on."
+    },
+    {
+      "id": "shopping-clothes-q3",
+      "prompt": "Why does Ana ask for a different size?",
+      "options": [
+        "The dress is too big.",
+        "The dress is too expensive.",
+        "The dress is too small.",
+        "The dress is the wrong colour."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Haljina je premala' means 'The dress is too small'."
+    },
+    {
+      "id": "shopping-clothes-q4",
+      "prompt": "What item does Ana decide to buy?",
+      "options": [
+        "A red dress in size 40",
+        "A black jacket on sale",
+        "A pair of shoes",
+        "A white scarf"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana sees 'crnu jaknu na rasprodaji' (a black jacket on sale) and decides to buy it."
+    },
+    {
+      "id": "shopping-clothes-q5",
+      "prompt": "How does Ana pay for her purchase?",
+      "options": [
+        "She pays with cash.",
+        "She pays by card.",
+        "She pays with a voucher.",
+        "She pays in instalments."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Plaća karticom' means 'She pays by card'."
+    }
+  ],
+  "test": [
+    {
+      "id": "shopping-clothes-q6",
+      "prompt": "What does 'majica' mean in English?",
+      "options": ["shirt", "t-shirt", "jacket", "dress"],
+      "correctIndex": 1,
+      "explanation": "'Majica' means t-shirt."
+    },
+    {
+      "id": "shopping-clothes-q7",
+      "prompt": "What does 'haljina' mean in English?",
+      "options": ["skirt", "shirt", "coat", "dress"],
+      "correctIndex": 3,
+      "explanation": "'Haljina' means dress."
+    },
+    {
+      "id": "shopping-clothes-q8",
+      "prompt": "What is 'jakna' in English?",
+      "options": ["jacket", "coat", "belt", "hat"],
+      "correctIndex": 0,
+      "explanation": "'Jakna' means jacket."
+    },
+    {
+      "id": "shopping-clothes-q9",
+      "prompt": "What is 'cipele' in English?",
+      "options": ["boots", "socks", "shoes", "trainers"],
+      "correctIndex": 2,
+      "explanation": "'Cipele' means shoes."
+    },
+    {
+      "id": "shopping-clothes-q10",
+      "prompt": "What is the Croatian word for 'trousers'?",
+      "options": ["suknja", "hlače", "haljina", "majica"],
+      "correctIndex": 1,
+      "explanation": "'Hlače' is the Croatian word for trousers."
+    },
+    {
+      "id": "shopping-clothes-q11",
+      "prompt": "What is the Croatian word for 'coat'?",
+      "options": ["jakna", "kaput", "šal", "remen"],
+      "correctIndex": 1,
+      "explanation": "'Kaput' means coat."
+    },
+    {
+      "id": "shopping-clothes-q12",
+      "prompt": "What is the Croatian word for 'boots'?",
+      "options": ["cipele", "tenisice", "čizme", "čarape"],
+      "correctIndex": 2,
+      "explanation": "'Čizme' means boots."
+    },
+    {
+      "id": "shopping-clothes-q13",
+      "prompt": "What grammatical gender is the noun 'haljina' (dress)?",
+      "options": ["masculine", "feminine", "neuter", "plural only"],
+      "correctIndex": 1,
+      "explanation": "'Haljina' ends in -a, which is the typical feminine ending in Croatian."
+    },
+    {
+      "id": "shopping-clothes-q14",
+      "prompt": "What grammatical gender is the noun 'kaput' (coat)?",
+      "options": ["feminine", "neuter", "masculine", "plural only"],
+      "correctIndex": 2,
+      "explanation": "'Kaput' ends in a consonant, which is the typical masculine ending in Croatian."
+    },
+    {
+      "id": "shopping-clothes-q15",
+      "prompt": "How do you say 'red dress' in Croatian?",
+      "options": ["crveni haljina", "crvena haljina", "crveno haljina", "crven haljina"],
+      "correctIndex": 1,
+      "explanation": "'Haljina' is feminine, so the adjective takes the feminine ending -a: 'crvena haljina'."
+    },
+    {
+      "id": "shopping-clothes-q16",
+      "prompt": "How do you say 'black trousers' in Croatian?",
+      "options": ["crna hlače", "crni hlače", "crne hlače", "crno hlače"],
+      "correctIndex": 2,
+      "explanation": "'Hlače' is a plural noun, so the adjective takes the plural ending -e: 'crne hlače'."
+    },
+    {
+      "id": "shopping-clothes-q17",
+      "prompt": "How do you say 'white scarf' in Croatian?",
+      "options": ["bijela šal", "bijelo šal", "bijele šal", "bijeli šal"],
+      "correctIndex": 3,
+      "explanation": "'Šal' is masculine, so the adjective takes the masculine ending -i: 'bijeli šal'."
+    },
+    {
+      "id": "shopping-clothes-q18",
+      "prompt": "How do you say 'How much does it cost?' in Croatian?",
+      "options": ["Koliko košta?", "Koliko plaćam?", "Što košta?", "Ima li cijena?"],
+      "correctIndex": 0,
+      "explanation": "'Koliko košta?' is the standard phrase for asking the price of something."
+    },
+    {
+      "id": "shopping-clothes-q19",
+      "prompt": "How do you say 'It's too expensive' in Croatian?",
+      "options": ["Jako je skupo.", "Preskupo je.", "Nije jeftino.", "Skupo kupujem."],
+      "correctIndex": 1,
+      "explanation": "'Preskupo je.' literally means 'It is too expensive.' The prefix 'pre-' means 'too' in Croatian."
+    },
+    {
+      "id": "shopping-clothes-q20",
+      "prompt": "How do you say 'Is there a discount?' in Croatian?",
+      "options": ["Ima li rasprodaje?", "Ima li jeftinije?", "Ima li popusta?", "Može li jeftinije?"],
+      "correctIndex": 2,
+      "explanation": "'Ima li popusta?' uses 'popust' (discount) in the genitive case after 'ima li'."
+    },
+    {
+      "id": "shopping-clothes-q21",
+      "prompt": "How do you say 'Can I try on...?' in Croatian?",
+      "options": ["Mogu li obući...?", "Mogu li nositi...?", "Mogu li probati...?", "Mogu li uzeti...?"],
+      "correctIndex": 2,
+      "explanation": "'Mogu li probati...?' uses 'probati' (to try / try on) and is the standard phrase in a fitting room."
+    },
+    {
+      "id": "shopping-clothes-q22",
+      "prompt": "Which accusative pronoun replaces a masculine clothing noun (e.g. 'kaput')?",
+      "options": ["je", "ih", "ga", "mu"],
+      "correctIndex": 2,
+      "explanation": "'Ga' is the accusative pronoun for masculine singular nouns: 'Uzimam kaput.' → 'Uzimam ga.'"
+    },
+    {
+      "id": "shopping-clothes-q23",
+      "prompt": "Which accusative pronoun replaces a feminine clothing noun (e.g. 'haljina')?",
+      "options": ["ga", "je", "ih", "mu"],
+      "correctIndex": 1,
+      "explanation": "'Je' is the accusative pronoun for feminine singular nouns: 'Uzimam haljinu.' → 'Uzimam je.'"
+    },
+    {
+      "id": "shopping-clothes-q24",
+      "prompt": "Which accusative pronoun replaces a plural noun (e.g. 'cipele')?",
+      "options": ["ga", "je", "im", "ih"],
+      "correctIndex": 3,
+      "explanation": "'Ih' is the accusative pronoun for all plural nouns: 'Uzimam cipele.' → 'Uzimam ih.'"
+    },
+    {
+      "id": "shopping-clothes-q25",
+      "prompt": "Complete the sentence: 'Uzimam ___ .' (I'll take it — referring to a jacket, 'jakna' = feminine)",
+      "promptHr": "Dopuni rečenicu: 'Uzimam ___ .' (uzimam jaknu)",
+      "options": ["ga", "ih", "je", "mu"],
+      "correctIndex": 2,
+      "explanation": "'Jakna' is feminine, so the accusative pronoun is 'je': 'Uzimam je.'"
+    },
+    {
+      "id": "shopping-clothes-q26",
+      "prompt": "How do you say 'Do you have this in a larger size?' in Croatian?",
+      "options": [
+        "Imate li ovu u manjoj veličini?",
+        "Imate li ovu u većoj veličini?",
+        "Imate li veću veličinu?",
+        "Mogu li dobiti veći?"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Imate li ovu u većoj veličini?' uses 'većoj' (comparative of 'velik' — large) and 'veličini' (locative of 'veličina' — size)."
+    },
+    {
+      "id": "shopping-clothes-q27",
+      "prompt": "What does 'rukavice' mean in English?",
+      "options": ["socks", "gloves", "hat", "scarf"],
+      "correctIndex": 1,
+      "explanation": "'Rukavice' means gloves. The word comes from 'ruka' (hand/arm)."
+    },
+    {
+      "id": "shopping-clothes-q28",
+      "prompt": "What does 'šal' mean in English?",
+      "options": ["gloves", "hat", "belt", "scarf"],
+      "correctIndex": 3,
+      "explanation": "'Šal' means scarf. It is a masculine noun."
+    },
+    {
+      "id": "shopping-clothes-q29",
+      "prompt": "What does 'tenisice' mean in English?",
+      "options": ["boots", "shoes", "trainers / sneakers", "sandals"],
+      "correctIndex": 2,
+      "explanation": "'Tenisice' means trainers or sneakers — casual sports shoes."
+    },
+    {
+      "id": "shopping-clothes-q30",
+      "prompt": "How do you say 'blue shoes' in Croatian?",
+      "options": ["plava cipele", "plavi cipele", "plave cipele", "plavo cipele"],
+      "correctIndex": 2,
+      "explanation": "'Cipele' is a plural noun, so the adjective takes the plural ending -e: 'plave cipele'."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Clothing items",
+      "items": [
+        { "hr": "majica", "en": "t-shirt" },
+        { "hr": "košulja", "en": "shirt" },
+        { "hr": "hlače", "en": "trousers" },
+        { "hr": "haljina", "en": "dress" },
+        { "hr": "suknja", "en": "skirt" },
+        { "hr": "jakna", "en": "jacket" },
+        { "hr": "kaput", "en": "coat" },
+        { "hr": "čarape", "en": "socks" },
+        { "hr": "cipele", "en": "shoes" },
+        { "hr": "čizme", "en": "boots" },
+        { "hr": "tenisice", "en": "trainers / sneakers" },
+        { "hr": "kapa", "en": "hat / cap" },
+        { "hr": "šal", "en": "scarf" },
+        { "hr": "rukavice", "en": "gloves" },
+        { "hr": "torba", "en": "bag" },
+        { "hr": "remen", "en": "belt" }
+      ]
+    },
+    {
+      "context": "Colours with clothes",
+      "items": [
+        { "hr": "crvena haljina", "en": "red dress", "note": "feminine noun → adjective ends in -a" },
+        { "hr": "crne hlače", "en": "black trousers", "note": "plural noun → adjective ends in -e" },
+        { "hr": "bijeli šal", "en": "white scarf", "note": "masculine noun → adjective ends in -i" },
+        { "hr": "plava majica", "en": "blue t-shirt", "note": "feminine noun → -a" },
+        { "hr": "žuta jakna", "en": "yellow jacket", "note": "feminine noun → -a" },
+        { "hr": "zelena torba", "en": "green bag", "note": "feminine noun → -a" },
+        { "hr": "sivi kaput", "en": "grey coat", "note": "masculine noun → -i" },
+        { "hr": "plave cipele", "en": "blue shoes", "note": "plural noun → -e" }
+      ]
+    },
+    {
+      "context": "In the fitting room",
+      "items": [
+        { "hr": "Mogu li probati ovu haljinu?", "en": "Can I try on this dress?" },
+        { "hr": "Gdje su svlačionice?", "en": "Where are the fitting rooms?" },
+        { "hr": "Ova mi je premala.", "en": "This one is too small for me." },
+        { "hr": "Ova mi je prevelika.", "en": "This one is too big for me." },
+        { "hr": "Dobro mi pristaje.", "en": "It fits me well." },
+        { "hr": "Imate li ovu u većoj veličini?", "en": "Do you have this in a larger size?" },
+        { "hr": "Imate li ovu u manjoj veličini?", "en": "Do you have this in a smaller size?" }
+      ]
+    },
+    {
+      "context": "Prices & payment",
+      "items": [
+        { "hr": "Koliko košta?", "en": "How much does it cost?" },
+        { "hr": "Preskupo je.", "en": "It's too expensive." },
+        { "hr": "Ima li popusta?", "en": "Is there a discount?" },
+        { "hr": "Uzimam ga.", "en": "I'll take it.", "note": "masculine item, e.g. kaput" },
+        { "hr": "Uzimam je.", "en": "I'll take it.", "note": "feminine item, e.g. jakna" },
+        { "hr": "Uzimam ih.", "en": "I'll take them.", "note": "plural items, e.g. cipele" },
+        { "hr": "Plaćam karticom.", "en": "I'm paying by card." },
+        { "hr": "Plaćam gotovinom.", "en": "I'm paying in cash." }
+      ]
+    },
+    {
+      "context": "Shopping phrases",
+      "items": [
+        { "hr": "Tražim...", "en": "I'm looking for..." },
+        { "hr": "Možete li mi pomoći?", "en": "Can you help me?" },
+        { "hr": "Samo razgledam.", "en": "I'm just looking." },
+        { "hr": "Mogu li platiti karticom?", "en": "Can I pay by card?" },
+        { "hr": "Imate li vrećicu?", "en": "Do you have a bag?" },
+        { "hr": "Gdje je kasa?", "en": "Where is the till / checkout?" },
+        { "hr": "Račun, molim.", "en": "The receipt, please." }
+      ]
+    }
+  ]
+}

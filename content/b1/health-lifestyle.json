@@ -1,0 +1,410 @@
+{
+  "id": "health-lifestyle",
+  "level": "b1",
+  "order": 12,
+  "title": { "hr": "Zdravlje i životni stil", "en": "Health & Lifestyle" },
+  "grammar": {
+    "title": { "hr": "Davanje savjeta i izražavanje navika", "en": "Giving Advice & Expressing Habits" },
+    "intro": "At B1 level you can give health advice using **trebao/trebala bi** + infinitive and talk about personal habits with **navikao/navikla sam na**. These structures are essential for discussing lifestyle and wellbeing in Croatian.\n\n- **trebao bi** — used with masculine subjects (he should / you m. should)\n- **trebala bi** — used with feminine subjects (she should / you f. should)\n- **ne bi trebao/trebala** — negative: should not\n- **navikao sam na** — I (m.) have gotten used to\n- **navikla sam na** — I (f.) have gotten used to\n- **imam naviku** + verbal noun — I have a habit of...",
+    "rules": [
+      {
+        "label": "trebao bi + infinitive (masculine)",
+        "explanation": "Use **trebao bi** + infinitive to advise a masculine subject. The negative is **ne bi trebao** + infinitive.\n\nCompare the two polarities:\n- Positive: **Trebao bi više spavati.** — He/you (m.) should sleep more.\n- Negative: **Ne bi trebao toliko raditi.** — He/you (m.) should not work so much.",
+        "examples": [
+          { "hr": "Trebao bi više spavati.", "en": "He/you (m.) should sleep more." },
+          { "hr": "Trebao bi jesti uravnoteženu prehranu.", "en": "He/you (m.) should eat a balanced diet." },
+          { "hr": "Ne bi trebao toliko raditi.", "en": "He/you (m.) should not work so much." },
+          { "hr": "Trebao bi početi vježbati.", "en": "He/you (m.) should start exercising." }
+        ]
+      },
+      {
+        "label": "trebala bi + infinitive (feminine)",
+        "explanation": "Use **trebala bi** + infinitive to advise a feminine subject. The negative is **ne bi trebala** + infinitive.\n\nExamples:\n- Positive: **Trebala bi smanjiti stres.** — She/you (f.) should reduce stress.\n- Negative: **Ne bi trebala piti toliko kave.** — She/you (f.) should not drink so much coffee.",
+        "examples": [
+          { "hr": "Trebala bi više vježbati.", "en": "She/you (f.) should exercise more." },
+          { "hr": "Trebala bi smanjiti stres.", "en": "She/you (f.) should reduce stress." },
+          { "hr": "Ne bi trebala piti toliko kave.", "en": "She/you (f.) should not drink so much coffee." },
+          { "hr": "Trebala bi ići spavati ranije.", "en": "She/you (f.) should go to sleep earlier." }
+        ]
+      },
+      {
+        "label": "Navikao/Navikla sam na + noun / Imam naviku + verbal noun",
+        "explanation": "Use **navikao sam na** (m.) or **navikla sam na** (f.) to say you have gotten used to something. The noun that follows takes the accusative case.\n\nAlternatively, **imam naviku** + a verbal noun in the genitive expresses a habit:\n- **Imam naviku ranog ustajanja.** — I have a habit of getting up early.\n- **Imam naviku meditiranja.** — I have a habit of meditating.",
+        "examples": [
+          { "hr": "Navikao sam na jutarnje vježbanje.", "en": "I (m.) have gotten used to morning exercise." },
+          { "hr": "Navikla sam na zdravu prehranu.", "en": "I (f.) have gotten used to healthy eating." },
+          { "hr": "Imam naviku ranog ustajanja.", "en": "I have a habit of getting up early." },
+          { "hr": "Navikao sam na meditaciju svaki dan.", "en": "I (m.) have gotten used to daily meditation." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Zdravo (Healthy)", "Nezdravo (Unhealthy)"],
+      "rows": [
+        ["svježe voće i povrće", "brza hrana"],
+        ["redovito vježbanje", "sjedilački način života"],
+        ["dovoljno sna", "nedostatak sna"],
+        ["hidratacija vodom", "slatka pića"],
+        ["meditacija i opuštanje", "pretjerani stres"],
+        ["uravnotežena prehrana", "previše kalorija"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "hr": "Anin novi početak", "en": "Ana's New Beginning" },
+    "paragraphs": [
+      {
+        "hr": "Prije šest mjeseci, Ana je imala jako loše navike. Svaki dan je pila previše kave, spavala je samo pet sati i nikad nije vježbala. Jela je brzu hranu i pila slatka pića. Osjećala se umorno i stalno pod stresom.",
+        "en": "Six months ago, Ana had very bad habits. Every day she drank too much coffee, slept only five hours, and never exercised. She ate fast food and drank sugary drinks. She felt tired and constantly stressed."
+      },
+      {
+        "hr": "Jednog dana je otišla liječniku jer se nije dobro osjećala. Liječnik joj je rekao da bi trebala promijeniti svoju prehranu i početi vježbati. Rekao je da je **uravnotežena prehrana** i redovito vježbanje ključ dobrog zdravlja. Ana je odlučila napraviti promjenu.",
+        "en": "One day she went to the doctor because she was not feeling well. The doctor told her that she should change her diet and start exercising. He said that a **balanced diet** and regular exercise are the key to good health. Ana decided to make a change."
+      },
+      {
+        "hr": "Sada Ana svako jutro vježba jogu. Ustaje u sedam sati i dvadeset minuta meditira. Nakon toga jede zdravi doručak s puno vitamina i proteina. Navikla se na ovu jutarnju rutinu i ne može zamisliti dan bez nje.",
+        "en": "Now Ana does yoga every morning. She wakes up at seven o'clock and meditates for twenty minutes. Afterwards she eats a healthy breakfast with lots of vitamins and proteins. She has gotten used to this morning routine and cannot imagine a day without it."
+      },
+      {
+        "hr": "Ana je promijenila i svoju prehranu. Jede puno svježeg voća i povrća, izbjegava nezdrave **masnoće** i loše **ugljikohidrate**. Pije dva litra vode svaki dan jer zna da je **hidratacija** jako važna. Ponekad jede vegetarijanska jela.",
+        "en": "Ana also changed her diet. She eats lots of fresh fruit and vegetables, and avoids unhealthy **fats** and bad **carbohydrates**. She drinks two litres of water every day because she knows that **hydration** is very important. Sometimes she eats vegetarian meals."
+      },
+      {
+        "hr": "Nakon šest tjedana, Ana se osjeća puno bolje nego prije. Ima više energije, bolje spava i manje je pod stresom. Njezino **mentalno zdravlje** se poboljšalo jer redovito vježbanje pomaže s **tjeskobom** i **depresijom**. Osjeća **ravnotežu** između posla i privatnog života.",
+        "en": "After six weeks, Ana feels much better than before. She has more energy, sleeps better, and is less stressed. Her **mental health** has improved because regular exercise helps with **anxiety** and **depression**. She feels **balance** between work and personal life."
+      },
+      {
+        "hr": "Ana je ispričala svom prijatelju Marku o svojoj novoj rutini. Rekla mu je da bi trebao manje sjediti i više se kretati. Preporučila mu je jogu i trčanje kao odličan početak. Marko je rekao da će pokušati jer mu je stres na poslu bio previše. Ana mu je rekla: »Raditi na sebi je najvažnija stvar!«",
+        "en": "Ana told her friend Marko about her new routine. She told him that he should sit less and move more. She recommended yoga and running to him as an excellent start. Marko said he would try because the stress at work had been too much. Ana told him: »Working on yourself is the most important thing!«"
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "health-lifestyle-q1",
+      "prompt": "What were Ana's habits before she made a change?",
+      "promptHr": "Koje su bile Anine navike prije nego što je napravila promjenu?",
+      "options": [
+        "She exercised every day and ate healthily.",
+        "She drank too much coffee, slept little, and never exercised.",
+        "She practised yoga every morning.",
+        "She had a balanced diet and drank lots of water."
+      ],
+      "correctIndex": 1,
+      "explanation": "The first paragraph states that Ana drank too much coffee, slept only five hours, and never exercised."
+    },
+    {
+      "id": "health-lifestyle-q2",
+      "prompt": "What did the doctor advise Ana to do?",
+      "promptHr": "Što je liječnik savjetovao Ani?",
+      "options": [
+        "To drink more coffee and rest.",
+        "To eat fast food in moderation.",
+        "To change her diet and start exercising.",
+        "To work fewer hours at the office."
+      ],
+      "correctIndex": 2,
+      "explanation": "The doctor said she should change her diet and start exercising, as **uravnotežena prehrana** (balanced diet) and regular exercise are key to good health."
+    },
+    {
+      "id": "health-lifestyle-q3",
+      "prompt": "What is Ana's new morning routine?",
+      "promptHr": "Koja je Anina nova jutarnja rutina?",
+      "options": [
+        "She drinks coffee and reads the news.",
+        "She goes for a long run and then eats fast food.",
+        "She does yoga, meditates, and eats a healthy breakfast.",
+        "She goes to the gym in the evening."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana now does yoga every morning, meditates for twenty minutes, and eats a healthy breakfast with vitamins and proteins."
+    },
+    {
+      "id": "health-lifestyle-q4",
+      "prompt": "How does Ana feel after six weeks of her new lifestyle?",
+      "promptHr": "Kako se Ana osjeća nakon šest tjedana novog načina života?",
+      "options": [
+        "Tired and more stressed than before.",
+        "Exactly the same as before the change.",
+        "Much better — more energy, better sleep, less stress.",
+        "Unhappy because the routine is too difficult."
+      ],
+      "correctIndex": 2,
+      "explanation": "After six weeks, Ana has more energy, sleeps better, and is less stressed. Her mental health has also improved."
+    },
+    {
+      "id": "health-lifestyle-q5",
+      "prompt": "What advice does Ana give to Marko?",
+      "promptHr": "Koji savjet Ana daje Marku?",
+      "options": [
+        "To change his job immediately.",
+        "To sit less, move more, and try yoga and running.",
+        "To visit the doctor every week.",
+        "To start a vegetarian diet right away."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana told Marko he should sit less and move more, and recommended yoga and running as an excellent start."
+    }
+  ],
+  "test": [
+    {
+      "id": "health-lifestyle-q6",
+      "prompt": "What does 'prehrana' mean in English?",
+      "options": ["exercise", "nutrition / diet", "relaxation", "stress"],
+      "correctIndex": 1,
+      "explanation": "**Prehrana** means nutrition or diet. **Vježbanje** = exercise, **opuštanje** = relaxation, **stres** = stress."
+    },
+    {
+      "id": "health-lifestyle-q7",
+      "prompt": "Što znači 'vježbanje' na engleskom?",
+      "promptHr": "Što znači 'vježbanje' na engleskom?",
+      "options": ["sleeping", "eating", "exercise", "relaxation"],
+      "correctIndex": 2,
+      "explanation": "**Vježbanje** means exercise. It comes from the verb *vježbati* (to exercise)."
+    },
+    {
+      "id": "health-lifestyle-q8",
+      "prompt": "What does 'tjeskoba' mean in English?",
+      "options": ["depression", "stress", "anxiety", "balance"],
+      "correctIndex": 2,
+      "explanation": "**Tjeskoba** means anxiety. Note: **stres** = stress, **depresija** = depression, **ravnoteža** = balance."
+    },
+    {
+      "id": "health-lifestyle-q9",
+      "prompt": "Fill in the blank: 'On _______ bi više spavati.' (He should sleep more.)",
+      "options": ["trebala", "trebao", "navikla", "navikao"],
+      "correctIndex": 1,
+      "explanation": "Use **trebao** for masculine subjects. **Trebala** is used with feminine subjects."
+    },
+    {
+      "id": "health-lifestyle-q10",
+      "prompt": "Fill in the blank: 'Ona _______ bi manje raditi.' (She should work less.)",
+      "options": ["trebao", "navikao", "trebala", "navikla"],
+      "correctIndex": 2,
+      "explanation": "Use **trebala** for feminine subjects. **Trebao** is used with masculine subjects."
+    },
+    {
+      "id": "health-lifestyle-q11",
+      "prompt": "What is the Croatian term for 'balanced diet'?",
+      "options": ["brza hrana", "veganska prehrana", "uravnotežena prehrana", "zdrava prehrana"],
+      "correctIndex": 2,
+      "explanation": "**Uravnotežena prehrana** = balanced diet. **Brza hrana** = fast food, **veganska prehrana** = vegan diet."
+    },
+    {
+      "id": "health-lifestyle-q12",
+      "prompt": "Što znači 'trčanje' na engleskom?",
+      "promptHr": "Što znači 'trčanje' na engleskom?",
+      "options": ["swimming", "cycling", "stretching", "running"],
+      "correctIndex": 3,
+      "explanation": "**Trčanje** means running. **Plivanje** = swimming, **biciklizam** = cycling, **istezanje** = stretching."
+    },
+    {
+      "id": "health-lifestyle-q13",
+      "prompt": "What does 'opuštanje' mean in English?",
+      "options": ["exercise", "anxiety", "relaxation", "balance"],
+      "correctIndex": 2,
+      "explanation": "**Opuštanje** means relaxation. It comes from the verb *opustiti se* (to relax)."
+    },
+    {
+      "id": "health-lifestyle-q14",
+      "prompt": "Which sentence uses 'trebala bi' correctly?",
+      "options": [
+        "Marko trebala bi više vježbati.",
+        "Ana trebao bi više vježbati.",
+        "Ana trebala bi više vježbati.",
+        "Ana navikla bi više vježbati."
+      ],
+      "correctIndex": 2,
+      "explanation": "**Trebala bi** is used with feminine subjects like Ana. **Trebao bi** is used with masculine subjects like Marko."
+    },
+    {
+      "id": "health-lifestyle-q15",
+      "prompt": "What is the Croatian word for 'hydration'?",
+      "options": ["hidratacija", "vitamini", "proteini", "ugljikohidrati"],
+      "correctIndex": 0,
+      "explanation": "**Hidratacija** = hydration. Drinking enough water every day is essential for good health."
+    },
+    {
+      "id": "health-lifestyle-q16",
+      "prompt": "Što znači 'mentalno zdravlje' na engleskom?",
+      "promptHr": "Što znači 'mentalno zdravlje' na engleskom?",
+      "options": ["physical health", "healthy lifestyle", "mental health", "general wellbeing"],
+      "correctIndex": 2,
+      "explanation": "**Mentalno zdravlje** = mental health. **Tjelesno zdravlje** = physical health."
+    },
+    {
+      "id": "health-lifestyle-q17",
+      "prompt": "Fill in the blank: 'Trebao bi manje _______ kave.' (He should drink less coffee.)",
+      "options": ["piti", "jesti", "spavati", "vježbati"],
+      "correctIndex": 0,
+      "explanation": "**Piti** = to drink. The genitive form **kave** (of coffee) follows *manje* (less)."
+    },
+    {
+      "id": "health-lifestyle-q18",
+      "prompt": "What does 'plivanje' mean in English?",
+      "options": ["running", "cycling", "yoga", "swimming"],
+      "correctIndex": 3,
+      "explanation": "**Plivanje** = swimming. It comes from the verb *plivati* (to swim)."
+    },
+    {
+      "id": "health-lifestyle-q19",
+      "prompt": "Which sentence correctly uses the 'navikao/navikla sam na' structure?",
+      "options": [
+        "Navikao sam na jutarnju jogu.",
+        "Navikao bi na jutarnju jogu.",
+        "Trebao sam navikao na jogu.",
+        "Navikla bi na jutarnju jogu."
+      ],
+      "correctIndex": 0,
+      "explanation": "**Navikao sam na** + noun (accusative) is the correct structure. The *bi* forms are conditional, not habit expressions."
+    },
+    {
+      "id": "health-lifestyle-q20",
+      "prompt": "What is the Croatian word for 'cycling'?",
+      "options": ["trčanje", "plivanje", "istezanje", "biciklizam"],
+      "correctIndex": 3,
+      "explanation": "**Biciklizam** = cycling. **Trčanje** = running, **plivanje** = swimming, **istezanje** = stretching."
+    },
+    {
+      "id": "health-lifestyle-q21",
+      "prompt": "What does 'ravnoteža' mean in English?",
+      "options": ["stress", "relaxation", "balance", "anxiety"],
+      "correctIndex": 2,
+      "explanation": "**Ravnoteža** = balance. For example: *ravnoteža između posla i privatnog života* = work-life balance."
+    },
+    {
+      "id": "health-lifestyle-q22",
+      "prompt": "What is the Croatian word for 'proteins'?",
+      "options": ["vitamini", "masnoće", "ugljikohidrati", "proteini"],
+      "correctIndex": 3,
+      "explanation": "**Proteini** = proteins. **Vitamini** = vitamins, **masnoće** = fats, **ugljikohidrati** = carbohydrates."
+    },
+    {
+      "id": "health-lifestyle-q23",
+      "prompt": "Što znači 'meditacija' na engleskom?",
+      "promptHr": "Što znači 'meditacija' na engleskom?",
+      "options": ["exercise", "yoga", "stretching", "meditation"],
+      "correctIndex": 3,
+      "explanation": "**Meditacija** = meditation. It is often practised alongside yoga for mental wellbeing."
+    },
+    {
+      "id": "health-lifestyle-q24",
+      "prompt": "Fill in the blank: 'Navikla sam _____ redovito vježbanje.' (I have gotten used to regular exercise.)",
+      "options": ["za", "u", "na", "od"],
+      "correctIndex": 2,
+      "explanation": "**Navikla/Navikao sam na** always takes the preposition **na** followed by the accusative case."
+    },
+    {
+      "id": "health-lifestyle-q25",
+      "prompt": "What is the Croatian word for 'carbohydrates'?",
+      "options": ["proteini", "masnoće", "vitamini", "ugljikohidrati"],
+      "correctIndex": 3,
+      "explanation": "**Ugljikohidrati** = carbohydrates. A key nutrition vocabulary word at B1 level."
+    },
+    {
+      "id": "health-lifestyle-q26",
+      "prompt": "What does 'istezanje' mean in English?",
+      "options": ["running", "cycling", "swimming", "stretching"],
+      "correctIndex": 3,
+      "explanation": "**Istezanje** = stretching. It comes from the verb *istezati se* (to stretch)."
+    },
+    {
+      "id": "health-lifestyle-q27",
+      "prompt": "What is the Croatian word for 'fats' (in nutrition)?",
+      "options": ["vitamini", "proteini", "ugljikohidrati", "masnoće"],
+      "correctIndex": 3,
+      "explanation": "**Masnoće** = fats. A balanced diet includes healthy fats in moderation."
+    },
+    {
+      "id": "health-lifestyle-q28",
+      "prompt": "What does 'raditi na sebi' mean in English?",
+      "options": ["to work hard at the office", "to work on oneself / self-improvement", "to do physical work", "to rest and relax"],
+      "correctIndex": 1,
+      "explanation": "**Raditi na sebi** means to work on oneself or personal development — Ana uses it to encourage Marko."
+    },
+    {
+      "id": "health-lifestyle-q29",
+      "prompt": "What is the Croatian adjective for 'vegan'?",
+      "options": ["vegetarijanski", "uravnotežen", "zdrav", "veganski"],
+      "correctIndex": 3,
+      "explanation": "**Veganski** = vegan (adjective). **Vegetarijanski** = vegetarian. Compare: *veganska hrana* (vegan food) vs *vegetarijanska jela* (vegetarian dishes)."
+    },
+    {
+      "id": "health-lifestyle-q30",
+      "prompt": "Which sentence correctly expresses a personal habit using 'imam naviku'?",
+      "options": [
+        "Imam naviku jutarnjeg trčanja.",
+        "Imam trebao jutarnjeg trčanja.",
+        "Trebao sam naviku trčanja.",
+        "Navikla bi jutarnjeg trčanja."
+      ],
+      "correctIndex": 0,
+      "explanation": "**Imam naviku** + verbal noun in the genitive = I have a habit of... The genitive of *jutarnje trčanje* is *jutarnjeg trčanja*."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Diet & nutrition",
+      "items": [
+        { "hr": "prehrana", "en": "nutrition / diet" },
+        { "hr": "uravnotežena prehrana", "en": "balanced diet" },
+        { "hr": "kalorije", "en": "calories", "note": "feminine plural" },
+        { "hr": "vitamini", "en": "vitamins", "note": "masculine plural" },
+        { "hr": "proteini", "en": "proteins", "note": "masculine plural" },
+        { "hr": "ugljikohidrati", "en": "carbohydrates", "note": "masculine plural" },
+        { "hr": "masnoće", "en": "fats", "note": "feminine plural" },
+        { "hr": "hidratacija", "en": "hydration", "note": "feminine noun" },
+        { "hr": "veganski", "en": "vegan", "note": "adjective; veganska hrana = vegan food" },
+        { "hr": "vegetarijanski", "en": "vegetarian", "note": "adjective; vegetarijanska jela = vegetarian dishes" }
+      ]
+    },
+    {
+      "context": "Exercise & fitness",
+      "items": [
+        { "hr": "vježbanje", "en": "exercise", "note": "verbal noun from vježbati" },
+        { "hr": "teretana", "en": "gym", "note": "feminine noun" },
+        { "hr": "trčanje", "en": "running", "note": "verbal noun from trčati" },
+        { "hr": "plivanje", "en": "swimming", "note": "verbal noun from plivati" },
+        { "hr": "biciklizam", "en": "cycling", "note": "masculine noun" },
+        { "hr": "yoga / joga", "en": "yoga", "note": "both spellings are used in Croatian" },
+        { "hr": "meditacija", "en": "meditation", "note": "feminine noun" },
+        { "hr": "fitnes", "en": "fitness", "note": "masculine noun, loanword" },
+        { "hr": "istezanje", "en": "stretching", "note": "verbal noun from istezati se" }
+      ]
+    },
+    {
+      "context": "Mental health & wellbeing",
+      "items": [
+        { "hr": "mentalno zdravlje", "en": "mental health" },
+        { "hr": "stres", "en": "stress", "note": "masculine noun" },
+        { "hr": "tjeskoba", "en": "anxiety", "note": "feminine noun" },
+        { "hr": "depresija", "en": "depression", "note": "feminine noun" },
+        { "hr": "opuštanje", "en": "relaxation", "note": "verbal noun from opustiti se" },
+        { "hr": "ravnoteža", "en": "balance", "note": "e.g. ravnoteža između posla i života = work-life balance" },
+        { "hr": "raditi na sebi", "en": "to work on oneself / self-improvement" }
+      ]
+    },
+    {
+      "context": "Health advice (trebao bi...)",
+      "items": [
+        { "hr": "Trebao bi više spavati.", "en": "He/you (m.) should sleep more.", "note": "trebao bi = masculine subject" },
+        { "hr": "Trebala bi više vježbati.", "en": "She/you (f.) should exercise more.", "note": "trebala bi = feminine subject" },
+        { "hr": "Ne bi trebao toliko raditi.", "en": "He/you (m.) should not work so much.", "note": "ne bi trebao = masculine negative" },
+        { "hr": "Ne bi trebala piti toliko kave.", "en": "She/you (f.) should not drink so much coffee.", "note": "ne bi trebala = feminine negative" },
+        { "hr": "Trebao bi jesti uravnoteženu prehranu.", "en": "He/you (m.) should eat a balanced diet." },
+        { "hr": "Trebala bi smanjiti stres.", "en": "She/you (f.) should reduce stress." }
+      ]
+    },
+    {
+      "context": "Healthy lifestyle habits",
+      "items": [
+        { "hr": "Navikao sam na jutarnje vježbanje.", "en": "I (m.) have gotten used to morning exercise.", "note": "navikao sam na = masculine past form" },
+        { "hr": "Navikla sam na zdravu prehranu.", "en": "I (f.) have gotten used to healthy eating.", "note": "navikla sam na = feminine past form" },
+        { "hr": "Imam naviku ranog ustajanja.", "en": "I have a habit of getting up early.", "note": "imam naviku + genitive verbal noun" },
+        { "hr": "Imam naviku meditiranja svaki dan.", "en": "I have a habit of meditating every day." },
+        { "hr": "Navikao sam na redoviti san.", "en": "I (m.) have gotten used to regular sleep." },
+        { "hr": "Imam naviku redovitog vježbanja.", "en": "I have a habit of exercising regularly." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "id": "present-tense",
+  "level": "a1",
+  "order": 7,
+  "title": { "en": "Present Tense Verbs", "hr": "Glagoli u prezentu" },
+  "grammar": {
+    "title": { "en": "How to Conjugate Verbs in the Present Tense", "hr": "Kako se konjugiraju glagoli u prezentu" },
+    "intro": "Croatian verbs change their endings to show **who** is doing the action.\n\nThere are **three conjugation patterns**, named after the vowel in the ending:\n\n- **-am** pattern: imati, čitati\n- **-im** pattern: govoriti, raditi\n- **-em** pattern: ići, jesti\n\nThe verb **biti** (to be) is fully irregular and must be memorised separately.",
+    "rules": [
+      {
+        "label": "biti (to be) — irregular verb",
+        "explanation": "**Biti** is the most important Croatian verb and is fully irregular.\n\nPositive forms:\n- **ja sam**, ti si, on/ona/ono je, mi smo, vi ste, oni su\n\nNegative forms (never use *ne + sam*):\n- **nisam**, nisi, nije, nismo, niste, nisu",
+        "examples": [
+          { "hr": "Ja sam Marko.", "en": "I am Marko." },
+          { "hr": "Ona je učiteljica.", "en": "She is a teacher." },
+          { "hr": "Oni su u Zagrebu.", "en": "They are in Zagreb." }
+        ]
+      },
+      {
+        "label": "-am conjugation (e.g. imati — to have, čitati — to read)",
+        "explanation": "Verbs whose infinitive ends in **-ati** usually follow this pattern.\n\nEndings: **-am, -aš, -a, -amo, -ate, -aju**\n\nExample — **imati** (to have):\n- imam, imaš, ima, imamo, imate, imaju",
+        "examples": [
+          { "hr": "Ja imam brata.", "en": "I have a brother." },
+          { "hr": "Oni imaju auto.", "en": "They have a car." },
+          { "hr": "Ana čita knjigu.", "en": "Ana reads a book." }
+        ]
+      },
+      {
+        "label": "-im conjugation (e.g. govoriti — to speak, raditi — to work, živjeti — to live)",
+        "explanation": "Verbs ending in **-iti** or **-jeti** in the infinitive usually follow this pattern.\n\nEndings: **-im, -iš, -i, -imo, -ite, -e**\n\nExample — **govoriti** (to speak):\n- govorim, govoriš, govori, govorimo, govorite, govore",
+        "examples": [
+          { "hr": "Govorim hrvatski.", "en": "I speak Croatian." },
+          { "hr": "Marko radi u uredu.", "en": "Marko works in an office." },
+          { "hr": "Mi živimo u Zagrebu.", "en": "We live in Zagreb." }
+        ]
+      },
+      {
+        "label": "-em conjugation (e.g. ići — to go, jesti — to eat, piti — to drink)",
+        "explanation": "A smaller group uses **-em** endings: **-em, -eš, -e, -emo, -ete, -u**\n\nWatch out for stem changes:\n- **ići** (to go): idem, ideš, ide, idemo, idete, idu\n- **piti** (to drink): stem changes to **pij-** → pijem, piješ, pije…",
+        "examples": [
+          { "hr": "Idem u školu.", "en": "I am going to school." },
+          { "hr": "Jedemo ručak.", "en": "We eat lunch." },
+          { "hr": "Što piješ?", "en": "What are you drinking?" }
+        ]
+      },
+      {
+        "label": "Negation in the present tense",
+        "explanation": "Place **ne** directly before any verb to make it negative.\n\n**Biti** is the exception — use its special negative forms instead of *ne + verb*:\n- nisam, nisi, nije, nismo, niste, nisu",
+        "examples": [
+          { "hr": "Ne radim danas.", "en": "I am not working today." },
+          { "hr": "Ona ne govori engleski.", "en": "She does not speak English." },
+          { "hr": "Nisam umoran.", "en": "I am not tired." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Pronoun", "-am (imati)", "-im (govoriti)", "-em (ići)"],
+      "rows": [
+        ["ja", "imam", "govorim", "idem"],
+        ["ti", "imaš", "govoriš", "ideš"],
+        ["on/ona/ono", "ima", "govori", "ide"],
+        ["mi", "imamo", "govorimo", "idemo"],
+        ["vi", "imate", "govorite", "idete"],
+        ["oni/one/ona", "imaju", "govore", "idu"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "A Day in the Life of Marko", "hr": "Jedan dan u životu Marka" },
+    "paragraphs": [
+      {
+        "hr": "Marko živi u Zagrebu. On radi u velikoj tvrtki u centru grada. Svaki dan ustaje rano i pije kavu prije posla.",
+        "en": "Marko lives in Zagreb. He works at a large company in the city centre. Every day he gets up early and drinks coffee before work."
+      },
+      {
+        "hr": "Ujutro Marko ide autobusom na posao. Sluša glazbu i čita vijesti na telefonu. Vozi se oko dvadeset minuta.",
+        "en": "In the morning Marko takes the bus to work. He listens to music and reads the news on his phone. He rides for about twenty minutes."
+      },
+      {
+        "hr": "U uredu Marko govori s kolegama i piše e-mailove. Radi od osam ujutro do četiri popodne. Ima mnogo posla, ali voli svoj posao.",
+        "en": "At the office Marko talks with colleagues and writes emails. He works from eight in the morning until four in the afternoon. He has a lot of work, but he loves his job."
+      },
+      {
+        "hr": "U podne Marko ide u restoran blizu ureda. Jede juhu i salatu za ručak. Pije mineralnu vodu ili sok. Ne jede meso svaki dan.",
+        "en": "At noon Marko goes to a restaurant near the office. He eats soup and salad for lunch. He drinks mineral water or juice. He does not eat meat every day."
+      },
+      {
+        "hr": "Navečer Marko ide kući. Kuha večeru, gleda televiziju ili čita knjige. Govori s prijateljima na telefonu.",
+        "en": "In the evening Marko goes home. He cooks dinner, watches television or reads books. He speaks with friends on the phone."
+      },
+      {
+        "hr": "Marko govori hrvatski i engleski. Uči i talijanski jer ima prijatelje u Italiji. Voli jezike i putuje često.",
+        "en": "Marko speaks Croatian and English. He is also learning Italian because he has friends in Italy. He loves languages and travels often."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "present-tense-q1",
+      "prompt": "Where does Marko live?",
+      "promptHr": "Gdje živi Marko?",
+      "options": ["In Split", "In Dubrovnik", "In Zagreb", "In Rijeka"],
+      "correctIndex": 2,
+      "explanation": "The text states 'Marko živi u Zagrebu' — Marko lives in Zagreb."
+    },
+    {
+      "id": "present-tense-q2",
+      "prompt": "How does Marko get to work?",
+      "promptHr": "Kako Marko ide na posao?",
+      "options": ["By car", "By bus", "By tram", "On foot"],
+      "correctIndex": 1,
+      "explanation": "The text says 'Marko ide autobusom na posao' — he takes the bus to work."
+    },
+    {
+      "id": "present-tense-q3",
+      "prompt": "What does Marko eat for lunch?",
+      "promptHr": "Što Marko jede za ručak?",
+      "options": ["Pizza and juice", "Soup and salad", "Meat and bread", "Pasta and water"],
+      "correctIndex": 1,
+      "explanation": "The text says 'Jede juhu i salatu za ručak' — he eats soup and salad."
+    },
+    {
+      "id": "present-tense-q4",
+      "prompt": "Which languages does Marko speak?",
+      "promptHr": "Koje jezike govori Marko?",
+      "options": ["Croatian and German", "English and Italian", "Croatian and English", "Croatian, English and Italian (all fluently)"],
+      "correctIndex": 2,
+      "explanation": "Marko speaks Croatian and English fluently. He is learning Italian but does not yet speak it."
+    },
+    {
+      "id": "present-tense-q5",
+      "prompt": "What does Marko do in the evening?",
+      "promptHr": "Što Marko radi navečer?",
+      "options": ["He goes to a restaurant", "He listens to music at work", "He cooks dinner and watches television or reads", "He goes to the gym"],
+      "correctIndex": 2,
+      "explanation": "The text says 'Kuha večeru, gleda televiziju ili čita knjige' — he cooks dinner and watches TV or reads."
+    }
+  ],
+  "test": [
+    {
+      "id": "present-tense-q6",
+      "prompt": "Choose the correct form of 'biti' for the pronoun 'ja'.",
+      "options": ["je", "si", "sam", "su"],
+      "correctIndex": 2,
+      "explanation": "'Ja sam' — I am. 'Sam' is the first-person singular of biti."
+    },
+    {
+      "id": "present-tense-q7",
+      "prompt": "Choose the correct form of 'biti' for the pronoun 'oni'.",
+      "options": ["smo", "ste", "su", "si"],
+      "correctIndex": 2,
+      "explanation": "'Oni su' — they are. 'Su' is the third-person plural of biti."
+    },
+    {
+      "id": "present-tense-q8",
+      "prompt": "Which is the correct 'ti' form of 'imati' (to have)?",
+      "options": ["imam", "imaš", "imaju", "imamo"],
+      "correctIndex": 1,
+      "explanation": "'Ti imaš' — you have. The -aš ending marks the second-person singular of -am verbs."
+    },
+    {
+      "id": "present-tense-q9",
+      "prompt": "Fill in the blank: 'Marko _____ u uredu.' (Marko works in an office.)",
+      "options": ["radim", "radite", "radi", "rade"],
+      "correctIndex": 2,
+      "explanation": "Marko is third-person singular (on), so the correct form of 'raditi' is 'radi'."
+    },
+    {
+      "id": "present-tense-q10",
+      "prompt": "Which conjugation pattern does 'govoriti' (to speak) follow?",
+      "options": ["-am pattern", "-im pattern", "-em pattern", "irregular like biti"],
+      "correctIndex": 1,
+      "explanation": "'Govoriti' follows the -im pattern: govorim, govoriš, govori, govorimo, govorite, govore."
+    },
+    {
+      "id": "present-tense-q11",
+      "prompt": "Choose the correct 'mi' form of 'živjeti' (to live).",
+      "options": ["živim", "živite", "žive", "živimo"],
+      "correctIndex": 3,
+      "explanation": "'Mi živimo' — we live. The -imo ending marks the first-person plural of -im verbs."
+    },
+    {
+      "id": "present-tense-q12",
+      "prompt": "What is the correct 'ja' form of 'ići' (to go)?",
+      "options": ["idem", "ideš", "ide", "idemo"],
+      "correctIndex": 0,
+      "explanation": "'Ja idem' — I go. 'Ići' is in the -em conjugation class; idem, ideš, ide, idemo, idete, idu."
+    },
+    {
+      "id": "present-tense-q13",
+      "prompt": "Fill in the blank: 'Ana _____ kavu.' (Ana is drinking coffee.)",
+      "options": ["pijem", "pije", "pijemo", "pijete"],
+      "correctIndex": 1,
+      "explanation": "Ana is third-person singular (ona), so the correct form of 'piti' is 'pije'."
+    },
+    {
+      "id": "present-tense-q14",
+      "prompt": "Which sentence means 'We eat breakfast'?",
+      "options": ["Jedemo ručak.", "Jedemo doručak.", "Jedete večeru.", "Jedu juhu."],
+      "correctIndex": 1,
+      "explanation": "'Jedemo doručak' — we eat breakfast. 'Doručak' means breakfast; 'ručak' is lunch."
+    },
+    {
+      "id": "present-tense-q15",
+      "prompt": "How do you say 'I do not work' in Croatian?",
+      "options": ["Radim ne.", "Ne radim.", "Nisam radim.", "Ne radi."],
+      "correctIndex": 1,
+      "explanation": "In Croatian, 'ne' goes directly before the verb: 'Ne radim.' Word order matters here."
+    },
+    {
+      "id": "present-tense-q16",
+      "prompt": "Which is the negative form of 'ja sam' (I am)?",
+      "options": ["Ne sam", "Nisam", "Nije", "Nismo"],
+      "correctIndex": 1,
+      "explanation": "The negative of 'ja sam' is 'nisam'. Biti has special short negative forms that replace 'ne + verb'."
+    },
+    {
+      "id": "present-tense-q17",
+      "prompt": "Fill in the blank: 'Vi _____ engleski.' (You [plural] speak English.)",
+      "options": ["govorim", "govoriš", "govore", "govorite"],
+      "correctIndex": 3,
+      "explanation": "'Vi govorite' — you (plural) speak. The -ite ending marks the second-person plural of -im verbs."
+    },
+    {
+      "id": "present-tense-q18",
+      "prompt": "Which pronoun matches the verb form 'ima'?",
+      "options": ["ja", "ti", "on/ona/ono", "oni"],
+      "correctIndex": 2,
+      "explanation": "'Ima' is the third-person singular of 'imati': on/ona/ono ima."
+    },
+    {
+      "id": "present-tense-q19",
+      "prompt": "Translate: 'She does not speak Croatian.'",
+      "options": ["Ona govori hrvatski.", "Ona ne govori engleski.", "Ona ne govori hrvatski.", "Ona nije govori."],
+      "correctIndex": 2,
+      "explanation": "'Ona ne govori hrvatski.' — She does not speak Croatian. 'Ne' precedes the verb; 'ne govori' negates 'govori'."
+    },
+    {
+      "id": "present-tense-q20",
+      "prompt": "What is the 'vi' form of 'biti'?",
+      "options": ["smo", "su", "si", "ste"],
+      "correctIndex": 3,
+      "explanation": "'Vi ste' — you (plural) are. 'Ste' is the second-person plural of biti."
+    },
+    {
+      "id": "present-tense-q21",
+      "prompt": "Which sentence means 'They have a house'?",
+      "options": ["Oni imaju kuću.", "Oni ima kuću.", "Oni imamo kuću.", "Oni imate kuću."],
+      "correctIndex": 0,
+      "explanation": "'Oni imaju kuću.' — They have a house. Third-person plural of 'imati' is 'imaju'."
+    },
+    {
+      "id": "present-tense-q22",
+      "prompt": "Fill in the blank: 'Ja _____ u školu.' (I go to school.)",
+      "options": ["ideš", "idem", "ide", "idemo"],
+      "correctIndex": 1,
+      "explanation": "'Ja idem' — I go. 'Ići' first-person singular is 'idem'."
+    },
+    {
+      "id": "present-tense-q23",
+      "prompt": "Which Croatian verb means 'to eat'?",
+      "options": ["piti", "ići", "jesti", "raditi"],
+      "correctIndex": 2,
+      "explanation": "'Jesti' means 'to eat'. 'Piti' = to drink, 'ići' = to go, 'raditi' = to work."
+    },
+    {
+      "id": "present-tense-q24",
+      "prompt": "Translate: 'We are in Zagreb.'",
+      "options": ["Mi smo u Zagrebu.", "Mi su u Zagrebu.", "Mi je u Zagrebu.", "Mi ste u Zagrebu."],
+      "correctIndex": 0,
+      "explanation": "'Mi smo' — we are. 'Smo' is the first-person plural of 'biti'."
+    },
+    {
+      "id": "present-tense-q25",
+      "prompt": "Which is the correct 'oni' form of 'jesti' (to eat)?",
+      "options": ["jedemo", "jedete", "jedu", "jede"],
+      "correctIndex": 2,
+      "explanation": "'Oni jedu' — they eat. The -u ending marks the third-person plural in the -em conjugation."
+    },
+    {
+      "id": "present-tense-q26",
+      "prompt": "Fill in the blank: 'Ti _____ vodu.' (You drink water.)",
+      "options": ["pijem", "pije", "piješ", "pijemo"],
+      "correctIndex": 2,
+      "explanation": "'Ti piješ' — you drink. 'Piti' second-person singular is 'piješ' (stem: pij-)."
+    },
+    {
+      "id": "present-tense-q27",
+      "prompt": "Choose the sentence that means 'He is not tired.'",
+      "options": ["On ne umoran.", "On nije umoran.", "On nisam umoran.", "On nisi umoran."],
+      "correctIndex": 1,
+      "explanation": "'On nije umoran.' — The negative third-person singular of 'biti' is 'nije'."
+    },
+    {
+      "id": "present-tense-q28",
+      "prompt": "Which conjugation pattern does 'čitati' (to read) follow?",
+      "options": ["-im pattern", "-em pattern", "-am pattern", "irregular"],
+      "correctIndex": 2,
+      "explanation": "'Čitati' follows the -am pattern: čitam, čitaš, čita, čitamo, čitate, čitaju."
+    },
+    {
+      "id": "present-tense-q29",
+      "prompt": "Translate: 'Do you (singular) have a car?' Choose the correct Croatian question.",
+      "options": ["Imaš li auto?", "Imaš li auta?", "Imate li auto?", "Imam li auto?"],
+      "correctIndex": 0,
+      "explanation": "'Imaš li auto?' — Do you (singular) have a car? 'Imaš' is the ti-form of 'imati'; 'li' marks a yes/no question."
+    },
+    {
+      "id": "present-tense-q30",
+      "prompt": "Which form correctly completes: 'Mi _____ engleski.' (We speak English.)",
+      "options": ["govorim", "govoriš", "govorimo", "govore"],
+      "correctIndex": 2,
+      "explanation": "'Mi govorimo' — we speak. The -imo ending marks the first-person plural of -im verbs."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "To be (biti)",
+      "items": [
+        { "hr": "ja sam", "en": "I am" },
+        { "hr": "ti si", "en": "you are (singular)" },
+        { "hr": "on/ona/ono je", "en": "he/she/it is" },
+        { "hr": "mi smo", "en": "we are" },
+        { "hr": "vi ste", "en": "you are (plural/formal)" },
+        { "hr": "oni/one/ona su", "en": "they are" },
+        { "hr": "nisam", "en": "I am not", "note": "special negative of 'sam'" },
+        { "hr": "nisi", "en": "you are not", "note": "special negative of 'si'" },
+        { "hr": "nije", "en": "he/she/it is not", "note": "special negative of 'je'" },
+        { "hr": "nismo / niste / nisu", "en": "we/you/they are not", "note": "special negatives of smo/ste/su" }
+      ]
+    },
+    {
+      "context": "To have (imati)",
+      "items": [
+        { "hr": "ja imam", "en": "I have" },
+        { "hr": "ti imaš", "en": "you have" },
+        { "hr": "on/ona ima", "en": "he/she has" },
+        { "hr": "mi imamo", "en": "we have" },
+        { "hr": "vi imate", "en": "you have (plural)" },
+        { "hr": "oni imaju", "en": "they have" },
+        { "hr": "Imam brata.", "en": "I have a brother.", "note": "direct object follows immediately" },
+        { "hr": "Ima li on auto?", "en": "Does he have a car?", "note": "'li' turns statement into yes/no question" }
+      ]
+    },
+    {
+      "context": "Daily action verbs",
+      "items": [
+        { "hr": "govoriti — govorim, govoriš, govori…", "en": "to speak — I speak, you speak, he/she speaks…", "note": "-im conjugation" },
+        { "hr": "raditi — radim, radiš, radi…", "en": "to work — I work, you work, he/she works…", "note": "-im conjugation" },
+        { "hr": "živjeti — živim, živiš, živi…", "en": "to live — I live, you live, he/she lives…", "note": "-im conjugation" },
+        { "hr": "čitati — čitam, čitaš, čita…", "en": "to read — I read, you read, he/she reads…", "note": "-am conjugation" },
+        { "hr": "gledati — gledam, gledaš, gleda…", "en": "to watch — I watch, you watch, he/she watches…", "note": "-am conjugation" },
+        { "hr": "kuhati — kuham, kuhaš, kuha…", "en": "to cook — I cook, you cook, he/she cooks…", "note": "-am conjugation" },
+        { "hr": "slušati — slušam, slušaš, sluša…", "en": "to listen — I listen, you listen, he/she listens…", "note": "-am conjugation" },
+        { "hr": "učiti — učim, učiš, uči…", "en": "to learn/study — I learn, you learn, he/she learns…", "note": "-im conjugation" },
+        { "hr": "jesti — jedem, jedeš, jede…", "en": "to eat — I eat, you eat, he/she eats…", "note": "-em conjugation; stem: jed-" },
+        { "hr": "piti — pijem, piješ, pije…", "en": "to drink — I drink, you drink, he/she drinks…", "note": "-em conjugation; stem changes to pij-" }
+      ]
+    },
+    {
+      "context": "Movement verbs",
+      "items": [
+        { "hr": "ići — idem, ideš, ide, idemo, idete, idu", "en": "to go — I go, you go, he/she goes, we go, you go, they go", "note": "-em conjugation; irregular" },
+        { "hr": "doći — dođem, dođeš, dođe…", "en": "to come / to arrive — I come, you come, he/she comes…", "note": "prefix do- + ći; stem dođ-" },
+        { "hr": "voziti se — vozim se, voziš se…", "en": "to travel by vehicle — I ride, you ride…", "note": "-im conjugation; reflexive with 'se'" },
+        { "hr": "Idem kući.", "en": "I am going home." },
+        { "hr": "Idemo u grad.", "en": "We are going into the city." },
+        { "hr": "On dolazi sutra.", "en": "He is coming tomorrow." }
+      ]
+    },
+    {
+      "context": "Negation in present tense",
+      "items": [
+        { "hr": "ne radim", "en": "I do not work", "note": "ne + verb (first-person sg)" },
+        { "hr": "ne govori", "en": "he/she does not speak", "note": "ne + third-person sg" },
+        { "hr": "ne jedemo", "en": "we do not eat", "note": "ne + first-person pl" },
+        { "hr": "ne pijete", "en": "you (plural) do not drink", "note": "ne + second-person pl" },
+        { "hr": "nisam", "en": "I am not", "note": "negative of 'sam'; never say 'ne sam'" },
+        { "hr": "nije", "en": "he/she/it is not", "note": "negative of 'je'; never say 'ne je'" },
+        { "hr": "nisu", "en": "they are not", "note": "negative of 'su'; never say 'ne su'" },
+        { "hr": "Ne idem danas.", "en": "I am not going today.", "note": "ne goes before the verb" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "id": "media-technology",
+  "level": "b1",
+  "order": 10,
+  "title": { "hr": "Mediji i tehnologija", "en": "Media & Technology" },
+  "grammar": {
+    "title": { "hr": "Se-pasiv i medijsko-tehnološki vokabular", "en": "Se-passive and media/technology vocabulary" },
+    "intro": "In Croatian, the **se-passive** (reflexive passive) is especially common in media language — news headlines, articles, and broadcasts use it constantly to describe what happens to content without naming who acts. Mastering media and technology vocabulary is essential for modern B1 communication.\n\nKey areas covered here:\n- **Traditional media** nouns and their genders\n- **Technology and digital** nouns and verbs\n- **Se-passive** construction with media verbs\n- Phrases for describing **media habits**",
+    "rules": [
+      {
+        "label": "Se-passive: formation and use",
+        "explanation": "The **se-passive** is formed with a verb conjugated in the 3rd person + **se**. The grammatical subject is the thing being acted upon, and the verb agrees with it in number.\n\nThis structure appears constantly in media:\n- **Vijest se širi.** — The news is spreading.\n- **Članak se čita.** — The article is being read.\n- **Snimka se dijeli.** — The video is being shared.\n- **Lozinka se mijenja.** — The password is being changed.\n\nCompare with English passive: instead of saying who acts, the subject receives the action.",
+        "examples": [
+          { "hr": "Vijest se širi po internetu.", "en": "The news is spreading across the internet." },
+          { "hr": "Članak se čita na svim platformama.", "en": "The article is being read on all platforms." },
+          { "hr": "Snimka se dijeli na društvenim mrežama.", "en": "The video is being shared on social media." }
+        ]
+      },
+      {
+        "label": "Traditional media: nouns and gender",
+        "explanation": "Media-related nouns in Croatian each have a grammatical gender. Learning the gender together with the noun is essential for correct adjective agreement.\n\n- **televizija** (ž) — television\n- **vijesti** (ž mn) — news (always plural in Croatian)\n- **novine** (ž mn) — newspaper (always plural)\n- **časopis** (m) — magazine\n- **radio** (m) — radio\n- **podcast** (m) — podcast\n- **dokumentarac** (m) — documentary\n- **serija** (ž) — series / TV show\n- **emisija** (ž) — broadcast / programme\n- **naslov** (m) — headline / title\n- **članak** (m) — article\n- **novinar** (m) / **novinarka** (ž) — journalist (m/f)",
+        "examples": [
+          { "hr": "Gledam seriju na streaming platformi.", "en": "I am watching a series on a streaming platform." },
+          { "hr": "Novinarka piše članak o tehnologiji.", "en": "The journalist (female) is writing an article about technology." },
+          { "hr": "Emisija počinje u osam sati.", "en": "The programme starts at eight o'clock." }
+        ]
+      },
+      {
+        "label": "Technology nouns and digital action verbs",
+        "explanation": "Key technology nouns:\n- **računalo** (sr) — computer\n- **pametni telefon** (m) — smartphone\n- **aplikacija** (ž) — app\n- **društvene mreže** (ž mn) — social networks / social media\n- **internet** (m) — internet\n- **pretraživač** (m) — browser / search engine\n- **lozinka** (ž) — password\n- **streaming** (m) — streaming\n\nDigital action verbs:\n- **pohraniti** — to save / store\n- **preuzeti** — to download\n- **učitati** — to upload\n- **prijaviti se** — to log in\n- **odjaviti se** — to log out",
+        "examples": [
+          { "hr": "Moram preuzeti aplikaciju na pametnom telefonu.", "en": "I need to download the app on my smartphone." },
+          { "hr": "Zaboravio sam lozinku i moram se odjaviti.", "en": "I forgot my password and I have to log out." },
+          { "hr": "Učitao sam fotografiju na društvene mreže.", "en": "I uploaded a photo to social media." }
+        ]
+      },
+      {
+        "label": "Expressing media habits",
+        "explanation": "Use the **present tense** to describe regular media habits. Key verbs:\n- **gledati** — to watch\n- **slušati** — to listen to\n- **čitati** — to read\n- **pratiti** — to follow (used for social media accounts)\n- **dijeliti** — to share (content)\n\nUseful patterns:\n- **Gledam vijesti svaki dan.** — I watch the news every day.\n- **Pratim... na društvenim mrežama.** — I follow... on social media.\n- **Čitam novine online.** — I read the newspaper online.\n- **Slušam podcast u autu.** — I listen to a podcast in the car.",
+        "examples": [
+          { "hr": "Gledam vijesti svaki dan na televiziji.", "en": "I watch the news every day on TV." },
+          { "hr": "Pratim svoju omiljenu novinarku na društvenim mrežama.", "en": "I follow my favourite journalist on social media." },
+          { "hr": "Slušam podcast umjesto radija.", "en": "I listen to a podcast instead of the radio." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Croatian", "Gender", "English"],
+      "rows": [
+        ["televizija", "ž", "television"],
+        ["vijesti", "ž mn", "news"],
+        ["novine", "ž mn", "newspaper"],
+        ["časopis", "m", "magazine"],
+        ["radio", "m", "radio"],
+        ["podcast", "m", "podcast"],
+        ["dokumentarac", "m", "documentary"],
+        ["serija", "ž", "series / TV show"],
+        ["emisija", "ž", "broadcast / programme"],
+        ["naslov", "m", "headline / title"],
+        ["članak", "m", "article"],
+        ["novinar / novinarka", "m / ž", "journalist (m/f)"],
+        ["računalo", "sr", "computer"],
+        ["pametni telefon", "m", "smartphone"],
+        ["aplikacija", "ž", "app"],
+        ["društvene mreže", "ž mn", "social networks"],
+        ["pretraživač", "m", "browser / search engine"],
+        ["lozinka", "ž", "password"],
+        ["streaming", "m", "streaming"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "hr": "Vijesti danas: razgovor Ane i Marka", "en": "News Today: Ana and Marko's Conversation" },
+    "paragraphs": [
+      {
+        "hr": "Ana i Marko sjede u kafiću i razgovaraju o tome kako prate vijesti i ostaju u kontaktu sa svijetom. Marko voli gledati večernje vijesti na televiziji. „Televizija mi daje osjećaj da sam stvarno informiran,\" kaže Marko. „Volim vidjeti novinara koji govori ravno u kameru — to je pouzdano.\"",
+        "en": "Ana and Marko are sitting in a café and talking about how they follow the news and stay connected with the world. Marko likes to watch the evening news on television. \"Television gives me the feeling that I am truly informed,\" says Marko. \"I like to see the journalist speaking directly to the camera — it feels reliable.\""
+      },
+      {
+        "hr": "Ana se slaže da je televizija važna, ali ona preferira drugačije izvore. „Ja pratim nekoliko novinki i portala na društvenim mrežama i slušam podcast svako jutro,\" objašnjava Ana. „Na taj način mogu pratiti vijesti dok putujem autobusom. Streaming servisi nude i odlične dokumentarce koji idu dublje u temu od kratkih emisija.\"",
+        "en": "Ana agrees that television is important, but she prefers different sources. \"I follow several journalists and news portals on social media and listen to a podcast every morning,\" Ana explains. \"That way I can follow the news while travelling by bus. Streaming services also offer excellent documentaries that go deeper into topics than short broadcasts.\""
+      },
+      {
+        "hr": "Marko također čita novine online. „Naš lokalni časopis ima odličnu web stranicu,\" kaže on. „Svaki članak se može podijeliti na društvenim mrežama — to je dobro za doseg. Naslovi su ponekad dramatični, ali sadržaj je obično kvalitetan.\" Ana se nasmiješi i doda: „Točno! Naslov se uvijek čita, ali se članak ne mora nužno i kliknuti.\"",
+        "en": "Marko also reads the newspaper online. \"Our local magazine has an excellent website,\" he says. \"Every article can be shared on social media — that is good for reach. The headlines are sometimes dramatic, but the content is usually of good quality.\" Ana smiles and adds: \"Exactly! A headline is always read, but the article does not necessarily have to be clicked.\""
+      },
+      {
+        "hr": "Razgovor se okreće na lažne vijesti. „Problem je što se vijest širi brzo, a provjera traje dugo,\" kaže Marko zabrinuto. „Lažna informacija se dijeli tisuću puta prije nego što se ispravi.\" Ana kimne: „Zato uvijek provjerim izvor prije nego što podijelim nešto na mreži. Prijavljujem se na stranice novinskih agencija i čitam originalne izvještaje, ne samo naslove.\"",
+        "en": "The conversation turns to fake news. \"The problem is that a piece of news spreads quickly, but verification takes a long time,\" says Marko with concern. \"False information is shared a thousand times before it is corrected.\" Ana nods: \"That is why I always check the source before I share something online. I log in to news agency websites and read original reports, not just headlines.\""
+      },
+      {
+        "hr": "„Misliš li da tradicionalni mediji umiru?\" pita Marko. „Radio ima sve manje slušatelja, a tiskane novine se sve manje kupuju u kioscima.\" Ana razmišlja trenutak. „Ne mislim da umiru — oni se mijenjaju. Radio sada postoji kao podcast, a novine su prešle na internet. Sadržaj se samo seli na nove platforme i prilagođava novim navikama publike.\"",
+        "en": "\"Do you think traditional media is dying?\" asks Marko. \"Radio has fewer and fewer listeners, and printed newspapers are bought less and less at kiosks.\" Ana thinks for a moment. \"I do not think they are dying — they are changing. Radio now exists as a podcast, and newspapers have moved to the internet. Content is just moving to new platforms and adapting to new audience habits.\""
+      },
+      {
+        "hr": "Na kraju se slažu da, bez obzira na sve platforme i aplikacije, osobni razgovor ostaje najvažniji. „Možemo pratiti sto profila na društvenim mrežama,\" smije se Marko, „ali ništa nije bolje od pravog razgovora uz kavu.\" Ana se složi, naruče još po jednu kavu i nastave razgovor — ovaj put bez telefona u ruci.",
+        "en": "In the end they agree that, regardless of all the platforms and apps, face-to-face conversation remains the most important. \"We can follow a hundred profiles on social media,\" laughs Marko, \"but nothing is better than a real conversation over coffee.\" Ana agrees, they order another coffee each and continue talking — this time without a phone in hand."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "media-technology-q1",
+      "prompt": "How does Marko primarily get his news?",
+      "promptHr": "Kako Marko uglavnom prati vijesti?",
+      "options": [
+        "By listening to podcasts on his morning commute",
+        "By watching evening television news and reading the local magazine online",
+        "By following journalists on social media",
+        "By reading printed newspapers at a kiosk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marko watches the evening news on **televizija** (television) and also reads the local **časopis** (magazine) website online."
+    },
+    {
+      "id": "media-technology-q2",
+      "prompt": "What does Ana do every morning while commuting?",
+      "promptHr": "Što Ana radi svako jutro dok putuje?",
+      "options": [
+        "She reads a printed newspaper on the bus",
+        "She watches a morning TV show on her smartphone",
+        "She listens to a podcast while travelling by bus",
+        "She calls Marko to discuss the latest news"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana says she listens to a **podcast** every morning while travelling by bus (**dok putujem autobusom**). She also follows journalists on social media."
+    },
+    {
+      "id": "media-technology-q3",
+      "prompt": "What is Marko's concern about fake news?",
+      "promptHr": "Što Marka brine u vezi s lažnim vijestima?",
+      "options": [
+        "That journalists are not trained well enough",
+        "That social media platforms should be banned",
+        "That false information spreads fast and is shared many times before being corrected",
+        "That printed newspapers are more reliable than online sources"
+      ],
+      "correctIndex": 2,
+      "explanation": "Marko says **lažna informacija se dijeli tisuću puta** (false information is shared a thousand times) before a correction comes — a real-world example of the **se-passive** in use."
+    },
+    {
+      "id": "media-technology-q4",
+      "prompt": "What is Ana's view on whether traditional media is dying?",
+      "promptHr": "Kakvo je Anino mišljenje o tome umiru li tradicionalni mediji?",
+      "options": [
+        "She thinks traditional media is completely finished",
+        "She believes radio and newspapers will never change",
+        "She thinks traditional media is changing and moving to new platforms, not dying",
+        "She says documentaries have already replaced all other media"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana says **„Ne mislim da umiru — oni se mijenjaju.\"** (I do not think they are dying — they are changing.) Content moves to new platforms and adapts to new audience habits."
+    },
+    {
+      "id": "media-technology-q5",
+      "prompt": "What conclusion do Ana and Marko reach at the end of their conversation?",
+      "promptHr": "Do kojeg zaključka dolaze Ana i Marko na kraju razgovora?",
+      "options": [
+        "They decide to delete all their social media accounts",
+        "They agree that television is the single best source of news",
+        "They conclude that streaming documentaries are better than podcasts",
+        "They agree that face-to-face conversation is still the most important form of communication"
+      ],
+      "correctIndex": 3,
+      "explanation": "Despite all platforms and apps, they agree that **osobni razgovor** (personal / face-to-face conversation) remains most important. Marko says **ništa nije bolje od pravog razgovora uz kavu** (nothing is better than a real conversation over coffee)."
+    }
+  ],
+  "test": [
+    {
+      "id": "media-technology-q6",
+      "prompt": "What is the Croatian word for **news**?",
+      "options": ["novine", "vijesti", "emisija", "naslov"],
+      "correctIndex": 1,
+      "explanation": "**Vijesti** (ž mn) means news and is always used in the plural in Croatian. **Novine** means newspaper, **emisija** is a broadcast/programme, and **naslov** is a headline."
+    },
+    {
+      "id": "media-technology-q7",
+      "prompt": "How do you say **to download** in Croatian?",
+      "options": ["učitati", "pohraniti", "odjaviti se", "preuzeti"],
+      "correctIndex": 3,
+      "explanation": "**Preuzeti** means to download. **Učitati** means to upload, **pohraniti** means to save/store, and **odjaviti se** means to log out."
+    },
+    {
+      "id": "media-technology-q8",
+      "prompt": "Which sentence uses the **se-passive** correctly?",
+      "options": [
+        "Vijest širi po internetu.",
+        "Vijest se širi po internetu.",
+        "Vijest se širiti po internetu.",
+        "Vijest je širi po internetu."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Vijest se širi po internetu** is the correct se-passive: verb **širi** (3rd person singular) + **se**, agreeing with the feminine subject **vijest**. The other options are missing **se**, use an infinitive, or add an auxiliary incorrectly."
+    },
+    {
+      "id": "media-technology-q9",
+      "prompt": "What does **prijaviti se** mean?",
+      "options": ["to log out", "to upload", "to log in", "to save"],
+      "correctIndex": 2,
+      "explanation": "**Prijaviti se** means to log in. Its opposite is **odjaviti se** (to log out). Both are reflexive verbs using **se**."
+    },
+    {
+      "id": "media-technology-q10",
+      "prompt": "Translate: **Gledam vijesti svaki dan.**",
+      "options": [
+        "I read the news every day.",
+        "I listen to the news every day.",
+        "I watch the news every day.",
+        "I share the news every day."
+      ],
+      "correctIndex": 2,
+      "explanation": "**Gledam** = I watch (from **gledati**). **Vijesti** = news. **Svaki dan** = every day. So the sentence means: I watch the news every day."
+    },
+    {
+      "id": "media-technology-q11",
+      "prompt": "What is the Croatian word for **magazine** (a periodical publication)?",
+      "options": ["novine", "naslov", "članak", "časopis"],
+      "correctIndex": 3,
+      "explanation": "**Časopis** (m) means magazine. **Novine** (ž mn) means newspaper, **naslov** (m) is a headline/title, and **članak** (m) is an article."
+    },
+    {
+      "id": "media-technology-q12",
+      "prompt": "How do you say **I follow her on social media** in Croatian?",
+      "options": [
+        "Gledam je na društvenim mrežama.",
+        "Pratim je na društvenim mrežama.",
+        "Čitam je na društvenim mrežama.",
+        "Dijelim je na društvenim mrežama."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Pratiti** means to follow (on social media). **Pratim je na društvenim mrežama** = I follow her on social media. **Gledati** = to watch, **čitati** = to read, **dijeliti** = to share."
+    },
+    {
+      "id": "media-technology-q13",
+      "prompt": "Which word means **password** in Croatian?",
+      "options": ["pretraživač", "aplikacija", "streaming", "lozinka"],
+      "correctIndex": 3,
+      "explanation": "**Lozinka** (ž) means password. **Pretraživač** is browser/search engine, **aplikacija** is app, and **streaming** is used as a loanword."
+    },
+    {
+      "id": "media-technology-q14",
+      "prompt": "Translate: **Članak se čita na svim platformama.**",
+      "options": [
+        "The article is written on all platforms.",
+        "The article is being read on all platforms.",
+        "The article is shared on all platforms.",
+        "The article is uploaded on all platforms."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Se čita** is the se-passive of **čitati** (to read). **Članak** (m) is the subject. The sentence means: The article is being read on all platforms — a typical media se-passive."
+    },
+    {
+      "id": "media-technology-q15",
+      "prompt": "What is a **dokumentarac** in English?",
+      "options": ["a series", "a broadcast", "a documentary", "an article"],
+      "correctIndex": 2,
+      "explanation": "**Dokumentarac** (m) means documentary. **Serija** is a series/TV show, **emisija** is a broadcast/programme, and **članak** is an article."
+    },
+    {
+      "id": "media-technology-q16",
+      "prompt": "Fill in the blank: **Snimka ___ dijeli na društvenim mrežama.** (The video is being shared on social media.)",
+      "options": ["je", "se", "su", "bi"],
+      "correctIndex": 1,
+      "explanation": "The se-passive requires **se**: **Snimka se dijeli** = The video is being shared. The verb **dijeli** is 3rd person singular, agreeing with the feminine subject **snimka** (video/recording)."
+    },
+    {
+      "id": "media-technology-q17",
+      "prompt": "What does **učitati** mean in English?",
+      "options": ["to save", "to download", "to log in", "to upload"],
+      "correctIndex": 3,
+      "explanation": "**Učitati** means to upload. Compare: **preuzeti** (to download), **pohraniti** (to save/store), **prijaviti se** (to log in)."
+    },
+    {
+      "id": "media-technology-q18",
+      "prompt": "Which is the feminine form of **novinar** (journalist) in Croatian?",
+      "options": ["novinari", "novinarka", "novinarica", "novinara"],
+      "correctIndex": 1,
+      "explanation": "**Novinarka** is the feminine form of **novinar** (journalist). Croatian regularly forms feminine professional nouns by adding the suffix **-ka** or similar endings to the masculine form."
+    },
+    {
+      "id": "media-technology-q19",
+      "prompt": "How do you say **browser** (internet browser) in Croatian?",
+      "options": ["aplikacija", "lozinka", "pametni telefon", "pretraživač"],
+      "correctIndex": 3,
+      "explanation": "**Pretraživač** (m) means browser or search engine. It derives from the verb **pretraživati** (to search / to browse)."
+    },
+    {
+      "id": "media-technology-q20",
+      "prompt": "Choose the correct se-passive sentence for **The headline is read.**",
+      "options": [
+        "Naslov čita.",
+        "Naslov se čitati.",
+        "Naslov se čita.",
+        "Naslov je čita."
+      ],
+      "correctIndex": 2,
+      "explanation": "**Naslov se čita** is correct: verb **čita** (3rd person singular of **čitati**) + **se**, agreeing with the masculine subject **naslov** (headline). Never use the infinitive form in se-passive constructions."
+    },
+    {
+      "id": "media-technology-q21",
+      "prompt": "What is the Croatian word for **podcast**?",
+      "options": ["emisija", "serija", "radio", "podcast"],
+      "correctIndex": 3,
+      "explanation": "**Podcast** is used as a masculine loanword in Croatian, identical to the English term. **Emisija** is a broadcast/programme, **serija** is a series, and **radio** is radio."
+    },
+    {
+      "id": "media-technology-q22",
+      "prompt": "Translate: **Pratim vijesti na društvenim mrežama.**",
+      "options": [
+        "I watch the news on social media.",
+        "I share the news on social media.",
+        "I follow the news on social media.",
+        "I upload the news on social media."
+      ],
+      "correctIndex": 2,
+      "explanation": "**Pratim** = I follow (from **pratiti**). **Vijesti** = news. **Društvene mreže** = social networks/social media. The sentence means: I follow the news on social media."
+    },
+    {
+      "id": "media-technology-q23",
+      "prompt": "What is the grammatical gender of **emisija** (broadcast / programme)?",
+      "options": ["masculine (m)", "feminine (ž)", "neuter (sr)", "it has no grammatical gender"],
+      "correctIndex": 1,
+      "explanation": "**Emisija** is a **feminine** noun (ž). In Croatian, most nouns ending in **-ija** are feminine: televizija, aplikacija, serija, emisija."
+    },
+    {
+      "id": "media-technology-q24",
+      "prompt": "Which phrase means **to log out** in Croatian?",
+      "options": ["prijaviti se", "pohraniti", "preuzeti", "odjaviti se"],
+      "correctIndex": 3,
+      "explanation": "**Odjaviti se** means to log out. Its opposite is **prijaviti se** (to log in). The prefix **od-** often signals a reversal of an action in Croatian."
+    },
+    {
+      "id": "media-technology-q25",
+      "prompt": "Fill in the blank: **Moram ___ aplikaciju na svom telefonu.** (I need to download the app on my phone.)",
+      "options": ["učitati", "pohraniti", "pratiti", "preuzeti"],
+      "correctIndex": 3,
+      "explanation": "**Preuzeti** = to download. The sentence **Moram preuzeti aplikaciju** = I need to download the app. **Učitati** = to upload, **pohraniti** = to save, **pratiti** = to follow."
+    },
+    {
+      "id": "media-technology-q26",
+      "prompt": "What does **računalo** mean in English?",
+      "options": ["smartphone", "tablet", "keyboard", "computer"],
+      "correctIndex": 3,
+      "explanation": "**Računalo** (sr) means computer. It derives from **računati** (to calculate/compute) and is a neuter noun."
+    },
+    {
+      "id": "media-technology-q27",
+      "prompt": "Which sentence correctly expresses a media habit in Croatian?",
+      "options": [
+        "Ja pratim vijestima svaki dan.",
+        "Gledam vijesti svaki dan.",
+        "Vijesti gledamo meni svaki dan.",
+        "Na vijesti gledam svaki dana."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Gledam vijesti svaki dan** is grammatically correct: I watch the news every day. The other options have case errors (**vijestima** is dative, not accusative), wrong word order, or incorrect genitive (**dana** instead of **dan**)."
+    },
+    {
+      "id": "media-technology-q28",
+      "prompt": "Translate: **Lozinka se mijenja svaka tri mjeseca.**",
+      "options": [
+        "The password should be remembered every three months.",
+        "The password is forgotten every three months.",
+        "The password is changed every three months.",
+        "The password is saved every three months."
+      ],
+      "correctIndex": 2,
+      "explanation": "**Lozinka se mijenja** = The password is changed (se-passive of **mijenjati** — to change). **Svaka tri mjeseca** = every three months. A common instruction seen in digital security contexts."
+    },
+    {
+      "id": "media-technology-q29",
+      "prompt": "What does **naslov** mean in English?",
+      "options": ["article", "broadcast", "series", "headline / title"],
+      "correctIndex": 3,
+      "explanation": "**Naslov** (m) means headline or title. In media contexts it usually refers to a newspaper or article headline; in other contexts it can mean any title."
+    },
+    {
+      "id": "media-technology-q30",
+      "prompt": "Which phrase means **social networks / social media** in Croatian?",
+      "options": ["pametni telefon", "aplikacija", "streaming", "društvene mreže"],
+      "correctIndex": 3,
+      "explanation": "**Društvene mreže** literally means social networks and is the standard Croatian term for social media. **Mreže** is the plural of **mreža** (network); **društvene** is the plural adjective from **društven** (social)."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Traditional media vocabulary",
+      "items": [
+        { "hr": "televizija", "en": "television", "note": "ž — feminine noun" },
+        { "hr": "vijesti", "en": "news", "note": "ž mn — always plural in Croatian" },
+        { "hr": "novine", "en": "newspaper", "note": "ž mn — always plural in Croatian" },
+        { "hr": "časopis", "en": "magazine", "note": "m — masculine noun" },
+        { "hr": "radio", "en": "radio", "note": "m — masculine noun" },
+        { "hr": "podcast", "en": "podcast", "note": "m — masculine loanword" },
+        { "hr": "dokumentarac", "en": "documentary", "note": "m — masculine noun" },
+        { "hr": "serija", "en": "series / TV show", "note": "ž — feminine noun" },
+        { "hr": "emisija", "en": "broadcast / programme", "note": "ž — feminine noun; also means TV or radio show" },
+        { "hr": "naslov", "en": "headline / title", "note": "m — masculine noun" },
+        { "hr": "članak", "en": "article", "note": "m — masculine noun" },
+        { "hr": "novinar", "en": "journalist (m)", "note": "masculine; female form is novinarka" },
+        { "hr": "novinarka", "en": "journalist (f)", "note": "feminine form of novinar" }
+      ]
+    },
+    {
+      "context": "Technology & internet",
+      "items": [
+        { "hr": "računalo", "en": "computer", "note": "sr — neuter noun; from računati (to compute)" },
+        { "hr": "pametni telefon", "en": "smartphone", "note": "m — pametni = smart" },
+        { "hr": "aplikacija", "en": "app / application", "note": "ž — feminine noun" },
+        { "hr": "internet", "en": "internet", "note": "m — na internetu = on the internet" },
+        { "hr": "pretraživač", "en": "browser / search engine", "note": "m — from pretraživati (to search/browse)" },
+        { "hr": "lozinka", "en": "password", "note": "ž — feminine noun" },
+        { "hr": "streaming", "en": "streaming", "note": "m — masculine loanword" },
+        { "hr": "društvene mreže", "en": "social networks / social media", "note": "ž mn — feminine plural; mreža = network" }
+      ]
+    },
+    {
+      "context": "Social media phrases",
+      "items": [
+        { "hr": "Pratim te na društvenim mrežama.", "en": "I follow you on social media." },
+        { "hr": "Pratim vijesti na društvenim mrežama.", "en": "I follow the news on social media." },
+        { "hr": "Dijelim članak na mreži.", "en": "I am sharing the article online." },
+        { "hr": "Objavio sam fotografiju na profilu.", "en": "I posted a photo on my profile." },
+        { "hr": "Vijest se širi po internetu.", "en": "The news is spreading across the internet.", "note": "se-passive" },
+        { "hr": "Snimka se dijeli na društvenim mrežama.", "en": "The video is being shared on social media.", "note": "se-passive" },
+        { "hr": "Članak se čita na svim platformama.", "en": "The article is being read on all platforms.", "note": "se-passive" }
+      ]
+    },
+    {
+      "context": "Digital action verbs",
+      "items": [
+        { "hr": "preuzeti", "en": "to download", "note": "perfective verb" },
+        { "hr": "učitati", "en": "to upload", "note": "perfective verb" },
+        { "hr": "pohraniti", "en": "to save / store", "note": "perfective verb; for saving files or data" },
+        { "hr": "prijaviti se", "en": "to log in", "note": "reflexive verb with se" },
+        { "hr": "odjaviti se", "en": "to log out", "note": "reflexive verb with se; opposite of prijaviti se" },
+        { "hr": "dijeliti", "en": "to share", "note": "imperfective verb; used for sharing content online" },
+        { "hr": "pratiti", "en": "to follow", "note": "imperfective verb; used for following accounts" },
+        { "hr": "pohraniti datoteku", "en": "to save a file", "note": "datoteka = file (ž)" },
+        { "hr": "promijeniti lozinku", "en": "to change the password" }
+      ]
+    },
+    {
+      "context": "Talking about media habits",
+      "items": [
+        { "hr": "Gledam vijesti svaki dan.", "en": "I watch the news every day." },
+        { "hr": "Pratim... na društvenim mrežama.", "en": "I follow... on social media." },
+        { "hr": "Čitam novine online.", "en": "I read the newspaper online." },
+        { "hr": "Slušam podcast u autu.", "en": "I listen to a podcast in the car." },
+        { "hr": "Gledam seriju na streaming platformi.", "en": "I watch a series on a streaming platform." },
+        { "hr": "Volim gledati dokumentarce.", "en": "I like watching documentaries." },
+        { "hr": "Ne gledam televiziju često.", "en": "I do not watch television often." },
+        { "hr": "Provjeravam vijesti na telefonu.", "en": "I check the news on my phone." },
+        { "hr": "Uvijek provjerim izvor prije nego podijelim.", "en": "I always check the source before I share.", "note": "good practice with fake news" }
+      ]
+    }
+  ]
+}

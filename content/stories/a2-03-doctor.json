@@ -1,0 +1,56 @@
+{
+  "id": "doctor",
+  "level": "a2",
+  "order": 3,
+  "title": { "hr": "Kod liječnika", "en": "At the Doctor's" },
+  "topicsUsed": ["health-body", "past-tense", "modal-verbs", "future-tense", "dative-case"],
+  "paragraphs": [
+    {
+      "hr": "Mark je Britanac koji živi u Zagrebu već godinu dana. U utorak se probudio s jakom bolom u grlu i glavoboljom. Temperatura mu je bila trideset i osam. Nije mogao ići na posao pa je nazvao šefa i rekao mu da se loše osjeća.",
+      "en": "Mark is a British man who has been living in Zagreb for a year. On Tuesday he woke up with a severe sore throat and a headache. His temperature was thirty-eight degrees. He could not go to work, so he called his boss and told him he was feeling unwell."
+    },
+    {
+      "hr": "Mark je nazvao liječničku ordinaciju i naručio se na pregled. Medicinska sestra mu je rekla da dođe u deset sati. Uzeo je tramvaj do ordinacije. U čekaonici su bila još tri pacijenta. Mark je čekao dvadesetak minuta i čitao novine na mobitelu.",
+      "en": "Mark called the doctor's surgery and made an appointment. The nurse told him to come at ten o'clock. He took the tram to the surgery. In the waiting room there were three other patients. Mark waited for about twenty minutes and read the news on his phone."
+    },
+    {
+      "hr": "Liječnica, doktorica Novak, bila je ljubazna i strpljiva. Pregledala mu je grlo i rekla da je crveno i upaljeno. Pitala ga je: Kada su počeli simptomi? Mark joj je odgovorio da je imao malo bolno grlo već u ponedjeljak, ali da mu je u utorak postalo puno gore. Doktorica je izmjerila temperaturu i krvni tlak.",
+      "en": "The doctor, Dr Novak, was friendly and patient. She examined his throat and said it was red and inflamed. She asked him: When did the symptoms start? Mark told her that he had had a slightly sore throat on Monday, but that it had become much worse on Tuesday. The doctor measured his temperature and blood pressure."
+    },
+    {
+      "hr": "Doktorica je rekla da Mark ima anginu — upalu grla. Ispisala mu je recept za antibiotike i tablete za temperaturu. Rekla mu je da mora piti puno vode i čaja s medom, da ne smije ići van tri dana i da mora uzimati antibiotik svakih osam sati. Mark je pažljivo slušao i zapisivao savjete.",
+      "en": "The doctor said that Mark had tonsillitis — a throat infection. She wrote him a prescription for antibiotics and temperature tablets. She told him he had to drink plenty of water and tea with honey, that he must not go outside for three days and that he had to take the antibiotic every eight hours. Mark listened carefully and wrote down the advice."
+    },
+    {
+      "hr": "Nakon ordinacije Mark je otišao u ljekarnu pokraj tramvajske stanice. Ljekarnik mu je dao lijekove i objasnio kako ih uzimati. Antibiotik je koštao devet eura. Mark je platio gotovinom i ljekarnik mu je poželjao brz oporavak.",
+      "en": "After the surgery Mark went to the pharmacy next to the tram stop. The pharmacist gave him the medicine and explained how to take it. The antibiotic cost nine euros. Mark paid in cash and the pharmacist wished him a speedy recovery."
+    },
+    {
+      "hr": "Kod kuće je Mark legao u krevet s čajem i medom. Nazvao je svoju mamu u Englesku i rekao joj da je bolestan. Mama mu je rekla da se čuva i da puno spava. Nakon tri dana odmora Mark se osjećao puno bolje — grlobolja je prošla i temperatura se spustila. Vratio se na posao u petak.",
+      "en": "At home Mark lay down in bed with tea and honey. He called his mum in England and told her he was ill. His mum told him to take care of himself and to sleep a lot. After three days of rest Mark felt much better — the sore throat had gone and the temperature had dropped. He went back to work on Friday."
+    }
+  ],
+  "vocabulary": {
+    "verbs": [
+      { "hr": "probuditi se", "en": "to wake up" },
+      { "hr": "naručiti se", "en": "to make an appointment" },
+      { "hr": "pregledati", "en": "to examine" },
+      { "hr": "ispisati recept", "en": "to write a prescription" },
+      { "hr": "oporaviti se", "en": "to recover" }
+    ],
+    "nouns": [
+      { "hr": "grlobolja", "en": "sore throat" },
+      { "hr": "temperatura", "en": "temperature / fever" },
+      { "hr": "ordinacija", "en": "doctor's surgery" },
+      { "hr": "recept", "en": "prescription" },
+      { "hr": "lijek", "en": "medicine" }
+    ],
+    "adjectives": [
+      { "hr": "upaljen / upaljena", "en": "inflamed" },
+      { "hr": "bolestan / bolesna", "en": "ill / sick" },
+      { "hr": "ljubazan / ljubazna", "en": "friendly / kind" },
+      { "hr": "pažljiv / pažljiva", "en": "careful / attentive" },
+      { "hr": "brz / brza", "en": "fast / quick" }
+    ]
+  }
+}

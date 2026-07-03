@@ -1,0 +1,473 @@
+{
+  "id": "reflexive-verbs",
+  "level": "a2",
+  "order": 12,
+  "title": {
+    "en": "Reflexive Verbs (Deep Dive)",
+    "hr": "Povratni glagoli (dublje)"
+  },
+  "grammar": {
+    "title": {
+      "en": "Reflexive Verbs: se and si",
+      "hr": "Povratni glagoli: se i si"
+    },
+    "intro": "Croatian reflexive verbs use the particles **se** or **si** — they cannot stand alone or start a sentence.\n\n**Se** (accusative) is used when the subject acts on itself: *Oblačim se.* (I get dressed.)\n**Si** (dative) means 'to/for oneself' and appears with a smaller set of verbs: *Kupujem si.* (I'm buying for myself.)",
+    "rules": [
+      {
+        "label": "Reflexive se — the most common particle",
+        "explanation": "Use **se** with verbs where the subject and object refer to the same person.\n- **oblačiti se** – to get dressed\n- **prati se** – to wash oneself\n- **smijati se** – to laugh\n- **bojati se** – to be afraid (+ genitive)\n- **nadati se** – to hope (+ dative or da-clause)\n- **sviđati se** – to be pleasing to / to like\n- **sjećati se** – to remember (+ genitive)\n- **vraćati se** – to return\n- **zaljubiti se** – to fall in love",
+        "examples": [
+          { "hr": "Svako jutro se oblačim brzo.", "en": "Every morning I get dressed quickly." },
+          { "hr": "Bojim se grmljavine.", "en": "I am afraid of thunder." },
+          { "hr": "Sjećam se prvog dana škole.", "en": "I remember the first day of school." }
+        ]
+      },
+      {
+        "label": "Reflexive si — dative self",
+        "explanation": "Use **si** when the action is done *for* or *to* oneself — the dative of the reflexive pronoun.\n- **kupiti si** – to buy for oneself\n- **priuštiti si** – to afford / to treat oneself\n- **zamisliti si** – to imagine",
+        "examples": [
+          { "hr": "Kupio sam si novi bicikl.", "en": "I bought myself a new bicycle." },
+          { "hr": "Ne mogu si priuštiti taj hotel.", "en": "I cannot afford that hotel." },
+          { "hr": "Zamislite si lijep dan na moru.", "en": "Imagine a beautiful day at the sea." }
+        ]
+      },
+      {
+        "label": "Reciprocal se — each other",
+        "explanation": "When **se** is used with a plural subject, it can express a mutual action — 'each other' or 'one another'.",
+        "examples": [
+          { "hr": "Oni se vole.", "en": "They love each other." },
+          { "hr": "Mi se poznajemo.", "en": "We know each other." },
+          { "hr": "Ana i Marko se često čuju.", "en": "Ana and Marko often hear from each other." }
+        ]
+      },
+      {
+        "label": "Passive-like se — no named subject",
+        "explanation": "**Se** with the third person creates a passive-like structure: 'it is done / one does'.\n\nNo subject is named — the focus is on the action itself.",
+        "examples": [
+          { "hr": "Ovdje se govori hrvatski.", "en": "Croatian is spoken here." },
+          { "hr": "Prodaje se stan.", "en": "An apartment is for sale." },
+          { "hr": "Kako se kaže na hrvatskom?", "en": "How do you say it in Croatian?" }
+        ]
+      },
+      {
+        "label": "Clitic position — se and si must be in second position",
+        "explanation": "**Se** and **si** are clitics: unstressed particles that MUST appear in second position in the clause.\n\n- They can never start a sentence.\n- They follow the first stressed phrase (noun, pronoun, or adverb).\n- In questions with **li**, they follow the verb+li cluster.",
+        "examples": [
+          { "hr": "Marko se vraća kući.", "en": "Marko is returning home." },
+          { "hr": "Sutra se vraćamo.", "en": "Tomorrow we are returning." },
+          { "hr": "Vraća li se Marko?", "en": "Is Marko returning?" }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Verb (infinitive)", "Meaning", "Particle", "Usage note"],
+      "rows": [
+        ["oblačiti se", "to get dressed", "se", "daily routine"],
+        ["prati se", "to wash oneself", "se", "daily routine"],
+        ["smijati se", "to laugh", "se", "emotion"],
+        ["bojati se", "to be afraid", "se", "takes genitive"],
+        ["nadati se", "to hope", "se", "takes dative or da-clause"],
+        ["sviđati se", "to be pleasing to (to like)", "se", "subject is the liked thing"],
+        ["sjećati se", "to remember", "se", "takes genitive"],
+        ["vraćati se", "to return / come back", "se", "movement"],
+        ["kupiti si", "to buy for oneself", "si", "dative self"],
+        ["priuštiti si", "to afford / treat oneself", "si", "dative self"]
+      ]
+    }
+  },
+  "reading": {
+    "title": {
+      "en": "Marko Remembers",
+      "hr": "Marko se sjeća"
+    },
+    "paragraphs": [
+      {
+        "hr": "Marko sjedi u kafiću i sjeća se dana kada je prvi put upoznao Anu.",
+        "en": "Marko sits in a café and remembers the day when he first met Ana."
+      },
+      {
+        "hr": "U to vrijeme bojao se govoriti engleski jer se brinuo da će pogriješiti.",
+        "en": "At that time he was afraid to speak English because he worried he would make mistakes."
+      },
+      {
+        "hr": "Ali Ana se smijala i rekla mu da se opusti — brzo su se upoznali i počeli razgovarati satima.",
+        "en": "But Ana laughed and told him to relax — they quickly got to know each other and started talking for hours."
+      },
+      {
+        "hr": "Marko se nada da će se Ana uskoro vratiti u Zagreb, jer mu jako nedostaje.",
+        "en": "Marko hopes that Ana will return to Zagreb soon, because he misses her a lot."
+      },
+      {
+        "hr": "Ana mu je napisala poruku: 'Već se veselim povratku. Ne mogu si zamisliti bolji grad!'",
+        "en": "Ana sent him a message: 'I am already looking forward to coming back. I cannot imagine a better city!'"
+      },
+      {
+        "hr": "Marko se smiješi čitajući njezine riječi. Zna da će mu nedostajati njen smijeh — ali sreća je što se često čuju.",
+        "en": "Marko smiles reading her words. He knows he will miss her laugh — but the good thing is they often hear from each other."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "reflexive-verbs-q1",
+      "prompt": "What is Marko doing at the start of the story?",
+      "promptHr": "Što Marko radi na početku priče?",
+      "options": [
+        "He is calling Ana on the phone.",
+        "He is sitting in a café and remembering when he met Ana.",
+        "He is writing a message to Ana.",
+        "He is walking through Zagreb."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Marko sjedi u kafiću i sjeća se' — Marko sits in a café and remembers."
+    },
+    {
+      "id": "reflexive-verbs-q2",
+      "prompt": "Why was Marko afraid to speak English when he first met Ana?",
+      "promptHr": "Zašto se Marko bojao govoriti engleski?",
+      "options": [
+        "He did not know any English words at all.",
+        "He worried he would make mistakes.",
+        "Ana had asked him not to speak English.",
+        "He preferred to speak Croatian only."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Bojao se govoriti engleski jer se brinuo da će pogriješiti.' — he was worried about making mistakes."
+    },
+    {
+      "id": "reflexive-verbs-q3",
+      "prompt": "How did Ana react when Marko struggled with English?",
+      "promptHr": "Kako je Ana reagirala?",
+      "options": [
+        "She became angry and left.",
+        "She laughed and told him to relax.",
+        "She spoke only Croatian instead.",
+        "She stopped the conversation."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ana se smijala i rekla mu da se opusti.' — She laughed and told him to relax."
+    },
+    {
+      "id": "reflexive-verbs-q4",
+      "prompt": "What does Ana write to Marko in her message?",
+      "promptHr": "Što Ana piše Marku u poruci?",
+      "options": [
+        "That she is not coming back to Zagreb.",
+        "That she is already looking forward to returning and cannot imagine a better city.",
+        "That she misses the café they used to visit.",
+        "That she will call him the next day."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Već se veselim povratku. Ne mogu si zamisliti bolji grad!' — She looks forward to returning and can't imagine a better city."
+    },
+    {
+      "id": "reflexive-verbs-q5",
+      "prompt": "Which reflexive verb does Ana use in her message that means 'to look forward to'?",
+      "promptHr": "Koji povratni glagol Ana koristi u poruci?",
+      "options": [
+        "sjeća se",
+        "boji se",
+        "veseli se",
+        "vraća se"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Već se veselim povratku.' uses **veseliti se** — to look forward to / to be glad about."
+    }
+  ],
+  "test": [
+    {
+      "id": "reflexive-verbs-q6",
+      "prompt": "Which reflexive particle is used for the dative meaning 'for/to oneself'?",
+      "options": ["se", "si", "mu", "ga"],
+      "correctIndex": 1,
+      "explanation": "**Si** is the dative reflexive clitic — it signals doing something for or to oneself."
+    },
+    {
+      "id": "reflexive-verbs-q7",
+      "prompt": "Fill in: 'Marko ___ kupio novi ruksak.' (Marko bought himself a new backpack.)",
+      "options": ["se", "si", "ga", "mu"],
+      "correctIndex": 1,
+      "explanation": "**Kupiti si** takes dative **si**: 'Marko si je kupio novi ruksak.'"
+    },
+    {
+      "id": "reflexive-verbs-q8",
+      "prompt": "What does 'Bojim se' mean?",
+      "options": ["I am happy.", "I remember.", "I am afraid.", "I hope."],
+      "correctIndex": 2,
+      "explanation": "**Bojati se** = to be afraid. 'Bojim se' = I am afraid."
+    },
+    {
+      "id": "reflexive-verbs-q9",
+      "prompt": "Which sentence places 'se' in the correct clitic position?",
+      "options": [
+        "Se govori engleski ovdje.",
+        "Ovdje se govori engleski.",
+        "Govori engleski se ovdje.",
+        "Ovdje govori engleski se."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Se** cannot start a sentence. Second position after 'Ovdje': 'Ovdje se govori engleski.'"
+    },
+    {
+      "id": "reflexive-verbs-q10",
+      "prompt": "What does 'Prodaje se.' mean in English?",
+      "options": ["He sells it.", "It is for sale.", "They are selling here.", "She bought it."],
+      "correctIndex": 1,
+      "explanation": "'Prodaje se.' is a passive-like construction meaning 'It is for sale.'"
+    },
+    {
+      "id": "reflexive-verbs-q11",
+      "prompt": "Which sentence has the correct word order?",
+      "options": [
+        "Se vraćamo sutra.",
+        "Vraćamo se sutra.",
+        "Sutra vraćamo se.",
+        "Vraćamo sutra se."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Vraćamo se sutra.' — **se** is in second position after the first stressed element 'Vraćamo'."
+    },
+    {
+      "id": "reflexive-verbs-q12",
+      "prompt": "What does 'Oni se vole.' mean?",
+      "options": ["They love themselves.", "They love each other.", "He loves her.", "She loves him."],
+      "correctIndex": 1,
+      "explanation": "A reciprocal construction with a plural subject: 'Oni se vole.' = They love each other."
+    },
+    {
+      "id": "reflexive-verbs-q13",
+      "prompt": "Which verb means 'to remember' in Croatian?",
+      "options": ["nadati se", "sjećati se", "vraćati se", "smijati se"],
+      "correctIndex": 1,
+      "explanation": "**Sjećati se** = to remember."
+    },
+    {
+      "id": "reflexive-verbs-q14",
+      "prompt": "Fill in: 'Ne mogu si ___ bolji odmor.' (I cannot imagine a better holiday.)",
+      "options": ["zamisliti", "sjećati", "veseliti", "oblačiti"],
+      "correctIndex": 0,
+      "explanation": "**Zamisliti si** = to imagine (for oneself). 'Ne mogu si zamisliti bolji odmor.'"
+    },
+    {
+      "id": "reflexive-verbs-q15",
+      "prompt": "How do you say 'We know each other' in Croatian?",
+      "options": ["Mi se bojimo.", "Mi se poznajemo.", "Mi si kupujemo.", "Mi se sjećamo."],
+      "correctIndex": 1,
+      "explanation": "'Mi se poznajemo.' uses reciprocal **se** meaning 'we know each other.'"
+    },
+    {
+      "id": "reflexive-verbs-q16",
+      "prompt": "Which of these verbs uses 'si' (not 'se')?",
+      "options": ["smijati se", "nadati se", "priuštiti si", "bojati se"],
+      "correctIndex": 2,
+      "explanation": "**Priuštiti si** = to afford / to treat oneself. It uses the dative particle **si**."
+    },
+    {
+      "id": "reflexive-verbs-q17",
+      "prompt": "Translate: 'Croatian is spoken here.'",
+      "options": [
+        "Hrvatska govori ovdje.",
+        "Ovdje se govori hrvatski.",
+        "Ovdje govori se hrvatska.",
+        "Hrvatski govori se ovdje."
+      ],
+      "correctIndex": 1,
+      "explanation": "Passive-like se in second position: 'Ovdje se govori hrvatski.'"
+    },
+    {
+      "id": "reflexive-verbs-q18",
+      "prompt": "What does 'Nadam se da će biti lijepo.' mean?",
+      "options": [
+        "I remember it will be nice.",
+        "I hope it will be nice.",
+        "I am afraid it will be nice.",
+        "I imagine it will be nice."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Nadati se** = to hope. 'Nadam se da će biti lijepo.' = I hope it will be nice."
+    },
+    {
+      "id": "reflexive-verbs-q19",
+      "prompt": "Why can 'se' NOT appear at the start of a Croatian sentence?",
+      "options": [
+        "Because se is a noun and needs an article first.",
+        "Because se is a clitic and must be in second position.",
+        "Because se is only used in questions.",
+        "Because se always follows the direct object."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Se** is a clitic — an unstressed particle that must be in second position in the clause."
+    },
+    {
+      "id": "reflexive-verbs-q20",
+      "prompt": "Fill in: 'Ana i Marko ___ smiju.' (Ana and Marko are laughing.)",
+      "options": ["si", "mu", "se", "ga"],
+      "correctIndex": 2,
+      "explanation": "**Smijati se** uses **se**: 'Ana i Marko se smiju.'"
+    },
+    {
+      "id": "reflexive-verbs-q21",
+      "prompt": "Which sentence correctly places 'se' after a sentence-initial adverb?",
+      "options": [
+        "Se oblačim brzo svako jutro.",
+        "Oblačim brzo se svako jutro.",
+        "Svako jutro se oblačim brzo.",
+        "Svako jutro oblačim brzo se."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Svako jutro' is the first phrase — **se** goes right after it: 'Svako jutro se oblačim brzo.'"
+    },
+    {
+      "id": "reflexive-verbs-q22",
+      "prompt": "What is the meaning of 'Sviđa mi se taj film.'?",
+      "options": [
+        "I remember that film.",
+        "I am afraid of that film.",
+        "I like that film.",
+        "I imagine that film."
+      ],
+      "correctIndex": 2,
+      "explanation": "**Sviđati se** = to be pleasing to. 'Sviđa mi se taj film.' = I like that film (it pleases me)."
+    },
+    {
+      "id": "reflexive-verbs-q23",
+      "prompt": "Translate: 'She is getting dressed.'",
+      "options": ["Ona si oblači.", "Ona se oblači.", "Ona oblači se.", "Se ona oblači."],
+      "correctIndex": 1,
+      "explanation": "**Oblačiti se** = to get dressed. 'Ona se oblači.' — **se** in second position."
+    },
+    {
+      "id": "reflexive-verbs-q24",
+      "prompt": "Which sentence shows a reciprocal use of 'se'?",
+      "options": [
+        "Ona se oblači.",
+        "Prodaje se kuća.",
+        "Oni se poznaju.",
+        "On se boji."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Oni se poznaju.' = They know each other — a reciprocal action between a plural subject."
+    },
+    {
+      "id": "reflexive-verbs-q25",
+      "prompt": "Fill in: 'Kupio sam ___ nove cipele.' (I bought myself new shoes.)",
+      "options": ["se", "ga", "si", "mu"],
+      "correctIndex": 2,
+      "explanation": "**Kupiti si** takes dative **si**: 'Kupio sam si nove cipele.' = I bought myself new shoes."
+    },
+    {
+      "id": "reflexive-verbs-q26",
+      "prompt": "What does 'Veseli se povratku.' mean?",
+      "options": [
+        "He is afraid of returning.",
+        "He is looking forward to returning.",
+        "He remembers returning.",
+        "He hopes to return."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Veseliti se** = to look forward to / to be glad. 'Veseli se povratku.' = He looks forward to returning."
+    },
+    {
+      "id": "reflexive-verbs-q27",
+      "prompt": "Which sentence uses the correct word order with 'si'?",
+      "options": [
+        "Si mogu priuštiti taj sat.",
+        "Mogu si priuštiti taj sat.",
+        "Mogu priuštiti si taj sat.",
+        "Priuštiti si mogu taj sat."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Mogu si priuštiti taj sat.' — **si** is in second position after 'Mogu'."
+    },
+    {
+      "id": "reflexive-verbs-q28",
+      "prompt": "Translate: 'Zaljubili su se na prvi pogled.'",
+      "options": [
+        "They fell in love at first sight.",
+        "They remembered their first meeting.",
+        "They laughed for the first time.",
+        "They met each other at a glance."
+      ],
+      "correctIndex": 0,
+      "explanation": "**Zaljubiti se** = to fall in love; **na prvi pogled** = at first sight. 'They fell in love at first sight.'"
+    },
+    {
+      "id": "reflexive-verbs-q29",
+      "prompt": "In 'Ovdje se govori engleski.', what function does 'se' perform?",
+      "options": [
+        "Reflexive — the subject acts on itself.",
+        "Reciprocal — two subjects act on each other.",
+        "Passive-like — the action is performed without naming a subject.",
+        "Dative self — the subject does something for itself."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Ovdje se govori engleski.' is a passive-like construction with no named subject."
+    },
+    {
+      "id": "reflexive-verbs-q30",
+      "prompt": "Which pair of Croatian verbs BOTH use 'se' (not 'si')?",
+      "options": [
+        "kupiti si and zamisliti si",
+        "priuštiti si and sjećati se",
+        "bojati se and nadati se",
+        "zamisliti si and bojati se"
+      ],
+      "correctIndex": 2,
+      "explanation": "**Bojati se** and **nadati se** both use **se**. The si verbs are kupiti si, priuštiti si, zamisliti si."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Daily routine reflexives (se)",
+      "items": [
+        { "hr": "oblačiti se", "en": "to get dressed", "note": "svako jutro — every morning" },
+        { "hr": "prati se", "en": "to wash oneself", "note": "prati ruke — wash hands" },
+        { "hr": "tuširati se", "en": "to take a shower", "note": "common daily routine verb" },
+        { "hr": "brijati se", "en": "to shave", "note": "daily morning routine" },
+        { "hr": "vraćati se", "en": "to return / come back", "note": "vraćam se kući — I'm coming home" }
+      ]
+    },
+    {
+      "context": "Emotional/mental reflexives",
+      "items": [
+        { "hr": "smijati se", "en": "to laugh", "note": "smijem se — I laugh" },
+        { "hr": "bojati se", "en": "to be afraid", "note": "bojim se + genitive" },
+        { "hr": "nadati se", "en": "to hope", "note": "nadam se + dative / da-clause" },
+        { "hr": "veseliti se", "en": "to look forward to / to be glad", "note": "veseli se povratku" },
+        { "hr": "sjećati se", "en": "to remember", "note": "sjećam se + genitive" },
+        { "hr": "sviđati se", "en": "to be pleasing to (to like)", "note": "sviđa mi se — I like it" },
+        { "hr": "zaljubiti se", "en": "to fall in love", "note": "zaljubili su se — they fell in love" }
+      ]
+    },
+    {
+      "context": "Reciprocal se (each other)",
+      "items": [
+        { "hr": "Oni se vole.", "en": "They love each other." },
+        { "hr": "Mi se poznajemo.", "en": "We know each other." },
+        { "hr": "Oni se često čuju.", "en": "They often hear from each other." },
+        { "hr": "Vidimo se sutra!", "en": "See you tomorrow! (lit. We will see each other tomorrow!)" },
+        { "hr": "Oni se bore.", "en": "They fight / struggle with each other." }
+      ]
+    },
+    {
+      "context": "Passive-like se constructions",
+      "items": [
+        { "hr": "Ovdje se govori hrvatski.", "en": "Croatian is spoken here.", "note": "no named subject" },
+        { "hr": "Prodaje se stan.", "en": "An apartment is for sale.", "note": "for sale sign" },
+        { "hr": "Ulaz se ne naplaćuje.", "en": "Entry is free (admission is not charged)." },
+        { "hr": "Ovdje se jede dobro.", "en": "You eat well here / The food is good here." },
+        { "hr": "Kako se kaže na hrvatskom?", "en": "How do you say it in Croatian?" }
+      ]
+    },
+    {
+      "context": "Se vs si",
+      "items": [
+        { "hr": "oblačiti se", "en": "to get dressed", "note": "se — accusative self" },
+        { "hr": "kupiti si", "en": "to buy for oneself", "note": "si — dative self" },
+        { "hr": "priuštiti si", "en": "to afford / treat oneself", "note": "si — dative self" },
+        { "hr": "zamisliti si", "en": "to imagine", "note": "si — dative self" },
+        { "hr": "nadati se", "en": "to hope", "note": "se — accusative self" }
+      ]
+    }
+  ]
+}

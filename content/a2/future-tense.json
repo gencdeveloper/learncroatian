@@ -1,0 +1,365 @@
+{
+  "id": "future-tense",
+  "level": "a2",
+  "order": 2,
+  "title": { "en": "Future Tense", "hr": "Buduće vrijeme" },
+  "grammar": {
+    "title": { "en": "How to Form the Croatian Future Tense", "hr": "Kako se tvori buduće vrijeme u hrvatskom" },
+    "intro": "The Croatian future tense (**futur I**) is formed with a **short form of htjeti** (to want / will) + the **infinitive** of the main verb.\n\nThe short forms are: **ću, ćeš, će, ćemo, ćete, će** — these are clitics and cannot stand first in a sentence.\n\nThe **negative** future uses: **neću, nećeš, neće, nećemo, nećete, neće** — these are full (non-clitic) forms and CAN stand first.",
+    "rules": [
+      {
+        "label": "Positive future: ću/ćeš/će + infinitive",
+        "explanation": "Attach the correct short form of **htjeti** to the subject, then follow with the **infinitive** of the main verb:\n\n- **Ja ću ići.** – I will go.\n- **Ti ćeš raditi.** – You will work.\n- **On/Ona će doći.** – He/She will come.\n- **Mi ćemo pričati.** – We will talk.\n- **Vi ćete vidjeti.** – You (pl.) will see.\n- **Oni/One će kupiti.** – They will buy.\n\nThe infinitive always ends in **-ti** (or **-ći** for verbs like ići).",
+        "examples": [
+          { "hr": "Sutra ću ići na more.", "en": "Tomorrow I will go to the sea." },
+          { "hr": "Ana će raditi cijeli tjedan.", "en": "Ana will work all week." },
+          { "hr": "Mi ćemo jesti u restoranu.", "en": "We will eat at a restaurant." }
+        ]
+      },
+      {
+        "label": "Negative future: neću/nećeš/neće + infinitive",
+        "explanation": "Replace the short form with the **negative form** — these are stressed and can appear at the start of a sentence:\n\n- **neću** – I will not\n- **nećeš** – you will not\n- **neće** – he/she/it will not\n- **nećemo** – we will not\n- **nećete** – you (pl.) will not\n- **neće** – they will not\n\nThe infinitive follows directly after the negative form.",
+        "examples": [
+          { "hr": "Neću ići na zabavu.", "en": "I will not go to the party." },
+          { "hr": "Oni neće raditi sutra.", "en": "They will not work tomorrow." },
+          { "hr": "Nećeš zaboraviti ovo.", "en": "You will not forget this." }
+        ]
+      },
+      {
+        "label": "Word order: clitic position and time adverbs",
+        "explanation": "Because **ću/ćeš/će...** are clitics, they sit in **second position** — after the first word or phrase:\n\n- *Sutra **ću** ići.* (Tomorrow I will go.) — 'Sutra' is first, clitic follows.\n- *Ana **će** doći.* (Ana will come.) — subject is first, clitic follows.\n\nThe **long/emphatic** forms **hoću/hoćeš/hoće...** can be used for emphasis or in short answers, but are less common in everyday speech.\n\nYes/no questions use **Hoćeš li...?** or **Ćeš li...?** + infinitive.",
+        "examples": [
+          { "hr": "Hoćeš li doći sutra?", "en": "Will you come tomorrow?" },
+          { "hr": "Sljedeći tjedan ćemo putovati.", "en": "Next week we will travel." },
+          { "hr": "Hoćemo li ići zajedno?", "en": "Shall we go together?" }
+        ]
+      },
+      {
+        "label": "Time expressions for the future",
+        "explanation": "Common time expressions used with the future tense:\n\n- **sutra** – tomorrow\n- **prekosutra** – the day after tomorrow\n- **večeras** – this evening / tonight\n- **uskoro** – soon\n- **sljedeći tjedan** – next week\n- **sljedeće godine** – next year\n- **za tjedan dana** – in a week's time\n- **za sat vremena** – in an hour",
+        "examples": [
+          { "hr": "Uskoro ću te nazvati.", "en": "I will call you soon." },
+          { "hr": "Za tjedan dana bit ćemo u Dubrovniku.", "en": "In a week's time we will be in Dubrovnik." },
+          { "hr": "Večeras ćemo gledati film.", "en": "Tonight we will watch a film." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Person", "Short form (positive)", "Negative form", "English"],
+      "rows": [
+        ["ja (I)", "ću", "neću", "I will / I will not"],
+        ["ti (you sg.)", "ćeš", "nećeš", "you will / you will not"],
+        ["on/ona/ono (he/she/it)", "će", "neće", "he/she will / will not"],
+        ["mi (we)", "ćemo", "nećemo", "we will / we will not"],
+        ["vi (you pl.)", "ćete", "nećete", "you will / you will not"],
+        ["oni/one (they)", "će", "neće", "they will / they will not"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "Plans for Dubrovnik", "hr": "Planovi za Dubrovnik" },
+    "paragraphs": [
+      {
+        "hr": "Ana će ostati još tri dana u Hrvatskoj. Marko joj je predložio da zajedno posjete Dubrovnik. Ana je odmah pristala jer oduvijek želi vidjeti stari grad.",
+        "en": "Ana will stay three more days in Croatia. Marko suggested they visit Dubrovnik together. Ana agreed immediately because she has always wanted to see the old city."
+      },
+      {
+        "hr": "Sutra ujutro će krenuti autobusom. Vožnja će trajati oko četiri sata. Marko je rekao da će put biti lijep jer prolaze pokraj mora.",
+        "en": "Tomorrow morning they will set off by bus. The journey will take about four hours. Marko said the trip will be lovely because they pass along the sea."
+      },
+      {
+        "hr": "U Dubrovniku će hodati po gradskim zidinama. Pogled s zidina na more i stare kuće bit će nevjerojatan. Ana planira napraviti mnogo fotografija.",
+        "en": "In Dubrovnik they will walk along the city walls. The view from the walls over the sea and old houses will be incredible. Ana plans to take many photos."
+      },
+      {
+        "hr": "Za ručak će probati lokalne specijalitete s mora. Marko zna jedan dobar restoran gdje ćete jesti svježe ribe i školjke po povoljnoj cijeni.",
+        "en": "For lunch they will try local seafood specialities. Marko knows a good restaurant where you can eat fresh fish and shellfish at a good price."
+      },
+      {
+        "hr": "Poslijepodne će uzeti brod do otoka Lokruma. Na Lokrumu će se kupati i odmoriti u sjeni. Brod se vraća navečer.",
+        "en": "In the afternoon they will take a boat to Lokrum island. On Lokrum they will swim and rest in the shade. The boat returns in the evening."
+      },
+      {
+        "hr": "Ana je rekla da će se sigurno vratiti sljedećeg ljeta. Hrvatska joj se jako svidjela i želi pokazati grad svojoj obitelji. Marko je rekao da će je čekati.",
+        "en": "Ana said she will definitely come back next summer. She liked Croatia very much and wants to show the city to her family. Marko said he will wait for her."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "future-tense-q1",
+      "prompt": "How will Ana and Marko travel to Dubrovnik?",
+      "promptHr": "Kako će Ana i Marko putovati do Dubrovnika?",
+      "options": ["By train", "By car", "By bus", "By boat"],
+      "correctIndex": 2,
+      "explanation": "'Sutra ujutro će krenuti autobusom.' — They will travel by bus."
+    },
+    {
+      "id": "future-tense-q2",
+      "prompt": "What will they do on the city walls?",
+      "promptHr": "Što će raditi na gradskim zidinama?",
+      "options": ["Eat lunch", "Take a boat ride", "Walk and take photos", "Sleep"],
+      "correctIndex": 2,
+      "explanation": "'Hodat će po gradskim zidinama' and 'Ana planira napraviti mnogo fotografija.' — They will walk and Ana will take photos."
+    },
+    {
+      "id": "future-tense-q3",
+      "prompt": "What will they eat for lunch in Dubrovnik?",
+      "promptHr": "Što će jesti za ručak u Dubrovniku?",
+      "options": ["Pizza and pasta", "Fresh fish and shellfish", "Grilled meat", "Soup and bread"],
+      "correctIndex": 1,
+      "explanation": "'ćete jesti svježe ribe i školjke' — they will eat fresh fish and shellfish."
+    },
+    {
+      "id": "future-tense-q4",
+      "prompt": "Where will they go in the afternoon?",
+      "promptHr": "Kamo će ići poslijepodne?",
+      "options": ["Back to Split", "To a beach near Dubrovnik", "To Lokrum island", "To a museum"],
+      "correctIndex": 2,
+      "explanation": "'Poslijepodne će uzeti brod do otoka Lokruma.' — In the afternoon they will take a boat to Lokrum island."
+    },
+    {
+      "id": "future-tense-q5",
+      "prompt": "When does Ana say she will return to Croatia?",
+      "promptHr": "Kada Ana kaže da će se vratiti u Hrvatsku?",
+      "options": ["Next month", "Next spring", "Next summer", "Next winter"],
+      "correctIndex": 2,
+      "explanation": "'Ana je rekla da će se sigurno vratiti sljedećeg ljeta.' — Ana said she will come back next summer."
+    }
+  ],
+  "test": [
+    {
+      "id": "future-tense-q6",
+      "prompt": "Which is the correct future form for 'I will go'?",
+      "options": ["Ja ću ići.", "Ja će ići.", "Ja ćeš ići.", "Ja ćemo ići."],
+      "correctIndex": 0,
+      "explanation": "First person singular: 'ću'. 'Ja ću ići.'"
+    },
+    {
+      "id": "future-tense-q7",
+      "prompt": "Which is the correct future form for 'She will work'?",
+      "options": ["Ona ću raditi.", "Ona ćeš raditi.", "Ona će raditi.", "Ona ćemo raditi."],
+      "correctIndex": 2,
+      "explanation": "Third person singular: 'će'. 'Ona će raditi.'"
+    },
+    {
+      "id": "future-tense-q8",
+      "prompt": "Which is the correct future form for 'We will eat'?",
+      "options": ["Mi ćemo jesti.", "Mi će jesti.", "Mi ću jesti.", "Mi ćete jesti."],
+      "correctIndex": 0,
+      "explanation": "First person plural: 'ćemo'. 'Mi ćemo jesti.'"
+    },
+    {
+      "id": "future-tense-q9",
+      "prompt": "Which is the correct future form for 'You (plural) will see'?",
+      "options": ["Vi ćemo vidjeti.", "Vi ćete vidjeti.", "Vi će vidjeti.", "Vi ću vidjeti."],
+      "correctIndex": 1,
+      "explanation": "Second person plural: 'ćete'. 'Vi ćete vidjeti.'"
+    },
+    {
+      "id": "future-tense-q10",
+      "prompt": "Which is the correct future form for 'They will come'?",
+      "options": ["Oni ćemo doći.", "Oni ćete doći.", "Oni ću doći.", "Oni će doći."],
+      "correctIndex": 3,
+      "explanation": "Third person plural: 'će'. 'Oni će doći.'"
+    },
+    {
+      "id": "future-tense-q11",
+      "prompt": "Which sentence correctly says 'I will not go to school'?",
+      "options": ["Ja ću ne ići u školu.", "Neću ići u školu.", "Nisam ići u školu.", "Ću ne ići u školu."],
+      "correctIndex": 1,
+      "explanation": "Negative future: 'neću' + infinitive. 'Neću ići u školu.'"
+    },
+    {
+      "id": "future-tense-q12",
+      "prompt": "Which sentence correctly says 'He will not eat meat'?",
+      "options": ["On će ne jesti meso.", "On nije jeo meso.", "On neće jesti meso.", "On ću neće jesti meso."],
+      "correctIndex": 2,
+      "explanation": "'Neće' is the third person singular negative future: 'On neće jesti meso.'"
+    },
+    {
+      "id": "future-tense-q13",
+      "prompt": "Which sentence correctly says 'We will not travel by bus'?",
+      "options": ["Mi nećemo putovati autobusom.", "Mi ćemo ne putovati autobusom.", "Mi neće putovati autobusom.", "Mi nismo putovati autobusom."],
+      "correctIndex": 0,
+      "explanation": "'Nećemo' is first person plural negative future: 'Mi nećemo putovati autobusom.'"
+    },
+    {
+      "id": "future-tense-q14",
+      "prompt": "Translate: 'Tomorrow I will call you.'",
+      "options": ["Sutra ću te nazvati.", "Sutra sam te nazvao.", "Sutra nisam te nazvati.", "Sutra ćeš me nazvati."],
+      "correctIndex": 0,
+      "explanation": "'Sutra ću te nazvati.' — first person singular future 'ću' + infinitive 'nazvati'."
+    },
+    {
+      "id": "future-tense-q15",
+      "prompt": "Translate: 'She will not forget the meeting.'",
+      "options": ["Ona neće zaboraviti sastanak.", "Ona nije zaboravila sastanak.", "Ona će ne zaboraviti sastanak.", "Ona nećeš zaboraviti sastanak."],
+      "correctIndex": 0,
+      "explanation": "'Neće' = she will not. 'Ona neće zaboraviti sastanak.'"
+    },
+    {
+      "id": "future-tense-q16",
+      "prompt": "What does 'prekosutra' mean?",
+      "options": ["Yesterday", "Tomorrow", "The day after tomorrow", "Next week"],
+      "correctIndex": 2,
+      "explanation": "'Prekosutra' = the day after tomorrow."
+    },
+    {
+      "id": "future-tense-q17",
+      "prompt": "What does 'za tjedan dana' mean?",
+      "options": ["Last week", "Every week", "In a week's time", "Since a week ago"],
+      "correctIndex": 2,
+      "explanation": "'Za tjedan dana' = in a week's time."
+    },
+    {
+      "id": "future-tense-q18",
+      "prompt": "What does 'uskoro' mean?",
+      "options": ["Already", "Never", "Always", "Soon"],
+      "correctIndex": 3,
+      "explanation": "'Uskoro' = soon."
+    },
+    {
+      "id": "future-tense-q19",
+      "prompt": "How do you ask 'Will you come tomorrow?' in Croatian?",
+      "options": ["Jesi li došao sutra?", "Hoćeš li doći sutra?", "Ćeš doći sutra?", "Doći ćeš sutra?"],
+      "correctIndex": 1,
+      "explanation": "Yes/no questions in the future use 'Hoćeš li...?': 'Hoćeš li doći sutra?'"
+    },
+    {
+      "id": "future-tense-q20",
+      "prompt": "How do you say 'Shall we go together?' as a suggestion?",
+      "options": ["Hoćemo li ići zajedno?", "Idemo li zajedno?", "Ćemo ići zajedno?", "Hoćeš li ići zajedno?"],
+      "correctIndex": 0,
+      "explanation": "'Hoćemo li...?' is the first person plural question for suggestions: 'Hoćemo li ići zajedno?'"
+    },
+    {
+      "id": "future-tense-q21",
+      "prompt": "Choose the correct word order: 'Tomorrow we will travel to Zagreb.'",
+      "options": ["Mi ćemo sutra putovati u Zagreb.", "Sutra ćemo putovati u Zagreb.", "Putovati ćemo sutra u Zagreb.", "Both A and B are correct."],
+      "correctIndex": 3,
+      "explanation": "Both 'Mi ćemo sutra putovati' and 'Sutra ćemo putovati' are grammatically correct — the clitic comes after the first phrase either way."
+    },
+    {
+      "id": "future-tense-q22",
+      "prompt": "Which is the correct negative future for 'you (singular) will not study'?",
+      "options": ["nećeš učiti", "neću učiti", "neće učiti", "nećemo učiti"],
+      "correctIndex": 0,
+      "explanation": "Second person singular negative future: 'nećeš'. 'Nećeš učiti.'"
+    },
+    {
+      "id": "future-tense-q23",
+      "prompt": "What does 'Večeras ćemo gledati film.' mean?",
+      "options": ["Last night we watched a film.", "Tonight we will watch a film.", "We always watch films in the evening.", "We are watching a film now."],
+      "correctIndex": 1,
+      "explanation": "'Večeras' = tonight/this evening; 'ćemo gledati' = we will watch."
+    },
+    {
+      "id": "future-tense-q24",
+      "prompt": "Which sentence means 'You (plural) will not forget this'?",
+      "options": ["Niste zaboravili ovo.", "Nećete zaboraviti ovo.", "Nećeš zaboraviti ovo.", "Nisu zaboravili ovo."],
+      "correctIndex": 1,
+      "explanation": "'Nećete' = you (plural) will not. 'Nećete zaboraviti ovo.'"
+    },
+    {
+      "id": "future-tense-q25",
+      "prompt": "What is the emphatic/long form of 'ću' (I will)?",
+      "options": ["budem", "hoću", "jesam", "biti ću"],
+      "correctIndex": 1,
+      "explanation": "The long form of the first person singular future auxiliary is 'hoću'."
+    },
+    {
+      "id": "future-tense-q26",
+      "prompt": "Translate: 'Next year they will visit Croatia.'",
+      "options": ["Sljedeće godine posjetit će Hrvatsku.", "Sljedeće godine su posjetili Hrvatsku.", "Sljedeće godine neće posjetiti Hrvatsku.", "Sljedeće godine posjete Hrvatsku."],
+      "correctIndex": 0,
+      "explanation": "'Sljedeće godine će posjetiti Hrvatsku.' — Note: 'posjetit će' is an alternative contracted spelling also correct in Croatian."
+    },
+    {
+      "id": "future-tense-q27",
+      "prompt": "Which time expression means 'this evening / tonight'?",
+      "options": ["jutros", "sinoć", "večeras", "uskoro"],
+      "correctIndex": 2,
+      "explanation": "'Večeras' = this evening / tonight. 'Jutros' = this morning; 'sinoć' = last night."
+    },
+    {
+      "id": "future-tense-q28",
+      "prompt": "Choose the correct future sentence: 'I will drink coffee tomorrow morning.'",
+      "options": ["Sutra ujutro ću piti kavu.", "Sutra ujutro sam pio kavu.", "Sutra ujutro pijem kavu.", "Sutra ujutro neću pio kavu."],
+      "correctIndex": 0,
+      "explanation": "'Sutra ujutro ću piti kavu.' — correct future: 'ću' + infinitive 'piti'."
+    },
+    {
+      "id": "future-tense-q29",
+      "prompt": "How do you say 'Will you (singular) eat dinner with us?'",
+      "options": ["Jesi li jeo večeru s nama?", "Hoćeš li jesti večeru s nama?", "Jesi li jesti večeru s nama?", "Ćeš jeo večeru s nama?"],
+      "correctIndex": 1,
+      "explanation": "'Hoćeš li jesti...?' is the correct yes/no question in the future for second person singular."
+    },
+    {
+      "id": "future-tense-q30",
+      "prompt": "Which sentence correctly says 'In an hour we will be at the airport.'?",
+      "options": ["Za sat vremena bit ćemo na aerodromu.", "Za sat vremena smo bili na aerodromu.", "Za sat vremena ćemo na aerodromu.", "Za sat vremena bili ćemo na aerodromu."],
+      "correctIndex": 0,
+      "explanation": "'Bit ćemo' is the future of biti (to be) — 'biti' + 'ćemo'. 'Za sat vremena bit ćemo na aerodromu.'"
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Future time expressions",
+      "items": [
+        { "hr": "sutra", "en": "tomorrow" },
+        { "hr": "prekosutra", "en": "the day after tomorrow" },
+        { "hr": "večeras", "en": "this evening / tonight" },
+        { "hr": "uskoro", "en": "soon" },
+        { "hr": "sljedeći tjedan", "en": "next week" },
+        { "hr": "sljedeće godine", "en": "next year" },
+        { "hr": "za tjedan dana", "en": "in a week's time" },
+        { "hr": "za sat vremena", "en": "in an hour" },
+        { "hr": "sutra ujutro", "en": "tomorrow morning" }
+      ]
+    },
+    {
+      "context": "Making promises & plans",
+      "items": [
+        { "hr": "Doći ću.", "en": "I will come.", "note": "a promise" },
+        { "hr": "Nazvat ću te.", "en": "I will call you." },
+        { "hr": "Neću zakasniti.", "en": "I will not be late." },
+        { "hr": "Bit ću tamo.", "en": "I will be there." },
+        { "hr": "Sjetit ću se.", "en": "I will remember." },
+        { "hr": "Pokušat ću.", "en": "I will try." }
+      ]
+    },
+    {
+      "context": "Asking about future plans",
+      "items": [
+        { "hr": "Što ćeš raditi sutra?", "en": "What will you do tomorrow?" },
+        { "hr": "Kamo ćete ići?", "en": "Where will you (pl.) go?" },
+        { "hr": "Hoćeš li doći?", "en": "Will you come?" },
+        { "hr": "Kada ćete stići?", "en": "When will you (pl.) arrive?" },
+        { "hr": "Koliko dugo ćete ostati?", "en": "How long will you (pl.) stay?" }
+      ]
+    },
+    {
+      "context": "Negative future",
+      "items": [
+        { "hr": "neću ići", "en": "I will not go" },
+        { "hr": "nećeš raditi", "en": "you will not work" },
+        { "hr": "neće doći", "en": "he/she will not come" },
+        { "hr": "nećemo jesti", "en": "we will not eat" },
+        { "hr": "nećete zaboraviti", "en": "you (pl.) will not forget" },
+        { "hr": "neće kupiti", "en": "they will not buy" }
+      ]
+    },
+    {
+      "context": "Suggestions with future (Hoćemo li...?)",
+      "items": [
+        { "hr": "Hoćemo li ići na kavu?", "en": "Shall we go for coffee?" },
+        { "hr": "Hoćemo li zajedno večerati?", "en": "Shall we have dinner together?" },
+        { "hr": "Hoćemo li gledati film?", "en": "Shall we watch a film?" },
+        { "hr": "Hoćemo li se naći u sedam?", "en": "Shall we meet at seven?" },
+        { "hr": "Hoćemo li šetati po gradu?", "en": "Shall we walk around the city?" }
+      ]
+    }
+  ]
+}

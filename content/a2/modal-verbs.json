@@ -1,0 +1,342 @@
+{
+  "id": "modal-verbs",
+  "level": "a2",
+  "order": 8,
+  "title": { "en": "Modal Verbs", "hr": "Modalni glagoli" },
+  "grammar": {
+    "title": { "en": "Croatian Modal Verbs", "hr": "Hrvatski modalni glagoli" },
+    "intro": "Croatian modal verbs are always followed by the **infinitive** of the main verb. The five main modals are:\n- **moći** — can / to be able to\n- **smjeti** — may / to be allowed to\n- **morati** — must / to have to\n- **trebati** — to need / should\n- **htjeti** — to want\n\nKey distinction: **ne smijem** = I must not (prohibition — it is forbidden); **ne moram** = I don't have to (no obligation — it is not required)",
+    "rules": [
+      {
+        "label": "moći — can / to be able to",
+        "explanation": "Use **moći** to express ability or possibility. Conjugation: **mogu / možeš / može / možemo / možete / mogu**.\n\nFor polite requests, use **'Mogu li...?'** (Can I...?) or **'Možeš li...?'** (Can you...?).",
+        "examples": [
+          { "hr": "Mogu govoriti hrvatski.", "en": "I can speak Croatian." },
+          { "hr": "Možeš li mi pomoći?", "en": "Can you help me?" },
+          { "hr": "Ne mogu naći putovnicu.", "en": "I can't find my passport." }
+        ]
+      },
+      {
+        "label": "smjeti and morati — permission and obligation",
+        "explanation": "Use **smjeti** for permission: **smijem / smiješ / smije / smijemo / smijete / smiju**.\nUse **morati** for obligation: **moram / moraš / mora / moramo / morate / moraju**.\n\nCritical difference in the negative:\n- **Ne smijem ući.** = I must not enter. (it is forbidden)\n- **Ne moram ići.** = I don't have to go. (it is not required)",
+        "examples": [
+          { "hr": "Moraš pakirati kofere.", "en": "You must pack the suitcases." },
+          { "hr": "Smijemo li ući?", "en": "Are we allowed to come in?" },
+          { "hr": "Ne smiješ pušiti ovdje.", "en": "You must not smoke here." }
+        ]
+      },
+      {
+        "label": "trebati and htjeti — need/should and want",
+        "explanation": "Use **trebati** for need or mild obligation: **trebam / trebaš / treba / trebamo / trebate / trebaju**.\nImpersonal form: **'Treba mi...'** = I need... (literally 'it is needed by me').\n\nUse **htjeti** for want — long forms **hoću / hoćeš / hoće / hoćemo / hoćete / hoće**, short forms **ću / ćeš / će / ćemo / ćete / će** (also used for the future tense).",
+        "examples": [
+          { "hr": "Trebam više vremena.", "en": "I need more time." },
+          { "hr": "Treba mi odmor.", "en": "I need a rest." },
+          { "hr": "Hoću doći opet.", "en": "I want to come again." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Person", "moći", "smjeti", "morati", "trebati", "htjeti"],
+      "rows": [
+        ["ja", "mogu", "smijem", "moram", "trebam", "hoću (ću)"],
+        ["ti", "možeš", "smiješ", "moraš", "trebaš", "hoćeš (ćeš)"],
+        ["on/ona/ono", "može", "smije", "mora", "treba", "hoće (će)"],
+        ["mi", "možemo", "smijemo", "moramo", "trebamo", "hoćemo (ćemo)"],
+        ["vi", "možete", "smijete", "morate", "trebate", "hoćete (ćete)"],
+        ["oni/one/ona", "mogu", "smiju", "moraju", "trebaju", "hoće (će)"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "Ana's Last Morning", "hr": "Anino zadnje jutro" },
+    "paragraphs": [
+      {
+        "hr": "Ana mora pakirati kofere jer odlazi sutra ujutro, ali želi još jednom popiti kavu s Markom.",
+        "en": "Ana must pack her suitcases because she is leaving tomorrow morning, but she wants to have one last coffee with Marko."
+      },
+      {
+        "hr": "„Možeš li doći sada?\" pita Ana Marka telefonom. „Ne moram otići do podneva.\"",
+        "en": "\"Can you come now?\" Ana asks Marko on the phone. \"I don't have to leave until noon.\""
+      },
+      {
+        "hr": "Marko dolazi i Ana kaže: „Ne mogu naći svoju putovnicu! Svuda sam tražila.\"",
+        "en": "Marko arrives and Ana says: \"I can't find my passport! I've looked everywhere.\""
+      },
+      {
+        "hr": "„Ne smiješ kasniti na let,\" kaže Marko. „Treba ti više vremena za traženje.\"",
+        "en": "\"You must not be late for the flight,\" says Marko. \"You need more time to search.\""
+      },
+      {
+        "hr": "Dok piju kavu, razgovaraju o sljedećem posjetu. „Trebala bi posjetiti Dubrovnik i Plitvička jezera,\" kaže Marko.",
+        "en": "While drinking coffee, they talk about the next visit. \"You should visit Dubrovnik and Plitvice Lakes,\" says Marko."
+      },
+      {
+        "hr": "„Hoću doći opet sljedeće ljeto,\" obećava Ana. „Ne mogu zamisliti da ne vidim Hrvatsku opet!\"",
+        "en": "\"I want to come again next summer,\" Ana promises. \"I can't imagine not seeing Croatia again!\""
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "modal-verbs-q1",
+      "prompt": "Why must Ana pack her suitcases?",
+      "options": ["She is going to a party tonight.", "She is leaving tomorrow morning.", "Her friend is visiting.", "She lost her passport."],
+      "correctIndex": 1,
+      "explanation": "Ana 'mora pakirati kofere jer odlazi sutra ujutro' — she must pack because she is leaving tomorrow morning."
+    },
+    {
+      "id": "modal-verbs-q2",
+      "prompt": "What can't Ana find?",
+      "options": ["Her ticket", "Her phone", "Her passport", "Her keys"],
+      "correctIndex": 2,
+      "explanation": "Ana says 'Ne mogu naći svoju putovnicu' — I can't find my passport."
+    },
+    {
+      "id": "modal-verbs-q3",
+      "prompt": "Until what time does Ana NOT have to leave?",
+      "options": ["Morning", "Noon", "Evening", "Midnight"],
+      "correctIndex": 1,
+      "explanation": "Ana says 'Ne moram otići do podneva' — I don't have to leave until noon."
+    },
+    {
+      "id": "modal-verbs-q4",
+      "prompt": "What does Marko say Ana should visit on her next trip?",
+      "options": ["Zagreb and Split", "Dubrovnik and Plitvice Lakes", "Rijeka and Zadar", "Osijek and Varaždin"],
+      "correctIndex": 1,
+      "explanation": "Marko says 'Trebala bi posjetiti Dubrovnik i Plitvička jezera'."
+    },
+    {
+      "id": "modal-verbs-q5",
+      "prompt": "What does Ana promise at the end of the story?",
+      "options": ["She will never come back.", "She will move to Croatia.", "She will come again next summer.", "She will call Marko every day."],
+      "correctIndex": 2,
+      "explanation": "Ana says 'Hoću doći opet sljedeće ljeto' — I want to come again next summer."
+    }
+  ],
+  "test": [
+    {
+      "id": "modal-verbs-q6",
+      "prompt": "What does 'mogu' mean?",
+      "options": ["I must", "I can", "I may", "I need"],
+      "correctIndex": 1
+    },
+    {
+      "id": "modal-verbs-q7",
+      "prompt": "What is the correct form of 'morati' for 'you (sg.) must'?",
+      "options": ["moraš", "možeš", "smiješ", "trebaš"],
+      "correctIndex": 0
+    },
+    {
+      "id": "modal-verbs-q8",
+      "prompt": "Which form means 'she may / she is allowed to'?",
+      "options": ["smije", "može", "mora", "treba"],
+      "correctIndex": 0
+    },
+    {
+      "id": "modal-verbs-q9",
+      "prompt": "What is the correct form of 'trebati' for 'we need/should'?",
+      "options": ["možemo", "moramo", "trebamo", "smijemo"],
+      "correctIndex": 2
+    },
+    {
+      "id": "modal-verbs-q10",
+      "prompt": "What does 'hoće' mean (3rd person singular/plural of 'htjeti')?",
+      "options": ["they need", "they can", "he/she/they want(s)", "he/she must"],
+      "correctIndex": 2
+    },
+    {
+      "id": "modal-verbs-q11",
+      "prompt": "How do you say 'I must not' (something is forbidden)?",
+      "options": ["ne moram", "ne mogu", "ne trebam", "ne smijem"],
+      "correctIndex": 3,
+      "explanation": "'Ne smijem' = I must not (prohibition). 'Ne moram' = I don't have to (no obligation)."
+    },
+    {
+      "id": "modal-verbs-q12",
+      "prompt": "How do you say 'I don't have to' (it is not required)?",
+      "options": ["ne smijem", "ne mogu", "ne moram", "ne trebam"],
+      "correctIndex": 2,
+      "explanation": "'Ne moram' = I don't have to (no obligation). 'Ne smijem' = I must not (prohibition)."
+    },
+    {
+      "id": "modal-verbs-q13",
+      "prompt": "Choose the correct translation: 'She can speak Croatian.'",
+      "options": ["Ona mora govoriti hrvatski.", "Ona smije govoriti hrvatski.", "Ona može govoriti hrvatski.", "Ona treba govoriti hrvatski."],
+      "correctIndex": 2,
+      "explanation": "'Može' (can) expresses ability. 'Mora' = must, 'smije' = may, 'treba' = should."
+    },
+    {
+      "id": "modal-verbs-q14",
+      "prompt": "Fill in: 'Ne ___ pušiti ovdje.' (You must not smoke here — it is forbidden.)",
+      "promptHr": "Dopuni: 'Ne ___ pušiti ovdje.'",
+      "options": ["možeš", "moraš", "smiješ", "trebaš"],
+      "correctIndex": 2,
+      "explanation": "'Ne smiješ' = you must not (it is forbidden). Use 'smjeti' for prohibition."
+    },
+    {
+      "id": "modal-verbs-q15",
+      "prompt": "What does 'Treba mi...' mean?",
+      "options": ["I must...", "I want...", "I need...", "I can..."],
+      "correctIndex": 2,
+      "explanation": "'Treba mi' is an impersonal construction meaning 'I need...' (literally 'it is needed by me')."
+    },
+    {
+      "id": "modal-verbs-q16",
+      "prompt": "What does 'hoću' mean?",
+      "options": ["I can", "I must", "I should", "I want"],
+      "correctIndex": 3
+    },
+    {
+      "id": "modal-verbs-q17",
+      "prompt": "Fill in: 'On ___ doći sutra.' (He must come tomorrow.)",
+      "promptHr": "Dopuni: 'On ___ doći sutra.'",
+      "options": ["može", "mora", "smije", "hoće"],
+      "correctIndex": 1,
+      "explanation": "'Mora' (must/has to) expresses obligation."
+    },
+    {
+      "id": "modal-verbs-q18",
+      "prompt": "What does 'Možeš li mi pomoći?' mean?",
+      "options": ["Must you help me?", "Should you help me?", "Can you help me?", "Do you want to help me?"],
+      "correctIndex": 2
+    },
+    {
+      "id": "modal-verbs-q19",
+      "prompt": "How do you make a polite request starting with 'Can I...?' in Croatian?",
+      "options": ["Moram li...?", "Mogu li...?", "Smijem li...?", "Trebam li...?"],
+      "correctIndex": 1,
+      "explanation": "'Mogu li...?' (Can I...?) is the standard polite way to request permission or assistance."
+    },
+    {
+      "id": "modal-verbs-q20",
+      "prompt": "What is the 1st person singular of 'smjeti'?",
+      "options": ["smim", "smijem", "smijam", "smiješ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "modal-verbs-q21",
+      "prompt": "What does 'Ne moram ići' mean?",
+      "options": ["I must not go.", "I can't go.", "I don't want to go.", "I don't have to go."],
+      "correctIndex": 3,
+      "explanation": "'Ne moram' = I don't have to (no obligation). It does NOT mean 'I must not'."
+    },
+    {
+      "id": "modal-verbs-q22",
+      "prompt": "What does 'Ne smijem ući' mean?",
+      "options": ["I don't have to enter.", "I can't enter.", "I must not enter.", "I don't want to enter."],
+      "correctIndex": 2,
+      "explanation": "'Ne smijem' = I must not (prohibition — it is forbidden)."
+    },
+    {
+      "id": "modal-verbs-q23",
+      "prompt": "Which sentence means 'She should study'?",
+      "options": ["Ona može učiti.", "Ona treba učiti.", "Ona smije učiti.", "Ona hoće učiti."],
+      "correctIndex": 1,
+      "explanation": "'Treba' (should/needs to) expresses mild obligation or advice. 'Može' = can, 'smije' = may, 'hoće' = wants to."
+    },
+    {
+      "id": "modal-verbs-q24",
+      "prompt": "Translate: 'They can sing.'",
+      "options": ["Oni smiju pjevati.", "Oni moraju pjevati.", "Oni mogu pjevati.", "Oni trebaju pjevati."],
+      "correctIndex": 2
+    },
+    {
+      "id": "modal-verbs-q25",
+      "prompt": "What does 'Hoćeš li doći?' mean?",
+      "options": ["Must you come?", "Can you come?", "Will you / Do you want to come?", "Should you come?"],
+      "correctIndex": 2,
+      "explanation": "'Hoćeš' = you want / you will. 'Hoćeš li doći?' = Will you come? / Do you want to come?"
+    },
+    {
+      "id": "modal-verbs-q26",
+      "prompt": "Translate: 'We must speak Croatian.'",
+      "options": ["Mi možemo govoriti hrvatski.", "Mi moramo govoriti hrvatski.", "Mi smijemo govoriti hrvatski.", "Mi trebamo govoriti hrvatski."],
+      "correctIndex": 1
+    },
+    {
+      "id": "modal-verbs-q27",
+      "prompt": "Translate: 'I want to eat.'",
+      "options": ["Trebam jesti.", "Mogu jesti.", "Hoću jesti.", "Moram jesti."],
+      "correctIndex": 2
+    },
+    {
+      "id": "modal-verbs-q28",
+      "prompt": "Which sentence means 'You (plural) are allowed to enter'?",
+      "options": ["Možete ući.", "Morate ući.", "Smijete ući.", "Trebate ući."],
+      "correctIndex": 2,
+      "explanation": "'Smijete' is the 2nd person plural of 'smjeti' (to be allowed)."
+    },
+    {
+      "id": "modal-verbs-q29",
+      "prompt": "What does 'mora' express in 'Ona mora raditi'?",
+      "options": ["ability — she can work", "desire — she wants to work", "permission — she may work", "obligation — she must/has to work"],
+      "correctIndex": 3
+    },
+    {
+      "id": "modal-verbs-q30",
+      "prompt": "What kind of sentence is 'Mogu li koristiti tvoj telefon?'",
+      "options": ["A statement of obligation using 'must'", "A polite request using 'can'", "A question about permission using 'may'", "A statement of desire using 'want'"],
+      "correctIndex": 1,
+      "explanation": "'Mogu li...?' (Can I...?) is the standard form for polite requests in Croatian."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Ability (moći)",
+      "items": [
+        { "hr": "mogu", "en": "I can", "note": "1st person singular — same form as 3rd person plural" },
+        { "hr": "možeš", "en": "you can (sg.)" },
+        { "hr": "može", "en": "he/she/it can" },
+        { "hr": "možemo", "en": "we can" },
+        { "hr": "možete", "en": "you can (pl.)" },
+        { "hr": "Mogu li...?", "en": "Can I...? (polite request)" },
+        { "hr": "Ne mogu...", "en": "I can't..." }
+      ]
+    },
+    {
+      "context": "Permission (smjeti)",
+      "items": [
+        { "hr": "smijem", "en": "I may / I am allowed to" },
+        { "hr": "smiješ", "en": "you may (sg.)" },
+        { "hr": "smije", "en": "he/she may" },
+        { "hr": "smijemo / smijete / smiju", "en": "we / you (pl.) / they may" },
+        { "hr": "Ne smijem...", "en": "I must not... (prohibition)", "note": "NOT the same as 'I don't have to'" },
+        { "hr": "Smijem li...?", "en": "May I...?" }
+      ]
+    },
+    {
+      "context": "Obligation (morati)",
+      "items": [
+        { "hr": "moram", "en": "I must / I have to" },
+        { "hr": "moraš", "en": "you must (sg.)" },
+        { "hr": "mora", "en": "he/she must" },
+        { "hr": "moramo / morate / moraju", "en": "we / you (pl.) / they must" },
+        { "hr": "Ne moram...", "en": "I don't have to... (no obligation)", "note": "NOT 'I must not'" },
+        { "hr": "Mora otići.", "en": "He/She must leave." }
+      ]
+    },
+    {
+      "context": "Need (trebati)",
+      "items": [
+        { "hr": "trebam", "en": "I need / I should" },
+        { "hr": "trebaš", "en": "you need (sg.)" },
+        { "hr": "treba", "en": "he/she needs / should" },
+        { "hr": "Treba mi...", "en": "I need... (impersonal)", "note": "Literally: 'It is needed by me'" },
+        { "hr": "Treba mi odmor.", "en": "I need a rest." },
+        { "hr": "Trebam više vremena.", "en": "I need more time." }
+      ]
+    },
+    {
+      "context": "Want (htjeti) & polite requests",
+      "items": [
+        { "hr": "hoću (ću)", "en": "I want / I will", "note": "Long and short forms — short forms also make the future tense" },
+        { "hr": "hoćeš (ćeš)", "en": "you want / you will (sg.)" },
+        { "hr": "hoće (će)", "en": "he/she wants / will" },
+        { "hr": "hoćemo (ćemo)", "en": "we want / will" },
+        { "hr": "Hoćeš li doći?", "en": "Will you come? / Do you want to come?" },
+        { "hr": "Mogu li vas zamoliti?", "en": "May I ask you? (very polite)" },
+        { "hr": "Možete li mi pomoći?", "en": "Can you help me? (formal/polite)" }
+      ]
+    }
+  ]
+}

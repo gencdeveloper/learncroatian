@@ -1,0 +1,469 @@
+{
+  "id": "health-body",
+  "level": "a2",
+  "order": 6,
+  "title": {
+    "hr": "Zdravlje i tijelo",
+    "en": "Health & Body"
+  },
+  "grammar": {
+    "title": {
+      "hr": "Zdravlje i tijelo — gramatika",
+      "en": "Health and Body — Grammar"
+    },
+    "intro": "In Croatian, to say a body part hurts, use **boli me** (singular) or **bole me** (plural) + the body part in the **nominative** case. The verb changes based on the grammatical number of the body part, not how many people are in pain.\n\nKey rule:\n- **Boli me** + singular body part (3rd person singular verb)\n- **Bole me** + plural body part (3rd person plural verb)",
+    "rules": [
+      {
+        "label": "Boli me — singular body parts",
+        "explanation": "Use **boli me** when the body part is a singular noun. The verb **boljeti** (to hurt) is impersonal — it literally means 'something hurts me':\n- **Boli me glava.** — I have a headache. (lit. 'My head hurts me.')\n- **Boli me grlo.** — I have a sore throat.\n- **Boli me trbuh.** — I have a stomach ache.\n- **Boli me vrat.** — My neck hurts.",
+        "examples": [
+          { "hr": "Boli me glava.", "en": "I have a headache." },
+          { "hr": "Boli me grlo.", "en": "I have a sore throat." },
+          { "hr": "Boli me trbuh.", "en": "I have a stomach ache." }
+        ]
+      },
+      {
+        "label": "Bole me — plural body parts",
+        "explanation": "Use **bole me** when the body part is a grammatically plural noun. Several Croatian body parts are always plural:\n- **leđa** (back), **zubi** (teeth), **oči** (eyes), **uši** (ears)\n- **noge** (legs), **ruke** (hands/arms), **prsti** (fingers)",
+        "examples": [
+          { "hr": "Bole me leđa.", "en": "My back hurts." },
+          { "hr": "Bole me zubi.", "en": "I have a toothache." },
+          { "hr": "Bole me oči.", "en": "My eyes hurt." }
+        ]
+      },
+      {
+        "label": "Common Illnesses and Symptoms",
+        "explanation": "Most illness nouns use **imam** (I have) + accusative case:\n- **prehlada** → Imam **prehladu**. — I have a cold.\n- **gripa** → Imam **gripu**. — I have the flu.\n- **temperatura / vrućica** → Imam **temperaturu**. — I have a fever.\n- **kašalj** → Imam **kašalj**. — I have a cough.\n- **mučnina** → Imam **mučninu**. — I have nausea.\n- **proljev** → Imam **proljev**. — I have diarrhoea.\n- **alergija** → Imam **alergiju**. — I have an allergy.",
+        "examples": [
+          { "hr": "Imam prehladu.", "en": "I have a cold." },
+          { "hr": "Imam temperaturu.", "en": "I have a fever." },
+          { "hr": "Imam kašalj.", "en": "I have a cough." }
+        ]
+      },
+      {
+        "label": "At the Doctor and Pharmacy",
+        "explanation": "Essential phrases for medical situations in Croatia:\n- **Što vas boli?** — What hurts you? (formal, asked by a doctor)\n- **Od kada?** — Since when? / How long?\n- **Trebam recept.** — I need a prescription.\n- **Imate li nešto za prehladu?** — Do you have something for a cold?\n- **Lijek na recept / bez recepta** — Prescription / over-the-counter medicine\n- **Idite na hitnu.** — Go to A&E / the emergency room.",
+        "examples": [
+          { "hr": "Što vas boli?", "en": "What hurts you? (asked by a doctor)" },
+          { "hr": "Imate li nešto za prehladu?", "en": "Do you have something for a cold?" },
+          { "hr": "Idite na hitnu ako ne bude bolje.", "en": "Go to A&E if it does not get better." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Body part", "English", "Type", "Correct expression"],
+      "rows": [
+        ["glava", "head", "singular", "Boli me glava."],
+        ["grlo", "throat", "singular", "Boli me grlo."],
+        ["trbuh", "stomach", "singular", "Boli me trbuh."],
+        ["vrat", "neck", "singular", "Boli me vrat."],
+        ["srce", "heart", "singular", "Boli me srce."],
+        ["noga (jedna)", "leg (one)", "singular", "Boli me noga."],
+        ["leđa", "back", "plural only", "Bole me leđa."],
+        ["zubi", "teeth", "plural", "Bole me zubi."],
+        ["oči", "eyes", "plural", "Bole me oči."],
+        ["uši", "ears", "plural", "Bole me uši."],
+        ["noge", "legs", "plural", "Bole me noge."],
+        ["ruke", "hands / arms", "plural", "Bole me ruke."]
+      ]
+    }
+  },
+  "reading": {
+    "title": {
+      "hr": "Zadnji dan u Zagrebu",
+      "en": "The Last Day in Zagreb"
+    },
+    "paragraphs": [
+      {
+        "hr": "Ana se budi rano, ali odmah osjeća da nije dobro. Boli je glava i boli je grlo.",
+        "en": "Ana wakes up early, but immediately feels that she is not well. She has a headache and a sore throat."
+      },
+      {
+        "hr": "Mjeri temperaturu — ima trideset i osam stupnjeva. Ima i malo kašlja. A to je njezin zadnji dan u Zagrebu!",
+        "en": "She takes her temperature — she has thirty-eight degrees. She also has a slight cough. And it is her last day in Zagreb!"
+      },
+      {
+        "hr": "Marko je zabrinut i predlaže da idu u ljekarnu. Ana se slaže jer ne želi čekati kod liječnika.",
+        "en": "Marko is worried and suggests they go to the pharmacy. Ana agrees because she does not want to wait at the doctor's."
+      },
+      {
+        "hr": "U ljekarni Ana objašnjava ljekarnici: \"Boli me glava i boli me grlo. Imam i temperaturu — trideset i osam stupnjeva.\"",
+        "en": "In the pharmacy, Ana explains to the pharmacist: \"I have a headache and a sore throat. I also have a fever — thirty-eight degrees.\""
+      },
+      {
+        "hr": "Ljekarnica preporučuje sirup za kašalj i tablete protiv boli. Kaže: \"Uzimajte ovo tri puta dnevno i pijte puno vode.\"",
+        "en": "The pharmacist recommends cough syrup and pain relief tablets. She says: \"Take this three times a day and drink plenty of water.\""
+      },
+      {
+        "hr": "Ljekarnica dodaje: \"Ako ne budete bolje do sutra, idite k liječniku. Možda trebate recept za antibiotik.\"",
+        "en": "The pharmacist adds: \"If you are not better by tomorrow, go to the doctor. You may need a prescription for an antibiotic.\""
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "health-body-q1",
+      "prompt": "How does Ana feel when she wakes up?",
+      "options": [
+        "She feels energetic and well-rested.",
+        "She feels ill with a headache and sore throat.",
+        "She feels cold but otherwise healthy.",
+        "She feels tired but has no pain."
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says 'Boli je glava i boli je grlo' — she has a headache and a sore throat."
+    },
+    {
+      "id": "health-body-q2",
+      "prompt": "What temperature does Ana have?",
+      "options": [
+        "37 degrees",
+        "38 degrees",
+        "39 degrees",
+        "40 degrees"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ima trideset i osam stupnjeva' — she has thirty-eight degrees."
+    },
+    {
+      "id": "health-body-q3",
+      "prompt": "Who suggests going to the pharmacy?",
+      "options": [
+        "Ana herself",
+        "The pharmacist",
+        "Marko",
+        "Ana's doctor"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Marko je zabrinut i predlaže da idu u ljekarnu' — Marko is worried and suggests going to the pharmacy."
+    },
+    {
+      "id": "health-body-q4",
+      "prompt": "What does the pharmacist recommend?",
+      "options": [
+        "Only rest and water",
+        "An immediate doctor's visit",
+        "Cough syrup and pain relief tablets",
+        "A hospital stay"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Ljekarnica preporučuje sirup za kašalj i tablete protiv boli' — cough syrup and pain relief tablets."
+    },
+    {
+      "id": "health-body-q5",
+      "prompt": "What does the pharmacist advise if Ana does not improve?",
+      "options": [
+        "To call an ambulance",
+        "To go to the doctor",
+        "To rest for a week",
+        "To return to the pharmacy"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Idite k liječniku' — go to the doctor — if Ana is not better by the next day."
+    }
+  ],
+  "test": [
+    {
+      "id": "health-body-q6",
+      "prompt": "What does 'glava' mean in English?",
+      "options": ["neck", "head", "face", "back"],
+      "correctIndex": 1,
+      "explanation": "'Glava' means head."
+    },
+    {
+      "id": "health-body-q7",
+      "prompt": "What does 'noga' mean in English?",
+      "options": ["arm", "hand", "leg", "knee"],
+      "correctIndex": 2,
+      "explanation": "'Noga' means leg (or foot in some contexts)."
+    },
+    {
+      "id": "health-body-q8",
+      "prompt": "What does 'ruka' mean in English?",
+      "options": ["leg", "shoulder", "finger", "arm / hand"],
+      "correctIndex": 3,
+      "explanation": "'Ruka' means arm or hand in Croatian."
+    },
+    {
+      "id": "health-body-q9",
+      "prompt": "What does 'grlo' mean in English?",
+      "options": ["chest", "throat", "stomach", "neck"],
+      "correctIndex": 1,
+      "explanation": "'Grlo' means throat."
+    },
+    {
+      "id": "health-body-q10",
+      "prompt": "What does 'trbuh' mean in English?",
+      "options": ["back", "chest", "stomach / abdomen", "hip"],
+      "correctIndex": 2,
+      "explanation": "'Trbuh' means stomach or abdomen."
+    },
+    {
+      "id": "health-body-q11",
+      "prompt": "What does 'leđa' mean in English?",
+      "options": ["shoulder", "chest", "back", "spine"],
+      "correctIndex": 2,
+      "explanation": "'Leđa' means back. It is a plural-only noun in Croatian."
+    },
+    {
+      "id": "health-body-q12",
+      "prompt": "What does 'zubi' mean in English?",
+      "options": ["gums", "lips", "tongue", "teeth"],
+      "correctIndex": 3,
+      "explanation": "'Zubi' is the plural of 'zub' (tooth), meaning teeth."
+    },
+    {
+      "id": "health-body-q13",
+      "prompt": "What does 'oči' mean in English?",
+      "options": ["ears", "eyes", "nose", "cheeks"],
+      "correctIndex": 1,
+      "explanation": "'Oči' is the plural of 'oko' (eye), meaning eyes."
+    },
+    {
+      "id": "health-body-q14",
+      "prompt": "Which sentence correctly expresses 'I have a headache' in Croatian?",
+      "options": [
+        "Bole me glava.",
+        "Boli me glava.",
+        "Imam glava.",
+        "Moja glava boli."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Glava' (head) is a singular noun, so we use the singular verb form: 'Boli me glava.'"
+    },
+    {
+      "id": "health-body-q15",
+      "prompt": "Which sentence correctly expresses 'My back hurts' in Croatian?",
+      "options": [
+        "Boli me leđa.",
+        "Imam leđa.",
+        "Bole me leđa.",
+        "Moja leđa boli."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Leđa' (back) is a plural-only noun, so we use the plural verb form: 'Bole me leđa.'"
+    },
+    {
+      "id": "health-body-q16",
+      "prompt": "Which sentence correctly expresses 'I have a toothache' in Croatian?",
+      "options": [
+        "Boli me zubi.",
+        "Bole me zubi.",
+        "Imam zubobolju.",
+        "Zubi me boli."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Zubi' (teeth) is plural, so we use the plural verb form: 'Bole me zubi.'"
+    },
+    {
+      "id": "health-body-q17",
+      "prompt": "How do you say 'I have a sore throat' in Croatian?",
+      "options": [
+        "Bole me grlo.",
+        "Imam grlo.",
+        "Boli me grlo.",
+        "Grlo mi boli."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Grlo' (throat) is a singular neuter noun, so we use the singular verb form: 'Boli me grlo.'"
+    },
+    {
+      "id": "health-body-q18",
+      "prompt": "What does 'prehlada' mean in English?",
+      "options": ["flu", "cold", "fever", "cough"],
+      "correctIndex": 1,
+      "explanation": "'Prehlada' means a cold (the common cold)."
+    },
+    {
+      "id": "health-body-q19",
+      "prompt": "What does 'gripa' mean in English?",
+      "options": ["cold", "allergy", "flu", "infection"],
+      "correctIndex": 2,
+      "explanation": "'Gripa' means flu (influenza)."
+    },
+    {
+      "id": "health-body-q20",
+      "prompt": "What does 'kašalj' mean in English?",
+      "options": ["fever", "nausea", "cough", "diarrhoea"],
+      "correctIndex": 2,
+      "explanation": "'Kašalj' means cough."
+    },
+    {
+      "id": "health-body-q21",
+      "prompt": "How do you say 'I have a fever' in Croatian?",
+      "options": [
+        "Boli me temperatura.",
+        "Imam groznicu.",
+        "Imam temperaturu.",
+        "Bole me vrućica."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Imam temperaturu.' is the most common everyday expression for having a fever in Croatian."
+    },
+    {
+      "id": "health-body-q22",
+      "prompt": "What does 'Što vas boli?' mean in English?",
+      "options": [
+        "Do you need a doctor?",
+        "What hurts you?",
+        "Where is the pain?",
+        "Do you have a prescription?"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Što vas boli?' literally means 'What hurts you?' — a doctor asks this to find out the symptom."
+    },
+    {
+      "id": "health-body-q23",
+      "prompt": "What does 'Od kada?' mean in English?",
+      "options": [
+        "Where does it hurt?",
+        "How serious is it?",
+        "Since when? / How long?",
+        "What medicine do you take?"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Od kada?' means 'Since when?' or 'How long have you had this?' — a key question at the doctor's."
+    },
+    {
+      "id": "health-body-q24",
+      "prompt": "What does 'Trebam recept.' mean in English?",
+      "options": [
+        "I need a prescription.",
+        "I need a doctor.",
+        "I need medicine.",
+        "I need to rest."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Trebam recept.' = 'I need a prescription.' 'Recept' means prescription (and also recipe)."
+    },
+    {
+      "id": "health-body-q25",
+      "prompt": "How do you say 'Do you have something for a cold?' in Croatian?",
+      "options": [
+        "Imate li nešto za prehladu?",
+        "Imate li nešto za gripu?",
+        "Imate li lijek?",
+        "Imate li nešto za temperaturu?"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Imate li nešto za prehladu?' uses 'prehladu' (accusative of 'prehlada') after 'za' (for)."
+    },
+    {
+      "id": "health-body-q26",
+      "prompt": "What does 'lijek bez recepta' mean in English?",
+      "options": [
+        "prescription medicine",
+        "over-the-counter medicine",
+        "herbal medicine",
+        "antibiotic"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Lijek bez recepta' literally means 'medicine without a prescription' — i.e. over-the-counter medicine."
+    },
+    {
+      "id": "health-body-q27",
+      "prompt": "What does 'koljeno' mean in English?",
+      "options": ["ankle", "hip", "elbow", "knee"],
+      "correctIndex": 3,
+      "explanation": "'Koljeno' means knee."
+    },
+    {
+      "id": "health-body-q28",
+      "prompt": "What does 'ramena' mean in English?",
+      "options": ["fingers", "shoulders", "elbows", "hips"],
+      "correctIndex": 1,
+      "explanation": "'Ramena' is the plural of 'rame' (shoulder), meaning shoulders."
+    },
+    {
+      "id": "health-body-q29",
+      "prompt": "What does 'mučnina' mean in English?",
+      "options": ["dizziness", "nausea", "headache", "fever"],
+      "correctIndex": 1,
+      "explanation": "'Mučnina' means nausea — a feeling of sickness in the stomach."
+    },
+    {
+      "id": "health-body-q30",
+      "prompt": "What does 'Idite na hitnu.' mean in English?",
+      "options": [
+        "Go to the pharmacy.",
+        "Go to the doctor.",
+        "Go to the emergency room.",
+        "Go to the hospital reception."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Idite na hitnu.' = 'Go to A&E / the emergency room.' 'Hitna' (short for 'hitna pomoć') means emergency services."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Body parts (upper)",
+      "items": [
+        { "hr": "glava", "en": "head" },
+        { "hr": "vrat", "en": "neck" },
+        { "hr": "ramena", "en": "shoulders" },
+        { "hr": "ruka / ruke", "en": "arm / arms (also: hand / hands)" },
+        { "hr": "lakat", "en": "elbow" },
+        { "hr": "prsti", "en": "fingers" },
+        { "hr": "prsa", "en": "chest" },
+        { "hr": "srce", "en": "heart" },
+        { "hr": "pluća", "en": "lungs" },
+        { "hr": "oči", "en": "eyes" },
+        { "hr": "uši", "en": "ears" },
+        { "hr": "nos", "en": "nose" },
+        { "hr": "usta", "en": "mouth" },
+        { "hr": "zubi", "en": "teeth" },
+        { "hr": "grlo", "en": "throat" }
+      ]
+    },
+    {
+      "context": "Body parts (lower)",
+      "items": [
+        { "hr": "trbuh", "en": "stomach / abdomen" },
+        { "hr": "leđa", "en": "back" },
+        { "hr": "noga / noge", "en": "leg / legs" },
+        { "hr": "koljeno", "en": "knee" },
+        { "hr": "stopalo", "en": "foot" }
+      ]
+    },
+    {
+      "context": "Common illnesses",
+      "items": [
+        { "hr": "prehlada", "en": "cold" },
+        { "hr": "gripa", "en": "flu" },
+        { "hr": "temperatura / vrućica", "en": "fever" },
+        { "hr": "kašalj", "en": "cough" },
+        { "hr": "proljev", "en": "diarrhoea" },
+        { "hr": "mučnina", "en": "nausea" },
+        { "hr": "alergija", "en": "allergy" }
+      ]
+    },
+    {
+      "context": "Symptoms (boli me...)",
+      "items": [
+        { "hr": "Boli me glava.", "en": "I have a headache.", "note": "singular → boli" },
+        { "hr": "Boli me grlo.", "en": "I have a sore throat.", "note": "singular → boli" },
+        { "hr": "Boli me trbuh.", "en": "I have a stomach ache.", "note": "singular → boli" },
+        { "hr": "Boli me vrat.", "en": "My neck hurts.", "note": "singular → boli" },
+        { "hr": "Bole me leđa.", "en": "My back hurts.", "note": "plural only → bole" },
+        { "hr": "Bole me zubi.", "en": "I have a toothache.", "note": "plural → bole" },
+        { "hr": "Bole me oči.", "en": "My eyes hurt.", "note": "plural → bole" },
+        { "hr": "Bole me noge.", "en": "My legs hurt.", "note": "plural → bole" }
+      ]
+    },
+    {
+      "context": "At the pharmacy / doctor",
+      "items": [
+        { "hr": "ljekarna", "en": "pharmacy" },
+        { "hr": "liječnik", "en": "doctor" },
+        { "hr": "Što vas boli?", "en": "What hurts you?" },
+        { "hr": "Od kada?", "en": "Since when? / How long?" },
+        { "hr": "Imam temperaturu.", "en": "I have a fever." },
+        { "hr": "Trebam recept.", "en": "I need a prescription." },
+        { "hr": "Imate li nešto za prehladu?", "en": "Do you have something for a cold?" },
+        { "hr": "lijek na recept", "en": "prescription medicine" },
+        { "hr": "lijek bez recepta", "en": "over-the-counter medicine" },
+        { "hr": "Idite na hitnu.", "en": "Go to A&E / the emergency room." }
+      ]
+    }
+  ]
+}

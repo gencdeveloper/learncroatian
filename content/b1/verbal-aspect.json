@@ -1,0 +1,482 @@
+{
+  "id": "verbal-aspect",
+  "level": "b1",
+  "order": 1,
+  "title": { "en": "Verbal Aspect", "hr": "Glagolski vid" },
+  "grammar": {
+    "title": { "en": "Verbal Aspect in Croatian", "hr": "Glagolski vid u hrvatskom" },
+    "intro": "Croatian verbs always belong to one of two **aspects**: **imperfective** (nesvršeni) or **perfective** (svršeni).\n\nThe aspect of a verb describes the *nature* of the action — not just when it happened, but whether it is seen as ongoing or completed:\n\n- **Imperfective (ipf)** — the action is ongoing, repeated, habitual, or in progress.\n- **Perfective (pf)** — the action is completed, happened once, or has a clear end point.\n\nMost Croatian verbs come in **aspect pairs** — two verbs with the same basic meaning but different aspects. Choosing the right aspect is one of the most essential skills in Croatian.",
+    "rules": [
+      {
+        "label": "Rule 1 — Past tense: repeated or ongoing → imperfective",
+        "explanation": "When describing something that happened **repeatedly** in the past, or was **in progress** at a point in time, use the **imperfective** verb.\n\n- Svaki dan sam **čitao** novine. (Every day I used to read the newspaper.)\n- Dok sam **kuhao**, telefon je zvonio. (While I was cooking, the phone rang.)\n\nKey signal words: *svaki dan* (every day), *često* (often), *uvijek* (always), *dok* (while), *cijelo jutro* (all morning).",
+        "examples": [
+          { "hr": "Svaki dan sam čitao novine.", "en": "Every day I read (used to read) the newspaper." },
+          { "hr": "Cijelo jutro je pisala pisma.", "en": "She was writing letters all morning." }
+        ]
+      },
+      {
+        "label": "Rule 2 — Past tense: completed single action → perfective",
+        "explanation": "When describing a **completed** action that happened **once** and has a clear result or end point, use the **perfective** verb.\n\n- **Napisao** sam pismo. (I wrote / finished writing the letter.)\n- **Pročitao** je cijelu knjigu. (He read / finished reading the whole book.)\n\nKey signal words: *napokon* (finally), *odmah* (immediately), *odjednom* (suddenly), *za sat vremena* (in an hour).",
+        "examples": [
+          { "hr": "Napokon sam napisao email.", "en": "I finally wrote (finished writing) the email." },
+          { "hr": "Ona je pojela cijeli kolač.", "en": "She ate (finished eating) the whole cake." }
+        ]
+      },
+      {
+        "label": "Rule 3 — Present tense is always imperfective",
+        "explanation": "In Croatian, the **present tense can only be formed from imperfective verbs**. Perfective verbs do not have a true present tense form — their present-tense conjugation carries a **future or conditional meaning**.\n\n- **Čitam** knjigu. (I am reading a book.) — present, ipf\n- **Pročitam** knjigu. — this means when I finish reading the book (future/conditional context)\n\nThis is why you should never use a perfective verb to describe something happening **right now**.",
+        "examples": [
+          { "hr": "Sad pišem zadaću.", "en": "I am writing homework right now. (ipf — ongoing)" },
+          { "hr": "Kad napišem zadaću, izaći ću van.", "en": "When I finish writing homework, I will go out. (pf — future completion)" }
+        ]
+      },
+      {
+        "label": "Rule 4 — Negative past usually takes imperfective",
+        "explanation": "When **negating a past action**, Croatian speakers most commonly use the **imperfective** aspect. A negated action is typically seen as something that never reached completion — which matches the imperfective meaning.\n\n- Nisam **čitao** tu knjigu. (I did not read that book.)\n- Nije **kupovala** ništa. (She did not buy anything.)\n\nUsing the perfective in the negative is possible but less common, and often implies the action was specifically **attempted but not finished**.",
+        "examples": [
+          { "hr": "Nisam jeo ništa cijeli dan.", "en": "I did not eat anything all day. (ipf — nothing was consumed)" },
+          { "hr": "Nismo gledali taj film.", "en": "We did not watch that film. (ipf — no viewing took place)" }
+        ]
+      },
+      {
+        "label": "Rule 5 — Common prefixes that make verbs perfective",
+        "explanation": "Many perfective verbs are formed by adding a **prefix** to an imperfective verb. The most common perfective prefixes are:\n\n- **na-** → pisati → **na**pisati (to write → to write and finish)\n- **pro-** → čitati → **pro**čitati (to read → to read and finish)\n- **po-** → jesti → **po**jesti (to eat → to finish eating), gledati → **po**gledati\n- **za-** → zvati → **za**zvati (to call → to ring once)\n- **iz-** → govoriti → **iz**govoriti (to speak → to utter completely)\n- **u-** → raditi → **u**raditi (to do → to get something done)\n\nNote: adding a prefix sometimes also slightly **shifts the meaning**, so always check a dictionary for new pairs.",
+        "examples": [
+          { "hr": "pisati → napisati", "en": "to write (ongoing) → to write and finish" },
+          { "hr": "čitati → pročitati", "en": "to read (ongoing) → to read and finish" }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Imperfective (ipf)", "Perfective (pf)", "English meaning"],
+      "rows": [
+        ["pisati", "napisati", "to write"],
+        ["čitati", "pročitati", "to read"],
+        ["kupovati", "kupiti", "to buy"],
+        ["gledati", "pogledati", "to watch / look at"],
+        ["jesti", "pojesti", "to eat"],
+        ["piti", "popiti", "to drink"],
+        ["učiti", "naučiti", "to learn / study"],
+        ["slati", "poslati", "to send"],
+        ["zvati", "nazvati", "to call"],
+        ["čekati", "pričekati", "to wait"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "Marko's Saturday", "hr": "Markova subota" },
+    "paragraphs": [
+      {
+        "hr": "Marko je cijelo jutro čitao roman. Sjedio je u fotelji uz kavu i okretao stranice jednu za drugom. Nije žurio nikamo — subota je bila slobodna.",
+        "en": "Marko was reading a novel all morning. He sat in an armchair with his coffee and turned the pages one by one. He was not in a hurry anywhere — Saturday was free."
+      },
+      {
+        "hr": "Oko podneva je napokon pročitao cijeli roman. Zatvorio je knjigu i odložio je na stol. Osjećao se zadovoljno — čitao je tu knjigu već tri tjedna.",
+        "en": "Around noon he finally finished reading the whole novel. He closed the book and put it on the table. He felt satisfied — he had been reading that book for three weeks already."
+      },
+      {
+        "hr": "Poslije ručka je izašao van kako bi kupio namirnice. Hodao je po tržnici i razgledavao štandove, ali nije kupio ništa od hrane. Umjesto toga, ušao je u trgovinu odjećom i kupio novu jaknu.",
+        "en": "After lunch he went out to buy groceries. He walked around the market and looked at the stalls, but he did not buy any food. Instead, he entered a clothing shop and bought a new jacket."
+      },
+      {
+        "hr": "Na putu kući, zvao je svog prijatelja Ivana nekoliko puta. Zvao ga je svaki put kad je stao na semaforu, ali Ivan nije dizao slušalicu. Marko mu je naposljetku ostavio glasovnu poruku.",
+        "en": "On the way home, he called his friend Ivan several times. He called him every time he stopped at a traffic light, but Ivan did not pick up the phone. Marko finally left him a voice message."
+      },
+      {
+        "hr": "Navečer je sjeo za stol i napisao email koji je odgađao već tjednima. Dugo je razmišljao što napisati, ali kad je jednom počeo, sve je brzo išlo. Za dvadesetak minuta je poslao email.",
+        "en": "In the evening he sat down at the table and wrote the email he had been putting off for weeks. He thought for a long time about what to write, but once he started, everything went quickly. In about twenty minutes he sent the email."
+      },
+      {
+        "hr": "Pred spavanje je pomislio na taj dan. Čitao je, šetao i kupovao — ali ne ono što je planirao. Donio je novu jaknu umjesto namirnica. Nasmiješio se, ugasio svjetlo i zaspao.",
+        "en": "Before going to sleep he thought about the day. He had been reading, walking, and shopping — but not what he had planned. He had brought a new jacket instead of groceries. He smiled, turned off the light, and fell asleep."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "verbal-aspect-q1",
+      "prompt": "What was Marko doing all morning?",
+      "promptHr": "Što je Marko radio cijelo jutro?",
+      "options": [
+        "He was writing emails.",
+        "He was reading a novel.",
+        "He was buying groceries.",
+        "He was calling his friend."
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says Marko je cijelo jutro čitao roman — he was reading (ipf) a novel all morning. The imperfective čitao signals an ongoing activity filling the entire morning."
+    },
+    {
+      "id": "verbal-aspect-q2",
+      "prompt": "Which verb form signals that Marko COMPLETED reading the novel?",
+      "promptHr": "Koji glagolski oblik pokazuje da je Marko ZAVRŠIO čitanje romana?",
+      "options": [
+        "čitao je (was reading)",
+        "pročitao je (finished reading)",
+        "pisao je (was writing)",
+        "gledao je (was watching)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pročitao je is the perfective past tense of pročitati, signalling that the reading was completed. Čitao je (ipf) described the ongoing process earlier in the paragraph."
+    },
+    {
+      "id": "verbal-aspect-q3",
+      "prompt": "Why did Marko go out after lunch?",
+      "promptHr": "Zašto je Marko izašao van nakon ručka?",
+      "options": [
+        "To buy a jacket.",
+        "To meet Ivan.",
+        "To buy groceries.",
+        "To post a letter."
+      ],
+      "correctIndex": 2,
+      "explanation": "Marko went out kako bi kupio namirnice (to buy groceries), but ended up buying a jacket — a good illustration of an intended imperfective activity versus the actual completed perfective result."
+    },
+    {
+      "id": "verbal-aspect-q4",
+      "prompt": "Why is zvao (imperfective) used when Marko phones Ivan, but kupio (perfective) when he buys the jacket?",
+      "promptHr": "Zašto se koristi zvao (nesvršeni) kad Marko zove Ivana, a kupio (svršeni) kad kupuje jaknu?",
+      "options": [
+        "Zvao is used because he called multiple times without success; kupio because the purchase was completed once.",
+        "Zvao is perfective; kupio is imperfective.",
+        "Both verbs are imperfective.",
+        "The aspect changes depending on who is performing the action."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zvao (ipf) shows repeated, unsuccessful attempts — he kept calling. Kupio (pf) shows a single completed transaction — he bought the jacket and left the shop."
+    },
+    {
+      "id": "verbal-aspect-q5",
+      "prompt": "What aspect is napisao in the sentence Napisao je email koji je odgađao već tjednima?",
+      "promptHr": "Koji je vid glagola napisao u rečenici Napisao je email koji je odgađao već tjednima?",
+      "options": [
+        "Imperfective — it describes an ongoing action.",
+        "Perfective — it describes a completed action.",
+        "Imperfective — because it is in the past tense.",
+        "Neither — it is a future tense form."
+      ],
+      "correctIndex": 1,
+      "explanation": "Napisao (pf) shows the email was finally completed. Contrast it with odgađao (ipf) — he had been putting it off (repeated, ongoing avoidance) for weeks. The two aspects work together: prolonged avoidance (ipf) then one completed act (pf)."
+    }
+  ],
+  "test": [
+    {
+      "id": "verbal-aspect-q6",
+      "prompt": "Choose the correct verb: Svaki dan sam ___ novine. (Every day I read the newspaper.)",
+      "options": ["pročitao", "čitao", "napišem", "pišem"],
+      "correctIndex": 1,
+      "explanation": "Svaki dan (every day) signals a repeated habit → imperfective past. Čitao (ipf) is correct. Pročitao (pf) would mean a single completed reading on a specific day."
+    },
+    {
+      "id": "verbal-aspect-q7",
+      "prompt": "Choose the correct verb: Napokon sam ___ cijelu knjigu. (I finally finished reading the whole book.)",
+      "options": ["čitao", "pročitao", "čitam", "pročitam"],
+      "correctIndex": 1,
+      "explanation": "Napokon (finally) and cijelu (whole/entire) signal a completed achievement → perfective past. Pročitao (pf) is correct."
+    },
+    {
+      "id": "verbal-aspect-q8",
+      "prompt": "Which sentence correctly uses aspect for a present-tense action happening right now?",
+      "options": [
+        "Sad pišem poruku.",
+        "Sad napišem poruku.",
+        "Sad napisati poruku.",
+        "Sad pročitam pismo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Present tense must be imperfective in Croatian. Pišem (ipf, from pisati) correctly describes writing happening right now. Napišem looks like a present form but is perfective — it carries future/conditional meaning."
+    },
+    {
+      "id": "verbal-aspect-q9",
+      "prompt": "Choose the correct verb for a negative past: Nisam ___ tu seriju. (I did not watch that series.)",
+      "options": ["pogledao", "gledao", "gledam", "pogledam"],
+      "correctIndex": 1,
+      "explanation": "Negative past actions typically use the imperfective. Gledao (ipf, from gledati) is the standard choice — it simply states that no watching took place."
+    },
+    {
+      "id": "verbal-aspect-q10",
+      "prompt": "What is the perfective partner of kupovati (to buy)?",
+      "options": ["kupati", "kupiti", "zakupiti", "nakupiti"],
+      "correctIndex": 1,
+      "explanation": "The standard aspect pair is kupovati (ipf) / kupiti (pf). These have slightly different stems — this pair must be memorised."
+    },
+    {
+      "id": "verbal-aspect-q11",
+      "prompt": "What is the perfective partner of pisati (to write)?",
+      "options": ["zapisati", "napisati", "ispisati", "pisati"],
+      "correctIndex": 1,
+      "explanation": "The most common perfective of pisati is napisati, formed with the prefix na-. It means to write and finish, to compose (a complete piece)."
+    },
+    {
+      "id": "verbal-aspect-q12",
+      "prompt": "Which prefix makes čitati (to read) perfective?",
+      "options": ["na-", "za-", "pro-", "iz-"],
+      "correctIndex": 2,
+      "explanation": "Pročitati (pro- + čitati) is the standard perfective partner: to read something to the end / to finish reading."
+    },
+    {
+      "id": "verbal-aspect-q13",
+      "prompt": "Dok sam ___ večeru, zazvonio je telefon. (While I was eating dinner, the phone rang.)",
+      "options": ["pojeo", "jeo", "pojesti", "pojede"],
+      "correctIndex": 1,
+      "explanation": "Dok (while) introduces a background ongoing action → imperfective past. Jeo (ipf, from jesti) is correct. The phone call interrupted the eating in progress."
+    },
+    {
+      "id": "verbal-aspect-q14",
+      "prompt": "He drank (and finished) the whole glass of water. → On je ___ cijelu čašu vode.",
+      "options": ["pio", "popio", "pije", "popije"],
+      "correctIndex": 1,
+      "explanation": "Cijelu (whole/entire) + completed single action → perfective. Popio (pf past, from popiti) is correct. Pio (ipf) would describe the drinking as an ongoing process without implying it was finished."
+    },
+    {
+      "id": "verbal-aspect-q15",
+      "prompt": "Which sentence describes a REPEATED past action?",
+      "options": [
+        "Napisala je pismo.",
+        "Svako jutro je pisala pismo.",
+        "Pročitala je roman.",
+        "Kupila je kruh."
+      ],
+      "correctIndex": 1,
+      "explanation": "Svako jutro (every morning) + pisala (ipf past) signals a repeated past habit. The other three options all use perfective verbs (napisala, pročitala, kupila) describing completed single events."
+    },
+    {
+      "id": "verbal-aspect-q16",
+      "prompt": "Select the IMPERFECTIVE verb from this list:",
+      "options": ["napisati", "pročitati", "kupovati", "pojesti"],
+      "correctIndex": 2,
+      "explanation": "Kupovati is the imperfective verb meaning to be buying / to shop (ongoing). The others — napisati, pročitati, pojesti — are all perfective verbs."
+    },
+    {
+      "id": "verbal-aspect-q17",
+      "prompt": "Select the PERFECTIVE verb from this list:",
+      "options": ["pisati", "čitati", "gledati", "pogledati"],
+      "correctIndex": 3,
+      "explanation": "Pogledati (po- + gledati) is the perfective: to take a look / to watch (and finish). The other three — pisati, čitati, gledati — are all imperfective."
+    },
+    {
+      "id": "verbal-aspect-q18",
+      "prompt": "How do you say I am sending an email right now in Croatian?",
+      "options": [
+        "Sad šaljem email.",
+        "Sad ću poslati email.",
+        "Sad sam poslao email.",
+        "Sad pošaljem email."
+      ],
+      "correctIndex": 0,
+      "explanation": "Right now (ongoing present) → imperfective present. Šaljem (ipf, from slati) is the correct form. Poslati (pf) would be used for a future completed send."
+    },
+    {
+      "id": "verbal-aspect-q19",
+      "prompt": "Naučio sam sve vokabule za ispit. What does this sentence mean?",
+      "options": [
+        "I was studying all the vocabulary for the exam.",
+        "I learned (and mastered) all the vocabulary for the exam.",
+        "I have not studied the vocabulary.",
+        "I study vocabulary every day."
+      ],
+      "correctIndex": 1,
+      "explanation": "Naučio (pf past, from naučiti) signals the learning is complete and the goal has been achieved — all vocabulary has been mastered."
+    },
+    {
+      "id": "verbal-aspect-q20",
+      "prompt": "Which Croatian sentence means She was calling me every evening?",
+      "options": [
+        "Svake večeri me je zvala.",
+        "Nazvala me je svake večeri.",
+        "Svake večeri me je nazvala.",
+        "Jednom me nazvala."
+      ],
+      "correctIndex": 0,
+      "explanation": "Svake večeri (every evening) + zvala (ipf past, from zvati) correctly expresses a repeated past habit. Nazvala (pf) describes a single completed call."
+    },
+    {
+      "id": "verbal-aspect-q21",
+      "prompt": "Fill in the blank: Kad ___ (pročitati) knjigu, mogu ti je posuditi. (When I finish reading the book, I can lend it to you.)",
+      "options": ["čitam", "pročitam", "pročitao", "čitao"],
+      "correctIndex": 1,
+      "explanation": "Kad (when) + future completion → perfective present tense. Pročitam (pf) expresses the moment the reading is finished, which then enables the lending. This is a classic perfective present-as-future structure."
+    },
+    {
+      "id": "verbal-aspect-q22",
+      "prompt": "Which aspect pair has the labels assigned CORRECTLY?",
+      "options": [
+        "pisati (pf) / napisati (ipf)",
+        "kupiti (ipf) / kupovati (pf)",
+        "čitati (ipf) / pročitati (pf)",
+        "gledati (pf) / pogledati (ipf)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Čitati is imperfective and pročitati is its perfective partner. The other three options all have the aspect labels reversed."
+    },
+    {
+      "id": "verbal-aspect-q23",
+      "prompt": "Nisam pojeo ručak vs. Nisam jeo ručak — what is the key difference in meaning?",
+      "options": [
+        "There is no difference; both sentences are identical in meaning.",
+        "Nisam pojeo implies the meal was started but not fully consumed; Nisam jeo implies no eating took place at all.",
+        "Nisam jeo is grammatically incorrect.",
+        "Nisam pojeo is used only for planned future meals."
+      ],
+      "correctIndex": 1,
+      "explanation": "Pojeo (pf) in the negative implies the action was initiated but not completed — the lunch was not finished. Jeo (ipf) in the negative simply states that no eating of the lunch occurred whatsoever."
+    },
+    {
+      "id": "verbal-aspect-q24",
+      "prompt": "Učila je cijelo poslijepodne. What aspect is učila, and what does it tell us?",
+      "options": [
+        "Perfective — she finished studying in the afternoon.",
+        "Imperfective — she was studying throughout the entire afternoon.",
+        "Imperfective — she studied once and then stopped.",
+        "Perfective — she studied a specific single topic."
+      ],
+      "correctIndex": 1,
+      "explanation": "Učila (ipf past, from učiti) + cijelo poslijepodne (all afternoon) describes a continuous activity filling the entire afternoon — a classic imperfective usage emphasising duration."
+    },
+    {
+      "id": "verbal-aspect-q25",
+      "prompt": "Which sentence correctly expresses I will send the report tomorrow?",
+      "options": [
+        "Sutra šaljem izvješće.",
+        "Sutra ću poslati izvješće.",
+        "Sutra sam poslao izvješće.",
+        "Sutra šaljem i poslati izvješće."
+      ],
+      "correctIndex": 1,
+      "explanation": "For a future completed action, use the perfective future: ću + infinitive (poslati). Option A (šaljem, ipf present) is also used colloquially for scheduled events, but option B with the explicit future auxiliary is the standard form."
+    },
+    {
+      "id": "verbal-aspect-q26",
+      "prompt": "The verb pojesti is best described as:",
+      "options": [
+        "Imperfective — it means to be eating.",
+        "Perfective — it means to eat up / finish eating.",
+        "Imperfective — because it is formed from po- + jesti.",
+        "Neither — it is a reflexive verb."
+      ],
+      "correctIndex": 1,
+      "explanation": "Pojesti is perfective: the prefix po- added to jesti (ipf) creates a verb meaning to eat up / consume completely. The prefix makes it perfective, not imperfective."
+    },
+    {
+      "id": "verbal-aspect-q27",
+      "prompt": "Choose the sentence that means He used to drink coffee every morning (past habit):",
+      "options": [
+        "Popio je kavu svako jutro.",
+        "Svako jutro je pio kavu.",
+        "Popio je kavu jutros.",
+        "Jutros je popio kavu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Svako jutro (every morning) + pio (ipf past, from piti) expresses a repeated past habit. Popio (pf) in options A, C, and D describes a single completed act of drinking coffee on a specific occasion."
+    },
+    {
+      "id": "verbal-aspect-q28",
+      "prompt": "Translate to Croatian using the correct aspect: She finally sent the email.",
+      "options": [
+        "Napokon je slala email.",
+        "Napokon je poslala email.",
+        "Šalje email napokon.",
+        "Slala je email."
+      ],
+      "correctIndex": 1,
+      "explanation": "Napokon (finally) signals a completed result → perfective. Poslala (pf past, from poslati) is correct. Slala (ipf) would describe the sending as an ongoing process with no clear completion."
+    },
+    {
+      "id": "verbal-aspect-q29",
+      "prompt": "Which statement about perfective verbs in present-tense forms is TRUE?",
+      "options": [
+        "Perfective present forms describe actions happening right now.",
+        "Perfective verbs cannot appear in present-tense conjugations at all.",
+        "Perfective verbs conjugated in present-tense forms express future or conditional meaning.",
+        "Perfective present tense is only used in formal written Croatian."
+      ],
+      "correctIndex": 2,
+      "explanation": "When a perfective verb is conjugated in what looks like a present tense form, it expresses a future or conditional meaning — for example, kad napišem means when I finish writing, not I am writing."
+    },
+    {
+      "id": "verbal-aspect-q30",
+      "prompt": "Complete the sentence with the correct aspect pair: Marko je dugo ___ (ipf) pismo, a onda ga je napokon ___ (pf).",
+      "options": [
+        "pisao / napisao",
+        "napisao / pisao",
+        "piše / napišem",
+        "napisati / pisati"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pisao (ipf past) describes the prolonged process of writing; napisao (pf past) describes the moment of completion. This is the classic ipf → pf sequence: extended process followed by its result."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Imperfective verbs",
+      "items": [
+        { "hr": "pisati", "en": "to write (ongoing)", "note": "imperfective — the writing is in progress, not yet complete" },
+        { "hr": "čitati", "en": "to read (ongoing)", "note": "imperfective — describes the reading process" },
+        { "hr": "kupovati", "en": "to buy / to be buying", "note": "imperfective form of the buy pair" },
+        { "hr": "gledati", "en": "to watch / to be watching", "note": "imperfective — ongoing viewing" },
+        { "hr": "jesti", "en": "to eat (ongoing)", "note": "imperfective — eating in progress" },
+        { "hr": "piti", "en": "to drink (ongoing)", "note": "imperfective — drinking in progress" },
+        { "hr": "učiti", "en": "to study / to be learning", "note": "imperfective — process of studying" },
+        { "hr": "slati", "en": "to send (ongoing)", "note": "imperfective — in the process of sending" },
+        { "hr": "zvati", "en": "to call (repeatedly or ongoing)", "note": "imperfective — repeated or sustained calling" },
+        { "hr": "čekati", "en": "to wait (ongoing)", "note": "imperfective — emphasises the duration of waiting" }
+      ]
+    },
+    {
+      "context": "Perfective verbs",
+      "items": [
+        { "hr": "napisati", "en": "to write and finish", "note": "perfective — the writing is done" },
+        { "hr": "pročitati", "en": "to read to the end / finish reading", "note": "perfective — the reading is complete" },
+        { "hr": "kupiti", "en": "to buy (completed purchase)", "note": "perfective — the transaction is done" },
+        { "hr": "pogledati", "en": "to take a look / watch (completed)", "note": "perfective — a single act of looking or viewing" },
+        { "hr": "pojesti", "en": "to eat up / finish eating", "note": "perfective — all of it consumed" },
+        { "hr": "popiti", "en": "to drink up / finish drinking", "note": "perfective — all of it drunk" },
+        { "hr": "naučiti", "en": "to learn / master", "note": "perfective — the learning goal is achieved" },
+        { "hr": "poslati", "en": "to send (completed)", "note": "perfective — the message has been sent" },
+        { "hr": "nazvati", "en": "to call (one completed call)", "note": "perfective — a single call that was made" },
+        { "hr": "pričekati", "en": "to wait a moment (completed)", "note": "perfective — the waiting is finished" }
+      ]
+    },
+    {
+      "context": "Common aspect pairs",
+      "items": [
+        { "hr": "pisati / napisati", "en": "to write (process) / to write (completed)", "note": "prefix na- makes it perfective" },
+        { "hr": "čitati / pročitati", "en": "to read (process) / to read (completed)", "note": "prefix pro- makes it perfective" },
+        { "hr": "kupovati / kupiti", "en": "to buy (ongoing) / to buy (done)", "note": "different stems — memorise as a pair" },
+        { "hr": "gledati / pogledati", "en": "to watch (ongoing) / to take a look", "note": "prefix po- makes it perfective" },
+        { "hr": "jesti / pojesti", "en": "to eat (ongoing) / to eat up", "note": "prefix po- makes it perfective" },
+        { "hr": "piti / popiti", "en": "to drink (ongoing) / to drink up", "note": "prefix po- makes it perfective" },
+        { "hr": "učiti / naučiti", "en": "to study / to master and learn", "note": "prefix na- makes it perfective" },
+        { "hr": "slati / poslati", "en": "to send (ongoing) / to send (done)", "note": "prefix po- makes it perfective" },
+        { "hr": "zvati / nazvati", "en": "to call (ongoing) / to give a call", "note": "prefix na- makes it perfective" },
+        { "hr": "čekati / pričekati", "en": "to wait (ongoing) / to wait (a moment, done)", "note": "prefix pri- makes it perfective" }
+      ]
+    },
+    {
+      "context": "Aspect with past tense",
+      "items": [
+        { "hr": "Svaki dan sam čitao novine.", "en": "Every day I read (used to read) the newspaper.", "note": "repeated habit → imperfective past" },
+        { "hr": "Pročitao sam cijelu knjigu.", "en": "I finished reading the whole book.", "note": "completed action → perfective past" },
+        { "hr": "Dok sam jeo, netko je pokucao.", "en": "While I was eating, someone knocked.", "note": "background ongoing action → imperfective past" },
+        { "hr": "Pojeo sam sve što je bilo na tanjuru.", "en": "I ate everything that was on the plate.", "note": "full consumption, completed → perfective past" },
+        { "hr": "Nisam gledao taj film.", "en": "I did not watch that film.", "note": "negative past → typically imperfective" },
+        { "hr": "Napokon je napisao email.", "en": "He finally wrote (and finished) the email.", "note": "napokon (finally) + completion → perfective past" },
+        { "hr": "Kupovala je namirnice svaki tjedan.", "en": "She went grocery shopping every week.", "note": "weekly habit → imperfective past" },
+        { "hr": "Kupila je novu jaknu.", "en": "She bought a new jacket.", "note": "single completed purchase → perfective past" }
+      ]
+    },
+    {
+      "context": "Aspect with future tense",
+      "items": [
+        { "hr": "Sutra ću čitati cijeli dan.", "en": "Tomorrow I will be reading all day.", "note": "ongoing future activity → imperfective future" },
+        { "hr": "Pročitat ću tu knjigu do petka.", "en": "I will finish reading that book by Friday.", "note": "completed future goal → perfective future" },
+        { "hr": "Kad napišem izvješće, odmah ću ti ga poslati.", "en": "When I finish writing the report, I will send it to you right away.", "note": "kad + perfective present = when the action is complete" },
+        { "hr": "Hoće li kupovati ili ne?", "en": "Will they be buying or not?", "note": "open or uncertain future process → imperfective" },
+        { "hr": "Kupit će to ako imaju novaca.", "en": "They will buy it if they have money.", "note": "intended single completed purchase → perfective future" },
+        { "hr": "Učit ću svaki dan.", "en": "I will study every day.", "note": "planned repeated activity → imperfective future" },
+        { "hr": "Naučit ću sve do ispita.", "en": "I will have learned everything by the exam.", "note": "goal of mastery by a deadline → perfective future" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+---
+import type { CumulativeTest } from "../lib/content";
+import QuestionList from "./QuestionList.astro";
+import SiteNav from "./SiteNav.astro";
+
+interface Props {
+  test: CumulativeTest;
+}
+
+const { test } = Astro.props;
+---
+
+<header class="sticky top-0 z-10 border-b border-slate-200 bg-white/90 backdrop-blur">
+  <div class="mx-auto max-w-3xl px-6 py-4 flex items-center gap-3">
+    <SiteNav />
+    <span class="rounded-full bg-rose-600 px-2.5 py-0.5 text-xs font-bold uppercase text-white">Test</span>
+    <h1 class="text-lg font-bold text-slate-900">{test.title.en}</h1>
+  </div>
+</header>
+
+<main class="mx-auto max-w-3xl px-6 py-10">
+  <p class="mb-6 text-slate-600">{test.intro}</p>
+  <QuestionList
+    sectionId="test"
+    heading={test.title.en}
+    questions={test.questions}
+  />
+</main>

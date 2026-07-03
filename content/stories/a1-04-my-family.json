@@ -1,0 +1,52 @@
+{
+  "id": "my-family",
+  "level": "a1",
+  "order": 4,
+  "title": { "hr": "Moja obitelj", "en": "My Family" },
+  "topicsUsed": ["family", "present-tense", "noun-gender", "describing-people", "possessives"],
+  "paragraphs": [
+    {
+      "hr": "Zovem se Luka. Imam dvadeset i dvije godine. Ja sam iz Splita. Živim s obitelji — s mamom, tatom i sestrom. Naša kuća je blizu mora. Volim Split jer je uvijek sunčano i toplo.",
+      "en": "My name is Luka. I am twenty-two years old. I am from Split. I live with my family — with my mum, dad and sister. Our house is near the sea. I love Split because it is always sunny and warm."
+    },
+    {
+      "hr": "Moj tata se zove Ante. On je visok i jak. Ima kratku tamnu kosu. Tata je liječnik — radi u splitskoj bolnici. Volim tatu jer je uvijek strpljiv i dobar. Uvijek mi pomaže kad imam problem.",
+      "en": "My dad's name is Ante. He is tall and strong. He has short dark hair. Dad is a doctor — he works at the hospital in Split. I love my dad because he is always patient and kind. He always helps me when I have a problem."
+    },
+    {
+      "hr": "Moja mama se zove Marija. Ona je učiteljica u osnovnoj školi. Mama ima dugu smeđu kosu i lijepe oči. Ona je izvrsna kuharica — njezin pasticada je moje najdraže jelo. Mama uvijek pjeva dok kuha.",
+      "en": "My mum's name is Marija. She is a teacher in a primary school. Mum has long brown hair and beautiful eyes. She is an excellent cook — her beef stew is my favourite dish. Mum always sings while she cooks."
+    },
+    {
+      "hr": "Moja sestra se zove Maja. Ona studira u Zagrebu i dolazi kući vikendom. Maja ima devetnaest godina. Ona je mlađa od mene, ali pametnija! Studira medicinu i želi biti doktorica. Tata je jako ponosan na nju.",
+      "en": "My sister's name is Maja. She studies in Zagreb and comes home at weekends. Maja is nineteen years old. She is younger than me, but smarter! She studies medicine and wants to become a doctor. Dad is very proud of her."
+    },
+    {
+      "hr": "Svake nedjelje sjedimo zajedno za stolom i jedemo. To je naša obiteljska tradicija. Mama kuha, tata donosi vino i razgovaramo. Smijemo se i prepričavamo tjedne priče. Nedjelja je moj omiljeni dan. Moja obitelj je mala, ali topla i sretna.",
+      "en": "Every Sunday we sit together at the table and eat. That is our family tradition. Mum cooks, dad brings wine and we chat. We laugh and tell each other about our week. Sunday is my favourite day. My family is small, but warm and happy."
+    }
+  ],
+  "vocabulary": {
+    "verbs": [
+      { "hr": "živjeti", "en": "to live" },
+      { "hr": "studirati", "en": "to study" },
+      { "hr": "pomoći", "en": "to help" },
+      { "hr": "pjevati", "en": "to sing" },
+      { "hr": "sjediti", "en": "to sit" }
+    ],
+    "nouns": [
+      { "hr": "obitelj", "en": "family" },
+      { "hr": "sestra", "en": "sister" },
+      { "hr": "bolnica", "en": "hospital" },
+      { "hr": "liječnik", "en": "doctor" },
+      { "hr": "tradicija", "en": "tradition" }
+    ],
+    "adjectives": [
+      { "hr": "visok / visoka", "en": "tall" },
+      { "hr": "strpljiv / strpljiva", "en": "patient" },
+      { "hr": "pametan / pametna", "en": "smart / clever" },
+      { "hr": "ponosan / ponosna", "en": "proud" },
+      { "hr": "omiljeni / omiljena", "en": "favourite" }
+    ]
+  }
+}

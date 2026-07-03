@@ -1,0 +1,60 @@
+{
+  "id": "career-change",
+  "level": "b1",
+  "order": 5,
+  "title": { "hr": "Nova stranica", "en": "A New Chapter" },
+  "topicsUsed": ["verbal-aspect", "conditional", "relative-clauses", "indirect-speech", "work-career"],
+  "paragraphs": [
+    {
+      "hr": "Filip Jurić radio je kao novinar za dnevne novine deset godina. Bio je dobar u poslu — znao je postavljati prava pitanja, pisati brzo i ostajati hladne glave u kaotičnim situacijama. Ipak, nešto mu je nedostajalo. Svaki put kad bi prolazio pokraj škole i vidio djecu kako ulaze u učionice, osjećao bi nešto što nije znao objasniti.",
+      "en": "Filip Jurić had worked as a journalist for a daily newspaper for ten years. He was good at his job — he knew how to ask the right questions, write quickly and keep a cool head in chaotic situations. Yet something was missing for him. Every time he walked past a school and saw children entering classrooms, he would feel something he could not explain."
+    },
+    {
+      "hr": "Kada je napunio trideset i osam godina, Filip se odlučio prijaviti na program pedagoških kompetencija koji omogućava magistrima humanistike da postanu nastavnici. Program je trajao godinu dana — paralelno s radom u novinama. Prijatelji su ga gledali s nevjericom. Jedan kolega rekao mu je: Nastavnici zarađuju pola od novinara. Jesi li siguran?",
+      "en": "When he turned thirty-eight, Filip decided to apply for a pedagogical competency programme that enables humanities graduates to become teachers. The programme lasted a year — running alongside his work at the newspaper. Friends looked at him in disbelief. One colleague told him: Teachers earn half of what journalists earn. Are you sure?"
+    },
+    {
+      "hr": "Filip je završio program u lipnju. U srpnju je vidio oglas za nastavnika hrvatskog jezika i književnosti u jednoj gimnaziji u Karlovcu. Prijavio se, prošao razgovor i bio je primljen. Dao je otkaz u novinama — urednici su bili iznenađeni, ali su mu poželili sve dobro. Posljednjeg dana u redakciji kolege su mu priredili malu proslavu.",
+      "en": "Filip completed the programme in June. In July he saw an advertisement for a teacher of Croatian language and literature at a secondary school in Karlovac. He applied, passed the interview and was accepted. He handed in his notice at the newspaper — the editors were surprised, but wished him well. On his last day in the newsroom his colleagues organised a small celebration for him."
+    },
+    {
+      "hr": "U rujnu je počela nova školska godina. Filipov prvi razred bio je 2.b — dvadeset i troje petnaestogodišnjaka koji su ga gledali s mješavinom znatiželje i ravnodušnosti. Pripremio je analizu Krležinog teksta za prvu lekciju, ali kada je vidio da su neki učenici tek protrljali oči, odlučio je početi pitanjem: Što ste čitali ovog ljeta što vas je zaista zanijelo?",
+      "en": "In September the new school year began. Filip's first class was 2.b — twenty-three fifteen-year-olds who looked at him with a mixture of curiosity and indifference. He had prepared an analysis of a Krleža text for the first lesson, but when he saw that some pupils had only just rubbed their eyes, he decided to start with the question: What did you read this summer that really gripped you?"
+    },
+    {
+      "hr": "Učenici su se oživili. Jedna djevojčica rekla je da je čitala manga stripove. Dječak u prvoj klupi rekao je da je čitao biografiju Nikole Tesle. Drugi su rekli da nisu čitali ništa — ali objasnili su zašto: propisane knjige su im dosadne. Filip je shvatio da ima posla, ali i materijala. Napravio je plan: uvesti bar jednu suvremenu knjigu u svaki razred.",
+      "en": "The students livened up. A girl said she had been reading manga comics. A boy in the front row said he had read a biography of Nikola Tesla. Others said they had not read anything — but explained why: the prescribed books were boring to them. Filip realised he had work to do, but also material. He made a plan: to introduce at least one contemporary book into every class."
+    },
+    {
+      "hr": "Dva tjedna nakon početka škole, iskusna profesorica Danica prošla je pored Filipove učionice i začula smijeh. Zavirila je unutra: Filip je čitao naglas odlomak iz Tribusona dok su učenici slušali u tišini koja nije bila prisilna, nego prava. Danica je pomislila da novi kolega ima ono što se ne može naučiti na pedagoškim kompetencijama.",
+      "en": "Two weeks after the start of school, the experienced teacher Danica walked past Filip's classroom and heard laughter. She looked inside: Filip was reading aloud a passage from Tribuson while the students listened in a silence that was not forced, but genuine. Danica thought that the new colleague had something that cannot be learned in a pedagogical competency programme."
+    },
+    {
+      "hr": "Na kraju prvog tjedna učenici 2.b su pitali Filipa hoće li im sljedeći tjedan donijeti nastavak priče. On je rekao da hoće. Izlazeći iz škole tog petka, Filip je stao i duboko udahnuo. Desetogodišnji kaos redakcije bio je iza njega. Pred njim je bila škola, dvadeset i troje mladih umova i nastava koja ima smisla. Napokon je bio na pravom putu.",
+      "en": "At the end of the first week the pupils of 2.b asked Filip whether he would bring them the continuation of the story next week. He said he would. Leaving school that Friday, Filip stopped and took a deep breath. Ten years of newsroom chaos were behind him. Ahead of him was the school, twenty-three young minds and lessons that had meaning. He was finally on the right path."
+    }
+  ],
+  "vocabulary": {
+    "verbs": [
+      { "hr": "prijaviti se", "en": "to apply" },
+      { "hr": "dati otkaz", "en": "to hand in one's notice / to resign" },
+      { "hr": "shvatiti", "en": "to realise / to understand" },
+      { "hr": "oživjeti", "en": "to liven up / to come to life" },
+      { "hr": "udahnuti", "en": "to take a breath" }
+    ],
+    "nouns": [
+      { "hr": "redakcija", "en": "newsroom" },
+      { "hr": "otkaz", "en": "notice / resignation" },
+      { "hr": "ravnodušnost", "en": "indifference" },
+      { "hr": "znatiželja", "en": "curiosity" },
+      { "hr": "odlomak", "en": "passage / excerpt" }
+    ],
+    "adjectives": [
+      { "hr": "kaotičan / kaotična", "en": "chaotic" },
+      { "hr": "iskusan / iskusna", "en": "experienced" },
+      { "hr": "znatiželjan / znatiželjna", "en": "curious" },
+      { "hr": "prisilni / prisilna", "en": "forced / compulsory" },
+      { "hr": "suvremen / suvremena", "en": "contemporary / modern" }
+    ]
+  }
+}

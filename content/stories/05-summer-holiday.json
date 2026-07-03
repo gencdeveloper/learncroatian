@@ -1,0 +1,60 @@
+{
+  "id": "summer-holiday",
+  "level": "b1",
+  "order": 2,
+  "title": { "hr": "Ljeto na Jadranu", "en": "Summer on the Adriatic" },
+  "topicsUsed": ["weather", "places", "comparatives", "advanced-travel", "nature-environment"],
+  "paragraphs": [
+    {
+      "hr": "Tom je britanski student koji uči hrvatski u Zagrebu već godinu dana. Njegova prijateljica Ivana predložila je da zajedno provedu dva tjedna na dalmatinskoj obali. Tom je odmah pristao — nikada nije vidio Jadransko more i jedva je čekao. Ivana je preporučila Makarsku jer ima ljepše plaže od Splita i manje je turistički gužvana.",
+      "en": "Tom is a British student who has been learning Croatian in Zagreb for a year. His friend Ivana suggested they spend two weeks together on the Dalmatian coast. Tom agreed immediately — he had never seen the Adriatic Sea and could hardly wait. Ivana recommended Makarska because it has more beautiful beaches than Split and is less crowded with tourists."
+    },
+    {
+      "hr": "Ivana je pronašla apartman s pogledom na more i rezervirala ga tjedan unaprijed. Tom je kupio kartu za autobus. Putovanje iz Zagreba do Makarske trajalo je četiri i pol sata. Kad su stigli, temperatura je bila trideset i sedam stupnjeva — toplije nego što je Tom ikada doživio u Engleskoj. More je izgledalo nevjerojatno plavo i prozirno.",
+      "en": "Ivana found an apartment with a sea view and booked it a week in advance. Tom bought a bus ticket. The journey from Zagreb to Makarska took four and a half hours. When they arrived, the temperature was thirty-seven degrees — warmer than anything Tom had ever experienced in England. The sea looked incredibly blue and transparent."
+    },
+    {
+      "hr": "Prvog dana su plivali na makarskoj plaži i šetali starim gradom. More je bilo toplije nego što je Tom očekivao — rekao je da je kao topla kada. Popodne su se popeli malo uzbrdo i vidjeli panoramu Makarske i otoka Brača. Drugi dan su se zaputili na planinu Biokovo. Uspon je bio naporan, ali pogled s vrha bio je nevjerojatan.",
+      "en": "On the first day they swam at the Makarska beach and walked through the old town. The sea was warmer than Tom had expected — he said it was like a warm bath. In the afternoon they climbed a little uphill and saw the panorama of Makarska and the island of Brač. On the second day they headed up Mount Biokovo. The climb was exhausting, but the view from the top was incredible."
+    },
+    {
+      "hr": "Četvrtog dana uzeli su trajekt do Hvara, koji mnogi smatraju najljepšim otokom na Jadranu. Hvar je bio ljepši od svega što je Tom vidio — lavandina polja, stari grad s venecijanskom tvrđavom, bistro more u zaljevima. Lokalno vino bilo je izvrsno, ali i skuplje nego na kopnu. Tom je rekao da je Hvar najljepše mjesto koje je ikada posjetio.",
+      "en": "On the fourth day they took a ferry to Hvar, which many consider the most beautiful island on the Adriatic. Hvar was more beautiful than anything Tom had seen — lavender fields, the old town with a Venetian fortress, clear sea in the coves. The local wine was excellent, but also more expensive than on the mainland. Tom said Hvar was the most beautiful place he had ever visited."
+    },
+    {
+      "hr": "Šestog dana otišli su brodom do Korčule, otoka za koji se kaže da je rodno mjesto Marca Pola. Stari grad Korčule je jedan od najočuvanijih gradova na Jadranu — zidine, tornjevi i uske ulice izgledaju kao da se ništa nije promijenilo u pet stoljeća. Tom je probao lokalno maslinovo ulje i rekao da je bogatijeg okusa nego sve što je kušao u Engleskoj.",
+      "en": "On the sixth day they went by boat to Korčula, the island said to be the birthplace of Marco Polo. The old town of Korčula is one of the best-preserved towns on the Adriatic — the walls, towers and narrow streets look as if nothing has changed in five centuries. Tom tried the local olive oil and said it had a richer flavour than anything he had tasted in England."
+    },
+    {
+      "hr": "Posljednje večeri sjedili su na rivi u Makarskoj i gledali zalazak sunca. Nebo je bilo narančasto i ružičasto, a more je sjajilo kao ogledalo. Tom je tiho rekao: Hrvatska je ljepša od svake zemlje koju sam posjetio. Ivana se nasmijala i odgovorila: To je učinak Jadrana — svi koji dođu, žele se vratiti.",
+      "en": "On the last evening they sat on the waterfront in Makarska and watched the sunset. The sky was orange and pink, and the sea shone like a mirror. Tom said quietly: Croatia is more beautiful than any country I have visited. Ivana laughed and replied: That is the effect of the Adriatic — everyone who comes, wants to return."
+    },
+    {
+      "hr": "Na povratku u Zagreb Tom je u bilježnici napisao popis svega što je naučio o Dalmaciji: deset novih hrvatskih riječi, tri recepta za riblja jela i jedan važan zaključak — da mora bolje naučiti hrvatski kako bi sljedeći put mogao razgovarati s lokalnim stanovništvom bez Ivanine pomoći. Već je odlučio da će se sljedeće ljeto sigurno vratiti.",
+      "en": "On the way back to Zagreb Tom wrote in his notebook a list of everything he had learnt about Dalmatia: ten new Croatian words, three recipes for fish dishes and one important conclusion — that he needed to learn Croatian better so that next time he could talk to the local people without Ivana's help. He had already decided he would definitely return the following summer."
+    }
+  ],
+  "vocabulary": {
+    "verbs": [
+      { "hr": "preporučiti", "en": "to recommend" },
+      { "hr": "penjati se", "en": "to climb" },
+      { "hr": "kušati", "en": "to taste / to try (food)" },
+      { "hr": "sjajiti", "en": "to shine" },
+      { "hr": "zaključiti", "en": "to conclude" }
+    ],
+    "nouns": [
+      { "hr": "otok", "en": "island" },
+      { "hr": "tvrđava", "en": "fortress" },
+      { "hr": "zalazak sunca", "en": "sunset" },
+      { "hr": "maslinovo ulje", "en": "olive oil" },
+      { "hr": "stanovništvo", "en": "population / local people" }
+    ],
+    "adjectives": [
+      { "hr": "proziran / prozirna", "en": "transparent / clear" },
+      { "hr": "naporan / naporna", "en": "exhausting / tiring" },
+      { "hr": "sačuvan / sačuvana", "en": "preserved" },
+      { "hr": "bogat / bogata", "en": "rich (in flavour)" },
+      { "hr": "narančast / narančasta", "en": "orange (colour)" }
+    ]
+  }
+}

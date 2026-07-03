@@ -1,0 +1,368 @@
+{
+  "id": "past-tense",
+  "level": "a2",
+  "order": 1,
+  "title": { "en": "Past Tense (Perfekt)", "hr": "Prošlo vrijeme (perfekt)" },
+  "grammar": {
+    "title": { "en": "How to Form the Croatian Past Tense", "hr": "Kako se tvori perfekt u hrvatskom" },
+    "intro": "The Croatian past tense (**perfekt**) is formed with **two parts**: a present-tense form of **biti** (to be) + a **past participle** (glagolski pridjev radni).\n\nThe past participle **agrees in gender and number** with the subject — it has different endings for masculine, feminine, and neuter, singular and plural.\n\nThe short (clitic) forms of **biti** are used: **sam, si, je, smo, ste, su** (positive) and **nisam, nisi, nije, nismo, niste, nisu** (negative).",
+    "rules": [
+      {
+        "label": "Forming the past participle: regular -ati / -iti verbs",
+        "explanation": "For most verbs, drop the **-ti** infinitive ending to get the stem, then add the participle endings:\n\n- Masculine singular: **-ao** (sometimes **-io**)\n- Feminine singular: **-la**\n- Neuter singular: **-lo**\n- Masculine plural: **-li**\n- Feminine plural: **-le**\n- Neuter plural: **-la**\n\nExamples: **raditi** (to work) → **radio / radila / radilo**; **govoriti** (to speak) → **govorio / govorila / govorilo**.",
+        "examples": [
+          { "hr": "Marko je radio cijeli dan.", "en": "Marko worked all day." },
+          { "hr": "Ana je govorila s prijateljicom.", "en": "Ana spoke with her friend." },
+          { "hr": "Dijete je spavalo dugo.", "en": "The child slept for a long time." }
+        ]
+      },
+      {
+        "label": "Irregular past participles: ići, biti, moći",
+        "explanation": "Some very common verbs have **irregular** past participles that must be memorised:\n\n- **ići** (to go) → **išao / išla / išlo / išli**\n- **biti** (to be) → **bio / bila / bilo / bili**\n- **moći** (to be able to / can) → **mogao / mogla / moglo / mogli**\n- **doći** (to come) → **došao / došla / došlo / došli**\n- **vidjeti** (to see) → **vidio / vidjela / vidjelo / vidjeli**\n\nNote: verbs ending in **-ći** (like **ići**, **doći**) drop **-ći** and add **-ao/-šao** for the masculine.",
+        "examples": [
+          { "hr": "Oni su išli na plažu.", "en": "They went to the beach." },
+          { "hr": "Bila sam umorna.", "en": "I was tired. (spoken by a woman)" },
+          { "hr": "Nisam mogao doći.", "en": "I was not able to come. (spoken by a man)" }
+        ]
+      },
+      {
+        "label": "Short forms of biti: positive and negative",
+        "explanation": "The **clitic** (short, unstressed) forms of **biti** attach to the second position in the sentence:\n\n- **Ja sam**, **ti si**, **on/ona/ono je**, **mi smo**, **vi ste**, **oni/one su**\n\nFor negative past, replace the biti clitic with the negative long form:\n\n- **nisam, nisi, nije, nismo, niste, nisu**\n\nThe participle **does not change** between positive and negative — only **biti** changes.",
+        "examples": [
+          { "hr": "Kupili smo kruh u pekarnici.", "en": "We bought bread at the bakery." },
+          { "hr": "Niste razumjeli pitanje.", "en": "You (plural) did not understand the question." },
+          { "hr": "Ona nije spavala dobro.", "en": "She did not sleep well." }
+        ]
+      },
+      {
+        "label": "Word order: clitic placement",
+        "explanation": "In Croatian, the **biti** short form is a **clitic** — it cannot stand first in a sentence.\n\nTypical patterns:\n- **Subject + biti + participle**: *Ana je radila.* (Ana worked.)\n- **Time adverb + biti (after subject)**: *Jučer sam radio.* (Yesterday I worked.)\n- The **participle can come before** biti in questions or when emphasised: *Jesi li radio?* (Did you work?)",
+        "examples": [
+          { "hr": "Jučer smo išli u kino.", "en": "Yesterday we went to the cinema." },
+          { "hr": "Jesi li vidio taj film?", "en": "Did you see that film?" },
+          { "hr": "Petro je stigao kasno.", "en": "Petar arrived late." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Infinitive", "English", "Masc. sg.", "Fem. sg.", "Neut. sg.", "Plural (m.)"],
+      "rows": [
+        ["raditi", "to work", "radio", "radila", "radilo", "radili"],
+        ["govoriti", "to speak", "govorio", "govorila", "govorilo", "govorili"],
+        ["ići", "to go", "išao", "išla", "išlo", "išli"],
+        ["biti", "to be", "bio", "bila", "bilo", "bili"],
+        ["moći", "can / to be able", "mogao", "mogla", "moglo", "mogli"],
+        ["vidjeti", "to see", "vidio", "vidjela", "vidjelo", "vidjeli"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "Ana's Weekend at Plitvice Lakes", "hr": "Anin vikend na Plitvičkim jezerima" },
+    "paragraphs": [
+      {
+        "hr": "Prošlog vikenda Ana je posjetila Plitvička jezera s prijateljicom Ivanom. Ustale su rano ujutro i krenule na put već u sedam sati.",
+        "en": "Last weekend Ana visited Plitvice Lakes with her friend Ivana. They got up early in the morning and set off on the trip as early as seven o'clock."
+      },
+      {
+        "hr": "Vožnja je trajala oko dva sata. Ana je vozila, a Ivana je spavala na putu. Kad su stigle, park je već bio pun turista.",
+        "en": "The drive lasted about two hours. Ana drove, and Ivana slept on the way. When they arrived, the park was already full of tourists."
+      },
+      {
+        "hr": "Ana je napravila mnogo fotografija. Slikala je slapove, jezera i zelene šume. Ivana je rekla da su slapovi bili najljepši dio parka.",
+        "en": "Ana took many photos. She photographed the waterfalls, lakes, and green forests. Ivana said that the waterfalls were the most beautiful part of the park."
+      },
+      {
+        "hr": "Za ručak su otišle u konoba blizu parka. Ana je jela ribu s povrćem, a Ivana je naručila pastu s morskim plodovima. Obje su bile jako gladne.",
+        "en": "For lunch they went to a konoba near the park. Ana ate fish with vegetables, and Ivana ordered pasta with seafood. They were both very hungry."
+      },
+      {
+        "hr": "Poslijepodne su se kupale u jednom od jezera. Voda je bila hladna, ali čista i prozirna. Ana je plivala pola sata.",
+        "en": "In the afternoon they swam in one of the lakes. The water was cold but clean and clear. Ana swam for half an hour."
+      },
+      {
+        "hr": "Na povratku su srele grupu turista iz Japana. Razgovarale su s njima na engleskom. Turisti su pitali za preporuke i Ana im je dala nekoliko savjeta.",
+        "en": "On the way back they met a group of tourists from Japan. They chatted with them in English. The tourists asked for recommendations and Ana gave them several tips."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "past-tense-q1",
+      "prompt": "Who drove to Plitvice Lakes?",
+      "promptHr": "Tko je vozio do Plitvičkih jezera?",
+      "options": ["Ivana", "Ana", "Marko", "Both Ana and Ivana"],
+      "correctIndex": 1,
+      "explanation": "The text says 'Ana je vozila' — Ana drove, while Ivana slept on the way."
+    },
+    {
+      "id": "past-tense-q2",
+      "prompt": "What did Ivana say was the most beautiful part of the park?",
+      "promptHr": "Što je Ivana rekla da je najljepši dio parka?",
+      "options": ["The lakes", "The forests", "The waterfalls", "The konoba"],
+      "correctIndex": 2,
+      "explanation": "'Ivana je rekla da su slapovi bili najljepši dio parka.' — Ivana said the waterfalls were the most beautiful part."
+    },
+    {
+      "id": "past-tense-q3",
+      "prompt": "What did Ana eat for lunch at the konoba?",
+      "promptHr": "Što je Ana jela za ručak u konobi?",
+      "options": ["Pasta with seafood", "Fish with vegetables", "Grilled meat", "A salad"],
+      "correctIndex": 1,
+      "explanation": "'Ana je jela ribu s povrćem' — Ana ate fish with vegetables."
+    },
+    {
+      "id": "past-tense-q4",
+      "prompt": "How long did Ana swim in the lake?",
+      "promptHr": "Koliko dugo je Ana plivala u jezeru?",
+      "options": ["One hour", "Two hours", "Half an hour", "Twenty minutes"],
+      "correctIndex": 2,
+      "explanation": "'Ana je plivala pola sata' — Ana swam for half an hour."
+    },
+    {
+      "id": "past-tense-q5",
+      "prompt": "What language did Ana and Ivana use to speak with the Japanese tourists?",
+      "promptHr": "Kojim jezikom su Ana i Ivana razgovarale s japanskim turistima?",
+      "options": ["Croatian", "Japanese", "German", "English"],
+      "correctIndex": 3,
+      "explanation": "'Razgovarale su s njima na engleskom.' — They chatted with them in English."
+    }
+  ],
+  "test": [
+    {
+      "id": "past-tense-q6",
+      "prompt": "What is the masculine singular past participle of 'raditi' (to work)?",
+      "options": ["radila", "radilo", "radio", "radili"],
+      "correctIndex": 2,
+      "explanation": "Masculine singular past participle of raditi is 'radio'."
+    },
+    {
+      "id": "past-tense-q7",
+      "prompt": "What is the feminine singular past participle of 'govoriti' (to speak)?",
+      "options": ["govorio", "govorila", "govorilo", "govorili"],
+      "correctIndex": 1,
+      "explanation": "Feminine singular: 'govorila'."
+    },
+    {
+      "id": "past-tense-q8",
+      "prompt": "What is the neuter singular past participle of 'pisati' (to write)?",
+      "options": ["pisao", "pisala", "pisalo", "pisali"],
+      "correctIndex": 2,
+      "explanation": "Neuter singular: 'pisalo'."
+    },
+    {
+      "id": "past-tense-q9",
+      "prompt": "What is the masculine plural past participle of 'čitati' (to read)?",
+      "options": ["čitao", "čitala", "čitalo", "čitali"],
+      "correctIndex": 3,
+      "explanation": "Masculine plural: 'čitali'."
+    },
+    {
+      "id": "past-tense-q10",
+      "prompt": "Complete: 'Marko ___ jeo.' (Marko ate.)",
+      "options": ["sam", "si", "je", "su"],
+      "correctIndex": 2,
+      "explanation": "Third person singular: 'je'. 'Marko je jeo.'"
+    },
+    {
+      "id": "past-tense-q11",
+      "prompt": "Complete: 'Mi ___ radili.' (We worked.)",
+      "options": ["sam", "smo", "ste", "su"],
+      "correctIndex": 1,
+      "explanation": "First person plural: 'smo'. 'Mi smo radili.'"
+    },
+    {
+      "id": "past-tense-q12",
+      "prompt": "Complete: 'Ja ___ spavala.' (I slept. — female speaker)",
+      "options": ["si", "je", "sam", "smo"],
+      "correctIndex": 2,
+      "explanation": "First person singular: 'sam'. 'Ja sam spavala.'"
+    },
+    {
+      "id": "past-tense-q13",
+      "prompt": "Complete: 'Vi ___ govorili.' (You [plural] spoke.)",
+      "options": ["ste", "su", "smo", "sam"],
+      "correctIndex": 0,
+      "explanation": "Second person plural: 'ste'. 'Vi ste govorili.'"
+    },
+    {
+      "id": "past-tense-q14",
+      "prompt": "Which is the correct negative past form for 'I did not work' (male speaker)?",
+      "options": ["Ja sam ne radio.", "Ja nisam radio.", "Ja ne sam radio.", "Ja radio nisam."],
+      "correctIndex": 1,
+      "explanation": "Negative past uses 'nisam': 'Ja nisam radio.'"
+    },
+    {
+      "id": "past-tense-q15",
+      "prompt": "Which is the correct negative past form for 'She did not eat'?",
+      "options": ["Ona nije jela.", "Ona ne je jela.", "Ona sam nije jela.", "Ona jela nije."],
+      "correctIndex": 0,
+      "explanation": "'Ona nije jela.' — nije is the third person singular negative form of biti."
+    },
+    {
+      "id": "past-tense-q16",
+      "prompt": "What is the irregular masculine past participle of 'ići' (to go)?",
+      "options": ["idio", "išao", "ideo", "išli"],
+      "correctIndex": 1,
+      "explanation": "The irregular past participle of ići (masc. sg.) is 'išao'."
+    },
+    {
+      "id": "past-tense-q17",
+      "prompt": "What is the masculine singular past participle of 'moći' (to be able)?",
+      "options": ["mogo", "mogla", "mogao", "mogli"],
+      "correctIndex": 2,
+      "explanation": "Irregular: moći → mogao (masc. sg.)."
+    },
+    {
+      "id": "past-tense-q18",
+      "prompt": "What is the feminine past participle of 'biti' (to be)?",
+      "options": ["bio", "bila", "bilo", "bili"],
+      "correctIndex": 1,
+      "explanation": "Biti → bila (feminine singular)."
+    },
+    {
+      "id": "past-tense-q19",
+      "prompt": "What does 'Oni su išli u park.' mean?",
+      "options": ["They are going to the park.", "They went to the park.", "They will go to the park.", "They want to go to the park."],
+      "correctIndex": 1,
+      "explanation": "'Išli' is the masculine plural past participle of ići. 'Oni su išli' = They went."
+    },
+    {
+      "id": "past-tense-q20",
+      "prompt": "How do you say 'We were tired.' in Croatian? (mixed or male group)",
+      "options": ["Bili smo umorni.", "Bile smo umorne.", "Smo bili umorni.", "Bili su umorni."],
+      "correctIndex": 0,
+      "explanation": "'Bili smo umorni.' — bili is the masculine plural participle of biti; smo = we were."
+    },
+    {
+      "id": "past-tense-q21",
+      "prompt": "What is the correct Croatian translation of 'Did you (singular) see the film?' (yes/no question)?",
+      "options": ["Ti si vidio film?", "Jesi li vidio film?", "Si vidio film?", "Vidio film jesi?"],
+      "correctIndex": 1,
+      "explanation": "Yes/no questions in past tense use 'Jesi li...?' for second person singular."
+    },
+    {
+      "id": "past-tense-q22",
+      "prompt": "Choose the correct sentence: 'Yesterday I read a book.' (male speaker)",
+      "options": ["Jučer sam čitao knjigu.", "Jučer sam čitala knjigu.", "Jučer čitao sam knjigu.", "Jučer sam čitali knjigu."],
+      "correctIndex": 0,
+      "explanation": "'Jučer sam čitao knjigu.' — male speaker, singular, correct clitic placement."
+    },
+    {
+      "id": "past-tense-q23",
+      "prompt": "Which sentence correctly says 'They did not understand.'?",
+      "options": ["Oni nisu razumjeli.", "Oni ne su razumjeli.", "Oni nisam razumjeli.", "Nisu oni razumjeli."],
+      "correctIndex": 0,
+      "explanation": "'Nisu' is the third person plural negative form: 'Oni nisu razumjeli.'"
+    },
+    {
+      "id": "past-tense-q24",
+      "prompt": "What does 'Prošli tjedan' mean?",
+      "options": ["Next week", "This week", "Last week", "Every week"],
+      "correctIndex": 2,
+      "explanation": "'Prošli tjedan' = last week."
+    },
+    {
+      "id": "past-tense-q25",
+      "prompt": "Complete: 'Ana i Ivan ___ kupili kartu.' (Ana and Ivan bought a ticket.)",
+      "options": ["je", "sam", "su", "smo"],
+      "correctIndex": 2,
+      "explanation": "Third person plural: 'su'. 'Ana i Ivan su kupili kartu.'"
+    },
+    {
+      "id": "past-tense-q26",
+      "prompt": "Which is the correct past tense of 'doći' (to come) — feminine singular?",
+      "options": ["dosla", "došlo", "došla", "dolazila"],
+      "correctIndex": 2,
+      "explanation": "Doći → došla (feminine singular). Note the š."
+    },
+    {
+      "id": "past-tense-q27",
+      "prompt": "How do you say 'I was not at home.' (female speaker)?",
+      "options": ["Nisam bila kod kuće.", "Nisam bio kod kuće.", "Nije bila kod kuće.", "Sam nisam bila kod kuće."],
+      "correctIndex": 0,
+      "explanation": "Female speaker: 'Nisam bila kod kuće.' — nisam + bila (feminine participle of biti)."
+    },
+    {
+      "id": "past-tense-q28",
+      "prompt": "Translate: 'She worked at a school.'",
+      "options": ["Ona je radila u školi.", "Ona je radio u školi.", "Ona je radilo u školi.", "Ona su radila u školi."],
+      "correctIndex": 0,
+      "explanation": "She (ona) → feminine participle 'radila', biti form 'je': 'Ona je radila u školi.'"
+    },
+    {
+      "id": "past-tense-q29",
+      "prompt": "Which time expression means 'the day before yesterday'?",
+      "options": ["Jučer", "Prekjučer", "Prošle godine", "Nedavno"],
+      "correctIndex": 1,
+      "explanation": "'Prekjučer' = the day before yesterday. 'Jučer' = yesterday."
+    },
+    {
+      "id": "past-tense-q30",
+      "prompt": "Choose the correct Croatian sentence: 'You (plural) did not come to the meeting.'",
+      "options": ["Vi niste došli na sastanak.", "Vi nisu došli na sastanak.", "Vi niste dolazili na sastanku.", "Vi nije došli na sastanak."],
+      "correctIndex": 0,
+      "explanation": "'Niste' is the second person plural negative: 'Vi niste došli na sastanak.'"
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Yesterday & last week",
+      "items": [
+        { "hr": "jučer", "en": "yesterday" },
+        { "hr": "prekjučer", "en": "the day before yesterday" },
+        { "hr": "prošli tjedan", "en": "last week" },
+        { "hr": "prošle godine", "en": "last year" },
+        { "hr": "prošli mjesec", "en": "last month" },
+        { "hr": "nedavno", "en": "recently" },
+        { "hr": "prije tri dana", "en": "three days ago" }
+      ]
+    },
+    {
+      "context": "Common verbs in past tense",
+      "items": [
+        { "hr": "radio / radila", "en": "worked (m/f)", "note": "from raditi" },
+        { "hr": "jeo / jela", "en": "ate (m/f)", "note": "from jesti; irregular" },
+        { "hr": "pio / pila", "en": "drank (m/f)", "note": "from piti; irregular" },
+        { "hr": "išao / išla", "en": "went (m/f)", "note": "from ići; irregular" },
+        { "hr": "rekao / rekla", "en": "said (m/f)", "note": "from reći; irregular" },
+        { "hr": "vidio / vidjela", "en": "saw (m/f)", "note": "from vidjeti" },
+        { "hr": "čitao / čitala", "en": "read (m/f)", "note": "from čitati" },
+        { "hr": "kupio / kupila", "en": "bought (m/f)", "note": "from kupiti" }
+      ]
+    },
+    {
+      "context": "Past tense of biti (to be)",
+      "items": [
+        { "hr": "bio sam / bila sam", "en": "I was (m/f)" },
+        { "hr": "bio si / bila si", "en": "you were (m/f, singular)" },
+        { "hr": "bio je / bila je", "en": "he was / she was" },
+        { "hr": "bili smo / bile smo", "en": "we were (m/f group)" },
+        { "hr": "bili ste / bile ste", "en": "you were (m/f, plural)" },
+        { "hr": "bili su / bile su", "en": "they were (m/f group)" }
+      ]
+    },
+    {
+      "context": "Negative past",
+      "items": [
+        { "hr": "nisam radio / radila", "en": "I did not work (m/f)" },
+        { "hr": "nisi išao / išla", "en": "you did not go (m/f, sg.)" },
+        { "hr": "nije jeo / jela", "en": "he/she did not eat" },
+        { "hr": "nismo kupili", "en": "we did not buy" },
+        { "hr": "niste razumjeli", "en": "you (pl.) did not understand" },
+        { "hr": "nisu došli", "en": "they did not come" }
+      ]
+    },
+    {
+      "context": "Useful past time expressions",
+      "items": [
+        { "hr": "jutros", "en": "this morning" },
+        { "hr": "sinoć", "en": "last night / yesterday evening" },
+        { "hr": "prošlog vikenda", "en": "last weekend" },
+        { "hr": "tada", "en": "then / at that time" },
+        { "hr": "već", "en": "already" },
+        { "hr": "još", "en": "still / yet" },
+        { "hr": "nikad", "en": "never", "note": "used with nije/nisam: nikad nisam bio = I have never been" }
+      ]
+    }
+  ]
+}

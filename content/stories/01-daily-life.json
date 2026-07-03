@@ -1,0 +1,60 @@
+{
+  "id": "daily-life",
+  "level": "a1",
+  "order": 1,
+  "title": { "hr": "Anin dan u Zagrebu", "en": "Ana's Day in Zagreb" },
+  "topicsUsed": ["greetings", "present-tense", "daily-routine", "noun-gender", "reflexive-verbs"],
+  "paragraphs": [
+    {
+      "hr": "Zovem se Ana i imam dvadeset i pet godina. Ja sam učiteljica engleskog jezika u osnovnoj školi u centru Zagreba. Živim u malom stanu s prijateljicom Majom, blizu tramvajske stanice. Volim Zagreb jer je grad uvijek pun života i nema dana kad se nešto zanimljivo ne dogodi.",
+      "en": "My name is Ana and I am twenty-five years old. I am an English teacher at a primary school in the centre of Zagreb. I live in a small flat with my friend Maja, near the tram stop. I love Zagreb because the city is always full of life and there is not a day when something interesting does not happen."
+    },
+    {
+      "hr": "Svako jutro se budim u šest i trideset. Prvo se tuširam i oblačim se, a onda idem u kuhinju pripremiti doručak. Maja se budi dvadeset minuta kasnije — ona radi u uredu koji počinje u devet. Za doručak obično popijem crnu kavu i pojem komad kruha s marmeladom. Jutro je moj omiljeni dio dana.",
+      "en": "Every morning I wake up at half past six. First I shower and get dressed, then I go to the kitchen to prepare breakfast. Maja wakes up twenty minutes later — she works in an office that starts at nine. For breakfast I usually drink a black coffee and eat a slice of bread with jam. Morning is my favourite part of the day."
+    },
+    {
+      "hr": "U četvrt do osam idem na tramvajsku stanicu. Tramvaj broj četrnaest vozi me do škole za dvadesetak minuta. U tramvaju uvijek čitam novosti na mobitelu ili slušam glazbu. Škola počinje točno u osam sati i učitelji moramo biti tamo pet minuta ranije. Ravnatelj škole, gospodin Horvat, svako jutro stoji pred ulazom i govori Dobro jutro! svim učenicima.",
+      "en": "At quarter to eight I go to the tram stop. Tram number fourteen takes me to school in about twenty minutes. On the tram I always read the news on my phone or listen to music. School starts at exactly eight o'clock and teachers must be there five minutes earlier. The school principal, Mr Horvat, stands at the entrance every morning and says Good morning! to all the students."
+    },
+    {
+      "hr": "Moji učenici imaju između deset i četrnaest godina i puni su energije. Danas smo učili pozdrave na engleskom i djeca su bila oduševljena. Jedna djevojčica po imenu Mia rekla je Dobar dan, gospođo Ana! na engleskom i svi su se nasmijali. Najljepši dio mog posla su ti mali trenuci sreće u razredu.",
+      "en": "My students are between ten and fourteen years old and are full of energy. Today we were learning greetings in English and the children were delighted. A little girl named Mia said Good afternoon, Mrs Ana! in English and everyone laughed. The best part of my job is those small moments of joy in the classroom."
+    },
+    {
+      "hr": "U podne imam pauzu za ručak. Obično jedem s kolegom Markom u malom restoranu blizu škole. Marko je profesor matematike i uvijek nas nasmije pričama o svojim učenicima. Danas smo jeli juhu od povrća i pileći schnitzel. Ručak traje samo trideset minuta, ali je uvijek dobar odmor.",
+      "en": "At noon I have a lunch break. I usually eat with my colleague Marko in a small restaurant near the school. Marko is a maths teacher and always makes us laugh with stories about his students. Today we ate vegetable soup and chicken schnitzel. Lunch is only thirty minutes, but it is always a good rest."
+    },
+    {
+      "hr": "Nakon posla, oko četiri i pol, idem trčati u park Zrinjevac koji je u centru grada. Trčim oko trideset minuta i onda sjednem na klupu i gledam ljude koji prolaze. Park je uvijek lijep — ljeti su cvijeće i drveće zeleni, a zimi je tih i miran. Danas sam vidjela kako stari par hoda polako, ruku pod ruku, i to mi je uljepšalo dan.",
+      "en": "After work, at around half past four, I go jogging in Zrinjevac park which is in the city centre. I jog for about thirty minutes and then sit on a bench and watch the people passing by. The park is always beautiful — in summer the flowers and trees are green, and in winter it is quiet and peaceful. Today I saw an old couple walking slowly, arm in arm, and that brightened my day."
+    },
+    {
+      "hr": "Navečer Maja i ja zajedno kuhamo večeru. Danas kuhamo tjesteninu s rajčicama i češnjakom — brzo i ukusno! Dok jedemo razgovaramo o danu i smijemo se. Poslije večere Maja gleda serije na televiziji, a ja čitam knjige. U deset sati navečer obično idem spavati jer me sutra čeka novi dan pun djece, engleskog i malih radosti.",
+      "en": "In the evening Maja and I cook dinner together. Today we are cooking pasta with tomatoes and garlic — quick and delicious! While we eat we talk about the day and laugh. After dinner Maja watches series on television, while I read books. At ten o'clock in the evening I usually go to sleep because a new day full of children, English and small joys awaits me tomorrow."
+    }
+  ],
+  "vocabulary": {
+    "verbs": [
+      { "hr": "buditi se", "en": "to wake up" },
+      { "hr": "oblačiti se", "en": "to get dressed" },
+      { "hr": "trčati", "en": "to run / to jog" },
+      { "hr": "kuhati", "en": "to cook" },
+      { "hr": "smijati se", "en": "to laugh" }
+    ],
+    "nouns": [
+      { "hr": "jutro", "en": "morning" },
+      { "hr": "tramvaj", "en": "tram" },
+      { "hr": "ručak", "en": "lunch" },
+      { "hr": "park", "en": "park" },
+      { "hr": "večera", "en": "dinner" }
+    ],
+    "adjectives": [
+      { "hr": "omiljeni / omiljena", "en": "favourite" },
+      { "hr": "zanimljiv / zanimljiva", "en": "interesting" },
+      { "hr": "miran / mirna", "en": "peaceful / quiet" },
+      { "hr": "ukusan / ukusna", "en": "delicious" },
+      { "hr": "pun / puna", "en": "full of" }
+    ]
+  }
+}

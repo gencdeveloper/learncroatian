@@ -1,0 +1,526 @@
+{
+  "id": "subordinate-clauses",
+  "level": "b1",
+  "order": 6,
+  "title": {
+    "hr": "Zavisne rečenice",
+    "en": "Subordinate Clauses"
+  },
+  "grammar": {
+    "title": {
+      "hr": "Zavisne rečenice — veznici",
+      "en": "Subordinate Clauses — Conjunctions"
+    },
+    "intro": "A **subordinate clause** (zavisna rečenica) depends on a main clause and is introduced by a **conjunction** (veznik). Croatian uses different conjunctions depending on meaning: content, cause, condition, time, or contrast. Mastering these lets you build complex, natural sentences.\n\n- **da** — that (after verbs of thinking, saying, wanting)\n- **što** — that (after feeling and emotion expressions)\n- **jer / zato što** — because\n- **ako** — if (real condition)\n- **kad / kada** — when\n- **iako** — although, even though\n- **dok** — while\n- **prije nego što** — before\n- **nakon što** — after",
+    "rules": [
+      {
+        "label": "Da — that (thinking, wanting, saying)",
+        "explanation": "**Da** introduces a subordinate clause after verbs of **thinking** (misliti), **wanting** (htjeti, željeti), **saying** (reći, govoriti), **believing** (vjerovati), and **knowing** (znati). The verb in the subordinate clause is in the present or future tense, just as in English.\n\nStructure: **[main clause] + da + [subordinate clause]**",
+        "examples": [
+          { "hr": "Mislim da je Zagreb lijep.", "en": "I think that Zagreb is beautiful." },
+          { "hr": "Htio bih da dođeš.", "en": "I would like you to come." },
+          { "hr": "Vjerujem da ćeš uspjeti.", "en": "I believe that you will succeed." },
+          { "hr": "Znam da govoriš hrvatski.", "en": "I know that you speak Croatian." }
+        ]
+      },
+      {
+        "label": "Što — that (feeling and emotion expressions)",
+        "explanation": "**Što** — not **da** — is used after expressions of **feeling or emotion**: drago mi je (I am glad), žao mi je (I am sorry), čudi me (it surprises me), sramota je (it is a shame), sretna/sretan sam (I am happy). This is a key distinction from English, where 'that' covers both cases.\n\nStructure: **[feeling expression] + što + [subordinate clause]**",
+        "examples": [
+          { "hr": "Drago mi je što si tu.", "en": "I am glad that you are here." },
+          { "hr": "Žao mi je što ne mogu doći.", "en": "I am sorry that I cannot come." },
+          { "hr": "Čudi me što ne zna.", "en": "It surprises me that he does not know." },
+          { "hr": "Sretna sam što te vidim.", "en": "I am happy that I see you." }
+        ]
+      },
+      {
+        "label": "Jer / Zato što — because",
+        "explanation": "Both **jer** and **zato što** mean **because** and introduce a causal clause explaining the reason for the main clause action. **Jer** is slightly more common in speech; **zato što** is slightly more emphatic and common in writing. They are interchangeable in most contexts.\n\nStructure: **[main clause] + jer / zato što + [reason clause]**",
+        "examples": [
+          { "hr": "Nisam došao jer sam bio bolestan.", "en": "I did not come because I was sick." },
+          { "hr": "Kasnim zato što je gužva u prometu.", "en": "I am late because there is traffic." },
+          { "hr": "Volim Zagreb jer je lijep grad.", "en": "I love Zagreb because it is a beautiful city." },
+          { "hr": "Ne mogu spavati jer je bučno.", "en": "I cannot sleep because it is noisy." }
+        ]
+      },
+      {
+        "label": "Ako — if (real condition)",
+        "explanation": "**Ako** introduces a **real conditional** clause — a condition that is possible or likely. The main clause often uses the **future tense** (or present for general truths), while the **ako** clause uses the **present tense** — not the future, unlike English.\n\nStructure: **Ako + [present tense], [future / present tense]**\n\nImportant: do not use the future tense inside the **ako** clause in standard Croatian.",
+        "examples": [
+          { "hr": "Ako dođeš, bit ćemo sretni.", "en": "If you come, we will be happy." },
+          { "hr": "Ako učiš, naučit ćeš.", "en": "If you study, you will learn." },
+          { "hr": "Ako pada kiša, ostat ću doma.", "en": "If it rains, I will stay home." },
+          { "hr": "Ako imaš vremena, nazovi me.", "en": "If you have time, call me." }
+        ]
+      },
+      {
+        "label": "Kad / Kada — when",
+        "explanation": "**Kad** (short form) and **kada** (full form) both mean **when** and introduce temporal clauses. They can refer to **past events** (with past tense) or **future / habitual events** (with present tense in the subordinate clause, not future).\n\nStructure: **Kad + [clause], [main clause]** or **[main clause] + kad + [clause]**",
+        "examples": [
+          { "hr": "Kad sam bio mali, živio sam u Splitu.", "en": "When I was little, I lived in Split." },
+          { "hr": "Nazovi me kad stigneš.", "en": "Call me when you arrive." },
+          { "hr": "Kad pada kiša, čitam knjige.", "en": "When it rains, I read books." },
+          { "hr": "Sretna sam kad te vidim.", "en": "I am happy when I see you." }
+        ]
+      },
+      {
+        "label": "Iako — although, even though",
+        "explanation": "**Iako** introduces a **concessive clause** — it expresses a contrast or contradiction between the subordinate clause and the main clause. It corresponds to 'although' or 'even though' in English. The main clause result is **surprising** given the condition stated in the **iako** clause.\n\nStructure: **Iako + [contrasting clause], [main clause]**",
+        "examples": [
+          { "hr": "Iako je kasno, ostajemo.", "en": "Although it is late, we are staying." },
+          { "hr": "Iako je umoran, radi dalje.", "en": "Although he is tired, he keeps working." },
+          { "hr": "Iako ne govorim dobro, pokušavam.", "en": "Although I do not speak well, I try." },
+          { "hr": "Sviđa mi se London, iako preferiram more.", "en": "I like London, although I prefer the sea." }
+        ]
+      },
+      {
+        "label": "Dok — while",
+        "explanation": "**Dok** introduces a clause of **simultaneity** — two actions happening at the same time. Both clauses usually use the same tense depending on the time frame. **Dok** can also carry a sense of contrast (similar to 'whereas') when the two actions differ in nature.\n\nStructure: **Dok + [simultaneous action], [main action]**",
+        "examples": [
+          { "hr": "Dok čekam, čitam.", "en": "While I wait, I read." },
+          { "hr": "Dok je ona kuhala, on je čistio.", "en": "While she was cooking, he was cleaning." },
+          { "hr": "Slušam glazbu dok radim.", "en": "I listen to music while I work." },
+          { "hr": "Dok ti spavaš, ja učim.", "en": "While you sleep, I study." }
+        ]
+      },
+      {
+        "label": "Prije nego što / Nakon što — before / after",
+        "explanation": "**Prije nego što** means **before** and **nakon što** means **after**. Both introduce temporal clauses showing the sequence of events. The verb tense in the subordinate clause follows logically from the main clause.\n\n- **Prije nego što** + [later action in subordinate] — the main clause event happens first\n- **Nakon što** + [earlier action in subordinate] — the main clause event happens second",
+        "examples": [
+          { "hr": "Prije nego što odem, moram te nazvati.", "en": "Before I leave, I must call you." },
+          { "hr": "Opere ruke prije nego što jede.", "en": "He washes his hands before he eats." },
+          { "hr": "Nakon što završim ispit, doći ću.", "en": "After I finish the exam, I will come." },
+          { "hr": "Nakon što smo večerali, šetali smo po gradu.", "en": "After we had dinner, we walked around the city." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Veznik", "Značenje (en)", "Primjer"],
+      "rows": [
+        ["da", "that (thinking / wanting / saying)", "Mislim da je lijepo."],
+        ["što", "that (after feeling expressions)", "Drago mi je što si tu."],
+        ["jer", "because", "Nisam došao jer sam bio bolestan."],
+        ["zato što", "because (emphatic / written)", "Kasnim zato što je gužva u prometu."],
+        ["ako", "if (real condition)", "Ako dođeš, bit ćemo sretni."],
+        ["kad / kada", "when", "Kad sam bio mali, živio sam u Splitu."],
+        ["iako", "although / even though", "Iako je kasno, ostajemo."],
+        ["dok", "while", "Dok čekam, čitam."],
+        ["prije nego što", "before", "Opere ruke prije nego što jede."],
+        ["nakon što", "after", "Nakon što završim ispit, doći ću."]
+      ]
+    }
+  },
+  "reading": {
+    "title": {
+      "hr": "Anino pismo Marku",
+      "en": "Ana's Letter to Marko"
+    },
+    "paragraphs": [
+      {
+        "hr": "Dragi Marko, pišem ti iz Londona i moram reći da mi jako nedostaje Zagreb. Svaki put kad vidim fotografije Gornjeg grada ili čujem neku pjesmu iz djetinjstva, sjetim se koliko volim naš grad.",
+        "en": "Dear Marko, I am writing to you from London and I must say that I miss Zagreb a lot. Every time I see photos of the Upper Town or hear a song from childhood, I remember how much I love our city."
+      },
+      {
+        "hr": "Drago mi je što sam te posjetila prošlog mjeseca. Bili smo sretni što smo imali toliko lijepo vrijeme — sunce je sjalo svaki dan dok smo šetali Stradunom i sjedili u kafićima uz more.",
+        "en": "I am glad that I visited you last month. We were happy that we had such beautiful weather — the sun shone every day while we walked along Stradun and sat in cafes by the sea."
+      },
+      {
+        "hr": "Vratit ću se u Zagreb čim završim ispite. Još imam tri tjedna učenja, ali znam da ću doći čim budem slobodna. Ako sve bude u redu s ispitima, mogla bih stići već u kolovozu.",
+        "en": "I will return to Zagreb as soon as I finish my exams. I still have three weeks of studying, but I know that I will come as soon as I am free. If everything goes well with the exams, I could arrive as early as August."
+      },
+      {
+        "hr": "Iako je London uzbudljiv i pun mogućnosti, preferiram Jadransko more i mediteransku klimu. Ovdje je nebo često sivo dok kod vas sunce grije gotovo cijeli dan. Čudno mi je što toliko Britanaca dolazi na odmor u Hrvatsku — valjda traže ono što nam je prirodno dano.",
+        "en": "Although London is exciting and full of opportunities, I prefer the Adriatic Sea and the Mediterranean climate. Here the sky is often grey while at your place the sun shines almost all day. It surprises me that so many British people come on holiday to Croatia — I suppose they are looking for what we have been naturally given."
+      },
+      {
+        "hr": "Prije nego što se vratim, htjela bih još malo unaprijediti svoj hrvatski. Pohađam tečaj ovdje u Londonu jer mislim da je bitno govoriti dobro, a ne samo razumjeti. Volim taj jezik zato što me spaja s domom i s tobom.",
+        "en": "Before I come back, I would like to improve my Croatian a little more. I am attending a course here in London because I think it is important to speak well, not just to understand. I love the language because it connects me to home and to you."
+      },
+      {
+        "hr": "Nadam se da si dobro i da sve teče kako treba. Piši mi kad imaš vremena — uvijek se razveselim kad primim tvoju poruku. Do skorog viđenja, Ana.",
+        "en": "I hope you are well and that everything is going as it should. Write to me when you have time — I always cheer up when I receive your message. See you soon, Ana."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "subordinate-clauses-q1",
+      "prompt": "Why does Ana miss Zagreb?",
+      "promptHr": "Zašto Ani nedostaje Zagreb?",
+      "options": [
+        "Because she has never been to London before",
+        "Because seeing photos and hearing songs reminds her how much she loves the city",
+        "Because the weather in London is too hot",
+        "Because she cannot finish her university exams"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana uses a **kad** clause: 'Svaki put kad vidim fotografije… sjetim se koliko volim naš grad.' — Every time she sees photos or hears songs, she remembers how much she loves Zagreb."
+    },
+    {
+      "id": "subordinate-clauses-q2",
+      "prompt": "When will Ana return to Zagreb?",
+      "promptHr": "Kad će se Ana vratiti u Zagreb?",
+      "options": [
+        "She has already returned last month",
+        "She will return after she finishes her exams",
+        "She will return before she starts studying",
+        "She does not plan to return at all"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana writes: 'Vratit ću se u Zagreb čim završim ispite.' — She will return as soon as she finishes her exams. She also mentions August as a possible arrival month if all goes well."
+    },
+    {
+      "id": "subordinate-clauses-q3",
+      "prompt": "How does Ana feel about London compared to Croatia?",
+      "promptHr": "Kako se Ana osjeća prema Londonu u usporedbi s Hrvatskom?",
+      "options": [
+        "She thinks London is more beautiful than any Croatian city",
+        "She finds London boring and wants to leave immediately",
+        "Although London is exciting, she prefers the Adriatic Sea and Mediterranean climate",
+        "She wants to stay in London permanently after her exams"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana uses an **iako** clause: 'Iako je London uzbudljiv… preferiram Jadransko more.' — Although London is exciting, she prefers the Adriatic. The **iako** structure expresses contrast between two facts."
+    },
+    {
+      "id": "subordinate-clauses-q4",
+      "prompt": "Why is Ana attending a Croatian language course in London?",
+      "promptHr": "Zašto Ana pohađa tečaj hrvatskog u Londonu?",
+      "options": [
+        "Because she has completely forgotten how to speak Croatian",
+        "Because she thinks it is important to speak well, not just to understand",
+        "Because her university employer requires it",
+        "Because she wants to teach Croatian to British people in the future"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana explains: 'pohađam tečaj… jer mislim da je bitno govoriti dobro, a ne samo razumjeti.' Two subordinate clauses appear here — a **jer** clause (because) and a **da** clause (that) after **mislim** (I think)."
+    },
+    {
+      "id": "subordinate-clauses-q5",
+      "prompt": "What surprises Ana about British tourists?",
+      "promptHr": "Što Anu čudi u vezi britanskih turista?",
+      "options": [
+        "That they do not enjoy the sea or warm weather",
+        "That so many of them come to Croatia on holiday, perhaps seeking what Croatians naturally have",
+        "That they prefer London over Zagreb as a holiday destination",
+        "That they speak Croatian very fluently"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana writes: 'Čudno mi je što toliko Britanaca dolazi na odmor u Hrvatsku — valjda traže ono što nam je prirodno dano.' The **što** clause follows **čudno mi je** (it surprises me) — a feeling expression that requires **što**, not **da**."
+    }
+  ],
+  "test": [
+    {
+      "id": "subordinate-clauses-q6",
+      "prompt": "Choose the correct conjunction: 'Mislim ___ je Zagreb lijep grad.'",
+      "options": ["što", "da", "jer", "ako"],
+      "correctIndex": 1,
+      "explanation": "**Da** is used after **misliti** (to think), a verb of thinking. 'Mislim da je Zagreb lijep grad.' — I think that Zagreb is a beautiful city. **Što** would be wrong here because **misliti** is not a feeling expression."
+    },
+    {
+      "id": "subordinate-clauses-q7",
+      "prompt": "Choose the correct conjunction: 'Drago mi je ___ si stigao na vrijeme.'",
+      "options": ["da", "jer", "što", "ako"],
+      "correctIndex": 2,
+      "explanation": "**Što** is used after feeling expressions like **drago mi je** (I am glad). 'Drago mi je što si stigao na vrijeme.' — I am glad that you arrived on time. Using **da** here would be a common but incorrect choice."
+    },
+    {
+      "id": "subordinate-clauses-q8",
+      "prompt": "Choose the correct conjunction: 'Htio bih ___ dođeš na moju zabavu.'",
+      "options": ["što", "iako", "kad", "da"],
+      "correctIndex": 3,
+      "explanation": "**Da** follows **htjeti** (to want) when expressing a wish about another person's action. 'Htio bih da dođeš na moju zabavu.' — I would like you to come to my party."
+    },
+    {
+      "id": "subordinate-clauses-q9",
+      "prompt": "Choose the correct conjunction: 'Žao mi je ___ ne možeš ostati dulje.'",
+      "options": ["da", "ako", "što", "dok"],
+      "correctIndex": 2,
+      "explanation": "**Što** follows **žao mi je** (I am sorry), which is a feeling expression. 'Žao mi je što ne možeš ostati dulje.' — I am sorry that you cannot stay longer. **Da** is incorrect after emotion expressions."
+    },
+    {
+      "id": "subordinate-clauses-q10",
+      "prompt": "Which sentence correctly uses 'jer' (because)?",
+      "options": [
+        "Kasnim jer ću propustiti vlak.",
+        "Kasnim jer sam propustio vlak.",
+        "Kasnim jer propustio vlak.",
+        "Kasnim jer da sam propustio vlak."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Kasnim jer sam propustio vlak.' — I am late because I missed the train. **Jer** is followed by a complete clause with a conjugated verb. Option A uses the future tense illogically, C omits the auxiliary verb, and D adds a redundant **da**."
+    },
+    {
+      "id": "subordinate-clauses-q11",
+      "prompt": "Complete the real conditional: 'Ako ___ (imati) vremena, posjetit ću te.'",
+      "options": ["ću imati", "imam", "sam imao", "bih imao"],
+      "correctIndex": 1,
+      "explanation": "In Croatian real conditionals with **ako**, the subordinate clause uses the **present tense** — not the future. 'Ako imam vremena, posjetit ću te.' — If I have time, I will visit you. 'Ću imati' (future) is a very common learner error."
+    },
+    {
+      "id": "subordinate-clauses-q12",
+      "prompt": "Which sentence correctly uses 'kad' (when) with a past event?",
+      "options": [
+        "Kad sam dijete, živio sam u Rijeci.",
+        "Kad biti dijete, živio sam u Rijeci.",
+        "Kad sam bio dijete, živio sam u Rijeci.",
+        "Kad dijete, živio sam u Rijeci."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Kad sam bio dijete, živio sam u Rijeci.' — When I was a child, I lived in Rijeka. The **kad** clause requires a full conjugated past tense: **sam bio** (I was). Option A omits **bio** (the past participle), making it grammatically incomplete."
+    },
+    {
+      "id": "subordinate-clauses-q13",
+      "prompt": "Choose the correct conjunction to express contrast (although): '___ je umoran, nastavlja raditi.'",
+      "options": ["Jer", "Ako", "Iako", "Dok"],
+      "correctIndex": 2,
+      "explanation": "**Iako** means 'although' and introduces a concessive clause. 'Iako je umoran, nastavlja raditi.' — Although he is tired, he continues to work. The contrast is between being tired (subordinate clause) and continuing to work anyway (main clause)."
+    },
+    {
+      "id": "subordinate-clauses-q14",
+      "prompt": "Translate to Croatian: 'While she was cooking, he was cleaning the apartment.'",
+      "options": [
+        "Jer je ona kuhala, on je čistio stan.",
+        "Dok je ona kuhala, on je čistio stan.",
+        "Iako je ona kuhala, on je čistio stan.",
+        "Nakon što je ona kuhala, on je čistio stan."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Dok je ona kuhala, on je čistio stan.' — **Dok** expresses two simultaneous ongoing past actions. **Jer** means 'because', **iako** means 'although', and **nakon što** means 'after' (sequential, not simultaneous)."
+    },
+    {
+      "id": "subordinate-clauses-q15",
+      "prompt": "Translate to Croatian: 'Before I go, I want to say goodbye.'",
+      "options": [
+        "Nakon što odem, htio bih se pozdraviti.",
+        "Prije nego što odem, htio bih se pozdraviti.",
+        "Dok odem, htio bih se pozdraviti.",
+        "Kad odem, htio bih se pozdraviti."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Prije nego što** means 'before'. 'Prije nego što odem, htio bih se pozdraviti.' — Before I go, I want to say goodbye. **Nakon što** means 'after' (opposite meaning), **dok** means 'while', and **kad** means 'when'."
+    },
+    {
+      "id": "subordinate-clauses-q16",
+      "prompt": "Translate to Croatian: 'After she finishes work, she will call you.'",
+      "options": [
+        "Prije nego što završi posao, nazvat će te.",
+        "Kad završi posao, nazvat će te.",
+        "Nakon što završi posao, nazvat će te.",
+        "Dok završi posao, nazvat će te."
+      ],
+      "correctIndex": 2,
+      "explanation": "**Nakon što** means 'after'. 'Nakon što završi posao, nazvat će te.' — After she finishes work, she will call you. **Prije nego što** means 'before' (opposite order), and **dok** means 'while' (simultaneous)."
+    },
+    {
+      "id": "subordinate-clauses-q17",
+      "prompt": "Translate to English: 'Znam da govoriš dobro hrvatski.'",
+      "options": [
+        "I know because you speak Croatian well.",
+        "I know that you speak Croatian well.",
+        "I know when you speak Croatian well.",
+        "I know although you speak Croatian well."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Znam **da**…' — 'I know **that**…'. **Da** after **znati** (to know) introduces a content clause, equivalent to English 'that'. The other translations use wrong conjunctions that would change the meaning entirely."
+    },
+    {
+      "id": "subordinate-clauses-q18",
+      "prompt": "Translate to English: 'Nisam došla jer sam bila bolesna.'",
+      "options": [
+        "I did not come when I was sick.",
+        "I did not come although I was sick.",
+        "I did not come because I was sick.",
+        "I did not come before I was sick."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Nisam došla **jer** sam bila bolesna.' — 'I did not come **because** I was sick.' **Jer** introduces a causal clause giving the reason. Note the feminine past participle **došla** and **bila**, indicating the speaker is female."
+    },
+    {
+      "id": "subordinate-clauses-q19",
+      "prompt": "Choose the correct conjunction: 'Ostajemo vani ___ pada kiša.' (We are staying outside although it is raining.)",
+      "options": ["jer", "da", "iako", "ako"],
+      "correctIndex": 2,
+      "explanation": "The sentence expresses a contrast — staying outside despite the rain. **Iako** (although) is correct here. 'Ostajemo vani iako pada kiša.' **Jer** would mean 'because', which reverses the logic. **Ako** would mean 'if' — a different structure entirely."
+    },
+    {
+      "id": "subordinate-clauses-q20",
+      "prompt": "Which sentence is grammatically correct?",
+      "options": [
+        "Vjerujem što će doći.",
+        "Vjerujem da će doći.",
+        "Vjerujem jer će doći.",
+        "Vjerujem ako će doći."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Vjerovati** (to believe) is a verb of mental state, so it takes **da**. 'Vjerujem da će doći.' — I believe that he will come. **Što** is reserved for feeling expressions, not verbs of cognition or belief."
+    },
+    {
+      "id": "subordinate-clauses-q21",
+      "prompt": "Which sentence correctly uses 'što' after a feeling expression?",
+      "options": [
+        "Mislim što si u pravu.",
+        "Govorim što dolazim.",
+        "Sretna sam što te vidim.",
+        "Znam što govoriš istinu."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Sretna sam **što** te vidim.' — I am happy **that** I see you. **Što** is correct after **sretna sam** (I am happy), a feeling expression. **Misliti** (to think) and **znati** (to know) are cognitive verbs and require **da**, not **što**."
+    },
+    {
+      "id": "subordinate-clauses-q22",
+      "prompt": "What is the key difference between 'ako' and 'iako'?",
+      "options": [
+        "Ako means although; iako means if",
+        "Ako means if (real condition); iako means although / even though",
+        "They are completely interchangeable in Croatian",
+        "Ako is used only in past tense; iako is used only in present tense"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Ako** introduces a real conditional clause (if something is true or possible). **Iako** introduces a concessive clause (although / even though — expressing contrast or surprise). They cannot be swapped: 'Ako je kasno, idemo.' = If it is late, we go. 'Iako je kasno, idemo.' = Although it is late, we go."
+    },
+    {
+      "id": "subordinate-clauses-q23",
+      "prompt": "Translate to Croatian: 'Call me when you arrive in Zagreb.'",
+      "options": [
+        "Nazovi me ako stigneš u Zagreb.",
+        "Nazovi me iako stigneš u Zagreb.",
+        "Nazovi me jer stigneš u Zagreb.",
+        "Nazovi me kad stigneš u Zagreb."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Nazovi me **kad** stigneš u Zagreb.' — Call me **when** you arrive in Zagreb. **Kad** introduces a temporal clause referring to a future event. Note that the **kad** clause uses the present tense **stigneš**, not the future."
+    },
+    {
+      "id": "subordinate-clauses-q24",
+      "prompt": "Translate to Croatian: 'I listen to podcasts while I cook.'",
+      "options": [
+        "Slušam podcastove jer kuham.",
+        "Slušam podcastove dok kuham.",
+        "Slušam podcastove ako kuham.",
+        "Slušam podcastove što kuham."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Slušam podcastove **dok** kuham.' — I listen to podcasts **while** I cook. **Dok** expresses two simultaneous ongoing actions. **Jer** would mean 'because', changing the relationship between the actions entirely."
+    },
+    {
+      "id": "subordinate-clauses-q25",
+      "prompt": "Fill in the blank: 'Moram oprati suđe ___ odem spavati.' (I must wash the dishes before I go to sleep.)",
+      "options": ["nakon što", "dok", "prije nego što", "zato što"],
+      "correctIndex": 2,
+      "explanation": "**Prije nego što** means 'before'. 'Moram oprati suđe **prije nego što** odem spavati.' — I must wash the dishes before I go to sleep. **Nakon što** means 'after' (the dishes would need washing after sleeping — wrong), and **dok** means 'while'."
+    },
+    {
+      "id": "subordinate-clauses-q26",
+      "prompt": "Which two conjunctions share the same meaning and can often be used interchangeably?",
+      "options": [
+        "Ako and iako",
+        "Jer and zato što",
+        "Da and što",
+        "Dok and kad"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Jer** and **zato što** both mean 'because' and are largely interchangeable. **Jer** is more common in everyday speech; **zato što** is slightly more emphatic or common in formal writing. The other pairs have distinct and different meanings."
+    },
+    {
+      "id": "subordinate-clauses-q27",
+      "prompt": "Translate to English: 'Iako ne razumijem sve, uživam u učenju.'",
+      "options": [
+        "Because I do not understand everything, I enjoy learning.",
+        "If I do not understand everything, I enjoy learning.",
+        "Although I do not understand everything, I enjoy learning.",
+        "When I do not understand everything, I enjoy learning."
+      ],
+      "correctIndex": 2,
+      "explanation": "'**Iako** ne razumijem sve, uživam u učenju.' — '**Although** I do not understand everything, I enjoy learning.' **Iako** signals a concessive clause: the enjoyment of learning is surprising given the incomplete understanding."
+    },
+    {
+      "id": "subordinate-clauses-q28",
+      "prompt": "Fill in the blank: '___ završimo posao, idemo na kavu.' (After we finish work, we are going for coffee.)",
+      "options": ["Dok", "Prije nego što", "Ako", "Nakon što"],
+      "correctIndex": 3,
+      "explanation": "**Nakon što** means 'after'. 'Nakon što završimo posao, idemo na kavu.' — After we finish work, we are going for coffee. The going for coffee happens second, after the work is done. **Prije nego što** would mean they go for coffee first — the opposite."
+    },
+    {
+      "id": "subordinate-clauses-q29",
+      "prompt": "Translate to Croatian: 'She is happy that the exam is finished.'",
+      "options": [
+        "Sretna je da je ispit gotov.",
+        "Sretna je što je ispit gotov.",
+        "Sretna je jer je ispit gotov.",
+        "Sretna je ako je ispit gotov."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Sretna je **što** je ispit gotov.' **Što** is required after **sretna je** (she is happy), which is a feeling/emotion expression. Using **da** here would be a very common error — **da** belongs with cognitive verbs (misliti, znati, vjerovati), not emotion expressions."
+    },
+    {
+      "id": "subordinate-clauses-q30",
+      "prompt": "Which sentence correctly expresses a real condition about the future?",
+      "options": [
+        "Ako ću doći, bit ću sretan.",
+        "Ako dođem, bit ću sretan.",
+        "Ako bih došao, bio bih sretan.",
+        "Ako da dođem, bit ću sretan."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ako **dođem**, bit ću sretan.' — If I come, I will be happy. In Croatian real conditionals with **ako**, the subordinate clause uses the **present tense** (dođem), never the future. Option A uses future tense in the **ako** clause (wrong). Option C uses conditional mood — that is for hypothetical, not real, conditions."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Da clauses (that)",
+      "items": [
+        { "hr": "Mislim da je lijepo.", "en": "I think that it is beautiful.", "note": "**da** after misliti (to think)" },
+        { "hr": "Znam da govoriš hrvatski.", "en": "I know that you speak Croatian.", "note": "**da** after znati (to know)" },
+        { "hr": "Vjerujem da će uspjeti.", "en": "I believe that he will succeed.", "note": "**da** after vjerovati (to believe)" },
+        { "hr": "Htio bih da dođeš.", "en": "I would like you to come.", "note": "**da** after htjeti — wish for another person" },
+        { "hr": "Rekao mi je da pričeka.", "en": "He told me to wait.", "note": "**da** after reći (to say / tell)" },
+        { "hr": "Nadam se da ćeš doći.", "en": "I hope that you will come.", "note": "**da** after nadati se (to hope)" }
+      ]
+    },
+    {
+      "context": "Što after feeling verbs",
+      "items": [
+        { "hr": "Drago mi je što si tu.", "en": "I am glad that you are here.", "note": "**što** after drago mi je (I am glad)" },
+        { "hr": "Žao mi je što ne mogu.", "en": "I am sorry that I cannot.", "note": "**što** after žao mi je (I am sorry)" },
+        { "hr": "Sretna sam što te vidim.", "en": "I am happy that I see you.", "note": "**što** after sretna sam (I am happy)" },
+        { "hr": "Čudi me što ne zna.", "en": "It surprises me that he does not know.", "note": "**što** after čuditi (to surprise)" },
+        { "hr": "Sramota je što se to dogodilo.", "en": "It is a shame that this happened.", "note": "**što** after sramota je (it is a shame)" },
+        { "hr": "Lijepo je što si došao.", "en": "It is nice that you came.", "note": "**što** after lijepo je (it is nice)" }
+      ]
+    },
+    {
+      "context": "Jer / Zato što (because)",
+      "items": [
+        { "hr": "Nisam došao jer sam bio bolestan.", "en": "I did not come because I was sick.", "note": "**jer** — common in spoken Croatian" },
+        { "hr": "Kasnim zato što je gužva u prometu.", "en": "I am late because there is traffic.", "note": "**zato što** — slightly more emphatic" },
+        { "hr": "Volim more jer se opuštam uz njega.", "en": "I love the sea because I relax beside it.", "note": "**jer** explaining a preference" },
+        { "hr": "Ne mogu spavati jer je bučno.", "en": "I cannot sleep because it is noisy.", "note": "**jer** giving a reason for inability" },
+        { "hr": "Učim hrvatski zato što mi je zanimljiv.", "en": "I study Croatian because I find it interesting.", "note": "**zato što** expressing motivation" },
+        { "hr": "Nosi kapu jer je hladno.", "en": "He wears a hat because it is cold.", "note": "**jer** — simple cause and effect" }
+      ]
+    },
+    {
+      "context": "Ako (if) — real conditions",
+      "items": [
+        { "hr": "Ako dođeš, bit ćemo sretni.", "en": "If you come, we will be happy.", "note": "**ako** + present → future in main clause" },
+        { "hr": "Ako pada kiša, ostat ću doma.", "en": "If it rains, I will stay home.", "note": "**ako** for a weather condition" },
+        { "hr": "Ako imaš vremena, nazovi me.", "en": "If you have time, call me.", "note": "**ako** with imperative in main clause" },
+        { "hr": "Ako učiš, naučit ćeš.", "en": "If you study, you will learn.", "note": "**ako** for a general truth or motivation" },
+        { "hr": "Doći ću ako budem slobodan.", "en": "I will come if I am free.", "note": "**ako** clause can follow the main clause" },
+        { "hr": "Ako sve bude u redu, krećemo sutra.", "en": "If everything is fine, we leave tomorrow.", "note": "**ako** expressing a plan with a condition" }
+      ]
+    },
+    {
+      "context": "Temporal clauses (kad / dok / prije / nakon)",
+      "items": [
+        { "hr": "Kad sam bio mali, živio sam u Splitu.", "en": "When I was little, I lived in Split.", "note": "**kad** with past tense — specific past period" },
+        { "hr": "Nazovi me kad stigneš.", "en": "Call me when you arrive.", "note": "**kad** with present tense for a future event" },
+        { "hr": "Dok čekam, čitam.", "en": "While I wait, I read.", "note": "**dok** — two simultaneous present actions" },
+        { "hr": "Dok je ona kuhala, on je čistio.", "en": "While she was cooking, he was cleaning.", "note": "**dok** — two simultaneous past actions" },
+        { "hr": "Prije nego što odem, moram te nazvati.", "en": "Before I leave, I must call you.", "note": "**prije nego što** — main clause action happens first" },
+        { "hr": "Nakon što završim ispit, doći ću.", "en": "After I finish the exam, I will come.", "note": "**nakon što** — main clause action happens second" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "id": "home",
+  "level": "a1",
+  "order": 10,
+  "title": { "hr": "Dom i sobe", "en": "Home & Rooms" },
+  "grammar": {
+    "title": { "hr": "Dom: sobe i namještaj", "en": "Home: Rooms and Furniture" },
+    "intro": "Three key patterns for talking about your home:\n\n- **Živim u...** – I live in...\n- **Imam / Nemam** – I have / I don't have\n- **U sobi ima...** – In the room there is/are...\n\n**Dom** or **kuća** = house; **stan** = apartment.",
+    "rules": [
+      {
+        "label": "Rooms of the house",
+        "explanation": "Each room has a specific name. Two-word rooms:\n\n- **dnevna soba** – living room\n- **spavaća soba** – bedroom\n\n**Kupaonica** = bathroom (shower/bath); **wc/zahod** = toilet room.",
+        "examples": [
+          { "hr": "Imam veliku kuhinju.", "en": "I have a big kitchen." },
+          { "hr": "Dnevna soba je lijepa i svijetla.", "en": "The living room is beautiful and bright." },
+          { "hr": "Kupaonica je pored spavaće sobe.", "en": "The bathroom is next to the bedroom." }
+        ]
+      },
+      {
+        "label": "Imam / Nemam + accusative (I have / I don't have)",
+        "explanation": "**Imam** = I have / **Nemam** = I don't have. Both take the accusative case.\n\nFeminine nouns (-a ending) change to -u:\n- kuća → **kuću**\n- soba → **sobu**\n\nMasculine and neuter nouns usually stay the same.",
+        "examples": [
+          { "hr": "Imam stan u centru.", "en": "I have an apartment in the centre." },
+          { "hr": "Nemam vrt.", "en": "I don't have a garden." },
+          { "hr": "Imam malu sobu.", "en": "I have a small room." }
+        ]
+      },
+      {
+        "label": "Živim u... (I live in...)",
+        "explanation": "Use **Živim u...** to say where you live. After **u**, the noun takes the locative case:\n\n- **u kući** – in a house\n- **u stanu** – in an apartment\n- **u gradu** – in the city\n\nException: countryside uses **na** → **živim na selu**.",
+        "examples": [
+          { "hr": "Živim u kući s vrtom.", "en": "I live in a house with a garden." },
+          { "hr": "Živim u stanu na drugom katu.", "en": "I live in an apartment on the second floor." },
+          { "hr": "Ona živi na selu.", "en": "She lives in the countryside." }
+        ]
+      },
+      {
+        "label": "U mojoj sobi ima... (In my room there is/are...)",
+        "explanation": "**Ima** means 'there is/there are' — used without a subject. Combine with a location phrase:\n\n- **U sobi ima krevet.** – In the room there is a bed.\n- **Na stolu ima knjiga.** – On the table there is a book.\n\nThis is the most natural way to describe a space in Croatian.",
+        "examples": [
+          { "hr": "U mojoj sobi ima krevet i ormar.", "en": "In my room there is a bed and a wardrobe." },
+          { "hr": "U dnevnoj sobi ima sofa i stol.", "en": "In the living room there is a sofa and a table." },
+          { "hr": "U kuhinji ima hladnjak i štednjak.", "en": "In the kitchen there is a fridge and a stove." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Room (English)", "Room (Croatian)", "Typical items"],
+      "rows": [
+        ["kitchen", "kuhinja", "stol, stolice, hladnjak, štednjak"],
+        ["living room", "dnevna soba", "sofa, stol, televizor, polica"],
+        ["bedroom", "spavaća soba", "krevet, ormar, lampa, noćni ormarić"],
+        ["bathroom", "kupaonica", "tuš, kada, ogledalo, ručnik"],
+        ["toilet / WC", "wc / zahod", "wc školjka"],
+        ["hallway", "hodnik", "vješalica, tepih, ogledalo"],
+        ["balcony", "balkon", "stolica, stol, cvijeće"],
+        ["garden", "vrt", "trava, cvijeće, drvo"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "hr": "Markov stan", "en": "Marko's Apartment" },
+    "paragraphs": [
+      {
+        "hr": "Ana dolazi u posjet Marku prvi put. On živi u stanu u centru Zagreba, na trećem katu. Stan ima tri sobe, kupaonicu i mali balkon.",
+        "en": "Ana is visiting Marko for the first time. He lives in an apartment in the centre of Zagreb, on the third floor. The apartment has three rooms, a bathroom, and a small balcony."
+      },
+      {
+        "hr": "\"Dobro došla!\" kaže Marko. \"Ovo je hodnik, a ovdje je dnevna soba.\" Dnevna soba je velika i svijetla. U njoj ima sofa, mali stol, polica s knjigama i televizor.",
+        "en": "\"Welcome!\" says Marko. \"This is the hallway, and here is the living room.\" The living room is large and bright. In it there is a sofa, a small table, a bookshelf, and a television."
+      },
+      {
+        "hr": "Zatim Marko pokazuje kuhinju. \"Kuhinja je mala, ali ima sve što trebam: hladnjak, štednjak i mikrovalnu,\" objašnjava on. Na stolu u kuhinji stoje dvije stolice.",
+        "en": "Then Marko shows the kitchen. \"The kitchen is small, but it has everything I need: a fridge, a stove, and a microwave,\" he explains. Two chairs stand at the kitchen table."
+      },
+      {
+        "hr": "\"A ovo je moja spavaća soba,\" kaže Marko. U sobi ima velik krevet, ormar i lampa pored kreveta. Na prozoru su bijele zavjese. Marko kaže: \"Ovo je moja najdraža soba!\"",
+        "en": "\"And this is my bedroom,\" says Marko. In the room there is a large bed, a wardrobe, and a lamp beside the bed. On the window there are white curtains. Marko says: \"This is my favourite room!\""
+      },
+      {
+        "hr": "\"Lijepo!\" kaže Ana. \"Imaš li vrt?\" \"Ne, nemam vrt, ali imam balkon. Na balkonu ima stolica i malo cvijeća. Obožavam tamo piti jutarnju kavu,\" odgovara Marko.",
+        "en": "\"Nice!\" says Ana. \"Do you have a garden?\" \"No, I don't have a garden, but I have a balcony. On the balcony there is a chair and some flowers. I love drinking my morning coffee there,\" answers Marko."
+      },
+      {
+        "hr": "\"A ti, Ana, gdje živiš?\" pita Marko. \"Iznajmljujem malu sobu blizu centra. U sobi ima samo krevet, ormar i stol. Stan je mali, ali je blizu svega,\" odgovara Ana.",
+        "en": "\"And you, Ana, where do you live?\" asks Marko. \"I am renting a small room near the centre. In the room there is only a bed, a wardrobe, and a table. The flat is small, but it is close to everything,\" answers Ana."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "home-q1",
+      "prompt": "Where does Marko live?",
+      "promptHr": "Gdje Marko živi?",
+      "options": [
+        "In a house with a garden in the suburbs",
+        "In an apartment in the city centre on the third floor",
+        "In a rented room near the centre",
+        "In a flat on the ground floor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marko lives in an apartment ('stan') in the centre of Zagreb on the third floor ('na trećem katu')."
+    },
+    {
+      "id": "home-q2",
+      "prompt": "What is in Marko's living room?",
+      "promptHr": "Što se nalazi u Markovoj dnevnoj sobi?",
+      "options": [
+        "A bed, a wardrobe, and a lamp",
+        "A fridge, a stove, and a microwave",
+        "A sofa, a small table, a bookshelf, and a television",
+        "A chair, a table, and flowers"
+      ],
+      "correctIndex": 2,
+      "explanation": "The living room contains a sofa, small table, bookshelf, and television."
+    },
+    {
+      "id": "home-q3",
+      "prompt": "Which room does Marko say is his favourite?",
+      "promptHr": "Koju sobu Marko kaže da mu je najdraža?",
+      "options": [
+        "The kitchen",
+        "The living room",
+        "The balcony",
+        "The bedroom"
+      ],
+      "correctIndex": 3,
+      "explanation": "Marko says 'Ovo je moja najdraža soba!' while showing his bedroom (spavaća soba)."
+    },
+    {
+      "id": "home-q4",
+      "prompt": "Does Marko have a garden?",
+      "promptHr": "Ima li Marko vrt?",
+      "options": [
+        "Yes, a large garden with trees",
+        "Yes, a small garden behind the building",
+        "No, but he has a balcony",
+        "No, and he doesn't have a balcony either"
+      ],
+      "correctIndex": 2,
+      "explanation": "Marko says 'Ne, nemam vrt, ali imam balkon.' (No, I don't have a garden, but I have a balcony.)"
+    },
+    {
+      "id": "home-q5",
+      "prompt": "What does Ana say about where she lives?",
+      "promptHr": "Što Ana kaže o tome gdje živi?",
+      "options": [
+        "She lives in a large apartment with three bedrooms",
+        "She rents a small room near the centre with a bed, wardrobe, and table",
+        "She lives in a house in the suburbs with a garden",
+        "She lives in Marko's building on the first floor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana rents a small room near the centre that contains only a bed, a wardrobe, and a table."
+    }
+  ],
+  "test": [
+    {
+      "id": "home-q6",
+      "prompt": "What does 'kuhinja' mean?",
+      "options": ["bedroom", "bathroom", "kitchen", "living room"],
+      "correctIndex": 2
+    },
+    {
+      "id": "home-q7",
+      "prompt": "How do you say 'bedroom' in Croatian?",
+      "options": ["dnevna soba", "spavaća soba", "kupaonica", "hodnik"],
+      "correctIndex": 1
+    },
+    {
+      "id": "home-q8",
+      "prompt": "What does 'kupaonica' mean?",
+      "options": ["kitchen", "hallway", "bedroom", "bathroom"],
+      "correctIndex": 3
+    },
+    {
+      "id": "home-q9",
+      "prompt": "How do you say 'living room' in Croatian?",
+      "options": ["spavaća soba", "kuhinja", "dnevna soba", "hodnik"],
+      "correctIndex": 2
+    },
+    {
+      "id": "home-q10",
+      "prompt": "What does 'balkon' mean?",
+      "options": ["garden", "hallway", "balcony", "basement"],
+      "correctIndex": 2
+    },
+    {
+      "id": "home-q11",
+      "prompt": "What does 'krevet' mean?",
+      "options": ["chair", "table", "wardrobe", "bed"],
+      "correctIndex": 3
+    },
+    {
+      "id": "home-q12",
+      "prompt": "How do you say 'wardrobe' in Croatian?",
+      "options": ["stol", "ormar", "polica", "lampa"],
+      "correctIndex": 1
+    },
+    {
+      "id": "home-q13",
+      "prompt": "What does 'sofa' mean? (same word in Croatian and English)",
+      "options": ["armchair", "sofa / couch", "table", "shelf"],
+      "correctIndex": 1
+    },
+    {
+      "id": "home-q14",
+      "prompt": "What does 'prozor' mean?",
+      "options": ["door", "window", "floor", "ceiling"],
+      "correctIndex": 1
+    },
+    {
+      "id": "home-q15",
+      "prompt": "How do you say 'I have an apartment' in Croatian?",
+      "options": [
+        "Ja nemam stan.",
+        "Ja imam stan.",
+        "Ja živim stan.",
+        "Ja idem u stan."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Imam' = I have. 'Stan' (masculine) stays the same in the accusative."
+    },
+    {
+      "id": "home-q16",
+      "prompt": "How do you say 'I don't have a garden' in Croatian?",
+      "options": [
+        "Nemam vrt.",
+        "Imam vrt.",
+        "Nema vrt.",
+        "Ne imam vrt."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nemam' is the first-person negative of 'imati': Nemam vrt. (I don't have a garden.)"
+    },
+    {
+      "id": "home-q17",
+      "prompt": "Fill in: 'Živim ___ kući.' (I live in a house.)",
+      "options": ["na", "u", "iza", "kod"],
+      "correctIndex": 1,
+      "explanation": "'Kuća' (house) takes 'u': u kući (locative)."
+    },
+    {
+      "id": "home-q18",
+      "prompt": "How do you say 'I live in the countryside' in Croatian?",
+      "options": [
+        "Živim u selu.",
+        "Živim na selu.",
+        "Živim u gradu.",
+        "Živim na gradu."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Selo' (countryside/village) is a fixed expression that uses 'na': živim na selu."
+    },
+    {
+      "id": "home-q19",
+      "prompt": "What does 'U mojoj sobi ima krevet.' mean?",
+      "options": [
+        "My room is next to the bed.",
+        "I want a bed in my room.",
+        "In my room there is a bed.",
+        "My bed is in the other room."
+      ],
+      "correctIndex": 2,
+      "explanation": "'U mojoj sobi ima' = 'In my room there is/are'. 'Krevet' = bed."
+    },
+    {
+      "id": "home-q20",
+      "prompt": "Fill in: 'U dnevnoj sobi ___ sofa i stol.' (In the living room there is a sofa and a table.)",
+      "options": ["je", "su", "ima", "imaju"],
+      "correctIndex": 2,
+      "explanation": "Use 'ima' (there is/are) to say that something exists in a place: U dnevnoj sobi ima sofa i stol."
+    },
+    {
+      "id": "home-q21",
+      "prompt": "What does 'hodnik' mean?",
+      "options": ["balcony", "hallway", "garden", "staircase"],
+      "correctIndex": 1
+    },
+    {
+      "id": "home-q22",
+      "prompt": "Which sentence means 'The lamp is next to the bed'?",
+      "options": [
+        "Lampa je u krevetu.",
+        "Lampa je iza kreveta.",
+        "Lampa je ispred kreveta.",
+        "Lampa je pored kreveta."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Pored' = next to: Lampa je pored kreveta."
+    },
+    {
+      "id": "home-q23",
+      "prompt": "How do you say 'The book is on the table' in Croatian?",
+      "options": [
+        "Knjiga je u stolu.",
+        "Knjiga je na stolu.",
+        "Knjiga je iza stola.",
+        "Knjiga je pored stola."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Na stolu' = on the table. 'Stol' takes the locative form 'stolu' after 'na'."
+    },
+    {
+      "id": "home-q24",
+      "prompt": "What does 'polica' mean?",
+      "options": ["wardrobe", "table", "shelf", "door"],
+      "correctIndex": 2
+    },
+    {
+      "id": "home-q25",
+      "prompt": "How do you say 'I have a small room' in Croatian?",
+      "options": [
+        "Imam malu kuću.",
+        "Imam mali stan.",
+        "Imam malu sobu.",
+        "Imam mali vrt."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Soba' (room, feminine) changes to 'sobu' in the accusative, and the adjective also takes the feminine accusative form: malu sobu."
+    },
+    {
+      "id": "home-q26",
+      "prompt": "What does 'vrata' mean?",
+      "options": ["windows", "walls", "floors", "doors"],
+      "correctIndex": 3
+    },
+    {
+      "id": "home-q27",
+      "prompt": "Which sentence means 'I live in an apartment'?",
+      "options": [
+        "Živim u kući.",
+        "Živim na selu.",
+        "Živim u stanu.",
+        "Živim u gradu."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Stan' = apartment: Živim u stanu (locative of 'stan')."
+    },
+    {
+      "id": "home-q28",
+      "prompt": "What does 'stolica' mean?",
+      "options": ["table", "chair", "sofa", "bed"],
+      "correctIndex": 1
+    },
+    {
+      "id": "home-q29",
+      "prompt": "Fill in: 'Odjeća je ___ ormaru.' (The clothes are in the wardrobe.)",
+      "options": ["na", "iza", "u", "ispred"],
+      "correctIndex": 2,
+      "explanation": "'Ormar' (wardrobe) is an enclosed space that takes 'u': u ormaru (locative)."
+    },
+    {
+      "id": "home-q30",
+      "prompt": "How do you say 'There is a shelf in the living room' in Croatian?",
+      "options": [
+        "Dnevna soba ima policom.",
+        "U dnevnoj sobi ima polica.",
+        "Dnevna soba je polica.",
+        "Polica je u dnevnoj sobi ima."
+      ],
+      "correctIndex": 1,
+      "explanation": "'U dnevnoj sobi ima polica.' = In the living room there is a shelf. 'Ima' expresses existence here."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Rooms",
+      "items": [
+        { "hr": "kuća", "en": "house" },
+        { "hr": "stan", "en": "apartment / flat" },
+        { "hr": "soba", "en": "room" },
+        { "hr": "kuhinja", "en": "kitchen" },
+        { "hr": "dnevna soba", "en": "living room" },
+        { "hr": "spavaća soba", "en": "bedroom" },
+        { "hr": "kupaonica", "en": "bathroom" },
+        { "hr": "wc / zahod", "en": "toilet / WC" },
+        { "hr": "hodnik", "en": "hallway" },
+        { "hr": "balkon", "en": "balcony" },
+        { "hr": "vrt", "en": "garden" }
+      ]
+    },
+    {
+      "context": "Furniture & objects",
+      "items": [
+        { "hr": "stol", "en": "table" },
+        { "hr": "stolica", "en": "chair" },
+        { "hr": "krevet", "en": "bed" },
+        { "hr": "ormar", "en": "wardrobe" },
+        { "hr": "sofa", "en": "sofa / couch" },
+        { "hr": "prozor", "en": "window" },
+        { "hr": "vrata", "en": "door(s)" },
+        { "hr": "lampa", "en": "lamp" },
+        { "hr": "polica", "en": "shelf" },
+        { "hr": "hladnjak", "en": "fridge" },
+        { "hr": "štednjak", "en": "stove / cooker" },
+        { "hr": "televizor", "en": "television" }
+      ]
+    },
+    {
+      "context": "My home (phrases)",
+      "items": [
+        { "hr": "Živim u kući.", "en": "I live in a house." },
+        { "hr": "Živim u stanu.", "en": "I live in an apartment." },
+        { "hr": "Živim na selu.", "en": "I live in the countryside." },
+        { "hr": "Živim u centru.", "en": "I live in the centre." },
+        { "hr": "Imam stan.", "en": "I have an apartment." },
+        { "hr": "Nemam vrt.", "en": "I don't have a garden." },
+        { "hr": "Iznajmljujem sobu.", "en": "I am renting a room." }
+      ]
+    },
+    {
+      "context": "What's in the room",
+      "items": [
+        { "hr": "U sobi ima krevet.", "en": "In the room there is a bed." },
+        { "hr": "U dnevnoj sobi ima sofa.", "en": "In the living room there is a sofa." },
+        { "hr": "Na stolu ima knjiga.", "en": "On the table there is a book." },
+        { "hr": "U ormaru je odjeća.", "en": "In the wardrobe there are clothes." },
+        { "hr": "Lampa je pored kreveta.", "en": "The lamp is next to the bed." },
+        { "hr": "Knjiga je na polici.", "en": "The book is on the shelf." }
+      ]
+    },
+    {
+      "context": "Describing your home",
+      "items": [
+        { "hr": "Moj stan je velik.", "en": "My apartment is big." },
+        { "hr": "Soba je mala, ali lijepa.", "en": "The room is small, but nice." },
+        { "hr": "Kupaonica je moderna.", "en": "The bathroom is modern." },
+        { "hr": "Stan ima tri sobe.", "en": "The apartment has three rooms." },
+        { "hr": "Moja najdraža soba je dnevna soba.", "en": "My favourite room is the living room." },
+        { "hr": "Stan je blizu centra.", "en": "The apartment is close to the centre." }
+      ]
+    }
+  ]
+}

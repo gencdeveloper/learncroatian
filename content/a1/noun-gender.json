@@ -1,0 +1,397 @@
+{
+  "id": "noun-gender",
+  "level": "a1",
+  "order": 8,
+  "title": { "en": "Nouns & Gender", "hr": "Imenice i rod" },
+  "grammar": {
+    "title": { "en": "Noun Gender in Croatian", "hr": "Rod imenica u hrvatskom" },
+    "intro": "Every Croatian noun has one of three **grammatical genders**: masculine (**muški rod**), feminine (**ženski rod**), or neuter (**srednji rod**).\n\nGender affects adjectives, agreement, and numerals — so it is worth learning early.\n\nThe good news: you can usually **guess the gender from the word ending**.",
+    "rules": [
+      {
+        "label": "Masculine nouns (muški rod) — typically end in a consonant",
+        "explanation": "Most nouns ending in a **consonant** are masculine.\n\n- Numeral: **jedan** (one) — jedan grad\n- Common plural endings: **-i**, **-ovi**, or **-evi**\n\nTip: if **jedan** sounds natural before the noun, it is masculine.",
+        "examples": [
+          { "hr": "grad — gradovi (jedan grad)", "en": "city — cities (one city)" },
+          { "hr": "muzej — muzeji (jedan muzej)", "en": "museum — museums (one museum)" },
+          { "hr": "park — parkovi (jedan park)", "en": "park — parks (one park)" }
+        ]
+      },
+      {
+        "label": "Feminine nouns (ženski rod) — typically end in -a",
+        "explanation": "Most nouns ending in **-a** are feminine.\n\n- Numeral: **jedna** (one) — jedna žena\n- Plural: the **-a** changes to **-e** (žena → žene)\n\nA small group of feminine nouns end in a consonant — see the exceptions rule below.",
+        "examples": [
+          { "hr": "žena — žene (jedna žena)", "en": "woman — women (one woman)" },
+          { "hr": "crkva — crkve (jedna crkva)", "en": "church — churches (one church)" },
+          { "hr": "knjiga — knjige (jedna knjiga)", "en": "book — books (one book)" }
+        ]
+      },
+      {
+        "label": "Neuter nouns (srednji rod) — typically end in -o or -e",
+        "explanation": "Nouns ending in **-o** or **-e** are usually neuter.\n\n- Numeral: **jedno** (one) — jedno more\n- Plural ending: **-a** (vino → vina)\n\nWatch for two common irregulars: **dijete** → djeca (child/children), **ime** → imena (name/names).",
+        "examples": [
+          { "hr": "more — mora (jedno more)", "en": "sea — seas (one sea)" },
+          { "hr": "vino — vina (jedno vino)", "en": "wine — wines (one wine)" },
+          { "hr": "dijete — djeca (jedno dijete)", "en": "child — children (one child) [irregular plural]" }
+        ]
+      },
+      {
+        "label": "Nouns that break the gender rules",
+        "explanation": "Some nouns do not match the expected ending.\n\nEnds in **-a** but masculine (refers to a male person):\n- **tata** (dad), **kolega** (colleague)\n\nEnds in a **consonant** but feminine:\n- **noć** (night), **stvar** (thing), **sol** (salt), **ljubav** (love)\n\nWhen unsure, check a dictionary.",
+        "examples": [
+          { "hr": "tata (m) — jedan tata", "en": "dad (masculine, despite ending in -a)" },
+          { "hr": "noć (f) — jedna noć", "en": "night (feminine, despite ending in a consonant)" },
+          { "hr": "stvar (f) — jedna stvar", "en": "thing (feminine, despite ending in a consonant)" }
+        ]
+      },
+      {
+        "label": "The nominative case — nouns as the subject",
+        "explanation": "Croatian nouns change form depending on their role in the sentence — this is called **case**.\n\nWhen a noun is the **subject** (who does the action), it is in the **nominative case** — the form listed in the dictionary.\n\nFor now, focus on the nominative. Other cases will be introduced step by step in later lessons.",
+        "examples": [
+          { "hr": "Crkva je lijepa.", "en": "The church is beautiful. (crkva is the subject)" },
+          { "hr": "Muzej je zatvoren.", "en": "The museum is closed. (muzej is the subject)" },
+          { "hr": "Djeca su vesela.", "en": "The children are cheerful. (djeca is the subject)" }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Gender", "Typical Ending", "Singular", "English", "Plural", "Plural (English)"],
+      "rows": [
+        ["Masculine", "consonant", "grad", "city", "gradovi", "cities"],
+        ["Masculine", "consonant", "muzej", "museum", "muzeji", "museums"],
+        ["Masculine", "consonant", "brat", "brother", "braća", "brothers (irregular)"],
+        ["Masculine", "consonant", "park", "park", "parkovi", "parks"],
+        ["Feminine", "-a", "žena", "woman", "žene", "women"],
+        ["Feminine", "-a", "knjiga", "book", "knjige", "books"],
+        ["Feminine", "-a", "crkva", "church", "crkve", "churches"],
+        ["Feminine", "-a", "ulica", "street", "ulice", "streets"],
+        ["Neuter", "-o", "vino", "wine", "vina", "wines"],
+        ["Neuter", "-o", "selo", "village", "sela", "villages"],
+        ["Neuter", "-e", "more", "sea", "mora", "seas"],
+        ["Neuter", "-e", "dijete", "child", "djeca", "children (irregular)"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "Ana's Morning in Zagreb", "hr": "Anino jutro u Zagrebu" },
+    "paragraphs": [
+      {
+        "hr": "Ana živi u Zagrebu i voli šetati gradom. Jednog jutra odlučuje posjetiti tržnicu Dolac i Gornji grad. Uzima torbu i izlazi iz kuće.",
+        "en": "Ana lives in Zagreb and loves walking through the city. One morning she decides to visit the Dolac market and the Upper Town. She takes her bag and leaves the house."
+      },
+      {
+        "hr": "Tržnica Dolac je poznata tržnica u centru Zagreba. Tamo ima mnogo štandova s voćem, povrćem i cvijećem. Ana vidi jabuke, mrkve, rajčice i ružičaste ruže.",
+        "en": "The Dolac market is a famous market in the centre of Zagreb. There are many stalls there with fruit, vegetables and flowers. Ana sees apples, carrots, tomatoes and pink roses."
+      },
+      {
+        "hr": "Ana kupuje jabuke i jednu buketicu cvijeća. Prodavačica je ljubazna žena s osmijehom. Cijena je povoljna i tržnica je živahna i vesela.",
+        "en": "Ana buys apples and a small bunch of flowers. The vendor is a friendly woman with a smile. The price is good and the market is lively and cheerful."
+      },
+      {
+        "hr": "Nakon tržnice, Ana ide u Gornji grad. Gornji grad je stari dio Zagreba. Tamo se nalaze crkva, kula i muzej. Zgrada je stara i kamena.",
+        "en": "After the market, Ana goes to the Upper Town. The Upper Town is the old part of Zagreb. There is a church, a tower and a museum there. The building is old and made of stone."
+      },
+      {
+        "hr": "Ana ulazi u crkvu. Crkva je visoka i tiha. Ima lijepe prozore i stare slike. Ana stoji tiho i gleda sve oko sebe.",
+        "en": "Ana enters the church. The church is tall and quiet. It has beautiful windows and old paintings. Ana stands quietly and looks at everything around her."
+      },
+      {
+        "hr": "Na kraju, Ana sjedi u malom parku u Gornjem gradu. Park ima visoko drvo i malu fontanu. Ana pije sok i odmara se. Grad je lijep i Ana je sretna.",
+        "en": "Finally, Ana sits in a small park in the Upper Town. The park has a tall tree and a small fountain. Ana drinks juice and rests. The city is beautiful and Ana is happy."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "noun-gender-q1",
+      "prompt": "What is the name of the market Ana visits?",
+      "promptHr": "Kako se zove tržnica koju Ana posjećuje?",
+      "options": ["Britanac", "Dolac", "Kvaternik", "Jelačić"],
+      "correctIndex": 1,
+      "explanation": "The text says 'Tržnica Dolac je poznata tržnica' — Dolac is the famous market Ana visits."
+    },
+    {
+      "id": "noun-gender-q2",
+      "prompt": "What does Ana buy at the market?",
+      "promptHr": "Što Ana kupuje na tržnici?",
+      "options": ["Carrots and tomatoes", "Apples and a bunch of flowers", "Bread and cheese", "Vegetables and juice"],
+      "correctIndex": 1,
+      "explanation": "'Ana kupuje jabuke i jednu buketicu cvijeća' — she buys apples and a small bunch of flowers."
+    },
+    {
+      "id": "noun-gender-q3",
+      "prompt": "What buildings or places can be found in the Upper Town?",
+      "promptHr": "Što se nalazi u Gornjem gradu?",
+      "options": ["A school, a shop and a restaurant", "A church, a tower and a museum", "A park, a fountain and a café", "A market, a museum and a beach"],
+      "correctIndex": 1,
+      "explanation": "'Tamo se nalaze crkva, kula i muzej' — there is a church, a tower and a museum in the Upper Town."
+    },
+    {
+      "id": "noun-gender-q4",
+      "prompt": "What does Ana see inside the church?",
+      "promptHr": "Što Ana vidi unutar crkve?",
+      "options": ["Old letters and vases", "Trees and a fountain", "Beautiful windows and old paintings", "Stalls and flowers"],
+      "correctIndex": 2,
+      "explanation": "'Ima lijepe prozore i stare slike' — the church has beautiful windows and old paintings."
+    },
+    {
+      "id": "noun-gender-q5",
+      "prompt": "What does Ana drink while resting in the park?",
+      "promptHr": "Što Ana pije dok se odmara u parku?",
+      "options": ["Water", "Coffee", "Juice", "Wine"],
+      "correctIndex": 2,
+      "explanation": "'Ana pije sok' — Ana drinks juice (sok). She is sitting in the park at the end of her walk."
+    }
+  ],
+  "test": [
+    {
+      "id": "noun-gender-q6",
+      "prompt": "What gender is 'grad' (city)?",
+      "options": ["Masculine", "Feminine", "Neuter", "It depends on context"],
+      "correctIndex": 0,
+      "explanation": "'Grad' ends in a consonant, which is the typical masculine ending in Croatian."
+    },
+    {
+      "id": "noun-gender-q7",
+      "prompt": "What gender is 'knjiga' (book)?",
+      "options": ["Masculine", "Feminine", "Neuter", "It can be masculine or feminine"],
+      "correctIndex": 1,
+      "explanation": "'Knjiga' ends in -a, which is the typical feminine ending."
+    },
+    {
+      "id": "noun-gender-q8",
+      "prompt": "What gender is 'more' (sea)?",
+      "options": ["Masculine", "Feminine", "Neuter", "Masculine or Neuter"],
+      "correctIndex": 2,
+      "explanation": "'More' ends in -e, which is a typical neuter ending."
+    },
+    {
+      "id": "noun-gender-q9",
+      "prompt": "What gender is 'dijete' (child)?",
+      "options": ["Masculine", "Feminine", "Neuter", "Masculine or Feminine, depending on the child"],
+      "correctIndex": 2,
+      "explanation": "'Dijete' ends in -e and is neuter regardless of the child's sex. Its plural 'djeca' is irregular."
+    },
+    {
+      "id": "noun-gender-q10",
+      "prompt": "What gender is 'ulica' (street)?",
+      "options": ["Masculine", "Feminine", "Neuter", "It depends on context"],
+      "correctIndex": 1,
+      "explanation": "'Ulica' ends in -a, which is the typical feminine ending in Croatian."
+    },
+    {
+      "id": "noun-gender-q11",
+      "prompt": "Which numeral form matches 'grad' (city)? (one ___)",
+      "options": ["jedna", "jedno", "jedan", "jedne"],
+      "correctIndex": 2,
+      "explanation": "'Grad' is masculine, so it takes 'jedan': jedan grad (one city)."
+    },
+    {
+      "id": "noun-gender-q12",
+      "prompt": "Which numeral form matches 'žena' (woman)? (one ___)",
+      "options": ["jedan", "jedno", "jednog", "jedna"],
+      "correctIndex": 3,
+      "explanation": "'Žena' is feminine, so it takes 'jedna': jedna žena (one woman)."
+    },
+    {
+      "id": "noun-gender-q13",
+      "prompt": "Which numeral form matches 'polje' (field)? (one ___)",
+      "options": ["jedan", "jedno", "jedna", "jednu"],
+      "correctIndex": 1,
+      "explanation": "'Polje' is neuter (ends in -e), so it takes 'jedno': jedno polje (one field)."
+    },
+    {
+      "id": "noun-gender-q14",
+      "prompt": "What is the plural of 'grad' (city)?",
+      "options": ["grade", "gradi", "gradovi", "gradu"],
+      "correctIndex": 2,
+      "explanation": "Masculine nouns often take -ovi in the plural: grad → gradovi (cities)."
+    },
+    {
+      "id": "noun-gender-q15",
+      "prompt": "What is the plural of 'žena' (woman)?",
+      "options": ["ženi", "ženu", "ženas", "žene"],
+      "correctIndex": 3,
+      "explanation": "Feminine nouns ending in -a form their plural by changing -a to -e: žena → žene."
+    },
+    {
+      "id": "noun-gender-q16",
+      "prompt": "What is the plural of 'more' (sea)?",
+      "options": ["morei", "mora", "more", "mori"],
+      "correctIndex": 1,
+      "explanation": "Neuter nouns typically take -a in the plural: more → mora (seas)."
+    },
+    {
+      "id": "noun-gender-q17",
+      "prompt": "Which of these words is feminine?",
+      "options": ["muzej", "park", "crkva", "restoran"],
+      "correctIndex": 2,
+      "explanation": "'Crkva' ends in -a and is feminine. The other three end in consonants and are masculine."
+    },
+    {
+      "id": "noun-gender-q18",
+      "prompt": "Which of these words is neuter?",
+      "options": ["brat", "tržnica", "vino", "dan"],
+      "correctIndex": 2,
+      "explanation": "'Vino' ends in -o, which is a typical neuter ending. 'Brat' and 'dan' are masculine; 'tržnica' is feminine."
+    },
+    {
+      "id": "noun-gender-q19",
+      "prompt": "'Tata' (dad) ends in -a. What gender is it?",
+      "options": ["Feminine, like all nouns ending in -a", "Masculine, as an exception to the rule", "Neuter", "It can be both masculine and feminine"],
+      "correctIndex": 1,
+      "explanation": "'Tata' is an exception: despite ending in -a, it is masculine because it refers to a male person."
+    },
+    {
+      "id": "noun-gender-q20",
+      "prompt": "Which noun is a feminine exception — a feminine noun ending in a consonant?",
+      "options": ["brat", "noć", "muzej", "auto"],
+      "correctIndex": 1,
+      "explanation": "'Noć' (night) ends in a consonant but is feminine — an important exception to the general rule."
+    },
+    {
+      "id": "noun-gender-q21",
+      "prompt": "What is the plural of 'knjiga' (book)?",
+      "options": ["knjigi", "knjige", "knjiga", "knjigovi"],
+      "correctIndex": 1,
+      "explanation": "'Knjiga' is feminine. Its plural is 'knjige' (the final -a changes to -e)."
+    },
+    {
+      "id": "noun-gender-q22",
+      "prompt": "Fill in: '_____ je lijepa.' (The church is beautiful.) Which noun fits the blank?",
+      "options": ["Muzej", "Park", "Crkva", "Grad"],
+      "correctIndex": 2,
+      "explanation": "The adjective 'lijepa' is in its feminine form. Only 'crkva' (church) is feminine; the others are masculine."
+    },
+    {
+      "id": "noun-gender-q23",
+      "prompt": "Translate 'one table'. Choose the correct Croatian form.",
+      "options": ["jedna stol", "jedno stol", "jedan stol", "jednu stol"],
+      "correctIndex": 2,
+      "explanation": "'Stol' (table) ends in a consonant and is masculine, so 'one table' = 'jedan stol'."
+    },
+    {
+      "id": "noun-gender-q24",
+      "prompt": "What is the plural of 'dijete' (child)?",
+      "options": ["dijeti", "djeca", "djecu", "djete"],
+      "correctIndex": 1,
+      "explanation": "'Dijete' has the highly irregular plural 'djeca', which is then treated as a collective feminine noun."
+    },
+    {
+      "id": "noun-gender-q25",
+      "prompt": "Which word is masculine?",
+      "options": ["sestra", "voda", "restoran", "kuća"],
+      "correctIndex": 2,
+      "explanation": "'Restoran' ends in a consonant and is masculine. 'Sestra', 'voda', and 'kuća' all end in -a and are feminine."
+    },
+    {
+      "id": "noun-gender-q26",
+      "prompt": "Fill in: '_____ je staro.' (The sea is old.) Which noun fits the blank?",
+      "options": ["Crkva", "More", "Grad", "Knjiga"],
+      "correctIndex": 1,
+      "explanation": "The adjective 'staro' is in its neuter form. Only 'more' (sea) is neuter; the others are feminine or masculine."
+    },
+    {
+      "id": "noun-gender-q27",
+      "prompt": "Translate 'one child'. Choose the correct Croatian form.",
+      "options": ["jedan dijete", "jedna dijete", "jedno dijete", "jednog dijete"],
+      "correctIndex": 2,
+      "explanation": "'Dijete' (child) is neuter, so 'one child' = 'jedno dijete'."
+    },
+    {
+      "id": "noun-gender-q28",
+      "prompt": "What is the plural of 'muzej' (museum)?",
+      "options": ["muzeja", "muzejovi", "muzeji", "muzeje"],
+      "correctIndex": 2,
+      "explanation": "Masculine nouns ending in -j, -l, or a soft consonant typically take -i in the plural: muzej → muzeji."
+    },
+    {
+      "id": "noun-gender-q29",
+      "prompt": "Which sentence correctly says 'I have one house'?",
+      "options": ["Imam jedan kuću.", "Imam jedna kuću.", "Imam jednu kuću.", "Imam jedno kuću."],
+      "correctIndex": 2,
+      "explanation": "'Kuća' is feminine. As a direct object (accusative case), 'kuća' becomes 'kuću' and 'jedna' becomes 'jednu': 'Imam jednu kuću.'"
+    },
+    {
+      "id": "noun-gender-q30",
+      "prompt": "Which of the following is a neuter noun?",
+      "options": ["park", "tržnica", "kula", "vino"],
+      "correctIndex": 3,
+      "explanation": "'Vino' ends in -o and is neuter. 'Park' is masculine; 'tržnica' and 'kula' are feminine."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Masculine nouns",
+      "items": [
+        { "hr": "grad — gradovi", "en": "city — cities", "note": "masculine; -ovi plural" },
+        { "hr": "muzej — muzeji", "en": "museum — museums", "note": "masculine; -i plural" },
+        { "hr": "park — parkovi", "en": "park — parks", "note": "masculine; -ovi plural" },
+        { "hr": "restoran — restorani", "en": "restaurant — restaurants", "note": "masculine; -i plural" },
+        { "hr": "brat — braća", "en": "brother — brothers", "note": "masculine; highly irregular plural" },
+        { "hr": "dan — dani", "en": "day — days", "note": "masculine; -i plural" },
+        { "hr": "prozor — prozori", "en": "window — windows", "note": "masculine; -i plural" },
+        { "hr": "trg — trgovi", "en": "square — squares", "note": "masculine; vowel inserted before -ovi" },
+        { "hr": "most — mostovi", "en": "bridge — bridges", "note": "masculine; -ovi plural" }
+      ]
+    },
+    {
+      "context": "Feminine nouns",
+      "items": [
+        { "hr": "žena — žene", "en": "woman — women", "note": "feminine; -a → -e plural" },
+        { "hr": "kuća — kuće", "en": "house — houses", "note": "feminine; -a → -e plural" },
+        { "hr": "knjiga — knjige", "en": "book — books", "note": "feminine; -a → -e plural" },
+        { "hr": "ulica — ulice", "en": "street — streets", "note": "feminine; -a → -e plural" },
+        { "hr": "crkva — crkve", "en": "church — churches", "note": "feminine; -a → -e plural" },
+        { "hr": "kula — kule", "en": "tower — towers", "note": "feminine; -a → -e plural" },
+        { "hr": "tržnica — tržnice", "en": "market — markets", "note": "feminine; -a → -e plural" },
+        { "hr": "škola — škole", "en": "school — schools", "note": "feminine; -a → -e plural" },
+        { "hr": "jabuka — jabuke", "en": "apple — apples", "note": "feminine; -a → -e plural" }
+      ]
+    },
+    {
+      "context": "Neuter nouns",
+      "items": [
+        { "hr": "more — mora", "en": "sea — seas", "note": "neuter; -e → -a plural" },
+        { "hr": "polje — polja", "en": "field — fields", "note": "neuter; -e → -a plural" },
+        { "hr": "vino — vina", "en": "wine — wines", "note": "neuter; -o → -a plural" },
+        { "hr": "mlijeko — mlijeka", "en": "milk — (milks)", "note": "neuter; usually uncountable" },
+        { "hr": "selo — sela", "en": "village — villages", "note": "neuter; -o → -a plural" },
+        { "hr": "sunce — sunca", "en": "sun — suns", "note": "neuter; -e → -a plural" },
+        { "hr": "ime — imena", "en": "name — names", "note": "neuter; stem lengthens in plural" },
+        { "hr": "dijete — djeca", "en": "child — children", "note": "neuter singular; irregular collective plural" },
+        { "hr": "pismo — pisma", "en": "letter — letters", "note": "neuter; -o → -a plural" }
+      ]
+    },
+    {
+      "context": "Nouns that break the rules",
+      "items": [
+        { "hr": "tata (m)", "en": "dad (masculine)", "note": "ends in -a but is masculine; jedan tata" },
+        { "hr": "kolega (m)", "en": "colleague (masculine)", "note": "ends in -a but is masculine; jedan kolega" },
+        { "hr": "sudac (m)", "en": "judge (masculine)", "note": "ends in -c (consonant), regularly masculine" },
+        { "hr": "noć (f)", "en": "night (feminine)", "note": "ends in consonant but is feminine; jedna noć" },
+        { "hr": "stvar (f)", "en": "thing (feminine)", "note": "ends in consonant but is feminine; jedna stvar" },
+        { "hr": "sol (f)", "en": "salt (feminine)", "note": "ends in consonant but is feminine; jedna sol" },
+        { "hr": "ljubav (f)", "en": "love (feminine)", "note": "ends in consonant but is feminine; jedna ljubav" },
+        { "hr": "dijete (n) → djeca (f!)", "en": "child (neuter) → children (treated as feminine)", "note": "singular is neuter; plural 'djeca' is collective feminine" }
+      ]
+    },
+    {
+      "context": "Useful nouns around town",
+      "items": [
+        { "hr": "grad (m) — gradovi", "en": "city — cities" },
+        { "hr": "ulica (f) — ulice", "en": "street — streets" },
+        { "hr": "trg (m) — trgovi", "en": "square (in a city) — squares" },
+        { "hr": "most (m) — mostovi", "en": "bridge — bridges" },
+        { "hr": "zgrada (f) — zgrade", "en": "building — buildings" },
+        { "hr": "park (m) — parkovi", "en": "park — parks" },
+        { "hr": "crkva (f) — crkve", "en": "church — churches" },
+        { "hr": "muzej (m) — muzeji", "en": "museum — museums" },
+        { "hr": "restoran (m) — restorani", "en": "restaurant — restaurants" },
+        { "hr": "tržnica (f) — tržnice", "en": "market — markets" },
+        { "hr": "hotel (m) — hoteli", "en": "hotel — hotels" },
+        { "hr": "knjižnica (f) — knjižnice", "en": "library — libraries" },
+        { "hr": "fontana (f) — fontane", "en": "fountain — fountains" }
+      ]
+    }
+  ]
+}

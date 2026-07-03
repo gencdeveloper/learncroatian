@@ -1,0 +1,393 @@
+{
+  "id": "time",
+  "level": "a1",
+  "order": 3,
+  "title": { "hr": "Dani, Mjeseci i Vrijeme", "en": "Days, Months & Time" },
+  "grammar": {
+    "title": { "hr": "Govorenje o vremenu na hrvatskom", "en": "Talking About Time in Croatian" },
+    "intro": "Days of the week and months are always **lowercase** in Croatian.\n\n- 'On Monday' → **u ponedjeljak**\n- 'In January' → **u siječnju**\n\nAsking the time: **Koliko je sati?**\n\nThe form of 'sat' (hour) changes with the number:\n\n- **Sat je jedan.** – 1:00\n- **Dva su sata.** – 2:00–4:00\n- **Pet je sati.** – 5:00 and above\n\nHalf hours: **pola + the next hour** → pola tri = 2:30",
+    "rules": [
+      {
+        "label": "Days of the week (always lowercase)",
+        "explanation": "Croatian day names are **never capitalised** in the middle of a sentence.\n\nUse the preposition **u** before a day name to say 'on Monday', 'on Friday', etc.",
+        "examples": [
+          { "hr": "U ponedjeljak idem na posao.", "en": "On Monday I go to work." },
+          { "hr": "Subota je slobodan dan.", "en": "Saturday is a free day." },
+          { "hr": "Viđamo se u petak.", "en": "We will see each other on Friday." }
+        ]
+      },
+      {
+        "label": "Months of the year (always lowercase)",
+        "explanation": "Croatian month names are always **lowercase**.\n\nTo say 'in [month]', use the locative form with **u**:\n\n- **u siječnju** – in January\n- **u svibnju** – in May",
+        "examples": [
+          { "hr": "Moj rođendan je u svibnju.", "en": "My birthday is in May." },
+          { "hr": "U prosincu slavimo Božić.", "en": "In December we celebrate Christmas." },
+          { "hr": "Volim srpanj jer je vruće.", "en": "I like July because it is hot." }
+        ]
+      },
+      {
+        "label": "Telling the time",
+        "explanation": "Ask the time with **Koliko je sati?**\n\n'Sat' (hour) changes form depending on the number:\n\n- **Sat je jedan.** – 1:00\n- **Dva/tri/četiri su sata.** – 2:00–4:00\n- **Pet je sati.** – 5:00 and above\n\nHalf hours use **pola + next hour**: pola dva = 1:30, pola tri = 2:30.",
+        "examples": [
+          { "hr": "Koliko je sati? — Sat je jedan.", "en": "What time is it? — It is one o'clock." },
+          { "hr": "Tri su sata.", "en": "It is three o'clock." },
+          { "hr": "Pola pet je.", "en": "It is half past four (4:30)." }
+        ]
+      },
+      {
+        "label": "Seasons",
+        "explanation": "The four seasons:\n\n- **proljeće** – spring → u proljeće\n- **ljeto** – summer → **ljeti** (adverbial form)\n- **jesen** – autumn → u jesen\n- **zima** – winter → **zimi** (adverbial form)",
+        "examples": [
+          { "hr": "Ljeti idemo na more.", "en": "In summer we go to the sea." },
+          { "hr": "Zimi je hladno.", "en": "In winter it is cold." },
+          { "hr": "U proljeće sve cvjeta.", "en": "In spring everything blooms." }
+        ]
+      },
+      {
+        "label": "Time expressions: danas, sutra, jučer",
+        "explanation": "Essential time adverbs:\n\n- **danas** – today · **sutra** – tomorrow · **jučer** – yesterday\n\nParts of the day:\n\n- **ujutro** – in the morning\n- **u podne** – at noon\n- **poslijepodne** – in the afternoon\n- **navečer** – in the evening\n- **noću** – at night",
+        "examples": [
+          { "hr": "Danas je lijepo vrijeme.", "en": "Today the weather is nice." },
+          { "hr": "Sutra idem na posao.", "en": "Tomorrow I am going to work." },
+          { "hr": "Jučer sam bio kod liječnika.", "en": "Yesterday I was at the doctor's." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["#", "Day (Croatian)", "Day (English)", "Month (Croatian)", "Month (English)"],
+      "rows": [
+        ["1", "ponedjeljak", "Monday", "siječanj", "January"],
+        ["2", "utorak", "Tuesday", "veljača", "February"],
+        ["3", "srijeda", "Wednesday", "ožujak", "March"],
+        ["4", "četvrtak", "Thursday", "travanj", "April"],
+        ["5", "petak", "Friday", "svibanj", "May"],
+        ["6", "subota", "Saturday", "lipanj", "June"],
+        ["7", "nedjelja", "Sunday", "srpanj", "July"],
+        ["—", "—", "—", "kolovoz", "August"],
+        ["—", "—", "—", "rujan", "September"],
+        ["—", "—", "—", "listopad", "October"],
+        ["—", "—", "—", "studeni", "November"],
+        ["—", "—", "—", "prosinac", "December"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "hr": "Markov zauzet tjedan", "en": "Marko's Busy Week" },
+    "paragraphs": [
+      {
+        "hr": "Zdravo! Ja sam Marko i živim u Zagrebu. Moj tjedan je uvijek zauzet. Rado pričam svojoj prijateljici Ani o svom rasporedu.",
+        "en": "Hello! I am Marko and I live in Zagreb. My week is always busy. I like to tell my friend Ana about my schedule."
+      },
+      {
+        "hr": "U ponedjeljak ujutro idem na tečaj engleskog jezika. Sat počinje u devet sati. U utorak navečer igram košarku s prijateljima u sportskoj dvorani.",
+        "en": "On Monday morning I go to an English language class. The lesson starts at nine o'clock. On Tuesday evening I play basketball with friends at the sports hall."
+      },
+      {
+        "hr": "Srijeda je moj slobodan dan. Ustajem kasno, u deset sati. Pijem kavu i čitam novine. U četvrtak idem u knjižnicu i učim od dva do pet sati poslijepodne.",
+        "en": "Wednesday is my free day. I get up late, at ten o'clock. I drink coffee and read the newspaper. On Thursday I go to the library and study from two to five in the afternoon."
+      },
+      {
+        "hr": "U petak u podne ručam s mamom u restoranu blizu trga. Subota je posebna — ujutro u osam sati idemo na tržnicu i kupujemo svježe voće i povrće.",
+        "en": "On Friday at noon I have lunch with my mum at a restaurant near the square. Saturday is special — at eight o'clock in the morning we go to the market and buy fresh fruit and vegetables."
+      },
+      {
+        "hr": "Nedjelja je dan odmora. Ujutro idem u crkvu, a poslijepodne gledam film kod kuće. Navečer se pripremam za novi radni tjedan.",
+        "en": "Sunday is a rest day. In the morning I go to church, and in the afternoon I watch a film at home. In the evening I prepare for the new working week."
+      },
+      {
+        "hr": "Moj rođendan je u svibnju i slavim ga s obitelji. Ovaj tjedan imam pregled kod liječnika u utorak u tri sata poslijepodne. Ne volim čekaonice, ali zdravlje je važno!",
+        "en": "My birthday is in May and I celebrate it with my family. This week I have a check-up at the doctor on Tuesday at three o'clock in the afternoon. I do not like waiting rooms, but health is important!"
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "time-q1",
+      "prompt": "What time does Marko's English class start on Monday?",
+      "promptHr": "U koliko sati počinje Markov tečaj engleskog u ponedjeljak?",
+      "options": ["At eight o'clock", "At nine o'clock", "At ten o'clock", "At two o'clock"],
+      "correctIndex": 1,
+      "explanation": "The text says 'Sat počinje u devet sati' — the lesson starts at nine o'clock."
+    },
+    {
+      "id": "time-q2",
+      "prompt": "What does Marko do on Tuesday evening?",
+      "promptHr": "Što Marko radi u utorak navečer?",
+      "options": ["He goes to the library", "He has lunch with his mum", "He plays basketball with friends", "He watches a film at home"],
+      "correctIndex": 2,
+      "explanation": "The text says 'U utorak navečer igram košarku s prijateljima' — on Tuesday evening he plays basketball with friends."
+    },
+    {
+      "id": "time-q3",
+      "prompt": "In which month is Marko's birthday?",
+      "promptHr": "U kojem je mjesecu Markov rođendan?",
+      "options": ["In March (ožujak)", "In April (travanj)", "In May (svibanj)", "In June (lipanj)"],
+      "correctIndex": 2,
+      "explanation": "The text says 'Moj rođendan je u svibnju' — his birthday is in May."
+    },
+    {
+      "id": "time-q4",
+      "prompt": "What time does Marko go to the market on Saturday?",
+      "promptHr": "U koliko sati Marko ide na tržnicu u subotu?",
+      "options": ["At seven o'clock", "At eight o'clock", "At nine o'clock", "At ten o'clock"],
+      "correctIndex": 1,
+      "explanation": "The text says 'ujutro u osam sati idemo na tržnicu' — they go to the market at eight o'clock in the morning."
+    },
+    {
+      "id": "time-q5",
+      "prompt": "What does Marko do on Wednesday?",
+      "promptHr": "Što Marko radi u srijedu?",
+      "options": ["He goes to an English class", "He plays basketball", "It is his free day — he gets up late and reads the newspaper", "He goes to church and watches a film"],
+      "correctIndex": 2,
+      "explanation": "Wednesday is Marko's free day ('slobodan dan'). He gets up late at ten and reads the newspaper."
+    }
+  ],
+  "test": [
+    {
+      "id": "time-q6",
+      "prompt": "What does 'ponedjeljak' mean in English?",
+      "options": ["Tuesday", "Monday", "Wednesday", "Thursday"],
+      "correctIndex": 1,
+      "explanation": "'Ponedjeljak' is Monday, the first day of the working week."
+    },
+    {
+      "id": "time-q7",
+      "prompt": "What does 'petak' mean in English?",
+      "options": ["Saturday", "Thursday", "Friday", "Wednesday"],
+      "correctIndex": 2,
+      "explanation": "'Petak' is Friday."
+    },
+    {
+      "id": "time-q8",
+      "prompt": "How do you say 'Saturday' in Croatian?",
+      "options": ["nedjelja", "petak", "četvrtak", "subota"],
+      "correctIndex": 3,
+      "explanation": "'Subota' is Saturday."
+    },
+    {
+      "id": "time-q9",
+      "prompt": "How do you say 'Wednesday' in Croatian?",
+      "options": ["utorak", "srijeda", "četvrtak", "ponedjeljak"],
+      "correctIndex": 1,
+      "explanation": "'Srijeda' is Wednesday."
+    },
+    {
+      "id": "time-q10",
+      "prompt": "What does 'nedjelja' mean in English?",
+      "options": ["Saturday", "Friday", "Monday", "Sunday"],
+      "correctIndex": 3,
+      "explanation": "'Nedjelja' is Sunday, the last day of the week."
+    },
+    {
+      "id": "time-q11",
+      "prompt": "How do you say 'Thursday' in Croatian?",
+      "options": ["subota", "utorak", "četvrtak", "srijeda"],
+      "correctIndex": 2,
+      "explanation": "'Četvrtak' is Thursday."
+    },
+    {
+      "id": "time-q12",
+      "prompt": "How do you say 'Tuesday' in Croatian?",
+      "options": ["petak", "utorak", "ponedjeljak", "nedjelja"],
+      "correctIndex": 1,
+      "explanation": "'Utorak' is Tuesday."
+    },
+    {
+      "id": "time-q13",
+      "prompt": "How do you say 'January' in Croatian?",
+      "options": ["veljača", "travanj", "siječanj", "lipanj"],
+      "correctIndex": 2,
+      "explanation": "'Siječanj' is January, the first month of the year."
+    },
+    {
+      "id": "time-q14",
+      "prompt": "What does 'kolovoz' mean in English?",
+      "options": ["June", "July", "August", "September"],
+      "correctIndex": 2,
+      "explanation": "'Kolovoz' is August, the eighth month."
+    },
+    {
+      "id": "time-q15",
+      "prompt": "How do you say 'December' in Croatian?",
+      "options": ["studeni", "listopad", "rujan", "prosinac"],
+      "correctIndex": 3,
+      "explanation": "'Prosinac' is December, the twelfth and last month of the year."
+    },
+    {
+      "id": "time-q16",
+      "prompt": "What does 'svibanj' mean in English?",
+      "options": ["March", "April", "May", "June"],
+      "correctIndex": 2,
+      "explanation": "'Svibanj' is May, the fifth month."
+    },
+    {
+      "id": "time-q17",
+      "prompt": "How do you say 'October' in Croatian?",
+      "options": ["rujan", "studeni", "prosinac", "listopad"],
+      "correctIndex": 3,
+      "explanation": "'Listopad' is October — the name comes from 'list' (leaf) and 'pad' (fall), the month when leaves fall."
+    },
+    {
+      "id": "time-q18",
+      "prompt": "What does 'Koliko je sati?' mean in English?",
+      "options": ["What day is it?", "What time is it?", "What month is it?", "How long does it take?"],
+      "correctIndex": 1,
+      "explanation": "'Koliko je sati?' literally asks 'How many hours is it?' and is the standard way to ask the time."
+    },
+    {
+      "id": "time-q19",
+      "prompt": "How do you say 'It is two o'clock' in Croatian?",
+      "options": ["Sat je dva.", "Dva je sat.", "Dva su sata.", "Dva su sati."],
+      "correctIndex": 2,
+      "explanation": "For 2, 3 and 4 o'clock, Croatian uses 'su sata': 'Dva su sata', 'Tri su sata', 'Četiri su sata'."
+    },
+    {
+      "id": "time-q20",
+      "prompt": "What does 'Pola tri' mean in English?",
+      "options": ["Three o'clock", "Half past three", "Half past two", "Quarter past three"],
+      "correctIndex": 2,
+      "explanation": "'Pola tri' literally means 'half three' — in Croatian it refers to half past TWO (halfway to three), i.e. 2:30."
+    },
+    {
+      "id": "time-q21",
+      "prompt": "How do you say 'It is one o'clock' in Croatian?",
+      "options": ["Jedan je sat.", "Sat je jedan.", "Jedan su sati.", "Sati je jedan."],
+      "correctIndex": 1,
+      "explanation": "For 1 o'clock, Croatian says 'Sat je jedan' — the hour is one."
+    },
+    {
+      "id": "time-q22",
+      "prompt": "What does 'Pola sedam' mean in English?",
+      "options": ["Half past seven", "Half past six", "Seven o'clock", "Quarter past six"],
+      "correctIndex": 1,
+      "explanation": "'Pola sedam' = half past SIX (6:30), i.e. halfway to seven. In Croatian, 'pola + next hour'."
+    },
+    {
+      "id": "time-q23",
+      "prompt": "Which day comes directly AFTER 'srijeda' (Wednesday)?",
+      "options": ["utorak", "petak", "četvrtak", "ponedjeljak"],
+      "correctIndex": 2,
+      "explanation": "The order is ponedjeljak, utorak, srijeda, četvrtak, petak, subota, nedjelja. Četvrtak (Thursday) follows srijeda."
+    },
+    {
+      "id": "time-q24",
+      "prompt": "Which month comes directly BEFORE 'kolovoz' (August)?",
+      "options": ["lipanj", "rujan", "srpanj", "travanj"],
+      "correctIndex": 2,
+      "explanation": "The month before August (kolovoz) is July (srpanj). Order: lipanj (6), srpanj (7), kolovoz (8)."
+    },
+    {
+      "id": "time-q25",
+      "prompt": "How do you say 'spring' in Croatian?",
+      "options": ["jesen", "zima", "ljeto", "proljeće"],
+      "correctIndex": 3,
+      "explanation": "'Proljeće' is spring. The four seasons: proljeće, ljeto, jesen, zima."
+    },
+    {
+      "id": "time-q26",
+      "prompt": "What does 'ljeto' mean in English?",
+      "options": ["spring", "summer", "autumn", "winter"],
+      "correctIndex": 1,
+      "explanation": "'Ljeto' is summer."
+    },
+    {
+      "id": "time-q27",
+      "prompt": "What does 'ujutro' mean in English?",
+      "options": ["in the evening", "at noon", "in the morning", "at night"],
+      "correctIndex": 2,
+      "explanation": "'Ujutro' means 'in the morning'."
+    },
+    {
+      "id": "time-q28",
+      "prompt": "How do you say 'yesterday' in Croatian?",
+      "options": ["danas", "sutra", "jučer", "uvijek"],
+      "correctIndex": 2,
+      "explanation": "'Jučer' means 'yesterday'. Compare: danas (today), sutra (tomorrow)."
+    },
+    {
+      "id": "time-q29",
+      "prompt": "What does 'navečer' mean in English?",
+      "options": ["in the morning", "at noon", "in the afternoon", "in the evening"],
+      "correctIndex": 3,
+      "explanation": "'Navečer' means 'in the evening'."
+    },
+    {
+      "id": "time-q30",
+      "prompt": "How do you say 'on Monday' in Croatian?",
+      "options": ["od ponedjeljka", "za ponedjeljak", "u ponedjeljak", "na ponedjeljak"],
+      "correctIndex": 2,
+      "explanation": "To express 'on [day of week]', Croatian uses 'u + day': 'u ponedjeljak' (on Monday), 'u petak' (on Friday)."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Days of the week",
+      "items": [
+        { "hr": "ponedjeljak", "en": "Monday" },
+        { "hr": "utorak", "en": "Tuesday" },
+        { "hr": "srijeda", "en": "Wednesday" },
+        { "hr": "četvrtak", "en": "Thursday" },
+        { "hr": "petak", "en": "Friday" },
+        { "hr": "subota", "en": "Saturday" },
+        { "hr": "nedjelja", "en": "Sunday" }
+      ]
+    },
+    {
+      "context": "Months",
+      "items": [
+        { "hr": "siječanj", "en": "January" },
+        { "hr": "veljača", "en": "February" },
+        { "hr": "ožujak", "en": "March" },
+        { "hr": "travanj", "en": "April" },
+        { "hr": "svibanj", "en": "May" },
+        { "hr": "lipanj", "en": "June" },
+        { "hr": "srpanj", "en": "July" },
+        { "hr": "kolovoz", "en": "August" },
+        { "hr": "rujan", "en": "September" },
+        { "hr": "listopad", "en": "October" },
+        { "hr": "studeni", "en": "November" },
+        { "hr": "prosinac", "en": "December" }
+      ]
+    },
+    {
+      "context": "Telling the time",
+      "items": [
+        { "hr": "Koliko je sati?", "en": "What time is it?", "note": "Standard question for asking the time" },
+        { "hr": "Sat je jedan.", "en": "It is one o'clock.", "note": "Use 'sat je' only for 1:00" },
+        { "hr": "Dva su sata.", "en": "It is two o'clock.", "note": "Use 'su sata' for 2:00, 3:00 and 4:00" },
+        { "hr": "Tri su sata.", "en": "It is three o'clock." },
+        { "hr": "Pet je sati.", "en": "It is five o'clock.", "note": "Use 'je sati' for 5:00 and above" },
+        { "hr": "Pola dva.", "en": "Half past one (1:30).", "note": "'Pola + next hour' = half past the previous hour" },
+        { "hr": "Pola tri.", "en": "Half past two (2:30)." },
+        { "hr": "u devet sati", "en": "at nine o'clock", "note": "Use 'u' before specific clock times" }
+      ]
+    },
+    {
+      "context": "Seasons",
+      "items": [
+        { "hr": "proljeće", "en": "spring" },
+        { "hr": "ljeto", "en": "summer" },
+        { "hr": "jesen", "en": "autumn / fall" },
+        { "hr": "zima", "en": "winter" },
+        { "hr": "u proljeće", "en": "in spring" },
+        { "hr": "ljeti", "en": "in summer", "note": "Adverbial form of 'ljeto'" },
+        { "hr": "u jesen", "en": "in autumn" },
+        { "hr": "zimi", "en": "in winter", "note": "Adverbial form of 'zima'" }
+      ]
+    },
+    {
+      "context": "Time expressions",
+      "items": [
+        { "hr": "danas", "en": "today" },
+        { "hr": "sutra", "en": "tomorrow" },
+        { "hr": "jučer", "en": "yesterday" },
+        { "hr": "ujutro", "en": "in the morning" },
+        { "hr": "u podne", "en": "at noon" },
+        { "hr": "poslijepodne", "en": "in the afternoon" },
+        { "hr": "navečer", "en": "in the evening" },
+        { "hr": "noću", "en": "at night" },
+        { "hr": "Kada?", "en": "When?", "note": "Question word for asking about time" }
+      ]
+    }
+  ]
+}

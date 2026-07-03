@@ -1,0 +1,384 @@
+{
+  "id": "numbers",
+  "level": "a1",
+  "order": 2,
+  "title": { "en": "Numbers & Counting", "hr": "Brojevi i brojanje" },
+  "grammar": {
+    "title": { "en": "Croatian Numbers and How to Use Them", "hr": "Hrvatski brojevi i kako ih koristiti" },
+    "intro": "Croatian numbers are used for counting, prices, ages, and phone numbers.\n\nKey patterns:\n\n- **1 and 2** have gender forms that agree with the noun.\n- **5 and above** trigger the genitive plural form of the noun.\n\nThe essential shopping phrase is **Koliko košta?** (How much does it cost?)",
+    "rules": [
+      {
+        "label": "Numbers 1–4 and gender agreement",
+        "explanation": "Numbers **1** and **2** change form to match the noun's gender:\n\n- **jedan** (m) / **jedna** (f) / **jedno** (n) = one\n- **dva** (m/n) / **dvije** (f) = two\n\nNumbers **3** (tri) and **4** (četiri) do not change for gender.",
+        "examples": [
+          { "hr": "jedan euro, jedna kuna, jedno dijete", "en": "one euro (m), one kuna (f), one child (n)" },
+          { "hr": "dva brata, dvije sestre", "en": "two brothers (m), two sisters (f)" },
+          { "hr": "tri jabuke, četiri naranče", "en": "three apples, four oranges" }
+        ]
+      },
+      {
+        "label": "Numbers 5 and above with nouns",
+        "explanation": "From **5 onward**, the noun takes the **genitive plural** form.\n\nThis can look different from the dictionary form of the noun.\n\nAt A1 level, focus on **recognising** this pattern — you don't need to produce it perfectly yet.",
+        "examples": [
+          { "hr": "pet eura", "en": "five euros" },
+          { "hr": "deset minuta", "en": "ten minutes" },
+          { "hr": "dvadeset i tri dana", "en": "twenty-three days" }
+        ]
+      },
+      {
+        "label": "Tens and compound numbers",
+        "explanation": "Croatian tens follow a regular pattern:\n\n- 20 **dvadeset** · 30 **trideset** · 40 **četrdeset** · 50 **pedeset**\n- 60 **šezdeset** · 70 **sedamdeset** · 80 **osamdeset** · 90 **devedeset** · 100 **sto**\n\nCompound numbers use **i** (and): **dvadeset i jedan** (21), **trideset i pet** (35). The 'i' is often dropped in fast speech.",
+        "examples": [
+          { "hr": "dvadeset i jedan euro", "en": "twenty-one euros" },
+          { "hr": "četrdeset i pet minuta", "en": "forty-five minutes" },
+          { "hr": "devedeset i devet kuna", "en": "ninety-nine kuna" }
+        ]
+      },
+      {
+        "label": "Useful number phrases for shopping and daily life",
+        "explanation": "Key phrases for daily life:\n\n- **Koliko košta?** – How much does it cost?\n- **Koliko?** – How many? / How much?\n- **Imam X godina.** – I am X years old (literally 'I have X years').\n\nPhone numbers are read digit by digit. Street numbers follow the street name.",
+        "examples": [
+          { "hr": "Koliko košta ovo?", "en": "How much does this cost?" },
+          { "hr": "Imam dvadeset i tri godine.", "en": "I am twenty-three years old." },
+          { "hr": "Živim na Ilici dvadeset i pet.", "en": "I live at Ilica 25." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Numeral", "Croatian", "Numeral", "Croatian"],
+      "rows": [
+        ["0", "nula", "11", "jedanaest"],
+        ["1", "jedan / jedna", "12", "dvanaest"],
+        ["2", "dva / dvije", "13", "trinaest"],
+        ["3", "tri", "14", "četrnaest"],
+        ["4", "četiri", "15", "petnaest"],
+        ["5", "pet", "16", "šesnaest"],
+        ["6", "šest", "17", "sedamnaest"],
+        ["7", "sedam", "18", "osamnaest"],
+        ["8", "osam", "19", "devetnaest"],
+        ["9", "devet", "20", "dvadeset"],
+        ["10", "deset", "100 / 1000", "sto / tisuća"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "Shopping at the Market in Split", "hr": "Kupovanje na tržnici u Splitu" },
+    "paragraphs": [
+      {
+        "hr": "Ana je u Splitu. Jutros ide na tržnicu rano, u sedam sati. Tržnica je puna boja i mirisa. Prodavači nude voće i povrće. Ana ima dvadeset eura u novčaniku i želi kupiti svježe namirnice.",
+        "en": "Ana is in Split. This morning she goes to the market early, at seven o'clock. The market is full of colours and smells. The vendors offer fruit and vegetables. Ana has twenty euros in her wallet and wants to buy fresh produce."
+      },
+      {
+        "hr": "Ana vidi lijepe crvene jabuke. Pita prodavača: 'Koliko košta kilo jabuka?' Prodavač odgovara: 'Tri eura za kilo, gospođo.' Ana kaže: 'Dobro, dajte mi dva kila, molim.' Prodavač važe jabuke i kaže: 'To je šest eura.'",
+        "en": "Ana sees beautiful red apples. She asks the vendor: 'How much does a kilo of apples cost?' The vendor answers: 'Three euros a kilo, madam.' Ana says: 'Good, give me two kilos, please.' The vendor weighs the apples and says: 'That is six euros.'"
+      },
+      {
+        "hr": "Zatim Ana vidi naranče. 'Koliko košta pet naranči?' pita ona. Prodavač kaže: 'Četiri eura.' Ana kupuje pet naranči i stavlja ih u torbu. Sada ima deset eura manje.",
+        "en": "Then Ana sees oranges. 'How much do five oranges cost?' she asks. The vendor says: 'Four euros.' Ana buys five oranges and puts them in her bag. Now she has ten euros less."
+      },
+      {
+        "hr": "Na idućem štandu Ana kupuje rajčice i krastavce. Rajčice koštaju dva eura za kilo. Ona uzima jedno kilo rajčica i dva krastavca. Prodavačica joj kaže: 'Dva eura i pedeset centi, molim.'",
+        "en": "At the next stall Ana buys tomatoes and cucumbers. Tomatoes cost two euros per kilo. She takes one kilo of tomatoes and two cucumbers. The female vendor says: 'Two euros and fifty cents, please.'"
+      },
+      {
+        "hr": "Na kraju, Ana pita: 'Koliko sve košta zajedno?' Prodavač broji naglas: 'Šest plus četiri plus dva eura i pedeset centi — dvanaest eura i pedeset centi ukupno.' Ana mu daje dvadeset eura.",
+        "en": "At the end, Ana asks: 'How much does everything cost altogether?' The vendor counts aloud: 'Six plus four plus two euros and fifty cents — twelve euros and fifty cents in total.' Ana gives him twenty euros."
+      },
+      {
+        "hr": "Prodavač vraća Ani sedam eura i pedeset centi kusura. 'Hvala lijepo!' kaže Ana. 'Nema na čemu, doviđenja!' odgovara prodavač. Ana odlazi s punom torbom i sretan osmijeh. Voće i povrće koštalo je samo dvanaest eura i pedeset centi.",
+        "en": "The vendor gives Ana seven euros and fifty cents in change. 'Thank you very much!' says Ana. 'Don't mention it, goodbye!' the vendor replies. Ana leaves with a full bag and a happy smile. The fruit and vegetables cost only twelve euros and fifty cents."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "numbers-q1",
+      "prompt": "How much does one kilo of apples cost at the market?",
+      "options": ["Two euros", "Three euros", "Four euros", "Six euros"],
+      "correctIndex": 1,
+      "explanation": "The vendor says 'Tri eura za kilo' (Three euros a kilo). Ana buys two kilos, which costs six euros in total."
+    },
+    {
+      "id": "numbers-q2",
+      "prompt": "How many oranges does Ana buy?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correctIndex": 3,
+      "explanation": "Ana asks 'Koliko košta pet naranči?' (How much do five oranges cost?) and buys five oranges for four euros."
+    },
+    {
+      "id": "numbers-q3",
+      "prompt": "How much does Ana pay in total for all her shopping?",
+      "options": ["Ten euros", "Twelve euros fifty cents", "Fifteen euros", "Twenty euros"],
+      "correctIndex": 1,
+      "explanation": "The vendor counts to a total of 'dvanaest eura i pedeset centi' (twelve euros and fifty cents)."
+    },
+    {
+      "id": "numbers-q4",
+      "prompt": "How much change does Ana receive?",
+      "options": ["Five euros", "Six euros fifty cents", "Seven euros fifty cents", "Eight euros"],
+      "correctIndex": 2,
+      "explanation": "Ana pays twenty euros for a total of twelve euros fifty cents, so she receives 'sedam eura i pedeset centi kusura' (seven euros and fifty cents in change)."
+    },
+    {
+      "id": "numbers-q5",
+      "prompt": "What time does Ana arrive at the market?",
+      "options": ["Six o'clock", "Seven o'clock", "Eight o'clock", "Nine o'clock"],
+      "correctIndex": 1,
+      "explanation": "The text says Ana goes to the market 'u sedam sati' (at seven o'clock)."
+    }
+  ],
+  "test": [
+    {
+      "id": "numbers-q6",
+      "prompt": "What does 'pet' mean?",
+      "options": ["3", "4", "5", "7"],
+      "correctIndex": 2,
+      "explanation": "'Pet' = five (5). This is one of the core number words: jedan (1), dva (2), tri (3), četiri (4), pet (5)."
+    },
+    {
+      "id": "numbers-q7",
+      "prompt": "How do you say 'seven' in Croatian?",
+      "options": ["šest", "sedam", "osam", "devet"],
+      "correctIndex": 1,
+      "explanation": "'Sedam' = seven (7). The sequence is: pet (5), šest (6), sedam (7), osam (8), devet (9), deset (10)."
+    },
+    {
+      "id": "numbers-q8",
+      "prompt": "What number is 'dvanaest'?",
+      "options": ["11", "12", "13", "22"],
+      "correctIndex": 1,
+      "explanation": "'Dvanaest' = twelve (12). It is formed from 'dva' (two) + 'naest' (the teen suffix)."
+    },
+    {
+      "id": "numbers-q9",
+      "prompt": "How do you say 'twenty' in Croatian?",
+      "options": ["deset", "dvadeset", "trideset", "četrdeset"],
+      "correctIndex": 1,
+      "explanation": "'Dvadeset' = twenty (20). Formed from 'dva' (two) + 'deset' (ten). The tens pattern: dvadeset, trideset, četrdeset..."
+    },
+    {
+      "id": "numbers-q10",
+      "prompt": "What does 'sto' mean?",
+      "options": ["10", "50", "100", "1000"],
+      "correctIndex": 2,
+      "explanation": "'Sto' = one hundred (100). The word for one thousand is 'tisuća'."
+    },
+    {
+      "id": "numbers-q11",
+      "prompt": "How do you say 'fifteen' in Croatian?",
+      "options": ["pet", "petnaest", "pedeset", "petica"],
+      "correctIndex": 1,
+      "explanation": "'Petnaest' = fifteen (15). The teen numbers add '-naest' to the base: petnaest (15), šesnaest (16), sedamnaest (17)..."
+    },
+    {
+      "id": "numbers-q12",
+      "prompt": "What number is 'trideset i tri'?",
+      "options": ["23", "30", "33", "303"],
+      "correctIndex": 2,
+      "explanation": "'Trideset' = 30, 'i' = and, 'tri' = 3. So 'trideset i tri' = 33. Croatian compound numbers use 'i' to connect tens and units."
+    },
+    {
+      "id": "numbers-q13",
+      "prompt": "How do you say 'eleven' in Croatian?",
+      "options": ["jedanaest", "deset", "jedandeset", "desetjedan"],
+      "correctIndex": 0,
+      "explanation": "'Jedanaest' = eleven (11). Like other teens, it uses '-naest': jedanaest, dvanaest, trinaest..."
+    },
+    {
+      "id": "numbers-q14",
+      "prompt": "What does 'Koliko košta?' mean?",
+      "options": ["How much does it weigh?", "How far is it?", "How much does it cost?", "How many do you have?"],
+      "correctIndex": 2,
+      "explanation": "'Koliko košta?' is the essential shopping phrase meaning 'How much does it cost?' — 'koliko' = how much, 'košta' = it costs."
+    },
+    {
+      "id": "numbers-q15",
+      "prompt": "Which is the feminine form of 'one' in Croatian?",
+      "options": ["jedan", "jedna", "jedni", "jedno"],
+      "correctIndex": 1,
+      "explanation": "'Jedna' is the feminine form of 'one'. Croatian has three gender forms: jedan (m), jedna (f), jedno (n)."
+    },
+    {
+      "id": "numbers-q16",
+      "prompt": "Which form of 'two' is used with feminine nouns?",
+      "options": ["dva", "dvije", "dvoje", "dvaju"],
+      "correctIndex": 1,
+      "explanation": "'Dvije' is used with feminine nouns (e.g. dvije sestre — two sisters). 'Dva' is used with masculine and neuter nouns."
+    },
+    {
+      "id": "numbers-q17",
+      "prompt": "How do you say 'fifty' in Croatian?",
+      "options": ["petnaest", "pedesetica", "pedeset", "petsto"],
+      "correctIndex": 2,
+      "explanation": "'Pedeset' = fifty (50). The tens: dvadeset (20), trideset (30), četrdeset (40), pedeset (50), šezdeset (60)..."
+    },
+    {
+      "id": "numbers-q18",
+      "prompt": "What does 'tisuća' mean?",
+      "options": ["100", "200", "500", "1000"],
+      "correctIndex": 3,
+      "explanation": "'Tisuća' = one thousand (1000). 'Sto' = 100, 'tisuća' = 1000."
+    },
+    {
+      "id": "numbers-q19",
+      "prompt": "How do you ask 'How many...?' in Croatian?",
+      "options": ["Koliko...?", "Što...?", "Kada...?", "Kako...?"],
+      "correctIndex": 0,
+      "explanation": "'Koliko?' means 'How many?' or 'How much?' — it is the key question word for quantities and prices."
+    },
+    {
+      "id": "numbers-q20",
+      "prompt": "What number is 'šesnaest'?",
+      "options": ["6", "16", "60", "66"],
+      "correctIndex": 1,
+      "explanation": "'Šesnaest' = sixteen (16). It is formed from 'šest' (six) + 'naest' (the teen suffix)."
+    },
+    {
+      "id": "numbers-q21",
+      "prompt": "How do you say 'I am 25 years old' in Croatian?",
+      "options": ["Ja sam dvadeset i pet godina.", "Imam dvadeset i pet godina.", "Meni je dvadeset i pet.", "Ja imam dvadeset i pet star."],
+      "correctIndex": 1,
+      "explanation": "'Imam dvadeset i pet godina.' — Croatian uses 'imam' (I have) for age, not 'ja sam' (I am). Literally: 'I have 25 years.'"
+    },
+    {
+      "id": "numbers-q22",
+      "prompt": "What number is 'devetnaest'?",
+      "options": ["9", "19", "90", "99"],
+      "correctIndex": 1,
+      "explanation": "'Devetnaest' = nineteen (19). Formed from 'devet' (nine) + 'naest' (teen suffix)."
+    },
+    {
+      "id": "numbers-q23",
+      "prompt": "How do you say 'eight' in Croatian?",
+      "options": ["šest", "sedam", "osam", "devet"],
+      "correctIndex": 2,
+      "explanation": "'Osam' = eight (8). The sequence: šest (6), sedam (7), osam (8), devet (9), deset (10)."
+    },
+    {
+      "id": "numbers-q24",
+      "prompt": "What does 'nula' mean?",
+      "options": ["Zero", "One", "Nine", "Null value"],
+      "correctIndex": 0,
+      "explanation": "'Nula' = zero (0). Used for the number zero, in phone numbers, and in temperatures (e.g. nula stupnjeva — zero degrees)."
+    },
+    {
+      "id": "numbers-q25",
+      "prompt": "Fill in the blank: 'Imam _____ godina.' (I am 30 years old)",
+      "options": ["trideset", "trinaest", "tri", "tristo"],
+      "correctIndex": 0,
+      "explanation": "'Trideset' = thirty (30). So 'Imam trideset godina' = 'I am thirty years old' (literally 'I have thirty years')."
+    },
+    {
+      "id": "numbers-q26",
+      "prompt": "What does 'deset eura' mean?",
+      "options": ["One euro", "Ten euros", "A hundred euros", "A thousand euros"],
+      "correctIndex": 1,
+      "explanation": "'Deset' = ten, 'eura' = euros (genitive plural after numbers 5+). So 'deset eura' = ten euros."
+    },
+    {
+      "id": "numbers-q27",
+      "prompt": "How do you say 'fourteen' in Croatian?",
+      "options": ["četiri", "četrnaest", "četrdeset", "šesnaest"],
+      "correctIndex": 1,
+      "explanation": "'Četrnaest' = fourteen (14). Formed from 'četiri' (four) + 'naest', with the vowel shortened: četrnaest."
+    },
+    {
+      "id": "numbers-q28",
+      "prompt": "'Dva eura i pedeset centi' means:",
+      "options": ["Two euros and fifteen cents", "Two euros and fifty cents", "Twenty euros and fifty cents", "Two hundred and fifty cents"],
+      "correctIndex": 1,
+      "explanation": "'Dva' = two, 'eura' = euros, 'i' = and, 'pedeset' = fifty, 'centi' = cents. So: two euros and fifty cents (€2.50)."
+    },
+    {
+      "id": "numbers-q29",
+      "prompt": "How do you say 'three' in Croatian?",
+      "options": ["dva", "tri", "trideset", "trinaest"],
+      "correctIndex": 1,
+      "explanation": "'Tri' = three (3). Unlike 'jedan' and 'dva', 'tri' does not change for gender."
+    },
+    {
+      "id": "numbers-q30",
+      "prompt": "What does 'Koliko je sati?' mean?",
+      "options": ["How many days is it?", "What time is it?", "How many seats are there?", "How old is he?"],
+      "correctIndex": 1,
+      "explanation": "'Koliko je sati?' literally means 'How many hours is it?' and is the standard Croatian way to ask 'What time is it?' — 'sat' (hour/clock) is used for telling time."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Numbers 1–10",
+      "items": [
+        { "hr": "nula", "en": "zero (0)", "note": "Used for zero, in phone numbers, and temperatures" },
+        { "hr": "jedan / jedna / jedno", "en": "one (1)", "note": "Three gender forms: jedan (m), jedna (f), jedno (n)" },
+        { "hr": "dva / dvije", "en": "two (2)", "note": "dva with masculine/neuter nouns; dvije with feminine nouns" },
+        { "hr": "tri", "en": "three (3)", "note": "No gender change" },
+        { "hr": "četiri", "en": "four (4)", "note": "No gender change" },
+        { "hr": "pet", "en": "five (5)", "note": "From 5 onward, the noun takes the genitive plural form" },
+        { "hr": "šest", "en": "six (6)" },
+        { "hr": "sedam", "en": "seven (7)" },
+        { "hr": "osam", "en": "eight (8)" },
+        { "hr": "devet", "en": "nine (9)" },
+        { "hr": "deset", "en": "ten (10)" }
+      ]
+    },
+    {
+      "context": "Numbers 11–20",
+      "items": [
+        { "hr": "jedanaest", "en": "eleven (11)", "note": "jedan + naest; all teens end in -naest" },
+        { "hr": "dvanaest", "en": "twelve (12)" },
+        { "hr": "trinaest", "en": "thirteen (13)" },
+        { "hr": "četrnaest", "en": "fourteen (14)", "note": "Note the vowel shortening from 'četiri'" },
+        { "hr": "petnaest", "en": "fifteen (15)" },
+        { "hr": "šesnaest", "en": "sixteen (16)" },
+        { "hr": "sedamnaest", "en": "seventeen (17)" },
+        { "hr": "osamnaest", "en": "eighteen (18)" },
+        { "hr": "devetnaest", "en": "nineteen (19)" },
+        { "hr": "dvadeset", "en": "twenty (20)", "note": "dva + deset; the first round ten above 10" }
+      ]
+    },
+    {
+      "context": "Tens (20–100)",
+      "items": [
+        { "hr": "dvadeset", "en": "twenty (20)" },
+        { "hr": "trideset", "en": "thirty (30)" },
+        { "hr": "četrdeset", "en": "forty (40)" },
+        { "hr": "pedeset", "en": "fifty (50)" },
+        { "hr": "šezdeset", "en": "sixty (60)" },
+        { "hr": "sedamdeset", "en": "seventy (70)" },
+        { "hr": "osamdeset", "en": "eighty (80)" },
+        { "hr": "devedeset", "en": "ninety (90)" },
+        { "hr": "sto", "en": "one hundred (100)", "note": "'Stotina' is the noun form; 'sto' is used before nouns" },
+        { "hr": "tisuća", "en": "one thousand (1000)" },
+        { "hr": "dvadeset i jedan", "en": "twenty-one (21)", "note": "Compound numbers use 'i' (and) between tens and units" }
+      ]
+    },
+    {
+      "context": "Useful number phrases",
+      "items": [
+        { "hr": "Koliko?", "en": "How many? / How much?", "note": "The essential question word for quantities" },
+        { "hr": "Koliko košta?", "en": "How much does it cost?", "note": "The key shopping question; 'košta' = it costs" },
+        { "hr": "Koliko je sati?", "en": "What time is it?", "note": "Literally 'How many hours is it?'" },
+        { "hr": "Imam X godina.", "en": "I am X years old.", "note": "Literally 'I have X years'; Croatian uses 'imam' (I have) for age" },
+        { "hr": "plus", "en": "plus", "note": "Used in arithmetic; e.g. tri plus četiri = sedam" },
+        { "hr": "minus", "en": "minus", "note": "Used in arithmetic and temperatures" },
+        { "hr": "puta", "en": "times (multiplication)", "note": "e.g. dva puta tri = šest (2 × 3 = 6)" },
+        { "hr": "ukupno", "en": "in total / altogether", "note": "Used when summing up a shopping bill" },
+        { "hr": "kusur", "en": "change (money)", "note": "The money you receive back after overpaying" }
+      ]
+    },
+    {
+      "context": "Prices and shopping",
+      "items": [
+        { "hr": "Koliko košta ovo?", "en": "How much does this cost?", "note": "'Ovo' = this (neuter)" },
+        { "hr": "Koliko košta kilo jabuka?", "en": "How much does a kilo of apples cost?", "note": "'Jabuka' → genitive plural 'jabuka' after 'kilo'" },
+        { "hr": "Dajte mi..., molim.", "en": "Give me..., please.", "note": "Polite way to ask for something in a shop or market" },
+        { "hr": "To je X eura.", "en": "That is X euros.", "note": "'To je' = that is; used when stating a price" },
+        { "hr": "Imate li kusura?", "en": "Do you have change?", "note": "Useful when you only have a large note" },
+        { "hr": "pet eura", "en": "five euros", "note": "Numbers 5+ take genitive plural: 'eura' (gen. pl. of euro)" },
+        { "hr": "dva eura i pedeset centi", "en": "two euros and fifty cents", "note": "How to express prices with cents" },
+        { "hr": "za kilo", "en": "per kilo", "note": "'Za' = for/per; used to express unit prices at a market" },
+        { "hr": "Hvala, doviđenja!", "en": "Thank you, goodbye!", "note": "The standard closing phrase after a transaction" }
+      ]
+    }
+  ]
+}

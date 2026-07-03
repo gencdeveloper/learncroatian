@@ -1,0 +1,60 @@
+{
+  "id": "the-move",
+  "level": "b1",
+  "order": 3,
+  "title": { "hr": "Preseljenje", "en": "The Move" },
+  "topicsUsed": ["conditional", "relative-clauses", "instrumental-case", "verbal-aspect", "indirect-speech"],
+  "paragraphs": [
+    {
+      "hr": "Emma Clark radila je kao novinarka u Londonu deset godina. Hrvatsku je posjetila prvi put 2019. — samo tjedan dana odmora u Dubrovniku. Ali Jadran joj nije dao mira. Svake godine se vraćala: Hvar, Rovinj, Zagreb, Pula. Nakon petog posjeta, u prosincu 2023., donijela je odluku: preselit ću se u Hrvatsku.",
+      "en": "Emma Clark had worked as a journalist in London for ten years. She visited Croatia for the first time in 2019 — just a week's holiday in Dubrovnik. But the Adriatic would not leave her in peace. Every year she returned: Hvar, Rovinj, Zagreb, Pula. After her fifth visit, in December 2023, she made a decision: I will move to Croatia."
+    },
+    {
+      "hr": "Prijatelji su je gledali kao da je izgubila razum. Nisi li sigurna što radiš? pitala je kolegica Maria. Emma im je objasnila da je novinarski posao postajao sve stresniji i da Zagreb nudi drugačiji, mirniji život. Pronašla je oglas za urednika u maloj, ali uglednoj engleskoj publikaciji s uredništvom u Zagrebu i prijavila se.",
+      "en": "Her friends looked at her as if she had lost her mind. Are you sure about what you are doing? her colleague Maria asked. Emma explained to them that the journalist's work had been becoming increasingly stressful and that Zagreb offered a different, calmer life. She found an advertisement for an editor at a small but reputable English-language publication based in Zagreb and applied."
+    },
+    {
+      "hr": "Stan koji je iznajmila u Ilici bio je manji od njezina londonskog stana, ali jeftiniji — plaćala je duplo manje stanarine. Centar Zagreba nudio je sve što je trebala: dobre kafiće, parkove, tržnice i tramvajsku mrežu koja je pokrivala cijeli grad. Jedino što ju je iznenadilo bile su birokratske procedure za privremeni boravak — gomila papira i puno čekanja.",
+      "en": "The flat she rented on Ilica Street was smaller than her London flat, but cheaper — she was paying half the rent. The centre of Zagreb offered everything she needed: good cafés, parks, markets and a tram network that covered the whole city. The only thing that surprised her were the bureaucratic procedures for temporary residence — a pile of paperwork and a lot of waiting."
+    },
+    {
+      "hr": "Da bi se što bolje snašla, Emma se upisala na intenzivni tečaj hrvatskog koji je trajao tri sata dnevno. Profesorica Ivana bila je strpljiva ali zahtjevna — nije dopuštala da studenti govore engleski unutar učionice. Emma je u početku bila frustrirana jer jezik zvuči sasvim drukčije nego što ga je učila iz knjige, ali s vremenom je počela razumjeti sve više.",
+      "en": "In order to settle in as well as possible, Emma enrolled in an intensive Croatian course that ran for three hours a day. The teacher Ivana was patient but demanding — she did not allow students to speak English inside the classroom. Emma was initially frustrated because the language sounds completely different from how she had been learning it from the book, but over time she began to understand more and more."
+    },
+    {
+      "hr": "Susjedstvo joj je pomoglo više nego što je očekivala. Susjeda Marina, žena u sedamdesetima, donosila joj je domaće kolače i objašnjavala gdje se nalazi najbliža pekara i ordinacija. Uz Marininu pomoć Emma je naučila gdje se kupuje najsvježiji kruh u kvartu i koji tramvaj vozi do Gornjeg grada.",
+      "en": "The neighbourhood helped her more than she had expected. Her neighbour Marina, a woman in her seventies, would bring her homemade cakes and explain where to find the nearest bakery and surgery. With Marina's help Emma learnt where to buy the freshest bread in the neighbourhood and which tram goes to the Upper Town."
+    },
+    {
+      "hr": "Šest mjeseci nakon preseljenja Emma se snalazi u svakodnevnim situacijama na hrvatskom — naručuje hranu u restoranima, razgovara s liječnikom i kupuje na tržnici. Još uvijek griješi u gramatici i padežima, ali nitko ne osuđuje — Zagrepčani su, zaključila je, iznimno strpljivi prema strancima koji pokušavaju govoriti njihov jezik.",
+      "en": "Six months after the move Emma manages everyday situations in Croatian — she orders food in restaurants, talks to the doctor and shops at the market. She still makes mistakes in grammar and cases, but nobody judges — Zagrebians are, she has concluded, exceptionally patient with foreigners who try to speak their language."
+    },
+    {
+      "hr": "Kada je Maria iz Londona nazvala i pitala žali li što je otišla, Emma je zastala trenutak. Zatim je pogledala kroz prozor na tihu Ilicu, mokru od kiše, i odgovorila: Jedino što žalim jest što nisam došla ranije. London joj nedostaje ponekad — underground, njezina kavana i stari prijatelji. Ali Zagreb joj se polako upisuje u srce.",
+      "en": "When Maria from London called and asked whether she regretted leaving, Emma paused for a moment. Then she looked through the window at the quiet Ilica Street, wet from rain, and replied: The only thing I regret is that I did not come sooner. She sometimes misses London — the underground, her café and old friends. But Zagreb is slowly writing itself into her heart."
+    }
+  ],
+  "vocabulary": {
+    "verbs": [
+      { "hr": "preseliti se", "en": "to move / to relocate" },
+      { "hr": "iznajmiti", "en": "to rent" },
+      { "hr": "upisati se", "en": "to enrol" },
+      { "hr": "snalaziti se", "en": "to manage / to get along" },
+      { "hr": "žaliti", "en": "to regret / to miss" }
+    ],
+    "nouns": [
+      { "hr": "novinarka", "en": "journalist (female)" },
+      { "hr": "uredništvo", "en": "editorial office" },
+      { "hr": "boravak", "en": "stay / residence" },
+      { "hr": "kvart", "en": "neighbourhood / district" },
+      { "hr": "stranac / strankinja", "en": "foreigner" }
+    ],
+    "adjectives": [
+      { "hr": "strpljiv / strpljiva", "en": "patient" },
+      { "hr": "zahtjevan / zahtjevna", "en": "demanding" },
+      { "hr": "frustriran / frustrirana", "en": "frustrated" },
+      { "hr": "ugledan / ugledna", "en": "reputable / distinguished" },
+      { "hr": "izniman / iznimna", "en": "exceptional" }
+    ]
+  }
+}

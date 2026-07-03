@@ -1,0 +1,194 @@
+---
+import Layout from "../layouts/Layout.astro";
+import {
+  getAllTopics,
+  getAllStories,
+  getVerbReference,
+  getCaseGuide,
+  getAllTests,
+  getAllChunkCollections,
+  LEVEL_STYLES,
+  type Topic,
+} from "../lib/content";
+
+const LEVEL_NAMES: Record<Topic["level"], string> = {
+  a1: "A1 — Beginner",
+  a2: "A2 — Elementary",
+  b1: "B1 — Intermediate",
+  b2: "B2 — Upper-Intermediate",
+};
+
+const topics = getAllTopics();
+const groups = (["a1", "a2", "b1", "b2"] as const)
+  .map((level) => ({ level, topics: topics.filter((t) => t.level === level) }))
+  .filter((g) => g.topics.length > 0);
+
+const stories = getAllStories();
+const verbReference = getVerbReference();
+const caseGuide = getCaseGuide();
+const tests = getAllTests();
+const phrasecollections = getAllChunkCollections();
+---
+
+<Layout title="Learn Croatian">
+  <main class="mx-auto max-w-3xl px-6 py-12">
+    <h1 class="text-2xl font-bold text-slate-900">Learn Croatian</h1>
+    <p class="mt-2 text-slate-600">
+      A structured Croatian learning platform for English speakers — A1 through B1, with B2 coming soon.
+    </p>
+
+    <section class="mt-6 rounded-xl border border-blue-200 bg-blue-50 p-5">
+      <h2 class="mb-3 text-sm font-bold uppercase tracking-wide text-blue-700">How to Use This Site</h2>
+      <ol class="space-y-2 text-sm text-slate-700 list-none">
+        <li><span class="font-semibold text-blue-600">1. Start at your level.</span> If you are new to Croatian, begin with A1. Each topic has a grammar explanation, a reading passage and a quiz. Work through topics in order.</li>
+        <li><span class="font-semibold text-blue-600">2. Read the grammar, then try the quiz.</span> The quiz at the bottom of each topic lets you test yourself immediately. Use the <em>Try again</em> button — repetition is the key.</li>
+        <li><span class="font-semibold text-blue-600">3. Read the stories at your level.</span> Stories use grammar from that level in natural context. Try reading the Croatian first, then reveal the English translation paragraph by paragraph.</li>
+        <li><span class="font-semibold text-blue-600">4. Use the reference tools.</span> The <a href="/cases" class="underline hover:text-blue-800">Case Guide</a> and <a href="/verbs" class="underline hover:text-blue-800">Verb Reference</a> are lookup tools — come back to them whenever you hit an unfamiliar form.</li>
+        <li><span class="font-semibold text-blue-600">5. Test yourself across levels.</span> Once you finish a level, take the <a href="/test/a1-a2-b1-general-test" class="underline hover:text-blue-800">General Review Test</a> to see how much has stuck before moving on.</li>
+      </ol>
+    </section>
+
+    {groups.map((group) => {
+      const style = LEVEL_STYLES[group.level];
+      return (
+        <section id={group.level} class="mt-10 scroll-mt-6">
+          <h2 class="flex items-center gap-3">
+            <span class={`rounded-full ${style.badge} px-3 py-1 text-sm font-bold uppercase text-white`}>
+              {group.level}
+            </span>
+            <span class={`text-lg font-bold ${style.heading}`}>{LEVEL_NAMES[group.level]}</span>
+            <span class="text-sm text-slate-400">({group.topics.length} topics)</span>
+          </h2>
+
+          <div class={`mt-3 ml-2 space-y-2 border-l-2 ${style.border} pl-4`}>
+            {group.topics.map((topic) => (
+              <a
+                href={`/topic/${topic.level}/${topic.id}`}
+                class="block rounded-lg border border-slate-200 bg-white px-4 py-3 shadow-sm transition-shadow hover:shadow-md"
+              >
+                <div class="font-semibold text-slate-900">{topic.title.en}</div>
+                <div class="text-sm text-slate-400">{topic.title.hr}</div>
+              </a>
+            ))}
+          </div>
+        </section>
+      );
+    })}
+
+    {stories.length > 0 && (
+      <section id="stories" class="mt-10 scroll-mt-6">
+        <h2 class="flex items-center gap-3">
+          <span class="rounded-full bg-purple-600 px-3 py-1 text-sm font-bold uppercase text-white">📖</span>
+          <span class="text-lg font-bold text-purple-700">Stories</span>
+          <span class="text-sm text-slate-400">({stories.length} stories)</span>
+        </h2>
+        {(["a1", "a2", "b1"] as const).map((level) => {
+          const levelStories = stories.filter((s) => s.level === level);
+          if (levelStories.length === 0) return null;
+          const style = LEVEL_STYLES[level];
+          return (
+            <div class={`mt-4 ml-2 border-l-2 ${style.border} pl-4`}>
+              <span class={`mb-2 inline-block rounded-full ${style.badge} px-2.5 py-0.5 text-xs font-bold uppercase text-white`}>{level}</span>
+              <div class="space-y-2">
+                {levelStories.map((story) => (
+                  <a
+                    href={`/story/${story.id}`}
+                    class="block rounded-lg border border-slate-200 bg-white px-4 py-3 shadow-sm transition-shadow hover:shadow-md"
+                  >
+                    <div class="font-semibold text-slate-900">{story.title.en}</div>
+                    <div class="text-sm text-slate-400">{story.title.hr}</div>
+                  </a>
+                ))}
+              </div>
+            </div>
+          );
+        })}
+      </section>
+    )}
+
+    {verbReference && (
+      <section id="verb-reference" class="mt-10 scroll-mt-6">
+        <h2 class="flex items-center gap-3">
+          <span class="rounded-full bg-slate-700 px-3 py-1 text-sm font-bold uppercase text-white">📚</span>
+          <span class="text-lg font-bold text-slate-700">Verb Reference</span>
+        </h2>
+        <div class="mt-3 ml-2 border-l-2 border-slate-400 pl-4">
+          <a
+            href="/verbs"
+            class="block rounded-lg border border-slate-200 bg-white px-4 py-3 shadow-sm transition-shadow hover:shadow-md"
+          >
+            <div class="font-semibold text-slate-900">{verbReference.title.en}</div>
+            <div class="text-sm text-slate-400">{verbReference.title.hr}</div>
+          </a>
+        </div>
+      </section>
+    )}
+
+    {caseGuide && (
+      <section id="cases" class="mt-10 scroll-mt-6">
+        <h2 class="flex items-center gap-3">
+          <span class="rounded-full bg-slate-700 px-3 py-1 text-sm font-bold uppercase text-white">📐</span>
+          <span class="text-lg font-bold text-slate-700">Cases (Padeži)</span>
+        </h2>
+        <div class="mt-3 ml-2 border-l-2 border-slate-400 pl-4">
+          <a
+            href="/cases"
+            class="block rounded-lg border border-slate-200 bg-white px-4 py-3 shadow-sm transition-shadow hover:shadow-md"
+          >
+            <div class="font-semibold text-slate-900">{caseGuide.title.en}</div>
+            <div class="text-sm text-slate-400">{caseGuide.title.hr}</div>
+          </a>
+        </div>
+      </section>
+    )}
+
+    {tests.length > 0 && (
+      <section id="practice-tests" class="mt-10 scroll-mt-6">
+        <h2 class="flex items-center gap-3">
+          <span class="rounded-full bg-rose-600 px-3 py-1 text-sm font-bold uppercase text-white">🧪</span>
+          <span class="text-lg font-bold text-rose-700">Practice Tests</span>
+          <span class="text-sm text-slate-400">({tests.length} tests)</span>
+        </h2>
+        <div class="mt-3 ml-2 space-y-2 border-l-2 border-rose-500 pl-4">
+          {tests.map((test) => (
+            <a
+              href={`/test/${test.id}`}
+              class="block rounded-lg border border-slate-200 bg-white px-4 py-3 shadow-sm transition-shadow hover:shadow-md"
+            >
+              <div class="font-semibold text-slate-900">{test.title.en}</div>
+              <div class="text-sm text-slate-400">{test.title.hr}</div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {phrasecollections.length > 0 && (
+      <section id="phrase-collections" class="mt-10 scroll-mt-6">
+        <h2 class="flex items-center gap-3">
+          <span class="rounded-full bg-indigo-600 px-3 py-1 text-sm font-bold uppercase text-white">💬</span>
+          <span class="text-lg font-bold text-indigo-700">Phrase Collections</span>
+          <span class="text-sm text-slate-400">({phrasecollections.length} collections)</span>
+        </h2>
+        <div class="mt-3 ml-2 space-y-2 border-l-2 border-indigo-500 pl-4">
+          {phrasecollections.map((col) => (
+            <a
+              href={`/phrases/${col.id}`}
+              class="block rounded-lg border border-slate-200 bg-white px-4 py-3 shadow-sm transition-shadow hover:shadow-md"
+            >
+              <div class="font-semibold text-slate-900">{col.title.en}</div>
+              <div class="text-sm text-slate-400">{col.title.hr}</div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+  </main>
+
+  <footer class="mt-16 border-t border-slate-200 bg-white py-8">
+    <div class="mx-auto max-w-3xl px-6 flex flex-col items-center gap-2 text-center text-sm text-slate-500">
+      <p>Built by <a href="https://www.linkedin.com/in/emre-ozudogru-185956228/" target="_blank" rel="noopener noreferrer" class="font-medium text-slate-700 hover:text-blue-600 underline">Yunus Emre Özüdoğru</a></p>
+      <p class="text-xs text-slate-400">A1 · A2 · B1 complete &mdash; B2 coming soon</p>
+    </div>
+  </footer>
+</Layout>

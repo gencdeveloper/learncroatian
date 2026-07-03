@@ -1,0 +1,660 @@
+{
+  "id": "croatian-history",
+  "level": "b1",
+  "order": 13,
+  "title": {
+    "hr": "Hrvatsko društvo i povijest",
+    "en": "Croatian Society & History"
+  },
+  "grammar": {
+    "title": {
+      "hr": "Prošlo svršeno i pasiv u povijesnom kontekstu",
+      "en": "Perfective Past & Passive in Historical Context"
+    },
+    "intro": "In Croatian historical narratives, two key structures appear constantly: the **perfective past** for completed events and the **passive voice** for describing states or actions where the agent is unknown or unimportant.\n\nMastering these forms allows you to read and talk about Croatian history with confidence.",
+    "rules": [
+      {
+        "label": "Perfective Past for Completed Historical Events",
+        "explanation": "**Perfective verbs** describe actions that are fully completed. In historical writing, they express single, one-time events — not repeated or ongoing ones.\n\n- Form: auxiliary **je/su** (past of biti) + past participle\n- Masculine singular participle ends in **-o** → ušao, uveo, proglasio\n- Feminine singular participle ends in **-la** → ušla, uvela, proglasila\n- Neuter singular participle ends in **-lo** → ušlo, uvelo\n\nUse perfective past for events like joining the EU, declaring independence, or introducing a currency. Contrast with the **imperfective** (trajao, obnavljao), which is used for duration or repeated action.",
+        "examples": [
+          {
+            "hr": "Hrvatska je proglasila neovisnost 1991. godine.",
+            "en": "Croatia declared independence in 1991."
+          },
+          {
+            "hr": "Hrvatska je ušla u Europsku uniju 2013. godine.",
+            "en": "Croatia entered the European Union in 2013."
+          },
+          {
+            "hr": "Hrvatska je uvela euro 2023. godine.",
+            "en": "Croatia introduced the euro in 2023."
+          }
+        ]
+      },
+      {
+        "label": "Passive Voice in Historical Sentences",
+        "explanation": "The **passive voice** in Croatian focuses on what happened to the subject, not on who did it.\n\n- Form: **biti** (conjugated) + **passive participle** ending in -n/-na/-no or -t/-ta/-to\n- For past states use: **je bio/bila/bilo** + adjective or passive participle\n- The agent (doer) is often omitted, or introduced with **od strane + genitive**\n\nIn historical context this form commonly describes how places, people, or institutions were known, built, or established.",
+        "examples": [
+          {
+            "hr": "Dubrovnik je bio poznat kao 'Biser Jadrana'.",
+            "en": "Dubrovnik was known as the 'Pearl of the Adriatic'."
+          },
+          {
+            "hr": "Grad je osnovan u sedmom stoljeću.",
+            "en": "The city was founded in the seventh century."
+          },
+          {
+            "hr": "Nikola Tesla je rođen u Smiljanu 1856. godine.",
+            "en": "Nikola Tesla was born in Smiljan in 1856."
+          }
+        ]
+      },
+      {
+        "label": "Time Expressions in Historical Narrative",
+        "explanation": "Use these key expressions when talking about historical events:\n\n- **[year]. godine** → in the year...: '1991. **godine**'\n- **u + locative** for centuries: '**u dvadesetom stoljeću**' (in the 20th century)\n- **nakon + genitive** for 'after': '**nakon rata**' (after the war)\n- **od ... do ...** for duration: '**od 1991. do 1995.**' (from 1991 to 1995)\n- **još u** for 'as far back as': '**još u devetom stoljeću**' (as far back as the 9th century)",
+        "examples": [
+          {
+            "hr": "Nakon rata, zemlja se počela obnavljati.",
+            "en": "After the war, the country began to rebuild."
+          },
+          {
+            "hr": "U dvadesetom stoljeću Hrvatska je bila dio Jugoslavije.",
+            "en": "In the twentieth century Croatia was part of Yugoslavia."
+          },
+          {
+            "hr": "Domovinski rat je trajao od 1991. do 1995. godine.",
+            "en": "The Homeland War lasted from 1991 to 1995."
+          }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Godina / Year", "Događaj (HR)", "Event (EN)"],
+      "rows": [
+        ["925.", "Krunidba kralja Tomislava — prvi hrvatski kralj", "Coronation of King Tomislav — first Croatian king"],
+        ["1102.", "Hrvatska ulazi u personalnu uniju s Ugarskom", "Croatia enters a personal union with Hungary"],
+        ["1527.", "Hrvatska dolazi pod habsburšku vlast", "Croatia comes under Habsburg rule"],
+        ["1918.", "Hrvatska ulazi u Kraljevinu Srba, Hrvata i Slovenaca", "Croatia joins the Kingdom of Serbs, Croats and Slovenes"],
+        ["1945.", "Hrvatska postaje republika unutar Jugoslavije", "Croatia becomes a republic within Yugoslavia"],
+        ["1991.", "Hrvatska proglašava neovisnost; počinje Domovinski rat", "Croatia declares independence; Homeland War begins"],
+        ["1995.", "Domovinski rat završava", "Homeland War ends"],
+        ["2013.", "Hrvatska ulazi u Europsku uniju", "Croatia joins the European Union"],
+        ["2018.", "Hrvatska osvaja 2. mjesto na FIFA Svjetskom prvenstvu", "Croatia finishes 2nd at the FIFA World Cup"],
+        ["2023.", "Hrvatska uvodi euro i ulazi u Schengenski prostor", "Croatia adopts the euro and joins the Schengen Area"]
+      ]
+    }
+  },
+  "reading": {
+    "title": {
+      "hr": "Kratka povijest i kultura Hrvatske",
+      "en": "A Brief History and Culture of Croatia"
+    },
+    "paragraphs": [
+      {
+        "hr": "Marko: Ana, jesi li znala da Hrvatska ima jako bogatu i dugu povijest? Prva hrvatska država nastala je još u devetom i desetom stoljeću. Kralj Tomislav je krunjen 925. godine i bio je prvi hrvatski kralj. To je bila velika prekretnica za naš narod.",
+        "en": "Marko: Ana, did you know that Croatia has a very rich and long history? The first Croatian state was formed as far back as the ninth and tenth centuries. King Tomislav was crowned in 925 and was the first Croatian king. That was a great milestone for our people."
+      },
+      {
+        "hr": "Ana: Zaista? A što se događalo poslije? Marko: Hrvatska je kroz stoljeća bila pod različitim vladavinama — ugarskom, habsburškom, a zatim dio Austro-Ugarske Monarhije. Nakon Prvog svjetskog rata postala je dio Kraljevine Srba, Hrvata i Slovenaca, a nakon Drugog svjetskog rata — dio Socijalističke Federativne Republike Jugoslavije.",
+        "en": "Ana: Really? And what happened afterwards? Marko: Croatia was under various rulers through the centuries — Hungarian, Habsburg, and then part of the Austro-Hungarian Empire. After the First World War it became part of the Kingdom of Serbs, Croats and Slovenes, and after the Second World War — part of the Socialist Federal Republic of Yugoslavia."
+      },
+      {
+        "hr": "Ana: A kada je Hrvatska postala neovisna? Marko: Hrvatska je proglasila neovisnost 1991. godine. Nažalost, uslijedio je Domovinski rat koji je trajao sve do 1995. godine. Taj period je bio jako težak za sve građane. Mnogi su izgubili domove i voljene osobe. Nakon rata, zemlja se polako počela obnavljati.",
+        "en": "Ana: And when did Croatia become independent? Marko: Croatia declared independence in 1991. Unfortunately, the Homeland War followed, which lasted all the way until 1995. That period was very difficult for all citizens. Many lost their homes and loved ones. After the war, the country slowly began to rebuild."
+      },
+      {
+        "hr": "Marko: Hrvatska je postala punopravna članica Europske unije 2013. godine. A 2023. godine uvela je euro kao službenu valutu i pristupila Schengenskom prostoru. To su bili povijesni trenutci za Hrvatsku. Zemlja ima oko 3,9 milijuna stanovnika, snažan katolički identitet i bogatu kulturnu baštinu, posebno uz Jadransku obalu.",
+        "en": "Marko: Croatia became a full member of the European Union in 2013. And in 2023 it introduced the euro as its official currency and joined the Schengen Area. Those were historic moments for Croatia. The country has about 3.9 million inhabitants, a strong Catholic identity, and a rich cultural heritage, especially along the Adriatic coast."
+      },
+      {
+        "hr": "Ana: Što je s poznatim Hrvatima? Ima li ih mnogo? Marko: Svakako! Nikola Tesla je rođen u Smiljanu u Hrvatskoj, premda je najveći dio svog rada obavio u Americi. Ruđer Bošković bio je poznati fizičar i filozof iz Dubrovnika. Kipar Ivan Meštrović ostavio je velik trag u svjetskoj umjetnosti. A prema legendi, čak i Marco Polo potječe s otoka Korčule!",
+        "en": "Ana: What about famous Croatians? Are there many? Marko: Absolutely! Nikola Tesla was born in Smiljan in Croatia, although he did most of his work in America. Ruđer Bošković was a famous physicist and philosopher from Dubrovnik. The sculptor Ivan Meštrović left a great mark on world art. And according to legend, even Marco Polo comes from the island of Korčula!"
+      },
+      {
+        "hr": "Ana: A što je najveći izazov za Hrvatsku danas? Marko: Iseljavanje je velik problem — mnogi mladi Hrvati odlaze u druge europske zemlje tražeći bolje mogućnosti. S druge strane, turizam je iznimno važna industrija. Dubrovnik je na UNESCO-vom popisu, a Split i Istra su sve popularniji. I naravno, cijela nacija je bila presretna 2018. kada je hrvatska nogometna reprezentacija osvojila srebrnu medalju na Svjetskom prvenstvu. Nogomet je u srcu svake Hrvatice i svakog Hrvata!",
+        "en": "Ana: And what is the biggest challenge for Croatia today? Marko: Emigration is a big problem — many young Croatians leave for other European countries in search of better opportunities. On the other hand, tourism is an extremely important industry. Dubrovnik is on the UNESCO list, and Split and Istria are increasingly popular. And of course, the whole nation was overjoyed in 2018 when the Croatian football team won the silver medal at the World Cup. Football is in the heart of every Croatian!"
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "croatian-history-q1",
+      "prompt": "When was King Tomislav crowned as the first Croatian king?",
+      "promptHr": "Kada je krunjen kralj Tomislav kao prvi hrvatski kralj?",
+      "options": ["825. godine", "925. godine", "1025. godine", "1102. godine"],
+      "correctIndex": 1,
+      "explanation": "King Tomislav was crowned in **925 CE**: 'Kralj Tomislav je krunjen 925. godine i bio je prvi hrvatski kralj.'"
+    },
+    {
+      "id": "croatian-history-q2",
+      "prompt": "When did the Homeland War (Domovinski rat) end?",
+      "promptHr": "Kada je završio Domovinski rat?",
+      "options": ["1991. godine", "1993. godine", "1995. godine", "2000. godine"],
+      "correctIndex": 2,
+      "explanation": "The Homeland War lasted until **1995**: 'Domovinski rat koji je trajao sve do 1995. godine.'"
+    },
+    {
+      "id": "croatian-history-q3",
+      "prompt": "According to the text, which famous person is connected by legend to the island of Korčula?",
+      "promptHr": "Prema tekstu, koji poznati čovjek je prema legendi povezan s otokom Korčulom?",
+      "options": ["Nikola Tesla", "Ruđer Bošković", "Ivan Meštrović", "Marco Polo"],
+      "correctIndex": 3,
+      "explanation": "According to legend, **Marco Polo** comes from Korčula: 'prema legendi, čak i Marco Polo potječe s otoka Korčule.'"
+    },
+    {
+      "id": "croatian-history-q4",
+      "prompt": "What two major European milestones did Croatia achieve in 2023?",
+      "promptHr": "Koja dva velika europska iskoraka je Hrvatska postigla 2023. godine?",
+      "options": [
+        "Joined the EU and NATO",
+        "Hosted Eurovision and joined the UN",
+        "Introduced the euro and joined the Schengen Area",
+        "Joined the EU and adopted the Croatian kuna"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 2023, Croatia introduced the **euro** as its official currency and joined the **Schengen Area**: 'uvela je euro kao službenu valutu i pristupila Schengenskom prostoru.'"
+    },
+    {
+      "id": "croatian-history-q5",
+      "prompt": "According to Marko, what is described as the biggest social challenge for Croatia today?",
+      "promptHr": "Prema Marku, što je opisano kao najveći društveni izazov za Hrvatsku danas?",
+      "options": [
+        "Lack of tourism",
+        "Emigration of young people",
+        "Religious conflicts",
+        "Economic collapse"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Iseljavanje** (emigration) is described as a big problem: 'mnogi mladi Hrvati odlaze u druge europske zemlje tražeći bolje mogućnosti.'"
+    }
+  ],
+  "test": [
+    {
+      "id": "croatian-history-q6",
+      "prompt": "In which year did Croatia declare independence?",
+      "promptHr": "Koje godine je Hrvatska proglasila neovisnost?",
+      "options": ["1989.", "1991.", "1993.", "1995."],
+      "correctIndex": 1,
+      "explanation": "Croatia declared independence in **1991**: 'Hrvatska je proglasila neovisnost 1991. godine.'"
+    },
+    {
+      "id": "croatian-history-q7",
+      "prompt": "Which sentence correctly uses the passive voice for a historical statement?",
+      "promptHr": "Koja rečenica ispravno koristi pasiv za povijesnu izjavu?",
+      "options": [
+        "Dubrovnik poznat je Biser Jadrana.",
+        "Dubrovnik je bio poznat kao 'Biser Jadrana'.",
+        "Dubrovnik bio poznat Biser Jadrana.",
+        "Dubrovnik je poznat biti Biser Jadrana."
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct passive construction is **je bio + adjective**: 'Dubrovnik je bio poznat kao Biser Jadrana.' The verb 'biti' in the past (je bio) combines with the adjective 'poznat' to form a past passive state."
+    },
+    {
+      "id": "croatian-history-q8",
+      "prompt": "What is the capital city of Croatia?",
+      "promptHr": "Koji je glavni grad Hrvatske?",
+      "options": ["Split", "Dubrovnik", "Zagreb", "Rijeka"],
+      "correctIndex": 2,
+      "explanation": "**Zagreb** is the capital of Croatia: 'Zagreb je glavni grad Hrvatske.'"
+    },
+    {
+      "id": "croatian-history-q9",
+      "prompt": "Choose the correct Croatian translation: 'Croatia entered the European Union in 2013.'",
+      "promptHr": "Odaberite točan prijevod: 'Croatia entered the European Union in 2013.'",
+      "options": [
+        "Hrvatska je ulazila u Europsku uniju 2013. godine.",
+        "Hrvatska je ušla u Europsku uniju 2013. godine.",
+        "Hrvatska ulazi u Europsku uniju 2013. godine.",
+        "Hrvatska bi ušla u Europsku uniju 2013. godine."
+      ],
+      "correctIndex": 1,
+      "explanation": "The **perfective past** 'je ušla' is correct for this single completed historical event. 'Je ulazila' is imperfective (suggesting ongoing or repeated entry), which does not fit a one-time accession."
+    },
+    {
+      "id": "croatian-history-q10",
+      "prompt": "Where was Nikola Tesla born?",
+      "promptHr": "Gdje je rođen Nikola Tesla?",
+      "options": ["U Dubrovniku", "U Splitu", "U Smiljanu", "U Zadru"],
+      "correctIndex": 2,
+      "explanation": "Nikola Tesla was born in **Smiljan** in Croatia: 'Nikola Tesla je rođen u Smiljanu 1856. godine.' Note the passive: 'je rođen' (was born)."
+    },
+    {
+      "id": "croatian-history-q11",
+      "prompt": "Which Croatian coastal region contains Dubrovnik, Split, and the island of Korčula?",
+      "promptHr": "Koja hrvatska priobalna regija uključuje Dubrovnik, Split i otok Korčulu?",
+      "options": ["Slavonija", "Istra", "Dalmacija", "Zagorje"],
+      "correctIndex": 2,
+      "explanation": "**Dalmacija** (Dalmatia) is the Adriatic coastal region home to Dubrovnik, Split, and many islands including Korčula. It stretches along the southern Adriatic coast."
+    },
+    {
+      "id": "croatian-history-q12",
+      "prompt": "What does 'Grad je osnovan u sedmom stoljeću.' mean in English?",
+      "promptHr": "Što znači 'Grad je osnovan u sedmom stoljeću.' na engleskom?",
+      "options": [
+        "The city was destroyed in the seventh century.",
+        "The city was founded in the seventh century.",
+        "The city grew in the seventh century.",
+        "The city was visited in the seventh century."
+      ],
+      "correctIndex": 1,
+      "explanation": "'**Je osnovan**' is the passive form of 'osnovati' (to found/establish). 'Sedmom stoljeću' is the locative of 'sedmo stoljeće' (seventh century). Full meaning: 'The city was **founded** in the seventh century.'"
+    },
+    {
+      "id": "croatian-history-q13",
+      "prompt": "What result did Croatia achieve at the 2018 FIFA World Cup?",
+      "promptHr": "Kakav rezultat je Hrvatska postigla na Svjetskom prvenstvu u nogometu 2018. godine?",
+      "options": [
+        "First place — gold medal",
+        "Third place — bronze medal",
+        "Eliminated in the group stage",
+        "Second place — runner-up / silver medal"
+      ],
+      "correctIndex": 3,
+      "explanation": "Croatia was the **runner-up** (doprvak, srebrna medalja) at the 2018 FIFA World Cup, losing to France in the final. This result was a source of enormous national pride."
+    },
+    {
+      "id": "croatian-history-q14",
+      "prompt": "Fill in the blank: 'Hrvatska ___ euro 2023. godine.'",
+      "promptHr": "Popunite prazninu: 'Hrvatska ___ euro 2023. godine.'",
+      "options": ["je uvodila", "je uvela", "uvodi", "bi uvela"],
+      "correctIndex": 1,
+      "explanation": "The **perfective past** 'je uvela' is correct, expressing a completed, one-time action. 'Je uvodila' (imperfective) would suggest a repeated or ongoing process of introducing — which does not fit this context."
+    },
+    {
+      "id": "croatian-history-q15",
+      "prompt": "Which famous Croatian was a physicist and philosopher from Dubrovnik?",
+      "promptHr": "Koji poznati Hrvat je bio fizičar i filozof iz Dubrovnika?",
+      "options": ["Nikola Tesla", "Ivan Meštrović", "Ruđer Bošković", "Marco Polo"],
+      "correctIndex": 2,
+      "explanation": "**Ruđer Bošković** (1711–1787) was a renowned physicist, astronomer, and philosopher born in Dubrovnik (then the Republic of Ragusa)."
+    },
+    {
+      "id": "croatian-history-q16",
+      "prompt": "What is the approximate population of Croatia?",
+      "promptHr": "Koliki je okvirni broj stanovnika Hrvatske?",
+      "options": ["oko 1,5 milijuna", "oko 3,9 milijuna", "oko 6,2 milijuna", "oko 10 milijuna"],
+      "correctIndex": 1,
+      "explanation": "Croatia has approximately **3.9 million** inhabitants: 'Zemlja ima oko 3,9 milijuna stanovnika.'"
+    },
+    {
+      "id": "croatian-history-q17",
+      "prompt": "Which Croatian city is listed as a UNESCO World Heritage Site?",
+      "promptHr": "Koji hrvatski grad je na UNESCO-vom popisu svjetske baštine?",
+      "options": ["Rijeka", "Osijek", "Dubrovnik", "Varaždin"],
+      "correctIndex": 2,
+      "explanation": "**Dubrovnik** is a UNESCO World Heritage Site, known as the 'Pearl of the Adriatic' (Biser Jadrana) for its remarkably preserved medieval old town walls."
+    },
+    {
+      "id": "croatian-history-q18",
+      "prompt": "Choose the correct English translation: 'Nakon rata, zemlja se počela obnavljati.'",
+      "promptHr": "Odaberite točan prijevod: 'Nakon rata, zemlja se počela obnavljati.'",
+      "options": [
+        "Before the war, the country began to rebuild.",
+        "During the war, the country was rebuilt.",
+        "After the war, the country began to rebuild.",
+        "After the war, the country stopped rebuilding."
+      ],
+      "correctIndex": 2,
+      "explanation": "'**Nakon**' = after, 'rata' = war (genitive after nakon), 'se počela obnavljati' = began to rebuild (reflexive imperfective, expressing the start of an ongoing process). Full translation: 'After the war, the country **began to rebuild**.'"
+    },
+    {
+      "id": "croatian-history-q19",
+      "prompt": "Which region of Croatia is a peninsula in the northwest, famous for wines and truffles, bordering Italy and Slovenia?",
+      "promptHr": "Koja hrvatska regija je poluotok na sjeverozapadu, poznata po vinu i tartufima, graniči s Italijom i Slovenijom?",
+      "options": ["Slavonija", "Istra", "Dalmacija", "Lika"],
+      "correctIndex": 1,
+      "explanation": "**Istra** (Istria) is the peninsula in northwest Croatia, famous for its wines, olive oil, and truffles, sharing borders with both Italy and Slovenia."
+    },
+    {
+      "id": "croatian-history-q20",
+      "prompt": "What is described as a major social challenge for modern Croatia?",
+      "promptHr": "Što se opisuje kao veliki društveni izazov za modernu Hrvatsku?",
+      "options": [
+        "Lack of tourism",
+        "Religious conflicts",
+        "Emigration of young people",
+        "Food shortages"
+      ],
+      "correctIndex": 2,
+      "explanation": "**Iseljavanje** (emigration) is a major challenge: many young Croatians leave for other EU countries seeking better employment and living conditions."
+    },
+    {
+      "id": "croatian-history-q21",
+      "prompt": "Fill in the blank: 'Nikola Tesla je ___ u Smiljanu 1856. godine.'",
+      "promptHr": "Popunite prazninu: 'Nikola Tesla je ___ u Smiljanu 1856. godine.'",
+      "options": ["rodio", "rođen", "rađan", "rađao"],
+      "correctIndex": 1,
+      "explanation": "'**Rođen**' is the passive participle of 'roditi' (to give birth), used in the passive construction 'je rođen' = was born. This is the standard Croatian way to express someone's birth: [name] je rođen/rođena u [place]."
+    },
+    {
+      "id": "croatian-history-q22",
+      "prompt": "What art form is Ivan Meštrović most famous for?",
+      "promptHr": "Po kojoj je umjetničkoj formi Ivan Meštrović najpoznatiji?",
+      "options": [
+        "Slikarstvo / Painting",
+        "Kiparstvo / Sculpture",
+        "Glazba / Music",
+        "Književnost / Literature"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ivan Meštrović was a world-renowned **sculptor** (kipar): 'Kipar Ivan Meštrović ostavio je velik trag u svjetskoj umjetnosti.' His works are displayed in museums across Europe and the USA."
+    },
+    {
+      "id": "croatian-history-q23",
+      "prompt": "Which eastern Croatian region is known for flat Pannonian plains and agriculture, bordering Serbia and Hungary?",
+      "promptHr": "Koja istočna hrvatska regija je poznata po ravničarskom panonskom krajoliku i poljoprivredi, graniči sa Srbijom i Mađarskom?",
+      "options": ["Dalmacija", "Istra", "Slavonija", "Zagorje"],
+      "correctIndex": 2,
+      "explanation": "**Slavonija** is the eastern region of Croatia, known for its fertile Pannonian plains, agriculture (wheat, corn, sunflowers), and borders with Serbia and Hungary."
+    },
+    {
+      "id": "croatian-history-q24",
+      "prompt": "In which year did Croatia join the Schengen Area?",
+      "promptHr": "Koje godine je Hrvatska ušla u Schengenski prostor?",
+      "options": ["2013.", "2018.", "2020.", "2023."],
+      "correctIndex": 3,
+      "explanation": "Croatia joined the **Schengen Area on 1 January 2023**, simultaneously adopting the euro as its official currency."
+    },
+    {
+      "id": "croatian-history-q25",
+      "prompt": "Choose the correct Croatian translation: 'The Homeland War ended in 1995.'",
+      "promptHr": "Odaberite točan prijevod: 'The Homeland War ended in 1995.'",
+      "options": [
+        "Domovinski rat je završavao 1995. godine.",
+        "Domovinski rat je završio 1995. godine.",
+        "Domovinski rat završava 1995. godine.",
+        "Domovinski rat bi završio 1995. godine."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Perfective past** 'je završio' correctly expresses a single completed historical event. 'Je završavao' (imperfective) would wrongly suggest it ended repeatedly or gradually, which is not appropriate here."
+    },
+    {
+      "id": "croatian-history-q26",
+      "prompt": "What is the largest coastal city in Croatia?",
+      "promptHr": "Koji je najveći priobalni grad Hrvatske?",
+      "options": ["Dubrovnik", "Zadar", "Rijeka", "Split"],
+      "correctIndex": 3,
+      "explanation": "**Split** is the largest coastal city in Croatia and the second-largest city in the country overall. It is home to Diocletian's Palace, a major Roman heritage site."
+    },
+    {
+      "id": "croatian-history-q27",
+      "prompt": "Which verb form is INCORRECT for describing a single completed historical event?",
+      "promptHr": "Koji glagolski oblik je NETOČAN za opisivanje jednokratnog završenog povijesnog događaja?",
+      "options": [
+        "Hrvatska je ušla u EU 2013. godine.",
+        "Hrvatska je proglasila neovisnost 1991. godine.",
+        "Hrvatska je ulazila u EU 2013. godine.",
+        "Hrvatska je uvela euro 2023. godine."
+      ],
+      "correctIndex": 2,
+      "explanation": "'**Ulazila**' is the **imperfective** form, suggesting a repeated or ongoing action — incorrect for the one-time event of joining the EU. The correct perfective form is '**ušla**' (entered, completed)."
+    },
+    {
+      "id": "croatian-history-q28",
+      "prompt": "What is the Croatian word for 'independence'?",
+      "promptHr": "Kako se na hrvatskom kaže 'independence'?",
+      "options": ["sloboda", "neovisnost", "domovina", "povijest"],
+      "correctIndex": 1,
+      "explanation": "'**Neovisnost**' (f) means independence. Compare: 'sloboda' = freedom, 'domovina' = homeland/fatherland, 'povijest' = history."
+    },
+    {
+      "id": "croatian-history-q29",
+      "prompt": "Fill in the blank: 'U dvadesetom stoljeću Hrvatska je bila dio ___.' (In the twentieth century Croatia was part of Yugoslavia.)",
+      "promptHr": "Popunite prazninu: 'U dvadesetom stoljeću Hrvatska je bila dio ___.'",
+      "options": ["Austro-Ugarska", "Europska unija", "Jugoslavije", "Italije"],
+      "correctIndex": 2,
+      "explanation": "'**Jugoslavije**' is the **genitive** form of Jugoslavija. The noun 'dio' (part) requires the genitive case: 'biti dio + genitive' = to be part of. Austro-Ugarska, Europska unija, and Italija would need genitive too, but Jugoslavije is historically correct here."
+    },
+    {
+      "id": "croatian-history-q30",
+      "prompt": "Which statement about Croatia is TRUE?",
+      "promptHr": "Koja tvrdnja o Hrvatskoj je TOČNA?",
+      "options": [
+        "Croatia adopted the euro in 2013 when it joined the EU.",
+        "Croatia has a predominantly Muslim population.",
+        "Croatia joined the Schengen Area and adopted the euro in 2023.",
+        "The Croatian capital city is Split."
+      ],
+      "correctIndex": 2,
+      "explanation": "Croatia joined the Schengen Area and adopted the **euro in 2023** — not in 2013. When it joined the EU in 2013 it kept the Croatian kuna until 1 January 2023."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Croatian history milestones",
+      "items": [
+        {
+          "hr": "Hrvatska je proglasila neovisnost 1991. godine.",
+          "en": "Croatia declared independence in 1991.",
+          "note": "Perfective past — single completed event"
+        },
+        {
+          "hr": "Domovinski rat je trajao od 1991. do 1995. godine.",
+          "en": "The Homeland War lasted from 1991 to 1995.",
+          "note": "'Trajao' — imperfective, expressing duration"
+        },
+        {
+          "hr": "Hrvatska je ušla u Europsku uniju 2013. godine.",
+          "en": "Croatia joined the European Union in 2013.",
+          "note": "Perfective past: 'ušla' (entered, fully completed)"
+        },
+        {
+          "hr": "Hrvatska je uvela euro 2023. godine.",
+          "en": "Croatia introduced the euro in 2023.",
+          "note": "Perfective past: 'uvela' (introduced, fully completed)"
+        },
+        {
+          "hr": "Kralj Tomislav je krunjen 925. godine.",
+          "en": "King Tomislav was crowned in 925.",
+          "note": "Passive: 'je krunjen' — was crowned"
+        },
+        {
+          "hr": "Nakon rata, zemlja se počela obnavljati.",
+          "en": "After the war, the country began to rebuild.",
+          "note": "Imperfective 'obnavljati' — ongoing rebuilding process"
+        },
+        {
+          "hr": "neovisnost (ž)",
+          "en": "independence (f)"
+        },
+        {
+          "hr": "Domovinski rat",
+          "en": "the Homeland War"
+        },
+        {
+          "hr": "proglasiti neovisnost",
+          "en": "to declare independence"
+        },
+        {
+          "hr": "obnova (ž)",
+          "en": "reconstruction, rebuilding (f)"
+        }
+      ]
+    },
+    {
+      "context": "Geography & regions",
+      "items": [
+        {
+          "hr": "Zagreb je glavni grad Hrvatske.",
+          "en": "Zagreb is the capital of Croatia."
+        },
+        {
+          "hr": "Split je najveći priobalni grad.",
+          "en": "Split is the largest coastal city."
+        },
+        {
+          "hr": "Dubrovnik je poznat kao 'Biser Jadrana'.",
+          "en": "Dubrovnik is known as the 'Pearl of the Adriatic'."
+        },
+        {
+          "hr": "Istra je poluotok na sjeverozapadu Hrvatske.",
+          "en": "Istria is a peninsula in the northwest of Croatia."
+        },
+        {
+          "hr": "Slavonija je ravničarska regija na istoku.",
+          "en": "Slavonia is a flat-plains region in the east."
+        },
+        {
+          "hr": "Dalmacija se proteže duž Jadranskog mora.",
+          "en": "Dalmatia stretches along the Adriatic Sea."
+        },
+        {
+          "hr": "Korčula je otok u Dalmaciji.",
+          "en": "Korčula is an island in Dalmatia.",
+          "note": "Associated by legend with Marco Polo"
+        },
+        {
+          "hr": "obala (ž)",
+          "en": "coast (f)"
+        },
+        {
+          "hr": "poluotok (m)",
+          "en": "peninsula (m)"
+        },
+        {
+          "hr": "otok (m)",
+          "en": "island (m)"
+        }
+      ]
+    },
+    {
+      "context": "Famous Croatians",
+      "items": [
+        {
+          "hr": "Nikola Tesla je bio izumitelj i električni inženjer.",
+          "en": "Nikola Tesla was an inventor and electrical engineer.",
+          "note": "Born in Smiljan, Croatia, 1856"
+        },
+        {
+          "hr": "Tesla je rođen u Smiljanu 1856. godine.",
+          "en": "Tesla was born in Smiljan in 1856.",
+          "note": "Passive participle: 'rođen' — was born"
+        },
+        {
+          "hr": "Ruđer Bošković bio je poznati fizičar iz Dubrovnika.",
+          "en": "Ruđer Bošković was a famous physicist from Dubrovnik."
+        },
+        {
+          "hr": "Ivan Meštrović bio je veliki kipar.",
+          "en": "Ivan Meštrović was a great sculptor."
+        },
+        {
+          "hr": "Prema legendi, Marco Polo potječe s Korčule.",
+          "en": "According to legend, Marco Polo comes from Korčula."
+        },
+        {
+          "hr": "izumitelj (m)",
+          "en": "inventor (m)"
+        },
+        {
+          "hr": "kipar (m)",
+          "en": "sculptor (m)"
+        },
+        {
+          "hr": "fizičar (m)",
+          "en": "physicist (m)"
+        },
+        {
+          "hr": "prema legendi",
+          "en": "according to legend"
+        },
+        {
+          "hr": "ostavio velik trag",
+          "en": "left a great mark / made a major impact"
+        }
+      ]
+    },
+    {
+      "context": "Modern Croatian society",
+      "items": [
+        {
+          "hr": "Hrvatska ima oko 3,9 milijuna stanovnika.",
+          "en": "Croatia has about 3.9 million inhabitants."
+        },
+        {
+          "hr": "Katoličanstvo je dominantna religija u Hrvatskoj.",
+          "en": "Catholicism is the dominant religion in Croatia."
+        },
+        {
+          "hr": "Turizam je iznimno važna industrija.",
+          "en": "Tourism is an extremely important industry."
+        },
+        {
+          "hr": "Iseljavanje je veliki društveni problem.",
+          "en": "Emigration is a major social problem.",
+          "note": "iseljavanje (s) — emigration (neuter noun)"
+        },
+        {
+          "hr": "Hrvatska je bila doprvakinja na SP-u 2018. godine.",
+          "en": "Croatia was the runner-up at the 2018 World Cup."
+        },
+        {
+          "hr": "Mnogi mladi Hrvati odlaze u druge europske zemlje.",
+          "en": "Many young Croatians leave for other European countries."
+        },
+        {
+          "hr": "iseljavanje (s)",
+          "en": "emigration (n)"
+        },
+        {
+          "hr": "stanovnik (m)",
+          "en": "inhabitant, resident (m)"
+        },
+        {
+          "hr": "kulturna baština (ž)",
+          "en": "cultural heritage (f)"
+        },
+        {
+          "hr": "ponos (m)",
+          "en": "pride (m)"
+        }
+      ]
+    },
+    {
+      "context": "Croatia in Europe",
+      "items": [
+        {
+          "hr": "Hrvatska je članica Europske unije od 2013. godine.",
+          "en": "Croatia has been an EU member since 2013."
+        },
+        {
+          "hr": "Hrvatska je ušla u Schengenski prostor 2023. godine.",
+          "en": "Croatia joined the Schengen Area in 2023."
+        },
+        {
+          "hr": "Euro je službena valuta od siječnja 2023. godine.",
+          "en": "The euro has been the official currency since January 2023."
+        },
+        {
+          "hr": "Hrvatska je ujedno i članica NATO-a od 2009. godine.",
+          "en": "Croatia has also been a NATO member since 2009."
+        },
+        {
+          "hr": "Dubrovnik je na UNESCO-vom popisu svjetske baštine.",
+          "en": "Dubrovnik is on the UNESCO World Heritage list."
+        },
+        {
+          "hr": "Europska unija (EU)",
+          "en": "the European Union (EU)"
+        },
+        {
+          "hr": "Schengenski prostor",
+          "en": "the Schengen Area"
+        },
+        {
+          "hr": "valuta (ž)",
+          "en": "currency (f)"
+        },
+        {
+          "hr": "članica (ž)",
+          "en": "member state / female member (f)"
+        },
+        {
+          "hr": "službeni (adj.)",
+          "en": "official (adj.)"
+        }
+      ]
+    }
+  ]
+}

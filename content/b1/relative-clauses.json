@@ -1,0 +1,482 @@
+{
+  "id": "relative-clauses",
+  "level": "b1",
+  "order": 5,
+  "title": {
+    "hr": "Odnosne rečenice",
+    "en": "Relative Clauses"
+  },
+  "grammar": {
+    "title": {
+      "hr": "Odnosne zamjenice: koji, koja, koje",
+      "en": "Relative Pronouns: koji, koja, koje"
+    },
+    "intro": "**Odnosne rečenice** (relative clauses) describe or identify a noun. In Croatian, the relative pronoun **koji / koja / koje** (who, which, that) must agree in **gender** and **number** with the noun it refers to (the **antecedent**), but its **case** depends on its grammatical role inside the relative clause.\n\n- Muški rod (masculine): **koji** → Čovjek **koji** radi... (the man who works here)\n- Ženski rod (feminine): **koja** → Žena **koja** pjeva... (the woman who sings)\n- Srednji rod (neuter): **koje** → Dijete **koje** spava... (the child that sleeps)",
+    "rules": [
+      {
+        "label": "1. Nominativ — subject of the relative clause",
+        "explanation": "When the relative pronoun is the **subject** of the relative clause, use the **nominative** form. It agrees with the **antecedent** in gender and number.\n\n- Masculine sg: **koji**\n- Feminine sg: **koja**\n- Neuter sg: **koje**\n- Plural: **koji** (m.) / **koje** (f.) / **koja** (n.)",
+        "examples": [
+          { "hr": "Čovjek koji radi ovdje je moj susjed.", "en": "The man who works here is my neighbour." },
+          { "hr": "Žena koja pjeva vani je poznata pjevačica.", "en": "The woman who is singing outside is a famous singer." },
+          { "hr": "Dijete koje se igra u parku je moja kći.", "en": "The child that is playing in the park is my daughter." },
+          { "hr": "Prijatelji koji dolaze večeras vole jazz.", "en": "The friends who are coming tonight like jazz." }
+        ]
+      },
+      {
+        "label": "2. Akuzativ — direct object of the relative clause",
+        "explanation": "When the relative pronoun is the **direct object** of the verb in the relative clause, use the **accusative** form.\n\n- Masculine sg: **kojeg(a)**\n- Feminine sg: **koju**\n- Neuter sg: **koje**\n- Plural: **koje**",
+        "examples": [
+          { "hr": "Knjiga koju čitam je zanimljiva.", "en": "The book that I am reading is interesting." },
+          { "hr": "Film kojeg gledamo je iz Hrvatske.", "en": "The film that we are watching is from Croatia." },
+          { "hr": "Dijete koje vidim igra se loptom.", "en": "The child that I see is playing with a ball." },
+          { "hr": "Prijatelje koje posjećujem žive u Splitu.", "en": "The friends that I am visiting live in Split." }
+        ]
+      },
+      {
+        "label": "3. Genitiv posvojni — čiji / čija / čije (whose)",
+        "explanation": "To express **possession** (whose), Croatian uses **čiji** (m.sg.), **čija** (f.sg.), **čije** (n.sg.), with plural forms **čiji** (m.pl.), **čije** (f.pl.), **čija** (n.pl.). These agree in gender and number with the **possessed noun**, not the antecedent.",
+        "examples": [
+          { "hr": "Prijatelj čiji brat živi u Londonu dolazi sutra.", "en": "The friend whose brother lives in London is coming tomorrow." },
+          { "hr": "Studentica čija sestra je liječnica studira pravo.", "en": "The student whose sister is a doctor studies law." },
+          { "hr": "Pisac čije knjige volim piše roman.", "en": "The writer whose books I love is writing a novel." },
+          { "hr": "Djeca čiji roditelji rade vani žive s bakama.", "en": "Children whose parents work abroad live with their grandmothers." }
+        ]
+      },
+      {
+        "label": "4. Dativ — indirect object (to/for whom)",
+        "explanation": "When the relative pronoun serves as an **indirect object**, use the **dative** form.\n\n- Masculine / Neuter sg: **kojemu** (formal) or **kom** (colloquial)\n- Feminine sg: **kojoj**\n- Plural: **kojima**",
+        "examples": [
+          { "hr": "Žena kojoj sam dao knjigu je moja profesorica.", "en": "The woman to whom I gave the book is my professor." },
+          { "hr": "Čovjek kojemu sam pomogao radi u knjižnici.", "en": "The man whom I helped works in the library." },
+          { "hr": "Djeca kojima smo kupili igračke bila su sretna.", "en": "The children for whom we bought toys were happy." }
+        ]
+      },
+      {
+        "label": "5. Prijedlozi + koji — prepositions + relative pronoun",
+        "explanation": "When the relative pronoun follows a **preposition**, the preposition comes first and **koji** takes the case required by that preposition.\n\n- **u + lokativ**: u kojemu / u kojoj (in which)\n- **s + instrumental**: s kojim / s kojom (with which/whom)\n- **o + lokativ**: o kojemu / o kojoj (about which/whom)\n- **iz + genitiv**: iz kojeg / iz koje (from which)\n- **na + lokativ**: na kojemu / na kojoj (on which)\n- **duž + genitiv**: duž kojeg / duž koje (along which)",
+        "examples": [
+          { "hr": "Grad u kojemu živim je Zagreb.", "en": "The city in which I live is Zagreb." },
+          { "hr": "Prijatelj s kojim igram šah je dobar igrač.", "en": "The friend with whom I play chess is a good player." },
+          { "hr": "Tema o kojoj govorimo je važna.", "en": "The topic about which we are talking is important." },
+          { "hr": "Zemlja iz koje dolazi zove se Hrvatska.", "en": "The country from which she comes is called Croatia." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Padež / Case", "Muški (M) sg", "Ženski (Ž) sg", "Srednji (S) sg", "Množina (Pl)"],
+      "rows": [
+        ["Nominativ (N)", "koji", "koja", "koje", "koji / koje / koja"],
+        ["Genitiv (G)", "kojeg(a)", "koje", "kojeg(a)", "kojih"],
+        ["Dativ (D)", "kojemu", "kojoj", "kojemu", "kojima"],
+        ["Akuzativ (A)", "kojeg(a)", "koju", "koje", "koje"],
+        ["Lokativ (L)", "kojemu", "kojoj", "kojemu", "kojima"],
+        ["Instrumental (I)", "kojim", "kojom", "kojim", "kojima"]
+      ]
+    }
+  },
+  "reading": {
+    "title": {
+      "hr": "Markov novi kvart",
+      "en": "Marko's New Neighbourhood"
+    },
+    "paragraphs": [
+      {
+        "hr": "Marko je nedavno preselio u novi kvart i priča Ani o svom susjedstvu. „Ovaj kvart koji sam odabrao je savršen za mene”, kaže on. „Sve je blizu i ljudi su jako prijateljski.”",
+        "en": "Marko recently moved to a new neighbourhood and is telling Ana about his surroundings. „The neighbourhood that I chose is perfect for me,” he says. „Everything is close and the people are very friendly.”"
+      },
+      {
+        "hr": "„Postoji kavana čija kava je najbolja u cijelom Zagrebu,” objašnjava Marko. „Svako jutro sjedim tamo i čitam novine. Vlasnik kavane, koji zna svakoga po imenu, uvijek mi donese kavu bez narudžbe.”",
+        "en": "„There is a café whose coffee is the best in all of Zagreb,” Marko explains. „Every morning I sit there and read the newspaper. The owner of the café, who knows everyone by name, always brings me coffee without an order.”"
+      },
+      {
+        "hr": "„Imam i jednog zanimljivog susjeda koji svake večeri svira gitaru na balkonu,” nastavlja Marko. „Melodije koje svira su tako lijepe da ih svi u zgradi slušaju s uživanjem.”",
+        "en": "„I also have an interesting neighbour who plays guitar on the balcony every evening,” Marko continues. „The melodies that he plays are so beautiful that everyone in the building listens to them with pleasure.”"
+      },
+      {
+        "hr": "„Blizu moje zgrade nalazi se park u kojemu trčim svako jutro,” kaže Marko. „U parku ima i jezero na kojemu ponekad vidim patke i labudove. To je moje omiljeno mjesto za opuštanje.”",
+        "en": "„Near my building there is a park in which I run every morning,” says Marko. „In the park there is also a lake on which I sometimes see ducks and swans. That is my favourite place to relax.”"
+      },
+      {
+        "hr": "„Moja ulica, duž koje prolaze tramvaji, uvijek je živa i puna energije,” opisuje Marko. „Tramvaj kojim putujem na posao staje točno ispred moje zgrade — ne može biti bolje!”",
+        "en": "„My street, along which trams pass, is always lively and full of energy,” Marko describes. „The tram by which I travel to work stops right in front of my building — it cannot be better!”"
+      },
+      {
+        "hr": "Ana pita Marka: „Jesi li sretan što si se vratio u Zagreb?” Marko se osmjehuje: „Zagreb je grad u kojemu sam se rodio i u kojemu se uvijek osjećam kao kod kuće. Nije ni čudo što sam ga odabrao.”",
+        "en": "Ana asks Marko: „Are you happy that you returned to Zagreb?” Marko smiles: „Zagreb is the city in which I was born and in which I always feel at home. It is no wonder that I chose it.”"
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "relative-clauses-q1",
+      "prompt": "What does Marko say about the café in his neighbourhood?",
+      "promptHr": "Što Marko kaže o kavani u svom kvartu?",
+      "options": [
+        "It is the cheapest café in Zagreb.",
+        "Its coffee is the best in all of Zagreb.",
+        "It is open only in the evenings.",
+        "The owner does not know the customers."
+      ],
+      "correctIndex": 1,
+      "explanation": "Marko says „kavana čija kava je najbolja u cijelom Zagrebu” — the café **whose** coffee is the best in all of Zagreb. This uses the possessive relative pronoun **čija** (feminine, agreeing with „kava”)."
+    },
+    {
+      "id": "relative-clauses-q2",
+      "prompt": "What does Marko's neighbour do every evening?",
+      "promptHr": "Što Markov susjed radi svake večeri?",
+      "options": [
+        "He watches television on the balcony.",
+        "He plays the piano indoors.",
+        "He plays guitar on the balcony.",
+        "He cooks dinner for the building."
+      ],
+      "correctIndex": 2,
+      "explanation": "The text says „susjed koji svake večeri svira gitaru na balkonu” — the neighbour **who** plays guitar on the balcony every evening. **koji** is nominative masculine because the neighbour is the subject of the relative clause."
+    },
+    {
+      "id": "relative-clauses-q3",
+      "prompt": "Where does Marko run every morning?",
+      "promptHr": "Gdje Marko trči svako jutro?",
+      "options": [
+        "Along the street where trams pass.",
+        "Around the lake near the café.",
+        "In the park near his building.",
+        "On the balcony of his flat."
+      ],
+      "correctIndex": 2,
+      "explanation": "Marko says „park u kojemu trčim svako jutro” — the park **in which** I run every morning. The preposition **u** + lokativ masculine gives **u kojemu**."
+    },
+    {
+      "id": "relative-clauses-q4",
+      "prompt": "How does Marko travel to work?",
+      "promptHr": "Kako Marko putuje na posao?",
+      "options": [
+        "By bicycle along the street.",
+        "By tram that stops in front of his building.",
+        "By car through the park.",
+        "On foot through the neighbourhood."
+      ],
+      "correctIndex": 1,
+      "explanation": "Marko says „Tramvaj kojim putujem na posao staje točno ispred moje zgrade” — the tram **by which** I travel to work stops right in front of his building. **kojim** is instrumental masculine singular."
+    },
+    {
+      "id": "relative-clauses-q5",
+      "prompt": "Why does Marko feel at home in Zagreb?",
+      "promptHr": "Zašto se Marko osjeća kao kod kuće u Zagrebu?",
+      "options": [
+        "Because he has many friends and a favourite café there.",
+        "Because Zagreb is the city in which he was born.",
+        "Because the café there has the best coffee.",
+        "Because his family lives in the same building."
+      ],
+      "correctIndex": 1,
+      "explanation": "Marko says „Zagreb je grad u kojemu sam se rodio” — Zagreb is the city **in which** I was born. This is a **u + lokativ** relative clause with **kojemu** (masculine singular)."
+    }
+  ],
+  "test": [
+    {
+      "id": "relative-clauses-q6",
+      "prompt": "Choose the correct relative pronoun: Muž ___ radi u bolnici je liječnik.",
+      "promptHr": "Odaberite točnu odnosnu zamjenicu: Muž ___ radi u bolnici je liječnik.",
+      "options": ["koja", "koji", "koje", "kojeg"],
+      "correctIndex": 1,
+      "explanation": "**koji** — nominative masculine singular. „Muž” (husband) is masculine. The relative pronoun is the **subject** of the clause (he works), so use nominative **koji**."
+    },
+    {
+      "id": "relative-clauses-q7",
+      "prompt": "Choose the correct relative pronoun: Djevojka ___ pjeva na pozornici je studentica.",
+      "promptHr": "Odaberite točnu odnosnu zamjenicu: Djevojka ___ pjeva na pozornici je studentica.",
+      "options": ["koji", "kojeg", "koja", "kojoj"],
+      "correctIndex": 2,
+      "explanation": "**koja** — nominative feminine singular. „Djevojka” (girl) is feminine. The pronoun is the **subject** of the clause, so use nominative **koja**."
+    },
+    {
+      "id": "relative-clauses-q8",
+      "prompt": "Choose the correct relative pronoun: Dijete ___ trči po parku je moj nećak.",
+      "promptHr": "Odaberite točnu odnosnu zamjenicu: Dijete ___ trči po parku je moj nećak.",
+      "options": ["koji", "koja", "koje", "čiji"],
+      "correctIndex": 2,
+      "explanation": "**koje** — nominative neuter singular. „Dijete” (child) is neuter. The pronoun is the **subject** of the clause, so use nominative **koje**."
+    },
+    {
+      "id": "relative-clauses-q9",
+      "prompt": "Choose the correct relative pronoun: Knjiga ___ čitaš je napisana u 19. stoljeću.",
+      "promptHr": "Odaberite točnu odnosnu zamjenicu: Knjiga ___ čitaš je napisana u 19. stoljeću.",
+      "options": ["koji", "koju", "kojeg", "čija"],
+      "correctIndex": 1,
+      "explanation": "**koju** — accusative feminine singular. „Knjiga” (book) is feminine. The pronoun is the **direct object** of „čitaš” (you read), so use accusative **koju**."
+    },
+    {
+      "id": "relative-clauses-q10",
+      "prompt": "Choose the correct relative pronoun: Film ___ gledam je jako napeti triler.",
+      "promptHr": "Odaberite točnu odnosnu zamjenicu: Film ___ gledam je jako napeti triler.",
+      "options": ["koji", "kojeg", "koja", "koje"],
+      "correctIndex": 1,
+      "explanation": "**kojeg** — accusative masculine singular. „Film” is masculine. As the direct object of „gledam” (I am watching), use accusative **kojeg**. In informal speech **koji** is also accepted for inanimate masculine nouns."
+    },
+    {
+      "id": "relative-clauses-q11",
+      "prompt": "Which sentence uses the correct relative pronoun?",
+      "promptHr": "Koja rečenica koristi ispravnu odnosnu zamjenicu?",
+      "options": [
+        "Stan koji kupujem je u centru.",
+        "Stan koja kupujem je u centru.",
+        "Stan koje kupujem je u centru.",
+        "Stan kojoj kupujem je u centru."
+      ],
+      "correctIndex": 0,
+      "explanation": "**koji** — „Stan” (flat/apartment) is masculine and inanimate. As the direct object of „kupujem”, we need accusative masculine. For inanimate nouns, accusative equals the nominative form, so we use **koji**."
+    },
+    {
+      "id": "relative-clauses-q12",
+      "prompt": "Fill in the blank: Prijatelj ___ brat studira medicinu živi u Rijeci.",
+      "promptHr": "Dopunite rečenicu: Prijatelj ___ brat studira medicinu živi u Rijeci.",
+      "options": ["koji", "kojeg", "čiji", "čija"],
+      "correctIndex": 2,
+      "explanation": "**čiji** — possessive relative pronoun. „Brat” (brother) is masculine singular. **čiji** agrees with the possessed noun „brat” (masculine singular). „Prijatelj čiji brat...” = „the friend whose brother...”."
+    },
+    {
+      "id": "relative-clauses-q13",
+      "prompt": "Fill in the blank: Profesor ___ studenti su odlični predaje na fakultetu.",
+      "promptHr": "Dopunite rečenicu: Profesor ___ studenti su odlični predaje na fakultetu.",
+      "options": ["čiji", "čija", "čije", "kojoj"],
+      "correctIndex": 0,
+      "explanation": "**čiji** — possessive relative pronoun agreeing with „studenti” (students, masculine plural). The masculine plural form of the possessive relative pronoun is **čiji**. „Profesor čiji studenti su odlični” = „the professor whose students are excellent”."
+    },
+    {
+      "id": "relative-clauses-q14",
+      "prompt": "Choose the correct form: Žena ___ sam dao cvijeće se jako obradovala.",
+      "promptHr": "Odaberite točan oblik: Žena ___ sam dao cvijeće se jako obradovala.",
+      "options": ["koja", "kojoj", "kojeg", "koju"],
+      "correctIndex": 1,
+      "explanation": "**kojoj** — dative feminine singular. „Žena” is feminine. „Dao sam cvijeće” needs an indirect object (to whom I gave flowers). The dative feminine form of koji is **kojoj**."
+    },
+    {
+      "id": "relative-clauses-q15",
+      "prompt": "Choose the correct form: Čovjek ___ sam pomogao je jako zahvalan.",
+      "promptHr": "Odaberite točan oblik: Čovjek ___ sam pomogao je jako zahvalan.",
+      "options": ["koji", "kojemu", "kojeg", "čiji"],
+      "correctIndex": 1,
+      "explanation": "**kojemu** — dative masculine singular. „Pomoći” (to help) takes the dative case in Croatian (pomoći **nekome** = to help someone). So we need dative **kojemu**. „Čovjek kojemu sam pomogao” = „the man whom I helped”."
+    },
+    {
+      "id": "relative-clauses-q16",
+      "prompt": "Fill in: Grad u ___ živim ima milijun stanovnika.",
+      "promptHr": "Dopunite: Grad u ___ živim ima milijun stanovnika.",
+      "options": ["kojeg", "kojemu", "kojom", "koji"],
+      "correctIndex": 1,
+      "explanation": "**kojemu** — preposition **u** + lokativ masculine singular. „Grad” (city) is masculine. After **u** expressing location (lokativ), masculine/neuter singular takes **kojemu**."
+    },
+    {
+      "id": "relative-clauses-q17",
+      "prompt": "Fill in: Prijatelj s ___ igram tenis je profesionalni sportaš.",
+      "promptHr": "Dopunite: Prijatelj s ___ igram tenis je profesionalni sportaš.",
+      "options": ["kojim", "kojom", "kojeg", "kojemu"],
+      "correctIndex": 0,
+      "explanation": "**kojim** — preposition **s** (with) + instrumental masculine singular. „Prijatelj” is masculine. Instrumental masculine singular of koji is **kojim**."
+    },
+    {
+      "id": "relative-clauses-q18",
+      "prompt": "Fill in: Tema o ___ govorimo danas je vrlo važna.",
+      "promptHr": "Dopunite: Tema o ___ govorimo danas je vrlo važna.",
+      "options": ["kojemu", "kojoj", "kojim", "kojeg"],
+      "correctIndex": 1,
+      "explanation": "**kojoj** — preposition **o** (about) + lokativ feminine singular. „Tema” (topic) is feminine. Lokativ feminine singular of koji is **kojoj**."
+    },
+    {
+      "id": "relative-clauses-q19",
+      "prompt": "Fill in: Zemlja iz ___ dolazi zove se Hrvatska.",
+      "promptHr": "Dopunite: Zemlja iz ___ dolazi zove se Hrvatska.",
+      "options": ["kojeg", "koje", "kojoj", "kojim"],
+      "correctIndex": 1,
+      "explanation": "**koje** — preposition **iz** (from) + genitiv feminine singular. „Zemlja” (country) is feminine. Genitiv feminine singular of koji is **koje**."
+    },
+    {
+      "id": "relative-clauses-q20",
+      "prompt": "Translate into Croatian: The woman who is reading the newspaper is my mother.",
+      "promptHr": "Prevedite na hrvatski: The woman who is reading the newspaper is my mother.",
+      "options": [
+        "Žena kojoj čita novine je moja majka.",
+        "Žena koja čita novine je moja majka.",
+        "Žena koje čita novine je moja majka.",
+        "Žena kojeg čita novine je moja majka."
+      ],
+      "correctIndex": 1,
+      "explanation": "**koja** — nominative feminine. „Žena” (woman) is feminine and the relative pronoun is the **subject** (she is reading), so use nominative **koja**. „Žena koja čita novine” = „the woman who is reading the newspaper”."
+    },
+    {
+      "id": "relative-clauses-q21",
+      "prompt": "Translate into Croatian: The city in which I was born is beautiful.",
+      "promptHr": "Prevedite na hrvatski: The city in which I was born is beautiful.",
+      "options": [
+        "Grad koji sam se rodio je lijep.",
+        "Grad kojeg sam se rodio je lijep.",
+        "Grad u kojemu sam se rodio je lijep.",
+        "Grad kojemu sam se rodio je lijep."
+      ],
+      "correctIndex": 2,
+      "explanation": "**u kojemu** — preposition **u** + lokativ masculine singular. Expressing „in which” for a place requires the preposition before the relative pronoun. „Grad u kojemu sam se rodio” = „the city in which I was born”."
+    },
+    {
+      "id": "relative-clauses-q22",
+      "prompt": "Translate into English: Knjiga koju sam pročitao bila je nevjerojatna.",
+      "promptHr": "Prevedite na engleski: Knjiga koju sam pročitao bila je nevjerojatna.",
+      "options": [
+        "The book whose I read was amazing.",
+        "The book that I read was amazing.",
+        "The book to which I read was amazing.",
+        "The book in which I read was amazing."
+      ],
+      "correctIndex": 1,
+      "explanation": "**koju** is the accusative feminine relative pronoun meaning „that / which” as a direct object. „Knjiga koju sam pročitao” = „the book that I read”. The correct English translation is option B."
+    },
+    {
+      "id": "relative-clauses-q23",
+      "prompt": "Translate into English: Prijatelj čija sestra govori pet jezika radi kao prevoditelj.",
+      "promptHr": "Prevedite na engleski: Prijatelj čija sestra govori pet jezika radi kao prevoditelj.",
+      "options": [
+        "The friend who sister speaks five languages works as a translator.",
+        "The friend whose sister speaks five languages works as a translator.",
+        "The friend which sister speaks five languages works as a translator.",
+        "The friend that sister speaks five languages works as a translator."
+      ],
+      "correctIndex": 1,
+      "explanation": "**čija** is the possessive relative pronoun (whose), feminine singular because it agrees with „sestra” (sister, feminine singular). The correct English uses „whose sister”."
+    },
+    {
+      "id": "relative-clauses-q24",
+      "prompt": "Which sentence is grammatically correct?",
+      "promptHr": "Koja je rečenica gramatički ispravna?",
+      "options": [
+        "Kuća u koji živim je stara.",
+        "Kuća u koje živim je stara.",
+        "Kuća u kojoj živim je stara.",
+        "Kuća u kojemu živim je stara."
+      ],
+      "correctIndex": 2,
+      "explanation": "**u kojoj** — preposition **u** + lokativ feminine singular. „Kuća” (house) is feminine. Lokativ feminine singular of koji is **kojoj**, giving us **u kojoj**."
+    },
+    {
+      "id": "relative-clauses-q25",
+      "prompt": "Which sentence correctly uses the possessive relative pronoun?",
+      "promptHr": "Koja rečenica ispravno koristi posvojnu odnosnu zamjenicu?",
+      "options": [
+        "Student koji knjige su dobre uči pravo.",
+        "Student čije knjige su dobre uči pravo.",
+        "Student čija knjige su dobre uči pravo.",
+        "Student kojih knjige su dobre uči pravo."
+      ],
+      "correctIndex": 1,
+      "explanation": "**čije** — possessive relative pronoun agreeing with „knjige” (books, feminine plural). The feminine plural form of the possessive relative pronoun is **čije**. „Student čije knjige su dobre” = „the student whose books are good”."
+    },
+    {
+      "id": "relative-clauses-q26",
+      "prompt": "Fill in the correct form: Tramvaj ___ putujem svaki dan prolazi centrom.",
+      "promptHr": "Dopunite ispravnim oblikom: Tramvaj ___ putujem svaki dan prolazi centrom.",
+      "options": ["koji", "kojim", "kojeg", "kojoj"],
+      "correctIndex": 1,
+      "explanation": "**kojim** — instrumental masculine singular. „Putovati tramvajem” (to travel by tram) uses the instrumental case. In a relative clause the means of transport takes the instrumental relative pronoun **kojim**."
+    },
+    {
+      "id": "relative-clauses-q27",
+      "prompt": "Identify the relative clause: „Restoran koji smo posjetili prošlog tjedna bio je izvrstan.”",
+      "promptHr": "Prepoznajte odnosnu rečenicu: „Restoran koji smo posjetili prošlog tjedna bio je izvrstan.”",
+      "options": [
+        "Restoran bio je izvrstan.",
+        "koji smo posjetili prošlog tjedna",
+        "smo posjetili prošlog tjedna bio je",
+        "koji bio je izvrstan"
+      ],
+      "correctIndex": 1,
+      "explanation": "The relative clause is **koji smo posjetili prošlog tjedna** — it begins with the relative pronoun **koji** and modifies „restoran”. **koji** is accusative masculine (direct object of „posjetili”)."
+    },
+    {
+      "id": "relative-clauses-q28",
+      "prompt": "What is the correct Croatian translation of: The street along which we walked is very long.",
+      "promptHr": "Koji je točan hrvatski prijevod: The street along which we walked is very long.",
+      "options": [
+        "Ulica kojoj smo hodali je jako duga.",
+        "Ulica duž koje smo hodali je jako duga.",
+        "Ulica kojeg smo hodali je jako duga.",
+        "Ulica u kojoj smo hodali je jako duga."
+      ],
+      "correctIndex": 1,
+      "explanation": "**duž koje** — the preposition „duž” (along) takes the **genitiv** case. „Ulica” (street) is feminine, so genitiv feminine singular gives **koje**. The full phrase is **duž koje smo hodali** (along which we walked)."
+    },
+    {
+      "id": "relative-clauses-q29",
+      "prompt": "Choose the correct form: Pisac ___ roman sam pročitao dobit će nagradu.",
+      "promptHr": "Odaberite točan oblik: Pisac ___ roman sam pročitao dobit će nagradu.",
+      "options": ["koji", "čiji", "kojemu", "kojeg"],
+      "correctIndex": 1,
+      "explanation": "**čiji** — possessive relative pronoun masculine singular, agreeing with „roman” (novel, masculine singular). „Pisac čiji roman sam pročitao” = „the writer whose novel I read”."
+    },
+    {
+      "id": "relative-clauses-q30",
+      "prompt": "Which option correctly fills the blank? Djeca ___ roditelji rade u inozemstvu žive s bakama i djedovima.",
+      "promptHr": "Koji izbor ispravno popunjava prazninu? Djeca ___ roditelji rade u inozemstvu žive s bakama i djedovima.",
+      "options": ["kojih", "kojima", "čiji", "čija"],
+      "correctIndex": 2,
+      "explanation": "**čiji** — possessive relative pronoun agreeing with „roditelji” (parents, masculine plural). The masculine plural form of the possessive relative pronoun is **čiji**. „Djeca čiji roditelji rade...” = „children whose parents work...”."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Koji / koja / koje — Nominative (subject of relative clause)",
+      "items": [
+        { "hr": "Čovjek koji radi ovdje...", "en": "The man who works here...", "note": "koji — nominative masculine sg" },
+        { "hr": "Žena koja pjeva...", "en": "The woman who sings...", "note": "koja — nominative feminine sg" },
+        { "hr": "Dijete koje spava...", "en": "The child that sleeps...", "note": "koje — nominative neuter sg" },
+        { "hr": "Prijatelji koji dolaze...", "en": "The friends who are coming...", "note": "koji — nominative masculine pl" },
+        { "hr": "Cure koje plešu...", "en": "The girls who are dancing...", "note": "koje — nominative feminine pl" },
+        { "hr": "Sela koja su daleko...", "en": "The villages that are far...", "note": "koja — nominative neuter pl" }
+      ]
+    },
+    {
+      "context": "Koji in accusative (direct object) — kojeg / koju / koje",
+      "items": [
+        { "hr": "Film kojeg gledam...", "en": "The film that I am watching...", "note": "kojeg — accusative masculine sg" },
+        { "hr": "Pjesmu koju slušam...", "en": "The song that I am listening to...", "note": "koju — accusative feminine sg" },
+        { "hr": "Pivo koje pijem...", "en": "The beer that I am drinking...", "note": "koje — accusative neuter sg" },
+        { "hr": "Prijatelje koje posjećujem...", "en": "The friends that I am visiting...", "note": "koje — accusative plural" },
+        { "hr": "Auto kojeg kupujem...", "en": "The car that I am buying...", "note": "kojeg — accusative masculine (inanimate)" },
+        { "hr": "Knjigu koju čitam...", "en": "The book that I am reading...", "note": "koju — accusative feminine sg" }
+      ]
+    },
+    {
+      "context": "Čiji / čija / čije — Whose (possessive relative pronoun)",
+      "items": [
+        { "hr": "Prijatelj čiji brat živi u Londonu...", "en": "The friend whose brother lives in London...", "note": "čiji — agrees with brat (m.sg)" },
+        { "hr": "Studentica čija sestra je liječnica...", "en": "The student whose sister is a doctor...", "note": "čija — agrees with sestra (f.sg)" },
+        { "hr": "Pisac čije knjige volim...", "en": "The writer whose books I love...", "note": "čije — agrees with knjige (f.pl)" },
+        { "hr": "Profesor čiji studenti su odlični...", "en": "The professor whose students are excellent...", "note": "čiji — agrees with studenti (m.pl)" },
+        { "hr": "Dijete čija je soba mala...", "en": "The child whose room is small...", "note": "čija — agrees with soba (f.sg)" },
+        { "hr": "Pisac čije djelo je poznato...", "en": "The writer whose work is well-known...", "note": "čije — agrees with djelo (n.sg)" }
+      ]
+    },
+    {
+      "context": "Koji with prepositions (preposition + case form)",
+      "items": [
+        { "hr": "Grad u kojemu živim...", "en": "The city in which I live...", "note": "u + lokativ (m.sg): kojemu" },
+        { "hr": "Soba u kojoj spavam...", "en": "The room in which I sleep...", "note": "u + lokativ (f.sg): kojoj" },
+        { "hr": "Prijatelj s kojim radim...", "en": "The friend with whom I work...", "note": "s + instrumental (m.sg): kojim" },
+        { "hr": "Tema o kojoj govorimo...", "en": "The topic about which we speak...", "note": "o + lokativ (f.sg): kojoj" },
+        { "hr": "Zemlja iz koje dolazi...", "en": "The country from which she comes...", "note": "iz + genitiv (f.sg): koje" },
+        { "hr": "Ulica duž koje hodamo...", "en": "The street along which we walk...", "note": "duž + genitiv (f.sg): koje" },
+        { "hr": "Tramvaj kojim putujem...", "en": "The tram by which I travel...", "note": "instrumental (m.sg): kojim — no preposition needed" }
+      ]
+    },
+    {
+      "context": "Useful relative clause phrases",
+      "items": [
+        { "hr": "...koji / koja / koje se zove...", "en": "...which / who is called...", "note": "common in descriptions" },
+        { "hr": "...u kojemu / kojoj sam se rodio / la...", "en": "...in which I was born...", "note": "talking about hometown or city" },
+        { "hr": "...koji / koja / koje mi se sviđa...", "en": "...which / who I like...", "note": "svidjeti se takes dative" },
+        { "hr": "...kojeg / koju / koje znam...", "en": "...whom / which I know...", "note": "accusative as object of znati" },
+        { "hr": "...kojemu / kojoj sam zahvalan / na...", "en": "...to whom I am grateful...", "note": "zahvalan/na takes dative" },
+        { "hr": "...s kojim / kojom se slažem...", "en": "...with whom I agree...", "note": "slagati se + s + instrumental" }
+      ]
+    }
+  ]
+}

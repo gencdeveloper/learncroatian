@@ -1,0 +1,410 @@
+{
+  "id": "places",
+  "level": "a1",
+  "order": 9,
+  "title": { "hr": "Mjesta i prijedlozi", "en": "Places & Prepositions" },
+  "grammar": {
+    "title": { "hr": "Prijedlozi mjesta", "en": "Prepositions of Place" },
+    "intro": "Croatian uses **prepositions of place** to say where something is.\n\nThe two most important are:\n- **u** (in/at) — for enclosed spaces\n- **na** (on/at) — for open spaces or fixed expressions\n\nThe noun after the preposition changes form depending on whether you are talking about **location** (locative case) or **movement** (accusative case).",
+    "rules": [
+      {
+        "label": "Gdje je...? (Where is...?)",
+        "explanation": "Use **Gdje je...?** to ask where something is.\n\nThe answer begins with a preposition + place name in the **locative case**:\n- Gdje je pošta? → Pošta je **blizu trga**.\n\nA slightly more formal alternative: **Gdje se nalazi...?**",
+        "examples": [
+          { "hr": "Gdje je pošta?", "en": "Where is the post office?" },
+          { "hr": "Pošta je blizu trga.", "en": "The post office is near the square." },
+          { "hr": "Gdje je banka?", "en": "Where is the bank?" }
+        ]
+      },
+      {
+        "label": "U vs. Na (In vs. On/At)",
+        "explanation": "There is no single rule — you need to learn which places take which preposition.\n\n**u** — enclosed spaces and cities:\n- u gradu, u školi, u kafiću\n\n**na** — open spaces, surfaces, and fixed expressions:\n- na plaži, na poslu, na tržnici\n\nThe table below shows the most common ones.",
+        "examples": [
+          { "hr": "Ona je u školi.", "en": "She is at school." },
+          { "hr": "On radi na poslu.", "en": "He is at work." },
+          { "hr": "Kupujemo na tržnici.", "en": "We shop at the market." }
+        ]
+      },
+      {
+        "label": "Ići u / na (Going TO places)",
+        "explanation": "When expressing movement **towards** a place, use **u** or **na** + the **accusative case**.\n\nThe accusative form:\n- Masculine/neuter: usually the same as the nominative (grad → grad)\n- Feminine **-a** nouns: change **-a** to **-u** (škola → **školu**, plaža → **plažu**)",
+        "examples": [
+          { "hr": "Idem u grad.", "en": "I am going to the city." },
+          { "hr": "Idemo na plažu.", "en": "We are going to the beach." },
+          { "hr": "Ona ide u školu.", "en": "She is going to school." }
+        ]
+      },
+      {
+        "label": "Locative case — light introduction",
+        "explanation": "The **locative case** is used after **u** and **na** when describing **location** (not movement).\n\nBasic patterns:\n- Masculine/neuter: add **-u** (grad → **gradu**, restoran → **restoranu**)\n- Feminine **-a** nouns: change **-a** to **-i** (škola → **školi**, plaža → **plaži**)\n\nThe full paradigm comes in a later lesson — for now, learn the most common place forms.",
+        "examples": [
+          { "hr": "Knjiga je na stolu.", "en": "The book is on the table." },
+          { "hr": "Živim u gradu.", "en": "I live in the city." },
+          { "hr": "Sjedimo na plaži.", "en": "We are sitting on the beach." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Place (nominative)", "U or Na?", "Locative form", "Example phrase"],
+      "rows": [
+        ["grad (city)", "u", "gradu", "u gradu"],
+        ["plaža (beach)", "na", "plaži", "na plaži"],
+        ["more (sea)", "na", "moru", "na moru"],
+        ["pošta (post office)", "u", "pošti", "u pošti"],
+        ["banka (bank)", "u", "banci", "u banci"],
+        ["bolnica (hospital)", "u", "bolnici", "u bolnici"],
+        ["restoran (restaurant)", "u", "restoranu", "u restoranu"],
+        ["kafić (café)", "u", "kafiću", "u kafiću"],
+        ["park (park)", "u", "parku", "u parku"],
+        ["škola (school)", "u", "školi", "u školi"],
+        ["tržnica (market)", "na", "tržnici", "na tržnici"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "hr": "Gdje je pošta?", "en": "Where Is the Post Office?" },
+    "paragraphs": [
+      {
+        "hr": "Ana je nova u Zagrebu. Ona ne zna gdje su važna mjesta u centru. Na sreću, njen prijatelj Marko živi u gradu već deset godina.",
+        "en": "Ana is new in Zagreb. She does not know where the important places in the centre are. Luckily, her friend Marko has been living in the city for ten years."
+      },
+      {
+        "hr": "\"Marko, gdje je pošta?\" pita Ana. \"Pošta je blizu trga. Idi ravno, a zatim skreni lijevo kod banke. Pošta je pored banke,\" odgovara Marko.",
+        "en": "\"Marko, where is the post office?\" asks Ana. \"The post office is near the square. Go straight, then turn left at the bank. The post office is next to the bank,\" Marko answers."
+      },
+      {
+        "hr": "\"A gdje je ljekarnica?\" pita Ana. \"Ljekarnica je iza pošte. Ona je između pošte i male knjižare,\" kaže Marko.",
+        "en": "\"And where is the pharmacy?\" asks Ana. \"The pharmacy is behind the post office. It is between the post office and the small bookshop,\" says Marko."
+      },
+      {
+        "hr": "\"Gdje je tržnica?\" želi znati Ana. \"Tržnica je malo dalje. Idi ravno do semafora, a onda skreni desno. Tržnica je ispred velikog hotela,\" objašnjava Marko.",
+        "en": "\"Where is the market?\" wants to know Ana. \"The market is a little further. Go straight to the traffic lights, then turn right. The market is in front of the big hotel,\" explains Marko."
+      },
+      {
+        "hr": "\"Znaš li koji kafić je dobar ovdje?\" pita Ana. \"Da! Kafić 'Velvet' je odličan. On je pored parka, blizu Trga bana Jelačića,\" odgovara Marko.",
+        "en": "\"Do you know which café is good here?\" asks Ana. \"Yes! Café Velvet is excellent. It is next to the park, near Ban Jelačić Square,\" answers Marko."
+      },
+      {
+        "hr": "Ana zahvaljuje Marku i odlazi. Ona pronalazi poštu, ljekarnu i tržnicu bez problema. Na kraju, ona sjedi u kafiću Velvet na Trgu bana Jelačića i pije kavu.",
+        "en": "Ana thanks Marko and leaves. She finds the post office, pharmacy, and market without a problem. In the end, she sits in Café Velvet at Ban Jelačić Square and drinks coffee."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "places-q1",
+      "prompt": "Where does Marko say the post office is?",
+      "promptHr": "Gdje Marko kaže da je pošta?",
+      "options": [
+        "Behind the market",
+        "Next to the bank, near the square",
+        "In front of the big hotel",
+        "Between the park and the bookshop"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marko says the post office is near the square and next to the bank: 'Pošta je blizu trga... pored banke.'"
+    },
+    {
+      "id": "places-q2",
+      "prompt": "Where is the pharmacy located?",
+      "promptHr": "Gdje se nalazi ljekarnica?",
+      "options": [
+        "Next to the park",
+        "In front of the hotel",
+        "Between the post office and the bookshop",
+        "Near the traffic lights"
+      ],
+      "correctIndex": 2,
+      "explanation": "The pharmacy is behind the post office, between the post office and the small bookshop: 'između pošte i male knjižare'."
+    },
+    {
+      "id": "places-q3",
+      "prompt": "How does Ana get to the market?",
+      "promptHr": "Kako Ana dolazi do tržnice?",
+      "options": [
+        "Turn left at the bank, then go straight",
+        "Go straight to the traffic lights, then turn right",
+        "Turn right at the post office, then go left",
+        "Go past the park and turn left"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marko tells Ana to go straight to the traffic lights ('do semafora') and then turn right ('skreni desno')."
+    },
+    {
+      "id": "places-q4",
+      "prompt": "Where is Café Velvet?",
+      "promptHr": "Gdje se nalazi kafić Velvet?",
+      "options": [
+        "Next to the pharmacy",
+        "Behind the market",
+        "Next to the park, near Ban Jelačić Square",
+        "In front of the hospital"
+      ],
+      "correctIndex": 2,
+      "explanation": "Marko says Café Velvet is next to the park, near Trg bana Jelačića: 'pored parka, blizu Trga bana Jelačića'."
+    },
+    {
+      "id": "places-q5",
+      "prompt": "How does the story end?",
+      "promptHr": "Kako priča završava?",
+      "options": [
+        "Ana gets lost and calls Marko again",
+        "Marko takes Ana around the city in person",
+        "Ana finds all the places and drinks coffee at the café",
+        "Ana goes back home without finding the market"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana successfully finds all the places and ends up sitting in Café Velvet at Ban Jelačić Square, drinking coffee."
+    }
+  ],
+  "test": [
+    {
+      "id": "places-q6",
+      "prompt": "What does 'pošta' mean in English?",
+      "options": ["pharmacy", "bank", "post office", "market"],
+      "correctIndex": 2
+    },
+    {
+      "id": "places-q7",
+      "prompt": "How do you say 'train station' in Croatian?",
+      "options": ["ljekarnica", "kolodvor", "bolnica", "tržnica"],
+      "correctIndex": 1
+    },
+    {
+      "id": "places-q8",
+      "prompt": "What does 'bolnica' mean?",
+      "options": ["school", "park", "hospital", "restaurant"],
+      "correctIndex": 2
+    },
+    {
+      "id": "places-q9",
+      "prompt": "Choose the correct preposition: 'Ona je ___ školi.' (She is at school.)",
+      "options": ["na", "u", "iza", "pored"],
+      "correctIndex": 1,
+      "explanation": "'Škola' (school) is an enclosed space and takes 'u': u školi."
+    },
+    {
+      "id": "places-q10",
+      "prompt": "Choose the correct preposition: 'Kupujemo ___ tržnici.' (We shop at the market.)",
+      "options": ["u", "iza", "na", "blizu"],
+      "correctIndex": 2,
+      "explanation": "'Tržnica' (market) is a fixed expression that takes 'na': na tržnici."
+    },
+    {
+      "id": "places-q11",
+      "prompt": "What does 'Gdje je...?' mean?",
+      "options": ["How far is...?", "Who is...?", "Where is...?", "What is...?"],
+      "correctIndex": 2
+    },
+    {
+      "id": "places-q12",
+      "prompt": "Which preposition means 'in front of'?",
+      "options": ["iza", "pored", "ispred", "između"],
+      "correctIndex": 2
+    },
+    {
+      "id": "places-q13",
+      "prompt": "Which preposition means 'behind'?",
+      "options": ["ispred", "blizu", "pored", "iza"],
+      "correctIndex": 3
+    },
+    {
+      "id": "places-q14",
+      "prompt": "What does 'blizu' mean?",
+      "options": ["far from", "between", "next to", "near"],
+      "correctIndex": 3
+    },
+    {
+      "id": "places-q15",
+      "prompt": "What does 'daleko od' mean?",
+      "options": ["near", "far from", "in front of", "behind"],
+      "correctIndex": 1
+    },
+    {
+      "id": "places-q16",
+      "prompt": "Fill in: 'Idem ___ plažu.' (I am going to the beach.)",
+      "options": ["u", "na", "iza", "između"],
+      "correctIndex": 1,
+      "explanation": "'Plaža' takes 'na' for movement towards it: na plažu (accusative of plaža)."
+    },
+    {
+      "id": "places-q17",
+      "prompt": "What is the locative form of 'grad' (city)?",
+      "options": ["gradu", "grada", "gradi", "gradom"],
+      "correctIndex": 0,
+      "explanation": "Masculine nouns typically add -u in the locative: grad → gradu."
+    },
+    {
+      "id": "places-q18",
+      "prompt": "What is the locative form of 'plaža' (beach)?",
+      "options": ["plažu", "plaže", "plaži", "plažom"],
+      "correctIndex": 2,
+      "explanation": "Feminine nouns ending in -a change to -i in the locative: plaža → plaži."
+    },
+    {
+      "id": "places-q19",
+      "prompt": "Which word means 'straight ahead' when giving directions?",
+      "options": ["lijevo", "desno", "ravno", "blizu"],
+      "correctIndex": 2
+    },
+    {
+      "id": "places-q20",
+      "prompt": "Which word means 'left' (direction)?",
+      "options": ["ravno", "desno", "blizu", "lijevo"],
+      "correctIndex": 3
+    },
+    {
+      "id": "places-q21",
+      "prompt": "Which word means 'right' (direction)?",
+      "options": ["desno", "lijevo", "ravno", "daleko"],
+      "correctIndex": 0
+    },
+    {
+      "id": "places-q22",
+      "prompt": "Which preposition means 'between'?",
+      "options": ["iza", "pored", "između", "ispred"],
+      "correctIndex": 2
+    },
+    {
+      "id": "places-q23",
+      "prompt": "How do you say 'The café is next to the park' in Croatian?",
+      "options": [
+        "Kafić je iza parka.",
+        "Kafić je ispred parka.",
+        "Kafić je između parka.",
+        "Kafić je pored parka."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Pored' means 'next to': Kafić je pored parka."
+    },
+    {
+      "id": "places-q24",
+      "prompt": "Fill in: 'Živim ___ gradu.' (I live in the city.)",
+      "options": ["na", "u", "iza", "ispred"],
+      "correctIndex": 1,
+      "explanation": "Cities take 'u': u gradu (locative of 'grad')."
+    },
+    {
+      "id": "places-q25",
+      "prompt": "What does 'kafić' mean?",
+      "options": ["bank", "café", "bookshop", "hotel"],
+      "correctIndex": 1
+    },
+    {
+      "id": "places-q26",
+      "prompt": "Choose the correct sentence for 'I am going to school.'",
+      "options": [
+        "Ja sam u školi.",
+        "Ja idem u školu.",
+        "Ja idem na školu.",
+        "Ja idem na školi."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Škola' takes 'u' and the accusative for movement: idem u školu."
+    },
+    {
+      "id": "places-q27",
+      "prompt": "What does 'ljekarnica' mean?",
+      "options": ["bookshop", "pharmacy", "restaurant", "market"],
+      "correctIndex": 1
+    },
+    {
+      "id": "places-q28",
+      "prompt": "Fill in: 'Restoran je ___ bolnice.' (The restaurant is in front of the hospital.)",
+      "options": ["blizu", "pored", "ispred", "između"],
+      "correctIndex": 2,
+      "explanation": "'Ispred' means 'in front of': ispred bolnice."
+    },
+    {
+      "id": "places-q29",
+      "prompt": "How do you say 'The bank is far from the park' in Croatian?",
+      "options": [
+        "Banka je blizu parka.",
+        "Banka je između parka.",
+        "Banka je pored parka.",
+        "Banka je daleko od parka."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Daleko od' means 'far from': Banka je daleko od parka."
+    },
+    {
+      "id": "places-q30",
+      "prompt": "What is the locative form of 'kafić' (café)?",
+      "options": ["kafiću", "kafića", "kafici", "kafićom"],
+      "correctIndex": 0,
+      "explanation": "Masculine nouns add -u in the locative: kafić → kafiću."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Public places",
+      "items": [
+        { "hr": "grad", "en": "city" },
+        { "hr": "trg", "en": "square / town square" },
+        { "hr": "pošta", "en": "post office" },
+        { "hr": "banka", "en": "bank" },
+        { "hr": "ljekarnica", "en": "pharmacy" },
+        { "hr": "bolnica", "en": "hospital" },
+        { "hr": "škola", "en": "school" },
+        { "hr": "tržnica", "en": "market" },
+        { "hr": "restoran", "en": "restaurant" },
+        { "hr": "kafić", "en": "café" },
+        { "hr": "park", "en": "park" },
+        { "hr": "kolodvor", "en": "train station" },
+        { "hr": "knjižara", "en": "bookshop" },
+        { "hr": "hotel", "en": "hotel" }
+      ]
+    },
+    {
+      "context": "Prepositions of place",
+      "items": [
+        { "hr": "u", "en": "in / at (enclosed spaces)", "note": "u gradu, u školi, u kafiću" },
+        { "hr": "na", "en": "on / at (open spaces or fixed expressions)", "note": "na plaži, na tržnici, na poslu" },
+        { "hr": "ispred", "en": "in front of", "note": "ispred hotela — in front of the hotel" },
+        { "hr": "iza", "en": "behind", "note": "iza pošte — behind the post office" },
+        { "hr": "pored", "en": "next to", "note": "pored banke — next to the bank" },
+        { "hr": "između", "en": "between", "note": "između pošte i knjižare — between the post office and the bookshop" },
+        { "hr": "blizu", "en": "near", "note": "blizu trga — near the square" },
+        { "hr": "daleko od", "en": "far from", "note": "daleko od centra — far from the centre" }
+      ]
+    },
+    {
+      "context": "Asking for directions",
+      "items": [
+        { "hr": "Gdje je...?", "en": "Where is...?" },
+        { "hr": "Gdje se nalazi...?", "en": "Where is... located?" },
+        { "hr": "Možete li mi reći gdje je...?", "en": "Could you tell me where... is?" },
+        { "hr": "Je li daleko?", "en": "Is it far?" },
+        { "hr": "Koliko je daleko?", "en": "How far is it?" },
+        { "hr": "Hvala!", "en": "Thank you!" },
+        { "hr": "Nema na čemu.", "en": "You're welcome." }
+      ]
+    },
+    {
+      "context": "Direction words",
+      "items": [
+        { "hr": "ravno", "en": "straight ahead" },
+        { "hr": "lijevo", "en": "left" },
+        { "hr": "desno", "en": "right" },
+        { "hr": "skreni lijevo", "en": "turn left" },
+        { "hr": "skreni desno", "en": "turn right" },
+        { "hr": "blizu", "en": "near / nearby" },
+        { "hr": "daleko", "en": "far" },
+        { "hr": "kod semafora", "en": "at the traffic lights" },
+        { "hr": "na kraju ulice", "en": "at the end of the street" }
+      ]
+    },
+    {
+      "context": "In the city (phrases)",
+      "items": [
+        { "hr": "Idem u grad.", "en": "I am going to the city." },
+        { "hr": "Živim u centru.", "en": "I live in the centre." },
+        { "hr": "Pošta je blizu trga.", "en": "The post office is near the square." },
+        { "hr": "Kafić je pored parka.", "en": "The café is next to the park." },
+        { "hr": "Idemo na tržnicu.", "en": "We are going to the market." },
+        { "hr": "Banka je ispred hotela.", "en": "The bank is in front of the hotel." },
+        { "hr": "Ljekarnica je iza pošte.", "en": "The pharmacy is behind the post office." }
+      ]
+    }
+  ]
+}

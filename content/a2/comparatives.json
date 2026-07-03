@@ -1,0 +1,431 @@
+{
+  "id": "comparatives",
+  "level": "a2",
+  "order": 9,
+  "title": { "en": "Comparative & Superlative", "hr": "Komparativ i superlativ" },
+  "grammar": {
+    "title": { "en": "Comparing Adjectives in Croatian", "hr": "Uspoređivanje pridjeva u hrvatskom" },
+    "intro": "Croatian adjectives have three degrees: **pozitiv** (positive), **komparativ** (comparative — *more*), and **superlativ** (superlative — *most*).\n\nThe comparative is formed by adding a suffix to the adjective stem. The superlative always adds the prefix **naj-** to the comparative.\n\nComparative adjectives must agree in **gender** and **number** with the noun they describe.",
+    "rules": [
+      {
+        "label": "Regular comparative: -iji / -ja / -je (and variants)",
+        "explanation": "Most adjectives form the comparative by adding **-iji** (masc.), **-ija** (fem.), or **-ije** (neut.) to the stem:\n- **star** (old) → **stariji / starija / starije**\n- **nov** (new) → **noviji / novija / novije**\n- **jeftin** (cheap) → **jeftiniji / jeftinija / jeftinije**\n\nSome stems have sound changes at the boundary:\n- **velik** → **veći / veća / veće** (k→č)\n- **brz** → **brži / brža / brže** (z→ž)\n- **lijep** → **ljepši / ljepša / ljepše**\n- **skup** → **skuplji / skuplja / skuplje**\n- **mali** → **manji / manja / manje**",
+        "examples": [
+          { "hr": "Ovaj grad je stariji nego onaj.", "en": "This city is older than that one." },
+          { "hr": "Novi auto je brži nego stari.", "en": "The new car is faster than the old one." },
+          { "hr": "Ta haljina je jeftinija nego ova.", "en": "That dress is cheaper than this one." }
+        ]
+      },
+      {
+        "label": "Superlative: naj- prefix",
+        "explanation": "The superlative is formed by adding **naj-** directly to the comparative form — always written as one word:\n- **veći** → **naj**veći (biggest)\n- **stariji** → **naj**stariji (oldest)\n- **ljepši** → **naj**ljepši (most beautiful)\n- **skuplji** → **naj**skuplji (most expensive)\n- **brži** → **naj**brži (fastest)\n\nThe superlative also agrees in gender and number with the noun.",
+        "examples": [
+          { "hr": "Zagreb je najveći grad u Hrvatskoj.", "en": "Zagreb is the biggest city in Croatia." },
+          { "hr": "Ovo je najskuplji restoran u gradu.", "en": "This is the most expensive restaurant in the city." },
+          { "hr": "Ona je najljepša djevojka na plaži.", "en": "She is the most beautiful girl on the beach." }
+        ]
+      },
+      {
+        "label": "Irregular comparatives",
+        "explanation": "Several common adjectives and adverbs have completely irregular comparative forms:\n- **dobar** (good) → **bolji** → **najbolji**\n- **loš** (bad) → **gori** → **najgori**\n- **mnogo** (much/many) → **više** → **najviše**\n- **malo** (little/few) → **manje** → **najmanje**\n\nThese must be memorised — they do not follow the regular suffix pattern.",
+        "examples": [
+          { "hr": "Ovaj hotel je bolji nego onaj.", "en": "This hotel is better than that one." },
+          { "hr": "Danas je gorije vrijeme nego jučer.", "en": "Today the weather is worse than yesterday." },
+          { "hr": "Imam više vremena nego ti.", "en": "I have more time than you." }
+        ]
+      },
+      {
+        "label": "Comparing with nego (than)",
+        "explanation": "Use **nego** to mean *than* when comparing two things:\n- Subject + comparative + **nego** + the thing compared\n\nYou can also use **od** + genitive case as an alternative:\n- *veći od Splita* (bigger than Split)\n- *mlađa od Ane* (younger than Ana)\n\nBoth forms are correct; **nego** is more common in everyday speech.",
+        "examples": [
+          { "hr": "Zagreb je veći nego Split.", "en": "Zagreb is bigger than Split." },
+          { "hr": "Ana je mlađa nego Marko.", "en": "Ana is younger than Marko." },
+          { "hr": "Ova kava je skuplja nego ona tamo.", "en": "This coffee is more expensive than that one over there." }
+        ]
+      },
+      {
+        "label": "Equality with kao (as...as)",
+        "explanation": "To say something is *as ... as* another, use:\n- **isto tako + adjective + kao** — just as ... as\n- **jednako + adjective + kao** — equally ... as\n- In informal speech, simply **adjective + kao** is common\n\nFor negative equality use **nije toliko ... kao** (not as ... as).",
+        "examples": [
+          { "hr": "Split je isto tako lijep kao Dubrovnik.", "en": "Split is just as beautiful as Dubrovnik." },
+          { "hr": "Ova torba je jednako skupa kao ona.", "en": "This bag is equally expensive as that one." },
+          { "hr": "Ovaj film nije toliko dobar kao onaj.", "en": "This film is not as good as that one." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Adjective (EN)", "Positive (m. / f. / n.)", "Comparative (m. / f. / n.)", "Superlative (m. / f. / n.)"],
+      "rows": [
+        ["big", "velik / velika / veliko", "veći / veća / veće", "najveći / najveća / najveće"],
+        ["small", "mali / mala / malo", "manji / manja / manje", "najmanji / najmanja / najmanje"],
+        ["fast", "brz / brza / brzo", "brži / brža / brže", "najbrži / najbrža / najbrže"],
+        ["beautiful", "lijep / lijepa / lijepo", "ljepši / ljepša / ljepše", "najljepši / najljepša / najljepše"],
+        ["good", "dobar / dobra / dobro", "bolji / bolja / bolje", "najbolji / najbolja / najbolje"],
+        ["bad", "loš / loša / loše", "gori / gora / gore", "najgori / najgora / najgore"],
+        ["old", "star / stara / staro", "stariji / starija / starije", "najstariji / najstarija / najstarije"],
+        ["new", "nov / nova / novo", "noviji / novija / novije", "najnoviji / najnovija / najnovije"],
+        ["expensive", "skup / skupa / skupo", "skuplji / skuplja / skuplje", "najskuplji / najskuplja / najskuplje"],
+        ["cheap", "jeftin / jeftina / jeftino", "jeftiniji / jeftinija / jeftinije", "najjeftiniji / najjeftinija / najjeftinije"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "Zagreb or Split?", "hr": "Zagreb ili Split?" },
+    "paragraphs": [
+      {
+        "hr": "Ana živi u Zagrebu, a Marko živi u Splitu. Uvijek se svađaju koji je grad bolji.",
+        "en": "Ana lives in Zagreb and Marko lives in Split. They always argue about which city is better."
+      },
+      {
+        "hr": "\"Zagreb je veći nego Split,\" kaže Ana, \"ali Split je bliže moru nego Zagreb.\" Marko se slaže, ali misli da je Split ljepši grad od Zagreba.",
+        "en": "\"Zagreb is bigger than Split,\" says Ana, \"but Split is closer to the sea than Zagreb.\" Marko agrees but thinks Split is a more beautiful city than Zagreb."
+      },
+      {
+        "hr": "\"Zagreb ima više kulture i više muzeja nego Split,\" tvrdi Ana. \"Split ima ljepšu staru jezgru nego Zagreb,\" odgovara Marko.",
+        "en": "\"Zagreb has more culture and more museums than Split,\" insists Ana. \"Split has a more beautiful old town than Zagreb,\" replies Marko."
+      },
+      {
+        "hr": "Jedno je sigurno: Zagreb je skuplji nego Split. Kava u centru Zagreba košta više nego kava u Splitu. Marko misli da je London još skuplji od oba grada.",
+        "en": "One thing is certain: Zagreb is more expensive than Split. A coffee in the centre of Zagreb costs more than a coffee in Split. Marko thinks London is even more expensive than both cities."
+      },
+      {
+        "hr": "\"Za plivanje, Split je definitivno bolji nego Zagreb,\" prizna Ana. \"More je čišće tamo, a plaže su ljepše nego ovdje.\"",
+        "en": "\"For swimming, Split is definitely better than Zagreb,\" admits Ana. \"The sea is cleaner there, and the beaches are more beautiful than here.\""
+      },
+      {
+        "hr": "Na kraju razgovaraju o otocima. Koji je otok najljepši? Marko misli da je Hvar najljepši, ali Ana smatra da je Brač isto tako lijep kao Hvar i manje turistički od njega.",
+        "en": "Finally they talk about the islands. Which island is the most beautiful? Marko thinks Hvar is the most beautiful, but Ana believes Brač is just as beautiful as Hvar and less touristy than it."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "comparatives-q1",
+      "prompt": "What does Marko think about Split compared to Zagreb?",
+      "promptHr": "Što Marko misli o Splitu u usporedbi sa Zagrebom?",
+      "options": [
+        "Split is bigger than Zagreb.",
+        "Split is more beautiful than Zagreb.",
+        "Split is more expensive than Zagreb.",
+        "Split has more museums than Zagreb."
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says \"Marko misli da je Split ljepši grad od Zagreba\" — Marko thinks Split is a more beautiful city than Zagreb."
+    },
+    {
+      "id": "comparatives-q2",
+      "prompt": "Which city is described as more expensive in the text?",
+      "promptHr": "Koji grad je u tekstu opisan kao skuplji?",
+      "options": [
+        "Split",
+        "London",
+        "Dubrovnik",
+        "Zagreb"
+      ],
+      "correctIndex": 3,
+      "explanation": "The text states \"Zagreb je skuplji nego Split\" — Zagreb is more expensive than Split."
+    },
+    {
+      "id": "comparatives-q3",
+      "prompt": "According to Ana, why is Split better for swimming than Zagreb?",
+      "promptHr": "Prema Ani, zašto je Split bolji za plivanje od Zagreba?",
+      "options": [
+        "It has more swimming pools.",
+        "It has a bigger harbour.",
+        "The sea is cleaner and the beaches are more beautiful.",
+        "It is closer to the mountains."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana says \"More je čišće tamo, a plaže su ljepše\" — the sea is cleaner there and the beaches are more beautiful."
+    },
+    {
+      "id": "comparatives-q4",
+      "prompt": "How does London compare to Zagreb and Split, according to Marko?",
+      "promptHr": "Kako se London uspoređuje sa Zagrebom i Splitom, prema Marku?",
+      "options": [
+        "London is cheaper than both cities.",
+        "London is as expensive as Zagreb.",
+        "London is even more expensive than both cities.",
+        "London is less beautiful than Split."
+      ],
+      "correctIndex": 2,
+      "explanation": "Marko says \"London je još skuplji od oba grada\" — London is even more expensive than both cities."
+    },
+    {
+      "id": "comparatives-q5",
+      "prompt": "What does Ana think about Brač island compared to Hvar?",
+      "promptHr": "Što Ana misli o otoku Braču u usporedbi s Hvarom?",
+      "options": [
+        "Brač is more beautiful than Hvar.",
+        "Brač is the most expensive island.",
+        "Brač is just as beautiful as Hvar and less touristy.",
+        "Brač is bigger than Hvar."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana says \"Brač isto tako lijep kao Hvar i manje turistički od njega\" — Brač is just as beautiful as Hvar and less touristy than it."
+    }
+  ],
+  "test": [
+    {
+      "id": "comparatives-q6",
+      "prompt": "What is the masculine comparative form of \"velik\" (big)?",
+      "options": ["veliji", "veći", "najveći", "velje"],
+      "correctIndex": 1,
+      "explanation": "\"velik\" → \"veći\" (masc. comparative). The k changes to č in the stem."
+    },
+    {
+      "id": "comparatives-q7",
+      "prompt": "What is the masculine superlative form of \"lijep\" (beautiful)?",
+      "options": ["najlijepši", "najljepši", "ljepšiji", "najljepi"],
+      "correctIndex": 1,
+      "explanation": "\"lijep\" → comparative \"ljepši\" → superlative \"najljepši\". The prefix naj- is added to the comparative form."
+    },
+    {
+      "id": "comparatives-q8",
+      "prompt": "What is the irregular comparative of \"dobar\" (good)?",
+      "options": ["dobriji", "dobariji", "bolji", "više dobar"],
+      "correctIndex": 2,
+      "explanation": "\"dobar\" has the irregular comparative \"bolji\" (better) and superlative \"najbolji\" (best)."
+    },
+    {
+      "id": "comparatives-q9",
+      "prompt": "What is the irregular comparative of \"loš\" (bad)?",
+      "options": ["lošiji", "gori", "goriji", "više loš"],
+      "correctIndex": 1,
+      "explanation": "\"loš\" has the irregular comparative \"gori\" (worse) and superlative \"najgori\" (worst)."
+    },
+    {
+      "id": "comparatives-q10",
+      "prompt": "Fill in: \"Zagreb je ___ nego Split.\" (Zagreb is bigger than Split.)",
+      "options": ["najveći", "velik", "veći", "veliji"],
+      "correctIndex": 2,
+      "explanation": "Use the comparative \"veći\" (bigger) when comparing two specific things. \"najveći\" (biggest) is superlative."
+    },
+    {
+      "id": "comparatives-q11",
+      "prompt": "What does the word \"nego\" mean in Croatian comparisons?",
+      "options": ["as", "very", "than", "more"],
+      "correctIndex": 2,
+      "explanation": "\"nego\" means \"than\" and is used in comparative sentences: \"Zagreb je veći nego Split.\""
+    },
+    {
+      "id": "comparatives-q12",
+      "prompt": "Which word is used for \"as...as\" equality comparisons in Croatian?",
+      "options": ["nego", "više", "što", "kao"],
+      "correctIndex": 3,
+      "explanation": "\"kao\" is used for equality comparisons: \"isto tako lijep kao\" (just as beautiful as)."
+    },
+    {
+      "id": "comparatives-q13",
+      "prompt": "What is the masculine comparative form of \"brz\" (fast)?",
+      "options": ["brkši", "brziji", "brži", "najbrziji"],
+      "correctIndex": 2,
+      "explanation": "\"brz\" → \"brži\" (faster). The z changes to ž in the comparative."
+    },
+    {
+      "id": "comparatives-q14",
+      "prompt": "What is the masculine superlative of \"dobar\" (good)?",
+      "options": ["najdoblji", "nabolji", "najdoariji", "najbolji"],
+      "correctIndex": 3,
+      "explanation": "\"dobar\" → comparative \"bolji\" → superlative \"najbolji\" (best)."
+    },
+    {
+      "id": "comparatives-q15",
+      "prompt": "Translate to Croatian: \"She is more beautiful than me.\"",
+      "options": [
+        "Ona je više lijepa nego ja.",
+        "Ona je najljepša od mene.",
+        "Ona je ljepša nego ja.",
+        "Ona je lijepa kako ja."
+      ],
+      "correctIndex": 2,
+      "explanation": "\"ljepša\" is the feminine comparative of \"lijep\". Use \"nego\" for \"than\". Avoid \"više lijepa\" — use the suffixed form instead."
+    },
+    {
+      "id": "comparatives-q16",
+      "prompt": "Which prefix is added to the comparative form to create the superlative?",
+      "options": ["pre-", "po-", "naj-", "su-"],
+      "correctIndex": 2,
+      "explanation": "The prefix \"naj-\" is added to the comparative to make the superlative: veći → najveći, bolji → najbolji."
+    },
+    {
+      "id": "comparatives-q17",
+      "prompt": "What is the masculine superlative of \"mali\" (small)?",
+      "options": ["najmanjši", "najmali", "najmanji", "maljši"],
+      "correctIndex": 2,
+      "explanation": "\"mali\" → comparative \"manji\" → superlative \"najmanji\" (smallest)."
+    },
+    {
+      "id": "comparatives-q18",
+      "prompt": "Fill in: \"Ona je ___ od svih učenica.\" (She is the best of all the students.)",
+      "options": ["bolja", "bolji", "dobra", "najbolja"],
+      "correctIndex": 3,
+      "explanation": "The feminine superlative \"najbolja\" is needed here. \"bolja\" is comparative (better), not superlative (best)."
+    },
+    {
+      "id": "comparatives-q19",
+      "prompt": "Translate to Croatian: \"Zagreb is bigger than Split.\"",
+      "options": [
+        "Zagreb je najveći od Splita.",
+        "Zagreb je više velik nego Split.",
+        "Zagreb je veći nego Split.",
+        "Zagreb je veći kako Split."
+      ],
+      "correctIndex": 2,
+      "explanation": "Use comparative \"veći\" + \"nego\" for \"bigger than\". \"kako\" means \"how\", not \"than\"."
+    },
+    {
+      "id": "comparatives-q20",
+      "prompt": "What is the masculine superlative of \"loš\" (bad)?",
+      "options": ["najlošiji", "najgore", "najgori", "nailošiji"],
+      "correctIndex": 2,
+      "explanation": "\"loš\" → comparative \"gori\" → superlative \"najgori\" (worst). \"najgore\" is the neuter/adverb form."
+    },
+    {
+      "id": "comparatives-q21",
+      "prompt": "What is the comparative form of \"mnogo\" (much / many)?",
+      "options": ["mnogi", "mnogoiji", "manje", "više"],
+      "correctIndex": 3,
+      "explanation": "\"mnogo\" has the irregular comparative \"više\" (more)."
+    },
+    {
+      "id": "comparatives-q22",
+      "prompt": "What is the comparative form of \"malo\" (little / few)?",
+      "options": ["manji", "malije", "manje", "maliji"],
+      "correctIndex": 2,
+      "explanation": "\"malo\" has the irregular comparative \"manje\" (less / fewer)."
+    },
+    {
+      "id": "comparatives-q23",
+      "prompt": "Which sentence correctly means \"This bag is just as expensive as that one\"?",
+      "options": [
+        "Ova torba je skuplja nego ona.",
+        "Ova torba je najskuplja.",
+        "Ova torba je isto tako skupa kao ona.",
+        "Ova torba je skupo nego ona."
+      ],
+      "correctIndex": 2,
+      "explanation": "Equality is expressed with \"isto tako ... kao\": \"isto tako skupa kao ona\" = just as expensive as that one."
+    },
+    {
+      "id": "comparatives-q24",
+      "prompt": "What is the masculine comparative of \"star\" (old)?",
+      "options": ["stariji", "starjan", "starniji", "staraj"],
+      "correctIndex": 0,
+      "explanation": "\"star\" → \"stariji\" (older). The suffix -iji is added to the stem."
+    },
+    {
+      "id": "comparatives-q25",
+      "prompt": "Translate to Croatian: \"This is the most expensive restaurant in the city.\"",
+      "options": [
+        "Ovo je skupi restoran u gradu.",
+        "Ovo je skuplji restoran nego drugi.",
+        "Ovo je najskuplji restoran u gradu.",
+        "Ovo je skuplje od restorana."
+      ],
+      "correctIndex": 2,
+      "explanation": "The superlative \"najskuplji\" (most expensive) + \"u gradu\" (in the city) is the correct construction."
+    },
+    {
+      "id": "comparatives-q26",
+      "prompt": "Fill in: \"Ona pjeva ___ nego ja.\" (She sings better than me.)",
+      "options": ["dobro", "bolji", "bolje", "više dobro"],
+      "correctIndex": 2,
+      "explanation": "\"bolje\" is the comparative adverb (better — adverb). \"bolji\" is the masculine adjective form."
+    },
+    {
+      "id": "comparatives-q27",
+      "prompt": "What is the masculine comparative of \"skup\" (expensive)?",
+      "options": ["skupiji", "skupno", "skupljan", "skuplji"],
+      "correctIndex": 3,
+      "explanation": "\"skup\" → \"skuplji\" (more expensive). The suffix -lji is added to the stem."
+    },
+    {
+      "id": "comparatives-q28",
+      "prompt": "Translate to Croatian: \"He runs faster than me.\"",
+      "options": [
+        "On trči brži nego ja.",
+        "On trči brže nego ja.",
+        "On trči najbržji.",
+        "On trčati brzo nego ja."
+      ],
+      "correctIndex": 1,
+      "explanation": "\"brže\" is the comparative adverb (faster). \"brži\" is the masculine adjective form, not used with verbs."
+    },
+    {
+      "id": "comparatives-q29",
+      "prompt": "Fill in: \"Hvar je ___ otok u Hrvatskoj.\" (Hvar is the most beautiful island in Croatia.)",
+      "options": ["lijep", "ljepši", "ljepšan", "najljepši"],
+      "correctIndex": 3,
+      "explanation": "The superlative \"najljepši\" (most beautiful) is needed. \"ljepši\" is comparative (more beautiful)."
+    },
+    {
+      "id": "comparatives-q30",
+      "prompt": "What is the correct masculine comparative of \"jeftin\" (cheap)?",
+      "options": ["jeftnji", "jeftiniji", "jeftinji", "jeftinjan"],
+      "correctIndex": 1,
+      "explanation": "\"jeftin\" → \"jeftiniji\" (cheaper). The suffix -iji is added to the full stem."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Regular comparatives",
+      "items": [
+        { "hr": "veći / veća / veće", "en": "bigger (m. / f. / n.)", "note": "velik → veći (k→č)" },
+        { "hr": "manji / manja / manje", "en": "smaller (m. / f. / n.)", "note": "mali → manji" },
+        { "hr": "brži / brža / brže", "en": "faster (m. / f. / n.)", "note": "brz → brži (z→ž)" },
+        { "hr": "ljepši / ljepša / ljepše", "en": "more beautiful (m. / f. / n.)", "note": "lijep → ljepši" },
+        { "hr": "stariji / starija / starije", "en": "older (m. / f. / n.)", "note": "star → stariji" },
+        { "hr": "noviji / novija / novije", "en": "newer (m. / f. / n.)", "note": "nov → noviji" },
+        { "hr": "skuplji / skuplja / skuplje", "en": "more expensive (m. / f. / n.)", "note": "skup → skuplji" },
+        { "hr": "jeftiniji / jeftinija / jeftinije", "en": "cheaper (m. / f. / n.)", "note": "jeftin → jeftiniji" }
+      ]
+    },
+    {
+      "context": "Irregular comparatives",
+      "items": [
+        { "hr": "bolji / bolja / bolje", "en": "better (m. / f. / n.)", "note": "irregular: dobar → bolji" },
+        { "hr": "gori / gora / gore", "en": "worse (m. / f. / n.)", "note": "irregular: loš → gori" },
+        { "hr": "više", "en": "more", "note": "irregular: mnogo → više" },
+        { "hr": "manje", "en": "less / fewer", "note": "irregular: malo → manje" },
+        { "hr": "bolji od svih", "en": "better than all", "note": "od + genitive as alternative to nego" },
+        { "hr": "gori nego ikad", "en": "worse than ever", "note": "nego + pronoun/noun" }
+      ]
+    },
+    {
+      "context": "Superlatives (naj-)",
+      "items": [
+        { "hr": "najveći / najveća / najveće", "en": "biggest (m. / f. / n.)", "note": "naj- + veći" },
+        { "hr": "najmanji / najmanja / najmanje", "en": "smallest (m. / f. / n.)", "note": "naj- + manji" },
+        { "hr": "najljepši / najljepša / najljepše", "en": "most beautiful (m. / f. / n.)", "note": "naj- + ljepši" },
+        { "hr": "najbolji / najbolja / najbolje", "en": "best (m. / f. / n.)", "note": "naj- + bolji" },
+        { "hr": "najgori / najgora / najgore", "en": "worst (m. / f. / n.)", "note": "naj- + gori" },
+        { "hr": "najskuplji / najskuplja / najskuplje", "en": "most expensive (m. / f. / n.)", "note": "naj- + skuplji" },
+        { "hr": "najviše", "en": "the most (quantity)", "note": "naj- + više" },
+        { "hr": "najmanje", "en": "the least / the fewest", "note": "naj- + manje" }
+      ]
+    },
+    {
+      "context": "Comparing with nego (than)",
+      "items": [
+        { "hr": "Zagreb je veći nego Split.", "en": "Zagreb is bigger than Split." },
+        { "hr": "Ana je mlađa nego Marko.", "en": "Ana is younger than Marko." },
+        { "hr": "Ovo je skuplje nego ono.", "en": "This is more expensive than that." },
+        { "hr": "Imam više vremena nego ti.", "en": "I have more time than you." },
+        { "hr": "On trči brže nego ja.", "en": "He runs faster than me." },
+        { "hr": "London je skuplji od Zagreba.", "en": "London is more expensive than Zagreb.", "note": "od + genitive — alternative to nego" }
+      ]
+    },
+    {
+      "context": "Equality with kao (as...as)",
+      "items": [
+        { "hr": "isto tako lijep kao", "en": "just as beautiful as", "note": "formal equality structure" },
+        { "hr": "jednako skupo kao", "en": "equally expensive as", "note": "alternative equality structure" },
+        { "hr": "Split je isto tako lijep kao Dubrovnik.", "en": "Split is just as beautiful as Dubrovnik." },
+        { "hr": "Ova torba je jednako skupa kao ona.", "en": "This bag is equally as expensive as that one." },
+        { "hr": "nije toliko ... kao", "en": "not as ... as", "note": "negative equality" },
+        { "hr": "Ovaj film nije toliko dobar kao onaj.", "en": "This film is not as good as that one." }
+      ]
+    }
+  ]
+}

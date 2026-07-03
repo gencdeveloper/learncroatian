@@ -1,0 +1,430 @@
+{
+  "id": "nature-environment",
+  "level": "b1",
+  "order": 11,
+  "title": { "hr": "Priroda i okoliš", "en": "Nature & Environment" },
+  "grammar": {
+    "title": { "hr": "Izražavanje zabrinutosti i imenice iz okoliša", "en": "Expressing Concern & Environmental Nouns" },
+    "intro": "At B1 level you can express opinions and environmental concerns using three key patterns:\n\n- **Brinem se zbog** + genitive — I worry about (literally: I concern myself because of)\n- **Mislim da bi trebali** + infinitive — I think we / they should...\n- **Važno je da** + present tense — It is important that...\n\nYou can also express **means or method** using the **instrumental of a verbal noun**:\n- **Recikliranjem pomažemo okolišu.** — By recycling we help the environment.\n- **Smanjenjem otpada štitimo prirodu.** — By reducing waste we protect nature.\n\nNote: after **zbog** (because of / due to), the noun always takes the **genitive** case.",
+    "rules": [
+      {
+        "label": "Brinem se zbog + genitive (I worry about...)",
+        "explanation": "**Brinem se zbog** means »I worry about« or »I am concerned about.« The noun or noun phrase that follows must be in the **genitive** case.\n\nKey genitive forms for environment nouns:\n- zagađenje → **zagađenja**\n- klimatske promjene → **klimatskih promjena**\n- ugljični otisak → **ugljičnog otiska**\n- okoliš → **okoliša**\n- otpad → **otpada**\n\nThe verb **brinuti se** conjugates fully: **brinem se** (I), **brineš se** (you), **brine se** (he/she), **brinemo se** (we), **brinete se** (you pl.), **brinu se** (they).",
+        "examples": [
+          { "hr": "Brinem se zbog zagađenja.", "en": "I worry about pollution." },
+          { "hr": "Brinemo se zbog klimatskih promjena.", "en": "We are worried about climate change." },
+          { "hr": "Brineš se zbog ugljičnog otiska?", "en": "Are you worried about the carbon footprint?" },
+          { "hr": "Brinu se zbog stanja okoliša.", "en": "They worry about the state of the environment." }
+        ]
+      },
+      {
+        "label": "Mislim da bi trebali + infinitive (I think we/they should...)",
+        "explanation": "Use **Mislim da bi trebali** + infinitive to share an opinion that people in general should do something. It translates as »I think we / they should...«\n\nAgreement with subject:\n- masculine singular: **Mislim da bi trebao** + infinitive\n- feminine singular: **Mislim da bi trebala** + infinitive\n- plural (any gender): **Mislim da bi trebali** + infinitive\n\nThis structure is very common in discussions about environmental responsibility.",
+        "examples": [
+          { "hr": "Mislim da bi trebali više reciklirati.", "en": "I think we/they should recycle more." },
+          { "hr": "Mislim da bi trebali koristiti obnovljive izvore energije.", "en": "I think we should use renewable energy sources." },
+          { "hr": "Mislim da bi trebao smanjiti ugljični otisak.", "en": "I think he should reduce his carbon footprint." },
+          { "hr": "Mislim da bi trebali bolje zaštititi nacionalne parkove.", "en": "I think we should better protect the national parks." }
+        ]
+      },
+      {
+        "label": "Važno je da + present tense (It is important that...)",
+        "explanation": "**Važno je da** (It is important that) is followed by a clause with the verb in the **present tense**. This structure states what people need to do.\n\nSimilar expressions:\n- **Potrebno je da** — It is necessary that...\n- **Dobro je da** — It is good that...\n- **Ključno je da** — It is crucial that...\n\nThe subject of the subordinate clause can differ from the implied subject of the main clause.",
+        "examples": [
+          { "hr": "Važno je da recikliramo.", "en": "It is important that we recycle." },
+          { "hr": "Važno je da zaštitimo prirodu.", "en": "It is important that we protect nature." },
+          { "hr": "Potrebno je da smanjimo otpad.", "en": "It is necessary that we reduce waste." },
+          { "hr": "Ključno je da koristimo obnovljive izvore energije.", "en": "It is crucial that we use renewable energy sources." }
+        ]
+      },
+      {
+        "label": "Instrumental of verbal noun — expressing means (by doing...)",
+        "explanation": "In Croatian, **how** or **by what means** something is done can be expressed with the **instrumental case** of a **verbal noun**. Verbal nouns are formed from verbs and describe the action itself.\n\nCommon instrumental endings:\n- nouns ending in **-anje** → **-anjem** (recikliranje → **recikliranjem**)\n- nouns ending in **-enje** → **-enjem** (smanjenje → **smanjenjem**)\n- nouns ending in **-anje** → **-anjem** (korištanje → **korištanjem**)\n\nThis pattern translates as »by doing...« or »through doing...« in English. The object that benefits typically takes the **dative** case.",
+        "examples": [
+          { "hr": "Recikliranjem pomažemo okolišu.", "en": "By recycling we help the environment." },
+          { "hr": "Smanjenjem otpada štitimo prirodu.", "en": "By reducing waste we protect nature." },
+          { "hr": "Korištenjem javnog prijevoza smanjujemo zagađenje.", "en": "By using public transport we reduce pollution." },
+          { "hr": "Zaštitom šuma čuvamo bioraznolikost.", "en": "By protecting forests we preserve biodiversity." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Hrvatska riječ", "Rod (Gender)", "English"],
+      "rows": [
+        ["šuma", "ž. (feminine)", "forest"],
+        ["planina", "ž. (feminine)", "mountain"],
+        ["rijeka", "ž. (feminine)", "river"],
+        ["jezero", "s. (neuter)", "lake"],
+        ["more", "s. (neuter)", "sea"],
+        ["obala", "ž. (feminine)", "coast / shore"],
+        ["otok", "m. (masculine)", "island"],
+        ["dolina", "ž. (feminine)", "valley"],
+        ["stijena", "ž. (feminine)", "rock / cliff"],
+        ["polje", "s. (neuter)", "field"],
+        ["livada", "ž. (feminine)", "meadow"],
+        ["plaža", "ž. (feminine)", "beach"],
+        ["okoliš", "m. (masculine)", "environment"],
+        ["zagađenje", "s. (neuter)", "pollution"],
+        ["otpad", "m. (masculine)", "waste"],
+        ["recikliranje", "s. (neuter)", "recycling"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "hr": "Razgovor između dva krajolika", "en": "A Conversation Between Two Landscapes" },
+    "paragraphs": [
+      {
+        "hr": "Ana hoda po engleskom selu i naziva Marka na videopoziv. Nebo je oblačno i pada sitna kiša. »Tipično englesko ljeto!« kaže Ana smijući se. Oko nje su zelene **livade**, niske **šume** i blago valovit krajolik. Daleko se vide bijeli vapnenački grebeni. Ana je oduševljena — priroda je ovdje mirna i zelena, ali potpuno drugačija od Hrvatske.",
+        "en": "Ana is walking through the English countryside and calls Marko on a video call. The sky is cloudy and a light rain is falling. »Typical English summer!« says Ana, laughing. Around her are green **meadows**, low **forests**, and gently rolling hills. In the distance, white limestone ridges are visible. Ana is enchanted — nature here is calm and green, but completely different from Croatia."
+      },
+      {
+        "hr": "Marko kaže da je hrvatska priroda puno dramatičnija. »Naša **obala** je drukčija — visoke **stijene**, bistro **more** i tisuće **otoka**,« objašnjava on. »Unutrašnjost je puna **planina**, **rijeka** i mirnih **dolina**.« Ana se slaže: »Ovdje nema ničega poput Jadranskog mora. Ovo su lijepši, ali blagi krajolici.« Marko dodaje da voli i englesko selo — posebno zelena **polja** i **šume**.",
+        "en": "Marko says that Croatian nature is much more dramatic. »Our **coast** is different — high **cliffs**, clear **sea**, and thousands of **islands**,« he explains. »The interior is full of **mountains**, **rivers**, and peaceful **valleys**.« Ana agrees: »There is nothing here like the Adriatic Sea. These are beautiful but gentle landscapes.« Marko adds that he also likes the English countryside — especially the green **fields** and **forests**."
+      },
+      {
+        "hr": "Razgovaraju o hrvatskim nacionalnim parkovima. »**Plitvička jezera** su naš biser — nevjerojatni slapovi i tirkizna jezera,« kaže Marko. »**Krka** je slično lijepa, a Skradinski buk jedan je od najljepših slapova u Europi. **Kornati** su arhipelag od više od stotinu otoka — more oko njih je zaštićeno.« Ana pita za planine. »**Paklenica** je savršena za planinare, a **Velebit** je dom vukova i medvjeda,« odgovara Marko.",
+        "en": "They talk about Croatian national parks. »**Plitvice Lakes** are our jewel — incredible waterfalls and turquoise lakes,« says Marko. »**Krka** is similarly beautiful, and Skradinski buk is one of the most beautiful waterfalls in Europe. **Kornati** is an archipelago of more than a hundred islands — the sea around them is protected.« Ana asks about the mountains. »**Paklenica** is perfect for hikers, and **Velebit** is home to wolves and bears,« answers Marko."
+      },
+      {
+        "hr": "Ana prelazi na ozbiljniju temu. »Brinem se zbog **klimatskih promjena**,« kaže ona. »Ovdje u Engleskoj poplave su sve češće. Brinem se i zbog **stakleničkih plinova** i **zagađenja**.« Marko kimne: »U Hrvatskoj ljeta postaju sve vrućija. Rijeke su pliće nego nekad, a požari su češći u Dalmaciji. **Zagađenje** Jadranskog mora je problem koji me jako brine. Stanje **okoliša** nije dobro.«",
+        "en": "Ana moves to a more serious topic. »I worry about **climate change**,« she says. »Here in England, floods are becoming more frequent. I also worry about **greenhouse gases** and **pollution**.« Marko nods: »In Croatia, summers are getting hotter. Rivers are shallower than before, and wildfires are more frequent in Dalmatia. **Pollution** of the Adriatic Sea is a problem that really worries me. The state of the **environment** is not good.«"
+      },
+      {
+        "hr": "Ana i Marko razmišljaju o tome što pojedinci mogu učiniti. »Mislim da bi trebali svi smanjiti **ugljični otisak**,« kaže Ana. »Važno je da koristimo javni prijevoz, jedemo manje mesa i biramo **obnovljive izvore energije**.« Marko se slaže: »**Zaštita prirode** počinje kod svakoga od nas. Mislim da bi trebali i više reciklirati i manje kupovati plastiku.«",
+        "en": "Ana and Marko think about what individuals can do. »I think everyone should reduce their **carbon footprint**,« says Ana. »It is important that we use public transport, eat less meat, and choose **renewable energy sources**.« Marko agrees: »**Nature conservation** starts with each one of us. I think we should also recycle more and buy less plastic.«"
+      },
+      {
+        "hr": "Marko objašnjava da se infrastruktura za **recikliranje** u Hrvatskoj poboljšava. »U svakom gradu ima reciklažnih otoka — žuti kontejneri za plastiku, plavi za papir, zeleni za staklo i smeđi za biootpad,« kaže Marko. »Recikliranjem i smanjenjem **otpada** pomažemo **okolišu** — to je odgovornost, ne samo trend. Javna svijest raste, ali još ima puno posla.« Ana se raduje: »Drago mi je čuti to!«",
+        "en": "Marko explains that Croatia's **recycling** infrastructure is improving. »Every city has recycling points now — yellow bins for plastic, blue for paper, green for glass, and brown for organic waste,« says Marko. »By recycling and reducing **waste** we help the **environment** — that is a responsibility, not just a trend. Public awareness is growing, but there is still a lot of work to do.« Ana is pleased: »I am glad to hear that!«"
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "nature-environment-q1",
+      "prompt": "What is the weather like while Ana is hiking in the English countryside?",
+      "promptHr": "Kakvo je vrijeme dok Ana hoda po engleskom selu?",
+      "options": [
+        "Sunny and very warm.",
+        "Cloudy with light rain.",
+        "Snowing lightly.",
+        "Windy with heavy storms."
+      ],
+      "correctIndex": 1,
+      "explanation": "The first paragraph states the sky is cloudy and a light rain is falling — Ana jokes it is a typical English summer."
+    },
+    {
+      "id": "nature-environment-q2",
+      "prompt": "According to Marko, what makes the Croatian coastline different from England's landscape?",
+      "promptHr": "Prema Marku, po čemu se hrvatska obala razlikuje od engleskog krajolika?",
+      "options": [
+        "Croatia has more forests and green meadows.",
+        "Croatia has high cliffs, clear sea, and thousands of islands.",
+        "Croatia has bigger cities and better infrastructure.",
+        "Croatia has wider rivers and deeper valleys."
+      ],
+      "correctIndex": 1,
+      "explanation": "Marko explains that the Croatian coast has high cliffs (stijene), clear sea (bistro more), and thousands of islands (tisuće otoka), unlike England's gentle rolling hills."
+    },
+    {
+      "id": "nature-environment-q3",
+      "prompt": "Which Croatian national park does Marko describe as a home to wolves and bears?",
+      "promptHr": "Koji hrvatski nacionalni park Marko opisuje kao dom vukova i medvjeda?",
+      "options": [
+        "Plitvička jezera",
+        "Kornati",
+        "Krka",
+        "Velebit"
+      ],
+      "correctIndex": 3,
+      "explanation": "Marko says **Velebit je dom vukova i medvjeda** — Velebit is home to wolves and bears. Plitvice is famous for waterfalls, Kornati for its islands, and Krka for Skradinski buk."
+    },
+    {
+      "id": "nature-environment-q4",
+      "prompt": "What environmental concerns does Ana express during the conversation?",
+      "promptHr": "Koje ekološke zabrinutosti Ana izražava tijekom razgovora?",
+      "options": [
+        "Only air pollution in English cities.",
+        "Climate change, flooding, greenhouse gases, and pollution.",
+        "Only wildfires in Croatia.",
+        "The lack of recycling bins in England."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana mentions climate change (klimatske promjene), increasingly frequent floods in England, and worries about greenhouse gases (staklenički plinovi) and pollution (zagađenje)."
+    },
+    {
+      "id": "nature-environment-q5",
+      "prompt": "What recycling system does Marko describe in Croatian cities?",
+      "promptHr": "Koji sustav recikliranja Marko opisuje u hrvatskim gradovima?",
+      "options": [
+        "A single large bin where all rubbish goes together.",
+        "Bottle banks only, at supermarkets.",
+        "Separate colour-coded bins for plastic, paper, glass, and organic waste.",
+        "No organised recycling system yet."
+      ],
+      "correctIndex": 2,
+      "explanation": "Marko describes reciklažni otoci (recycling points) with yellow bins for plastic, blue for paper, green for glass, and brown for organic waste — available in every city."
+    }
+  ],
+  "test": [
+    {
+      "id": "nature-environment-q6",
+      "prompt": "What does 'šuma' mean in English?",
+      "options": ["beach", "forest", "meadow", "valley"],
+      "correctIndex": 1,
+      "explanation": "**Šuma** = forest (feminine noun). **Plaža** = beach, **livada** = meadow, **dolina** = valley."
+    },
+    {
+      "id": "nature-environment-q7",
+      "prompt": "Što znači 'river' na hrvatskom?",
+      "promptHr": "Što znači 'river' na hrvatskom?",
+      "options": ["jezero", "planina", "rijeka", "more"],
+      "correctIndex": 2,
+      "explanation": "**Rijeka** = river (feminine noun). **Jezero** = lake, **planina** = mountain, **more** = sea."
+    },
+    {
+      "id": "nature-environment-q8",
+      "prompt": "What does 'zagađenje' mean in English?",
+      "options": ["recycling", "environment", "pollution", "waste"],
+      "correctIndex": 2,
+      "explanation": "**Zagađenje** = pollution (neuter noun). **Recikliranje** = recycling, **okoliš** = environment, **otpad** = waste."
+    },
+    {
+      "id": "nature-environment-q9",
+      "prompt": "What is the Croatian term for 'climate change'?",
+      "options": ["ugljični otisak", "staklenički plinovi", "klimatske promjene", "zaštita prirode"],
+      "correctIndex": 2,
+      "explanation": "**Klimatske promjene** = climate change (feminine plural noun phrase). **Ugljični otisak** = carbon footprint, **staklenički plinovi** = greenhouse gases, **zaštita prirode** = nature conservation."
+    },
+    {
+      "id": "nature-environment-q10",
+      "prompt": "Fill in the blank: 'Brinem se ______ klimatskih promjena.'",
+      "options": ["za", "od", "zbog", "na"],
+      "correctIndex": 2,
+      "explanation": "**Brinem se zbog** + genitive = I worry about. The preposition **zbog** (because of) always requires the genitive case. **Klimatskih promjena** is the genitive of **klimatske promjene**."
+    },
+    {
+      "id": "nature-environment-q11",
+      "prompt": "What does 'zaštita prirode' mean in English?",
+      "options": ["pollution reduction", "waste management", "nature conservation", "carbon footprint"],
+      "correctIndex": 2,
+      "explanation": "**Zaštita prirode** = nature conservation. **Zaštita** means protection, **priroda** means nature."
+    },
+    {
+      "id": "nature-environment-q12",
+      "prompt": "What is the Croatian term for 'carbon footprint'?",
+      "options": ["staklenički plinovi", "recikliranje", "otpad", "ugljični otisak"],
+      "correctIndex": 3,
+      "explanation": "**Ugljični otisak** = carbon footprint. **Ugljični** = carbon (adjective), **otisak** = footprint or trace. The other options mean greenhouse gases, recycling, and waste respectively."
+    },
+    {
+      "id": "nature-environment-q13",
+      "prompt": "Which Croatian national park is an archipelago of more than a hundred islands?",
+      "options": ["Paklenica", "Plitvička jezera", "Kornati", "Krka"],
+      "correctIndex": 2,
+      "explanation": "**Kornati** is a Croatian national park consisting of an archipelago of more than a hundred islands in the Adriatic Sea, with protected surrounding waters."
+    },
+    {
+      "id": "nature-environment-q14",
+      "prompt": "What does 'recikliranje' mean in English?",
+      "options": ["pollution", "conservation", "waste", "recycling"],
+      "correctIndex": 3,
+      "explanation": "**Recikliranje** = recycling (neuter verbal noun). It comes from the verb **reciklirati** (to recycle)."
+    },
+    {
+      "id": "nature-environment-q15",
+      "prompt": "Fill in the blank: 'Recikliranjem pomažemo ______.' (By recycling we help the environment.)",
+      "options": ["okoliš", "okoliša", "okolišu", "okolišem"],
+      "correctIndex": 2,
+      "explanation": "**Pomažemo** (we help) takes the **dative** case for the object it benefits. The dative of **okoliš** (masculine) is **okolišu**. **Recikliranjem** is the instrumental of the verbal noun (= by recycling)."
+    },
+    {
+      "id": "nature-environment-q16",
+      "prompt": "What does 'obnovljivi izvori energije' mean in English?",
+      "options": ["greenhouse gases", "carbon footprint", "nature conservation", "renewable energy sources"],
+      "correctIndex": 3,
+      "explanation": "**Obnovljivi** = renewable, **izvori** = sources, **energije** = of energy (genitive). The full phrase means renewable energy sources."
+    },
+    {
+      "id": "nature-environment-q17",
+      "prompt": "What is the Croatian word for 'island'?",
+      "options": ["dolina", "stijena", "obala", "otok"],
+      "correctIndex": 3,
+      "explanation": "**Otok** = island (masculine noun). **Dolina** = valley, **stijena** = rock/cliff, **obala** = coast."
+    },
+    {
+      "id": "nature-environment-q18",
+      "prompt": "Which sentence correctly translates 'I think we should protect nature'?",
+      "options": [
+        "Mislim da bi trebali zaštititi prirodu.",
+        "Mislim da trebao zaštititi prirodu.",
+        "Mislim da bi trebala zaštititi prirodu.",
+        "Mislim da biti trebali zaštititi prirodu."
+      ],
+      "correctIndex": 0,
+      "explanation": "**Mislim da bi trebali** + infinitive = I think we/they should. **Trebali** is the plural form for a general recommendation. **Trebao** is masculine singular, **trebala** is feminine singular."
+    },
+    {
+      "id": "nature-environment-q19",
+      "prompt": "What does 'livada' mean in English?",
+      "options": ["forest", "cliff", "beach", "meadow"],
+      "correctIndex": 3,
+      "explanation": "**Livada** = meadow (feminine noun). A livada is an open grassy area, common in Croatian countryside and national parks."
+    },
+    {
+      "id": "nature-environment-q20",
+      "prompt": "What is the Croatian word for 'waste' (rubbish)?",
+      "options": ["recikliranje", "okoliš", "zagađenje", "otpad"],
+      "correctIndex": 3,
+      "explanation": "**Otpad** = waste (masculine noun). **Recikliranje** = recycling, **okoliš** = environment, **zagađenje** = pollution."
+    },
+    {
+      "id": "nature-environment-q21",
+      "prompt": "Fill in the blank: 'Važno je ______ zaštitimo okoliš.'",
+      "options": ["ako", "ali", "jer", "da"],
+      "correctIndex": 3,
+      "explanation": "**Važno je da** + present tense = It is important that. The conjunction **da** introduces the subordinate clause. **Ako** = if, **ali** = but, **jer** = because."
+    },
+    {
+      "id": "nature-environment-q22",
+      "prompt": "What does 'stijena' mean in English?",
+      "options": ["valley", "meadow", "rock / cliff", "beach"],
+      "correctIndex": 2,
+      "explanation": "**Stijena** = rock or cliff (feminine noun). Along the Croatian Adriatic coast, dramatic **stijene** (cliffs) are one of the defining landscape features."
+    },
+    {
+      "id": "nature-environment-q23",
+      "prompt": "Which Croatian national park is famous for Skradinski buk, one of Europe's most beautiful waterfalls?",
+      "options": ["Plitvička jezera", "Velebit", "Paklenica", "Krka"],
+      "correctIndex": 3,
+      "explanation": "**Krka** National Park, along the Krka River in Dalmatia, is celebrated for Skradinski buk and a series of other spectacular waterfalls."
+    },
+    {
+      "id": "nature-environment-q24",
+      "prompt": "What does 'dolina' mean in English?",
+      "options": ["cliff", "island", "beach", "valley"],
+      "correctIndex": 3,
+      "explanation": "**Dolina** = valley (feminine noun). **Stijena** = cliff, **otok** = island, **plaža** = beach."
+    },
+    {
+      "id": "nature-environment-q25",
+      "prompt": "What is the Croatian word for 'environment'?",
+      "options": ["šuma", "planina", "obala", "okoliš"],
+      "correctIndex": 3,
+      "explanation": "**Okoliš** = environment (masculine noun). It derives from **okolo** (around) and refers to the natural surroundings. **Šuma** = forest, **planina** = mountain, **obala** = coast."
+    },
+    {
+      "id": "nature-environment-q26",
+      "prompt": "Što znači 'staklenički plinovi' na engleskom?",
+      "promptHr": "Što znači 'staklenički plinovi' na engleskom?",
+      "options": ["climate change", "carbon footprint", "greenhouse gases", "renewable energy"],
+      "correctIndex": 2,
+      "explanation": "**Staklenički plinovi** = greenhouse gases. **Staklenik** = greenhouse, and these gases trap heat in the atmosphere in the same way a greenhouse traps warmth."
+    },
+    {
+      "id": "nature-environment-q27",
+      "prompt": "Fill in the blank (genitive required): 'Brinem se zbog stanja ______.' (I worry about the state of the environment.)",
+      "options": ["okoliš", "okolišu", "okoliša", "okolišem"],
+      "correctIndex": 2,
+      "explanation": "After **zbog** (because of), the noun takes the **genitive** case. The genitive of **okoliš** (masculine) is **okoliša**. Dative would be *okolišu*, instrumental *okolišem*."
+    },
+    {
+      "id": "nature-environment-q28",
+      "prompt": "What does 'obala' mean in English?",
+      "options": ["island", "sea", "mountain", "coast / shore"],
+      "correctIndex": 3,
+      "explanation": "**Obala** = coast or shore (feminine noun). Croatia's **obala** (coastline) along the Adriatic is one of its most celebrated natural features."
+    },
+    {
+      "id": "nature-environment-q29",
+      "prompt": "Which sentence correctly uses the instrumental of a verbal noun to express means?",
+      "options": [
+        "Da recikliramo pomažemo okolišu.",
+        "Recikliramo pomažemo okolišu.",
+        "Recikliranjem pomažemo okolišu.",
+        "Reciklirati pomaže okolišu."
+      ],
+      "correctIndex": 2,
+      "explanation": "**Recikliranjem** is the instrumental case of the verbal noun **recikliranje**. The instrumental expresses method: »by recycling.« The sentence means: By recycling, we help the environment. The other options are grammatically incorrect for this meaning."
+    },
+    {
+      "id": "nature-environment-q30",
+      "prompt": "Which is the correct Croatian for 'I worry about pollution'?",
+      "options": [
+        "Brinem se za zagađenje.",
+        "Brinem se od zagađenja.",
+        "Brinem se u zagađenje.",
+        "Brinem se zbog zagađenja."
+      ],
+      "correctIndex": 3,
+      "explanation": "**Brinem se zbog** + genitive is the correct structure. **Zbog** (because of) requires the genitive case: **zagađenja** (genitive of *zagađenje*). The prepositions **za**, **od**, and **u** do not collocate with *brinem se* to express concern."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Natural landscape vocabulary",
+      "items": [
+        { "hr": "šuma", "en": "forest", "note": "feminine noun — šuma, šume, šumi..." },
+        { "hr": "planina", "en": "mountain", "note": "feminine noun" },
+        { "hr": "rijeka", "en": "river", "note": "feminine noun" },
+        { "hr": "jezero", "en": "lake", "note": "neuter noun" },
+        { "hr": "more", "en": "sea", "note": "neuter noun; Jadransko more = the Adriatic Sea" },
+        { "hr": "obala", "en": "coast / shore", "note": "feminine noun; hrvatska obala = the Croatian coast" },
+        { "hr": "otok", "en": "island", "note": "masculine noun; plural: otoci" },
+        { "hr": "dolina", "en": "valley", "note": "feminine noun" },
+        { "hr": "stijena", "en": "rock / cliff", "note": "feminine noun; plural: stijene" },
+        { "hr": "polje", "en": "field", "note": "neuter noun" },
+        { "hr": "livada", "en": "meadow", "note": "feminine noun" },
+        { "hr": "plaža", "en": "beach", "note": "feminine noun" },
+        { "hr": "nacionalni park", "en": "national park", "note": "masculine noun phrase" }
+      ]
+    },
+    {
+      "context": "Environmental problems",
+      "items": [
+        { "hr": "okoliš", "en": "environment", "note": "masculine noun — genitive: okoliša" },
+        { "hr": "zagađenje", "en": "pollution", "note": "neuter noun — genitive: zagađenja" },
+        { "hr": "klimatske promjene", "en": "climate change", "note": "feminine plural — genitive: klimatskih promjena" },
+        { "hr": "staklenički plinovi", "en": "greenhouse gases", "note": "masculine plural — genitive: stakleničkih plinova" },
+        { "hr": "ugljični otisak", "en": "carbon footprint", "note": "masculine noun phrase — genitive: ugljičnog otiska" },
+        { "hr": "otpad", "en": "waste", "note": "masculine noun — genitive: otpada" },
+        { "hr": "poplave", "en": "floods", "note": "feminine plural — sve češće poplave = increasingly frequent floods" },
+        { "hr": "požar", "en": "wildfire / fire", "note": "masculine noun — šumski požar = forest fire" }
+      ]
+    },
+    {
+      "context": "Expressing concern — Brinem se zbog...",
+      "items": [
+        { "hr": "Brinem se zbog zagađenja.", "en": "I worry about pollution.", "note": "zbog + genitive: zagađenja" },
+        { "hr": "Brinem se zbog klimatskih promjena.", "en": "I worry about climate change.", "note": "zbog + genitive plural: klimatskih promjena" },
+        { "hr": "Brinem se zbog ugljičnog otiska.", "en": "I worry about the carbon footprint.", "note": "zbog + genitive: ugljičnog otiska" },
+        { "hr": "Brinem se zbog stanja okoliša.", "en": "I worry about the state of the environment.", "note": "stanja = genitive of stanje; okoliša = genitive of okoliš" },
+        { "hr": "Brinemo se zbog nestanka vrsta.", "en": "We worry about the disappearance of species.", "note": "nestanka = genitive of nestanak; vrsta = genitive plural of vrsta" },
+        { "hr": "Brinu se zbog porasta temperature.", "en": "They worry about the rise in temperature.", "note": "porasta = genitive of porast; temperature = genitive of temperatura" }
+      ]
+    },
+    {
+      "context": "Solutions and actions",
+      "items": [
+        { "hr": "recikliranje", "en": "recycling", "note": "neuter verbal noun from reciklirati" },
+        { "hr": "obnovljivi izvori energije", "en": "renewable energy sources", "note": "masculine plural noun phrase" },
+        { "hr": "zaštita prirode", "en": "nature conservation", "note": "feminine noun phrase" },
+        { "hr": "smanjiti ugljični otisak", "en": "to reduce one's carbon footprint", "note": "smanjiti = perfective infinitive" },
+        { "hr": "koristiti javni prijevoz", "en": "to use public transport", "note": "koristiti = imperfective infinitive" },
+        { "hr": "Recikliranjem pomažemo okolišu.", "en": "By recycling we help the environment.", "note": "recikliranjem = instrumental of verbal noun" },
+        { "hr": "Mislim da bi trebali više reciklirati.", "en": "I think we should recycle more.", "note": "Mislim da bi trebali + infinitive = opinion + recommendation" },
+        { "hr": "Važno je da zaštitimo prirodu.", "en": "It is important that we protect nature.", "note": "Važno je da + present tense" }
+      ]
+    },
+    {
+      "context": "Croatian nature landmarks",
+      "items": [
+        { "hr": "Plitvička jezera", "en": "Plitvice Lakes", "note": "UNESCO World Heritage Site; famous for turquoise lakes and waterfalls; the most visited Croatian national park" },
+        { "hr": "Krka", "en": "Krka National Park", "note": "along the Krka River in Dalmatia; famous for Skradinski buk waterfall and a historic watermill" },
+        { "hr": "Kornati", "en": "Kornati National Park", "note": "archipelago of over 100 islands in the Adriatic Sea; protected marine area" },
+        { "hr": "Paklenica", "en": "Paklenica National Park", "note": "dramatic canyon and karst landscape near Zadar; popular for rock climbing and hiking" },
+        { "hr": "Velebit", "en": "Velebit mountain / Velebit Nature Park", "note": "the longest and highest Croatian mountain range; UNESCO Biosphere Reserve; home to wolves (vuci) and bears (medvjedi)" }
+      ]
+    }
+  ]
+}

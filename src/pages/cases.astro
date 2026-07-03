@@ -1,0 +1,12 @@
+---
+import Layout from "../layouts/Layout.astro";
+import CaseGuide from "../components/CaseGuide.astro";
+import { getCaseGuide } from "../lib/content";
+
+const data = getCaseGuide();
+if (!data) return Astro.redirect("/");
+---
+
+<Layout title={`${data.title.en} | Learn Croatian`}>
+  <CaseGuide data={data} />
+</Layout>

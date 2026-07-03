@@ -1,0 +1,27 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import TopicPage from "../../../components/TopicPage.astro";
+import { getAllTopics } from "../../../lib/content";
+
+export async function getStaticPaths() {
+  const topics = getAllTopics();
+  return topics.map((topic) => {
+    const sameLevel = topics.filter((t) => t.level === topic.level);
+    const indexInLevel = sameLevel.findIndex((t) => t.id === topic.id);
+    return {
+      params: { level: topic.level, id: topic.id },
+      props: {
+        topic,
+        prevTopic: sameLevel[indexInLevel - 1],
+        nextTopic: sameLevel[indexInLevel + 1],
+      },
+    };
+  });
+}
+
+const { topic, prevTopic, nextTopic } = Astro.props;
+---
+
+<Layout title={`${topic.title.en} | Learn Croatian`}>
+  <TopicPage topic={topic} prevTopic={prevTopic} nextTopic={nextTopic} />
+</Layout>

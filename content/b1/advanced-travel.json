@@ -1,0 +1,472 @@
+{
+  "id": "advanced-travel",
+  "level": "b1",
+  "order": 14,
+  "title": { "hr": "Napredno putovanje i smještaj", "en": "Advanced Travel & Accommodation" },
+  "grammar": {
+    "title": { "hr": "Složene situacije na putovanju", "en": "Complex Travel Situations" },
+    "intro": "At B1 level you learn to handle real-world travel problems with confidence. This means booking and managing **accommodation**, making **formal complaints**, submitting **polite requests** using the conditional mood, and navigating **airports** and **travel insurance** situations.\n\nKey skill: Croatian adjectives agree with the speaker's gender in predicate position. A male speaker says **Nisam zadovoljan** while a female speaker says **Nisam zadovoljna**. The same pattern applies to conditional requests: **Bio bih zahvalan** (male) vs. **Bila bih zahvalna** (female).",
+    "rules": [
+      {
+        "label": "Accommodation types and facilities",
+        "explanation": "Croatian has specific terms for different accommodation types and hotel features. The general word for accommodation is **smještaj**.\n\n- **hotel** — hotel\n- **apartman** — self-catering apartment\n- **hostel** — hostel\n- **soba s doručkom** — bed and breakfast (lit. room with breakfast)\n- **recepcija** — reception desk\n- **rezervacija** — reservation / booking\n- **otkazivanje** — cancellation\n- **nadoplata** — surcharge / extra charge\n- **jednokrevetna soba** — single room (jedan = one, krevet = bed)\n- **dvokrevetna soba** — double room (dva = two, krevet = bed)\n- **soba s pogledom na more** — room with a sea view",
+        "examples": [
+          { "hr": "Imam rezervaciju na ime Kovač.", "en": "I have a reservation under the name Kovač." },
+          { "hr": "Htio bih jednokrevetnu sobu s pogledom na more.", "en": "I would like a single room with a sea view." },
+          { "hr": "Postoji li nadoplata za kasni dolazak?", "en": "Is there a surcharge for late arrival?" }
+        ]
+      },
+      {
+        "label": "Making complaints",
+        "explanation": "When something goes wrong at your accommodation, Croatian uses clear complaint structures. Remember the **gender agreement** rule on predicate adjectives.\n\n- **Nisam zadovoljan** (m) / **Nisam zadovoljna** (f) **jer...** — I am not satisfied because...\n- **Klimatizacija ne radi.** — The air conditioning is not working.\n- **Ima problema s...** + instrumental case — There is a problem with...\n- **Molim vas da to popravite.** — Please fix that.\n- **Soba je prebučna.** — The room is too noisy.\n- **Ovo je neprihvatljivo.** — This is unacceptable.",
+        "examples": [
+          { "hr": "Nisam zadovoljna jer soba je prebučna.", "en": "I am not satisfied because the room is too noisy." },
+          { "hr": "Ima problema s klimatizacijom.", "en": "There is a problem with the air conditioning." },
+          { "hr": "Molim vas da što prije popravite kvar.", "en": "Please fix the fault as soon as possible." }
+        ]
+      },
+      {
+        "label": "Formal requests using the conditional mood",
+        "explanation": "For polite formal requests, Croatian uses the **conditional mood** with **bih / biste** and gender-agreeing adjectives.\n\n**Structure:** Bio/Bila bih zahvalan/zahvalna ako biste + verb\n\n- **Bio bih zahvalan** — I would be grateful (male speaker)\n- **Bila bih zahvalna** — I would be grateful (female speaker)\n- **...ako biste mi dali...** — ...if you would give me...\n- **Možete li mi potvrditi...?** — Can you confirm...?\n- **Htio bih...** / **Htjela bih...** — I would like... (male / female)",
+        "examples": [
+          { "hr": "Bio bih zahvalan ako biste mi promijenili sobu.", "en": "I would be grateful if you would change my room. (male speaker)" },
+          { "hr": "Bila bih zahvalna ako biste mi dali sobu na višem katu.", "en": "I would be grateful if you gave me a room on a higher floor. (female speaker)" },
+          { "hr": "Možete li mi potvrditi moju rezervaciju?", "en": "Can you confirm my reservation?" }
+        ]
+      },
+      {
+        "label": "Airport and travel vocabulary",
+        "explanation": "Essential vocabulary for navigating airports and dealing with travel disruptions.\n\n- **putovnica** — passport\n- **viza** — visa\n- **carina** — customs\n- **ručna prtljaga** — hand luggage / carry-on\n- **kašnjenje** — delay\n- **otkazani let** — cancelled flight\n- **odšteta** — compensation\n- **polazak** — departure\n- **dolazak** — arrival\n- **ukrcaj** — boarding",
+        "examples": [
+          { "hr": "Moj let kasni dva sata.", "en": "My flight is delayed by two hours." },
+          { "hr": "Imam pravo na odštetu zbog otkazanog leta.", "en": "I am entitled to compensation due to the cancelled flight." },
+          { "hr": "Gdje je šalter za carinu?", "en": "Where is the customs desk?" }
+        ]
+      },
+      {
+        "label": "Travel insurance vocabulary",
+        "explanation": "When filing a claim or understanding your policy, these terms are essential.\n\n- **putno osiguranje** — travel insurance\n- **pokriće** — coverage\n- **šteta** — damage / loss\n- **zahtjev** — claim / request\n- **polica osiguranja** — insurance policy\n- **premija** — premium",
+        "examples": [
+          { "hr": "Imam putno osiguranje koje pokriva kašnjenje leta.", "en": "I have travel insurance that covers flight delays." },
+          { "hr": "Moram podnijeti zahtjev za štetu.", "en": "I need to submit a damage claim." },
+          { "hr": "Koje je pokriće moje police?", "en": "What is the coverage of my policy?" }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Situacija (Situation)", "Korisna fraza (Useful phrase)", "Vrsta (Type)"],
+      "rows": [
+        ["Room not ready", "Soba još nije spremna. Možete li provjeriti?", "Request"],
+        ["Broken air conditioning", "Klimatizacija ne radi. Ima problema s klimom.", "Complaint"],
+        ["Noisy room", "Soba je prebučna. Nisam zadovoljan/zadovoljna.", "Complaint"],
+        ["Request room upgrade", "Bio/Bila bih zahvalan/zahvalna ako biste mi dali bolju sobu.", "Formal request"],
+        ["Confirm reservation", "Možete li mi potvrditi rezervaciju?", "Question"],
+        ["Flight delay info", "Koji je uzrok kašnjenja? Imam pravo na odštetu.", "Information / Complaint"],
+        ["Cancel a booking", "Htio/Htjela bih otkazati svoju rezervaciju.", "Request"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "hr": "Ana u Splitu: putovanje s preprekama", "en": "Ana in Split: A Journey with Obstacles" },
+    "paragraphs": [
+      {
+        "hr": "Ana Kovač stigla je u Split u srpnju, uzbuđena zbog tjedan dana odmora na Jadranu. Na recepciji hotela Jadran predala je potvrdu rezervacije i zamolila za prijavu. Recepcionar je provjerio računalo i objasnio da soba još nije spremna te da mora pričekati otprilike sat vremena.",
+        "en": "Ana Kovač arrived in Split in July, excited about a week's holiday on the Adriatic. At the reception of Hotel Jadran she handed over her booking confirmation and asked to check in. The receptionist checked the computer and explained that the room was not yet ready and that she would have to wait about an hour."
+      },
+      {
+        "hr": "Ana je sačekala gotovo dva sata u predvorju hotela, pijući kavu i čitajući knjigu. Konačno, recepcionar joj je predao ključ od sobe 214 na drugom katu. Ana je odnijela prtljagu u sobu i odmah primijetila jake zvukove prometa i gradskih radova koji su dopirali kroz prozor.",
+        "en": "Ana waited almost two hours in the hotel lobby, drinking coffee and reading a book. Finally, the receptionist handed her the key to room 214 on the second floor. Ana took her luggage to the room and immediately noticed loud sounds of traffic and urban construction works coming through the window."
+      },
+      {
+        "hr": "Osim buke, klimatizacija nije radila. Ana je nekoliko puta pokušala uključiti uređaj, ali bezuspješno. Temperatura u sobi dosegla je gotovo trideset stupnjeva, što je bilo sasvim neprihvatljivo. Ana je duboko udahnula i odlučila mirno riješiti situaciju formalnim razgovorom na recepciji.",
+        "en": "In addition to the noise, the air conditioning was not working. Ana tried to turn on the unit several times but without success. The temperature in the room reached almost thirty degrees, which was completely unacceptable. Ana took a deep breath and decided to calmly resolve the situation with a formal conversation at reception."
+      },
+      {
+        "hr": "Na recepciji je ljubazno, ali jasno izrazila nezadovoljstvo: Nisam zadovoljna sobom jer klimatizacija ne radi i ima previše buke s ulice. Bila bih zahvalna ako biste mi dali drugu sobu, po mogućnosti na višem katu. Recepcionar se iskreno ispričao i rekao da postoji slobodna soba na četvrtom katu.",
+        "en": "At reception she politely but clearly expressed her dissatisfaction: I am not satisfied with my room because the air conditioning is not working and there is too much noise from the street. I would be grateful if you could give me a different room, preferably on a higher floor. The receptionist sincerely apologised and said there was a free room on the fourth floor."
+      },
+      {
+        "hr": "Nova soba bila je tiha, dobro klimatizirana i imala je prekrasan pogled na Jadransko more. Recepcionar je ponudio popust od deset posto na ukupnu cijenu smještaja kao naknadu za nastalu neugodnost i dugo čekanje. Ana je prihvatila ponudu, zahvalila se i konačno se mogla opustiti i uživati u odmoru.",
+        "en": "The new room was quiet, well air-conditioned and had a beautiful view of the Adriatic Sea. The receptionist offered a ten percent discount on the total accommodation cost as compensation for the inconvenience and long wait. Ana accepted the offer, thanked him and was finally able to relax and enjoy her holiday."
+      },
+      {
+        "hr": "Na dan odlaska Ana je saznala na aerodromu da njezin let kasni dva sata zbog tehničkih problema. Mirno je prišla šalteru za informacije i upitala: Možete li mi potvrditi uzrok kašnjenja i koja su moja prava? Osoblje joj je objasnilo da ima pravo na besplatni obrok i financijsku odštetu. Srećom, putno osiguranje koje je kupila pokrilo je sve dodatne troškove i Ana se bez većeg stresa uspješno vratila kući.",
+        "en": "On the day of departure Ana found out at the airport that her flight was delayed by two hours due to technical problems. She calmly approached the information desk and asked: Can you confirm the reason for the delay and what my rights are? The staff explained that she was entitled to a free meal and financial compensation. Fortunately, the travel insurance she had purchased covered all additional costs and Ana successfully returned home without too much stress."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "advanced-travel-q1",
+      "prompt": "Why was Ana not satisfied with her first room?",
+      "promptHr": "Zašto Ana nije bila zadovoljna prvom sobom?",
+      "options": [
+        "The room did not have a sea view",
+        "The air conditioning was not working and there was too much noise from the street",
+        "The room was too expensive",
+        "Breakfast was not included"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text states Ana noticed loud noise from traffic and construction, and the air conditioning was not working — both reasons made her dissatisfied."
+    },
+    {
+      "id": "advanced-travel-q2",
+      "prompt": "How long did Ana wait before getting her room?",
+      "promptHr": "Koliko je dugo Ana čekala na svoju sobu?",
+      "options": [
+        "About one hour as the receptionist promised",
+        "About thirty minutes",
+        "Almost two hours",
+        "Over three hours"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text says Ana waited **gotovo dva sata** (almost two hours) in the hotel lobby, despite being told it would be about one hour."
+    },
+    {
+      "id": "advanced-travel-q3",
+      "prompt": "What did the receptionist offer Ana as compensation?",
+      "promptHr": "Što je recepcionar ponudio Ani kao naknadu?",
+      "options": [
+        "A free dinner",
+        "A full refund of the booking",
+        "A ten percent discount on the total accommodation cost",
+        "A room upgrade with no additional benefit"
+      ],
+      "correctIndex": 2,
+      "explanation": "The receptionist offered **popust od deset posto** (a ten percent discount) on the total accommodation cost as compensation for the inconvenience and long wait."
+    },
+    {
+      "id": "advanced-travel-q4",
+      "prompt": "Which formal request phrase did Ana use at reception?",
+      "promptHr": "Koju formalnu frazu za zahtjev je Ana koristila na recepciji?",
+      "options": [
+        "Nisam zadovoljna jer soba je premala",
+        "Bila bih zahvalna ako biste mi dali drugu sobu",
+        "Molim vas odmah pozovite upravitelja",
+        "Možete li mi potvrditi moju rezervaciju?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana used the formal conditional request: **Bila bih zahvalna ako biste mi dali drugu sobu** — I would be grateful if you would give me a different room."
+    },
+    {
+      "id": "advanced-travel-q5",
+      "prompt": "What happened at the airport on Ana's departure day?",
+      "promptHr": "Što se dogodilo na aerodromu na dan Aninog odlaska?",
+      "options": [
+        "Her flight was cancelled completely",
+        "Her hand luggage was too heavy",
+        "Her flight was delayed by two hours",
+        "She forgot her passport"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana found out her flight was delayed by two hours (**let kasni dva sata**) due to technical problems. She was entitled to compensation."
+    }
+  ],
+  "test": [
+    {
+      "id": "advanced-travel-q6",
+      "prompt": "What does **rezervacija** mean?",
+      "options": ["Cancellation", "Reservation / booking", "Reception desk", "Room key"],
+      "correctIndex": 1,
+      "explanation": "**Rezervacija** means reservation or booking. **Otkazivanje** means cancellation, **recepcija** means reception desk."
+    },
+    {
+      "id": "advanced-travel-q7",
+      "prompt": "What does **otkazivanje** mean?",
+      "options": ["Booking", "Delay", "Cancellation", "Check-in"],
+      "correctIndex": 2,
+      "explanation": "**Otkazivanje** means cancellation, from the verb **otkazati** (to cancel). **Rezervacija** means booking."
+    },
+    {
+      "id": "advanced-travel-q8",
+      "prompt": "How do you say **reception desk** in Croatian?",
+      "options": ["predvorje", "soba", "recepcija", "ured"],
+      "correctIndex": 2,
+      "explanation": "**Recepcija** means reception desk. **Predvorje** means lobby, **soba** means room."
+    },
+    {
+      "id": "advanced-travel-q9",
+      "prompt": "How do you say **double room** in Croatian?",
+      "options": ["jednokrevetna soba", "dvokrevetna soba", "soba s pogledom", "apartman"],
+      "correctIndex": 1,
+      "explanation": "**Dvokrevetna soba** means double room (dva = two, krevet = bed). **Jednokrevetna soba** means single room."
+    },
+    {
+      "id": "advanced-travel-q10",
+      "prompt": "What does **soba s pogledom na more** mean?",
+      "options": [
+        "Room with a sea view",
+        "Room with a private balcony",
+        "Room with breakfast included",
+        "Room without windows"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Soba s pogledom na more** literally means room with a view of the sea — a sea-view room. **Pogled** = view, **more** = sea."
+    },
+    {
+      "id": "advanced-travel-q11",
+      "prompt": "Which of the following is a complaint sentence?",
+      "options": [
+        "Hvala vam puno!",
+        "Nisam zadovoljan jer klimatizacija ne radi.",
+        "Mogu li rezervirati sobu?",
+        "Gdje je recepcija?"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Nisam zadovoljan jer klimatizacija ne radi** means I am not satisfied because the air conditioning is not working — a clear complaint structure."
+    },
+    {
+      "id": "advanced-travel-q12",
+      "prompt": "What does **Klimatizacija ne radi** mean?",
+      "options": [
+        "The lift is not working",
+        "The air conditioning is not working",
+        "The heating is broken",
+        "The shower does not work"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Klimatizacija** means air conditioning and **ne radi** means does not work / is not working. **Lift** would be lift/elevator."
+    },
+    {
+      "id": "advanced-travel-q13",
+      "prompt": "Complete the formal request: **Bio bih zahvalan ako biste mi ___ sobu.**",
+      "promptHr": "Dopunite formalnu molbu: Bio bih zahvalan ako biste mi ___ sobu.",
+      "options": ["dala", "dali", "dao", "dale"],
+      "correctIndex": 1,
+      "explanation": "With **biste** (you — formal/plural conditional), the matching verb form is **dali**. The full phrase is **ako biste mi dali** — if you would give me."
+    },
+    {
+      "id": "advanced-travel-q14",
+      "prompt": "What does **Molim vas da to popravite** mean?",
+      "options": [
+        "Please cancel my booking",
+        "Please fix that",
+        "Please give me a discount",
+        "Please confirm my reservation"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Molim vas da to popravite** means please fix that. **Popraviti** means to fix or repair."
+    },
+    {
+      "id": "advanced-travel-q15",
+      "prompt": "What does **putovnica** mean?",
+      "options": ["Travel insurance", "Visa", "Passport", "Boarding pass"],
+      "correctIndex": 2,
+      "explanation": "**Putovnica** means passport. **Viza** means visa, and **putno osiguranje** means travel insurance."
+    },
+    {
+      "id": "advanced-travel-q16",
+      "prompt": "What does **carina** mean?",
+      "options": ["Airport terminal", "Customs", "Check-in desk", "Departure gate"],
+      "correctIndex": 1,
+      "explanation": "**Carina** means customs — the border control area where goods and documents are checked."
+    },
+    {
+      "id": "advanced-travel-q17",
+      "prompt": "What does **kašnjenje** mean?",
+      "options": ["Cancellation", "Boarding", "Delay", "Departure"],
+      "correctIndex": 2,
+      "explanation": "**Kašnjenje** means delay, from the verb **kasniti** (to be late). **Otkazivanje** means cancellation, **polazak** means departure."
+    },
+    {
+      "id": "advanced-travel-q18",
+      "prompt": "What does **odšteta** mean?",
+      "options": ["Travel insurance policy", "Claim form", "Compensation", "Damage report"],
+      "correctIndex": 2,
+      "explanation": "**Odšteta** means compensation — the money you receive when something goes wrong, such as a cancelled or delayed flight."
+    },
+    {
+      "id": "advanced-travel-q19",
+      "prompt": "How do you say **Can you confirm...?** in Croatian?",
+      "options": [
+        "Možete li mi potvrditi...?",
+        "Nisam zadovoljan jer...",
+        "Bio bih zahvalan ako biste...",
+        "Ima problema s..."
+      ],
+      "correctIndex": 0,
+      "explanation": "**Možete li mi potvrditi...?** means Can you confirm...? **Možete li** = can you (formal), **potvrditi** = to confirm."
+    },
+    {
+      "id": "advanced-travel-q20",
+      "prompt": "What does **ručna prtljaga** mean?",
+      "options": [
+        "Checked luggage",
+        "Hand luggage / carry-on bag",
+        "Lost luggage",
+        "Overweight baggage"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Ručna prtljaga** means hand luggage or carry-on bag. **Ručna** comes from **ruka** (hand)."
+    },
+    {
+      "id": "advanced-travel-q21",
+      "prompt": "What does **putno osiguranje** mean?",
+      "options": ["Travel agency", "Travel insurance", "Travel card", "Travel document"],
+      "correctIndex": 1,
+      "explanation": "**Putno osiguranje** means travel insurance. **Putno** = travel (adjective from put = journey), **osiguranje** = insurance."
+    },
+    {
+      "id": "advanced-travel-q22",
+      "prompt": "What does **nadoplata** mean in a hotel context?",
+      "options": ["Discount", "Full refund", "Surcharge / extra charge", "Security deposit"],
+      "correctIndex": 2,
+      "explanation": "**Nadoplata** means surcharge or extra charge — an additional amount added to the base price (e.g. for late check-out or a sea-view room)."
+    },
+    {
+      "id": "advanced-travel-q23",
+      "prompt": "What does **otkazani let** mean?",
+      "options": ["Delayed flight", "Fully booked flight", "Cancelled flight", "Connecting flight"],
+      "correctIndex": 2,
+      "explanation": "**Otkazani let** means cancelled flight. **Otkazani** is the past participle of **otkazati** (to cancel); **let** means flight."
+    },
+    {
+      "id": "advanced-travel-q24",
+      "prompt": "**Ima problema s...** is used to:",
+      "options": [
+        "Make a polite formal request",
+        "Ask for directions in the city",
+        "Report that something is wrong with something",
+        "Make a new hotel booking"
+      ],
+      "correctIndex": 2,
+      "explanation": "**Ima problema s...** (There is a problem with...) is a complaint phrase for reporting that something is not working. It is followed by the **instrumental case** (e.g. s klimatizacijom)."
+    },
+    {
+      "id": "advanced-travel-q25",
+      "prompt": "What does **soba s doručkom** mean?",
+      "options": [
+        "Room with dinner included",
+        "Room with breakfast included",
+        "Room with a sea view",
+        "Room with a private bathroom"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Soba s doručkom** means room with breakfast — the equivalent of bed and breakfast. **Doručak** means breakfast."
+    },
+    {
+      "id": "advanced-travel-q26",
+      "prompt": "Which phrase means **I would be grateful if you would...**?",
+      "options": [
+        "Molim vas odmah",
+        "Nisam zadovoljan/zadovoljna",
+        "Bio/Bila bih zahvalan/zahvalna ako biste...",
+        "Mogu li platiti karticom?"
+      ],
+      "correctIndex": 2,
+      "explanation": "**Bio/Bila bih zahvalan/zahvalna ako biste...** is the standard polite conditional request structure meaning I would be grateful if you would... It requires gender agreement on both adjectives."
+    },
+    {
+      "id": "advanced-travel-q27",
+      "prompt": "What does **viza** mean?",
+      "options": ["Passport", "Plane ticket", "Visa", "Boarding pass"],
+      "correctIndex": 2,
+      "explanation": "**Viza** means visa — the official permission document required to enter certain countries. **Putovnica** means passport."
+    },
+    {
+      "id": "advanced-travel-q28",
+      "prompt": "In the complaint **Nisam zadovoljna jer...**, why is the adjective ending **-a** (zadovoljna) rather than **-an** (zadovoljan)?",
+      "options": [
+        "The speaker is male",
+        "The speaker is female",
+        "The noun being described is plural",
+        "It is a fixed expression with no gender distinction"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Croatian, predicate adjectives agree with the gender of the subject (the speaker). The **-a** ending marks the **feminine** form. A male speaker would say **Nisam zadovoljan**."
+    },
+    {
+      "id": "advanced-travel-q29",
+      "prompt": "What does **pokriće** mean in the context of travel insurance?",
+      "options": ["Damage or loss", "Insurance claim", "Coverage", "Policy premium"],
+      "correctIndex": 2,
+      "explanation": "**Pokriće** means coverage — what the insurance policy includes and pays for. **Šteta** means damage, **zahtjev** means claim."
+    },
+    {
+      "id": "advanced-travel-q30",
+      "prompt": "Which of these words is NOT a type of accommodation?",
+      "options": ["hotel", "apartman", "hostel", "kašnjenje"],
+      "correctIndex": 3,
+      "explanation": "**Kašnjenje** means delay — it describes a travel problem, not an accommodation type. **Hotel**, **apartman**, and **hostel** are all types of accommodation."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Accommodation vocabulary",
+      "items": [
+        { "hr": "smještaj", "en": "accommodation", "note": "general term" },
+        { "hr": "hotel", "en": "hotel" },
+        { "hr": "apartman", "en": "self-catering apartment" },
+        { "hr": "hostel", "en": "hostel" },
+        { "hr": "soba s doručkom", "en": "bed and breakfast", "note": "lit. room with breakfast" },
+        { "hr": "recepcija", "en": "reception desk" },
+        { "hr": "predvorje", "en": "lobby" },
+        { "hr": "rezervacija", "en": "reservation / booking" },
+        { "hr": "otkazivanje", "en": "cancellation" },
+        { "hr": "nadoplata", "en": "surcharge / extra charge" },
+        { "hr": "jednokrevetna soba", "en": "single room", "note": "jedan = one, krevet = bed" },
+        { "hr": "dvokrevetna soba", "en": "double room", "note": "dva = two, krevet = bed" },
+        { "hr": "soba s pogledom na more", "en": "room with a sea view" },
+        { "hr": "ključ", "en": "key" },
+        { "hr": "popust", "en": "discount" }
+      ]
+    },
+    {
+      "context": "Making complaints",
+      "items": [
+        { "hr": "Nisam zadovoljan jer...", "en": "I am not satisfied because... (male speaker)" },
+        { "hr": "Nisam zadovoljna jer...", "en": "I am not satisfied because... (female speaker)" },
+        { "hr": "Klimatizacija ne radi.", "en": "The air conditioning is not working." },
+        { "hr": "Ima problema s klimatizacijom.", "en": "There is a problem with the air conditioning.", "note": "s + instrumental case" },
+        { "hr": "Molim vas da to popravite.", "en": "Please fix that." },
+        { "hr": "Ovo je neprihvatljivo.", "en": "This is unacceptable." },
+        { "hr": "Soba je prebučna.", "en": "The room is too noisy." },
+        { "hr": "Temperatura je previsoka.", "en": "The temperature is too high." }
+      ]
+    },
+    {
+      "context": "Formal requests (conditional)",
+      "items": [
+        { "hr": "Bio bih zahvalan ako biste...", "en": "I would be grateful if you would... (male speaker)" },
+        { "hr": "Bila bih zahvalna ako biste...", "en": "I would be grateful if you would... (female speaker)" },
+        { "hr": "Bio bih zahvalan ako biste mi dali drugu sobu.", "en": "I would be grateful if you gave me a different room. (male)" },
+        { "hr": "Bila bih zahvalna ako biste mi dali drugu sobu.", "en": "I would be grateful if you gave me a different room. (female)" },
+        { "hr": "Možete li mi potvrditi...?", "en": "Can you confirm...?" },
+        { "hr": "Htio bih...", "en": "I would like... (male speaker)" },
+        { "hr": "Htjela bih...", "en": "I would like... (female speaker)" }
+      ]
+    },
+    {
+      "context": "Airport & travel vocabulary",
+      "items": [
+        { "hr": "aerodrom", "en": "airport" },
+        { "hr": "putovnica", "en": "passport" },
+        { "hr": "viza", "en": "visa" },
+        { "hr": "carina", "en": "customs" },
+        { "hr": "ručna prtljaga", "en": "hand luggage / carry-on", "note": "ručna = of the hand" },
+        { "hr": "let", "en": "flight" },
+        { "hr": "kašnjenje", "en": "delay" },
+        { "hr": "otkazani let", "en": "cancelled flight" },
+        { "hr": "odšteta", "en": "compensation" },
+        { "hr": "polazak", "en": "departure" },
+        { "hr": "dolazak", "en": "arrival" },
+        { "hr": "ukrcaj", "en": "boarding" }
+      ]
+    },
+    {
+      "context": "Travel problem phrases",
+      "items": [
+        { "hr": "putno osiguranje", "en": "travel insurance" },
+        { "hr": "pokriće", "en": "coverage (insurance)" },
+        { "hr": "šteta", "en": "damage / loss" },
+        { "hr": "zahtjev", "en": "claim / request" },
+        { "hr": "polica osiguranja", "en": "insurance policy" },
+        { "hr": "premija", "en": "premium" },
+        { "hr": "Moj let kasni dva sata.", "en": "My flight is delayed by two hours." },
+        { "hr": "Imam pravo na odštetu.", "en": "I am entitled to compensation." },
+        { "hr": "Moram podnijeti zahtjev.", "en": "I need to submit a claim." },
+        { "hr": "Koji je uzrok kašnjenja?", "en": "What is the reason for the delay?" }
+      ]
+    }
+  ]
+}

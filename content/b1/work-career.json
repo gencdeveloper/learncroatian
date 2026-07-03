@@ -1,0 +1,436 @@
+{
+  "id": "work-career",
+  "level": "b1",
+  "order": 9,
+  "title": { "hr": "Posao i karijera", "en": "Work & Career" },
+  "grammar": {
+    "title": { "hr": "Formalni registar i poslovni rječnik", "en": "Formal Register and Professional Vocabulary" },
+    "intro": "In Croatian professional settings, the formal register is essential for communicating respectfully with employers, clients, and senior colleagues.\n\nKey rules to remember:\n- Use **Vi** (capital V) instead of **ti** when addressing someone formally\n- Use polite verb forms such as **Biste li mogli...?** (Could you please...?)\n- Say **Zahvaljujem** instead of **hvala** for a more formal tone",
+    "rules": [
+      {
+        "label": "Formal 'Vi' in the Workplace",
+        "explanation": "Use **Vi** (capital V) to formally address a single person — your boss, a client, or an interviewer. The verb conjugation is the same as for plural **vi**.\n\nCompare the informal and formal registers:\n- Informal: **Možeš li mi pomoći?** (Can you help me?)\n- Formal: **Možete li mi pomoći?** (Could you help me? — formal)",
+        "examples": [
+          { "hr": "Biste li mogli poslati izvještaj do petka?", "en": "Could you please send the report by Friday?" },
+          { "hr": "Zahvaljujem Vam na Vašem vremenu.", "en": "I thank you for your time." },
+          { "hr": "Nadam se da ćete razmotriti moju molbu.", "en": "I hope you will consider my application." }
+        ]
+      },
+      {
+        "label": "Work-Related Verbs",
+        "explanation": "Croatian has specific verb phrases for key professional events.\n\n- **zaposliti se** — to get a job\n- **dati otkaz** — to quit (literally: to give notice)\n- **dobiti otkaz** — to be fired (literally: to receive notice)\n- **unaprijediti** — to promote\n- **pregovarati** — to negotiate\n- **potpisati ugovor** — to sign a contract",
+        "examples": [
+          { "hr": "Marko se zaposlio u novoj tvrtki.", "en": "Marko got a job at a new company." },
+          { "hr": "Ona je dala otkaz jer nije bila zadovoljna plaćom.", "en": "She quit because she was not satisfied with the salary." },
+          { "hr": "Nakon godinu dana, bio je unaprijeđen na mjesto voditelja.", "en": "After one year, he was promoted to team leader." }
+        ]
+      },
+      {
+        "label": "Job Interview Phrases",
+        "explanation": "During a job interview (**razgovor za posao**), use these standard phrases to introduce yourself and discuss your experience.\n\n- **Mogu li se predstaviti?** — May I introduce myself?\n- **Imam X godina iskustva u...** — I have X years of experience in...\n- **Koje su vaše prednosti?** — What are your strengths?\n- **Gdje vidite sebe za pet godina?** — Where do you see yourself in five years?",
+        "examples": [
+          { "hr": "Imam tri godine iskustva u marketingu.", "en": "I have three years of experience in marketing." },
+          { "hr": "Moja glavna prednost je sposobnost rješavanja problema.", "en": "My main strength is problem-solving ability." },
+          { "hr": "Vidim sebe kao voditelja projekta za pet godina.", "en": "I see myself as a project manager in five years." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Croatian", "Gender", "English"],
+      "rows": [
+        ["ured", "m.", "office"],
+        ["tvrtka", "f.", "company"],
+        ["poduzeće", "n.", "company / enterprise"],
+        ["poslodavac", "m.", "employer"],
+        ["zaposlenik", "m.", "employee (male)"],
+        ["zaposlenica", "f.", "employee (female)"],
+        ["kolega", "m.", "colleague (male)"],
+        ["kolegica", "f.", "colleague (female)"],
+        ["šef", "m.", "boss (male)"],
+        ["šefica", "f.", "boss (female)"],
+        ["menadžer", "m.", "manager (male)"],
+        ["menadžerica", "f.", "manager (female)"],
+        ["odjel", "m.", "department"],
+        ["sastanak", "m.", "meeting"],
+        ["projekt", "m.", "project"],
+        ["rok", "m.", "deadline"],
+        ["plaća", "f.", "salary"],
+        ["ugovor", "m.", "contract"],
+        ["radno mjesto", "n.", "job position"],
+        ["životopis", "m.", "CV / résumé"],
+        ["natječaj", "m.", "job advertisement"],
+        ["razgovor za posao", "m.", "job interview"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "hr": "Razgovor za posao", "en": "The Job Interview" },
+    "paragraphs": [
+      {
+        "hr": "Marko je softverski inženjer koji traži novi posao. Pronašao je zanimljiv natječaj u jednoj poznatoj tehnološkoj tvrtki u Zagrebu i odlučio se prijaviti.",
+        "en": "Marko is a software engineer looking for a new job. He found an interesting job advertisement at a well-known tech company in Zagreb and decided to apply."
+      },
+      {
+        "hr": "Prvo je ažurirao svoj životopis. Dodao je novi projekt koji je završio prošle godine i napisao kratko motivacijsko pismo u kojemu je opisao zašto želi raditi u toj tvrtki.",
+        "en": "First, he updated his CV. He added a new project he had completed last year and wrote a short cover letter in which he described why he wanted to work at that company."
+      },
+      {
+        "hr": "Kako bi se što bolje pripremio, Marko je istraživao tipična pitanja za razgovor za posao. Vježbao je odgovoriti na pitanja poput: 'Koje su vaše prednosti?' i 'Gdje vidite sebe za pet godina?'",
+        "en": "In order to prepare as well as possible, Marko researched typical job interview questions. He practised answering questions such as: 'What are your strengths?' and 'Where do you see yourself in five years?'"
+      },
+      {
+        "hr": "Razgovarao je sa svojom prijateljicom Anom o prednostima i slabostima. Ana mu je rekla da je njegova najveća prednost sposobnost rješavanja problema, ali da ponekad radi previše samostalno i trebao bi više komunicirati s timom.",
+        "en": "He spoke with his friend Ana about his strengths and weaknesses. Ana told him that his greatest strength was problem-solving ability, but that he sometimes worked too independently and should communicate more with the team."
+      },
+      {
+        "hr": "Na dan razgovora, Marko je stigao nekoliko minuta ranije. Razgovor je prošao odlično — opisao je svoje iskustvo, postavio nekoliko pitanja o odjelu i pokazao entuzijazam za projekt koji bi vodio.",
+        "en": "On the day of the interview, Marko arrived a few minutes early. The interview went excellently — he described his experience, asked several questions about the department, and showed enthusiasm for the project he would be leading."
+      },
+      {
+        "hr": "Tjedan dana kasnije, menadžerica ga je nazvala i ponudila mu radno mjesto. Marko je pregovarao o plaći i tražio dva tjedna za razmišljanje. Naposljetku je prihvatio ponudu i potpisao ugovor.",
+        "en": "A week later, the manager called him and offered him the position. Marko negotiated the salary and asked for two weeks to think it over. In the end, he accepted the offer and signed the contract."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "work-career-q1",
+      "prompt": "What type of company did Marko apply to?",
+      "promptHr": "U kakvu se tvrtku Marko prijavio?",
+      "options": [
+        "A financial company in Split",
+        "A well-known tech company in Zagreb",
+        "A marketing agency in Rijeka",
+        "A government office in Zagreb"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading states Marko found an advertisement at a well-known **tehnološka tvrtka** (tech company) in Zagreb."
+    },
+    {
+      "id": "work-career-q2",
+      "prompt": "What did Marko update before applying?",
+      "promptHr": "Što je Marko ažurirao prije prijave?",
+      "options": [
+        "His social media profile",
+        "His cover letter only",
+        "His CV",
+        "His LinkedIn page"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text says: 'Prvo je ažurirao svoj **životopis**' — he updated his CV first."
+    },
+    {
+      "id": "work-career-q3",
+      "prompt": "Who helped Marko think about his strengths and weaknesses?",
+      "promptHr": "Tko je Marku pomogao razmisliti o prednostima i slabostima?",
+      "options": [
+        "His manager",
+        "His colleague at work",
+        "His friend Ana",
+        "A career counsellor"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading says Marko spoke with his friend Ana (**prijateljicom Anom**) about his strengths and weaknesses."
+    },
+    {
+      "id": "work-career-q4",
+      "prompt": "What did Marko do when he received the job offer?",
+      "promptHr": "Što je Marko učinio kad je dobio ponudu posla?",
+      "options": [
+        "He accepted immediately without negotiating",
+        "He declined the offer",
+        "He negotiated the salary and asked for time to decide",
+        "He asked to be promoted straight away"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text states he **pregovarao** (negotiated) the salary and asked for two weeks to think it over before accepting."
+    },
+    {
+      "id": "work-career-q5",
+      "prompt": "What did Marko sign at the end of the story?",
+      "promptHr": "Što je Marko potpisao na kraju priče?",
+      "options": [
+        "A non-disclosure agreement",
+        "A contract",
+        "A job advertisement",
+        "A cover letter"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading ends with: 'potpisao **ugovor**' — he signed the contract."
+    }
+  ],
+  "test": [
+    {
+      "id": "work-career-q6",
+      "prompt": "What is the Croatian word for 'office'?",
+      "options": ["sastanak", "odjel", "ured", "rok"],
+      "correctIndex": 2,
+      "explanation": "**Ured** means office. **Sastanak** = meeting, **odjel** = department, **rok** = deadline."
+    },
+    {
+      "id": "work-career-q7",
+      "prompt": "How do you say 'salary' in Croatian?",
+      "options": ["ugovor", "plaća", "natječaj", "životopis"],
+      "correctIndex": 1,
+      "explanation": "**Plaća** means salary. **Ugovor** = contract, **natječaj** = job ad, **životopis** = CV."
+    },
+    {
+      "id": "work-career-q8",
+      "prompt": "What does 'životopis' mean in English?",
+      "options": ["job interview", "deadline", "department", "CV / résumé"],
+      "correctIndex": 3,
+      "explanation": "**Životopis** literally means 'life description' and translates as CV or résumé."
+    },
+    {
+      "id": "work-career-q9",
+      "prompt": "What does 'zaposliti se' mean?",
+      "options": ["to be fired", "to quit", "to get a job", "to negotiate"],
+      "correctIndex": 2,
+      "explanation": "**Zaposliti se** means to get a job or to become employed."
+    },
+    {
+      "id": "work-career-q10",
+      "prompt": "What is the difference between 'dati otkaz' and 'dobiti otkaz'?",
+      "options": [
+        "Both mean to be promoted",
+        "'Dati otkaz' = to quit; 'dobiti otkaz' = to be fired",
+        "'Dati otkaz' = to be fired; 'dobiti otkaz' = to quit",
+        "Both mean to sign a contract"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Dati otkaz** (to give notice) = to quit. **Dobiti otkaz** (to receive notice) = to be fired."
+    },
+    {
+      "id": "work-career-q11",
+      "prompt": "Which word means 'deadline'?",
+      "options": ["rok", "projekt", "sastanak", "plaća"],
+      "correctIndex": 0,
+      "explanation": "**Rok** means deadline. **Projekt** = project, **sastanak** = meeting, **plaća** = salary."
+    },
+    {
+      "id": "work-career-q12",
+      "prompt": "What is the feminine form of 'zaposlenik' (employee)?",
+      "options": ["zaposlenica", "zaposlena", "zaposlenka", "zaposlenkinja"],
+      "correctIndex": 0,
+      "explanation": "The feminine form is **zaposlenica**. Croatian feminine forms are often built with the suffix **-ica**."
+    },
+    {
+      "id": "work-career-q13",
+      "prompt": "In a formal workplace context, which form of 'you' should you use when speaking to your boss?",
+      "options": ["ti", "Vi (capital V)", "on", "oni"],
+      "correctIndex": 1,
+      "explanation": "Use **Vi** (capital V) to address someone formally — a boss, client, or interviewer — instead of the informal **ti**."
+    },
+    {
+      "id": "work-career-q14",
+      "prompt": "How would you formally say 'Could you please send the document?' in Croatian?",
+      "options": [
+        "Možeš li poslati dokument?",
+        "Pošalji dokument!",
+        "Biste li mogli poslati dokument?",
+        "Hoćeš li poslati dokument?"
+      ],
+      "correctIndex": 2,
+      "explanation": "**Biste li mogli poslati dokument?** is the polite formal request. It uses the **Vi** conjugation."
+    },
+    {
+      "id": "work-career-q15",
+      "prompt": "What does 'natječaj' mean?",
+      "options": ["contract", "job advertisement", "department", "meeting"],
+      "correctIndex": 1,
+      "explanation": "**Natječaj** means a job advertisement or job posting."
+    },
+    {
+      "id": "work-career-q16",
+      "prompt": "What is the Croatian word for 'contract'?",
+      "options": ["radno mjesto", "ugovor", "odjel", "rok"],
+      "correctIndex": 1,
+      "explanation": "**Ugovor** means contract. **Radno mjesto** = job position, **odjel** = department, **rok** = deadline."
+    },
+    {
+      "id": "work-career-q17",
+      "prompt": "What does 'radno mjesto' mean?",
+      "options": ["salary", "project", "job position", "employer"],
+      "correctIndex": 2,
+      "explanation": "**Radno mjesto** literally means 'working place' and translates as job position."
+    },
+    {
+      "id": "work-career-q18",
+      "prompt": "Which phrase means 'May I introduce myself?' in Croatian?",
+      "options": [
+        "Imam tri godine iskustva.",
+        "Gdje vidite sebe za pet godina?",
+        "Mogu li se predstaviti?",
+        "Zahvaljujem Vam na pozivu."
+      ],
+      "correctIndex": 2,
+      "explanation": "**Mogu li se predstaviti?** means 'May I introduce myself?' — a common opening line in job interviews."
+    },
+    {
+      "id": "work-career-q19",
+      "prompt": "How do you say 'I have five years of experience in IT' in Croatian?",
+      "options": [
+        "Imam pet godina iskustva u IT-u.",
+        "Radim pet godina u IT-u.",
+        "Pet godina sam u IT-u.",
+        "Moje iskustvo je pet godina u IT-u."
+      ],
+      "correctIndex": 0,
+      "explanation": "The standard phrase is **Imam X godina iskustva u...** — I have X years of experience in..."
+    },
+    {
+      "id": "work-career-q20",
+      "prompt": "What is the grammatical gender of the Croatian noun 'projekt' (project)?",
+      "options": ["feminine", "neuter", "masculine", "It has no grammatical gender"],
+      "correctIndex": 2,
+      "explanation": "**Projekt** is a masculine noun in Croatian."
+    },
+    {
+      "id": "work-career-q21",
+      "prompt": "What does 'pregovarati' mean?",
+      "options": ["to promote", "to negotiate", "to resign", "to hire"],
+      "correctIndex": 1,
+      "explanation": "**Pregovarati** means to negotiate."
+    },
+    {
+      "id": "work-career-q22",
+      "prompt": "What does 'unaprijediti' mean in a professional context?",
+      "options": ["to fire someone", "to quit", "to promote someone", "to hire someone"],
+      "correctIndex": 2,
+      "explanation": "**Unaprijediti** means to promote someone to a higher position."
+    },
+    {
+      "id": "work-career-q23",
+      "prompt": "What is the formal way to say 'Thank you' in Croatian?",
+      "options": ["Hvala", "Bok", "Zahvaljujem", "Molim"],
+      "correctIndex": 2,
+      "explanation": "**Zahvaljujem** is the formal version of thank you. **Hvala** is the informal, everyday form."
+    },
+    {
+      "id": "work-career-q24",
+      "prompt": "What does 'poslodavac' mean?",
+      "options": ["employee", "colleague", "employer", "boss"],
+      "correctIndex": 2,
+      "explanation": "**Poslodavac** means employer — the person or company that hires workers."
+    },
+    {
+      "id": "work-career-q25",
+      "prompt": "Which sentence correctly uses 'potpisati ugovor'?",
+      "options": [
+        "Marko je potpisao ugovor nakon pregovora.",
+        "Marko je potpisao plaću nakon pregovora.",
+        "Marko je potpisao otkaz nakon pregovora.",
+        "Marko je potpisao odjel nakon pregovora."
+      ],
+      "correctIndex": 0,
+      "explanation": "**Potpisati ugovor** means to sign a contract. Only **ugovor** (contract) is the correct object of this verb."
+    },
+    {
+      "id": "work-career-q26",
+      "prompt": "What is the Croatian word for 'meeting'?",
+      "options": ["projekt", "natječaj", "sastanak", "šef"],
+      "correctIndex": 2,
+      "explanation": "**Sastanak** means meeting. It is a masculine noun."
+    },
+    {
+      "id": "work-career-q27",
+      "prompt": "What does 'razgovor za posao' mean?",
+      "options": ["job advertisement", "job interview", "work contract", "job position"],
+      "correctIndex": 1,
+      "explanation": "**Razgovor za posao** literally means 'conversation for a job' and translates as job interview."
+    },
+    {
+      "id": "work-career-q28",
+      "prompt": "Fill in the blank: 'Ana je ___ jer je dobila unapređenje.' (Ana is ___ because she got a promotion.)",
+      "options": ["tužna", "umorna", "sretna", "bolesna"],
+      "correctIndex": 2,
+      "explanation": "**Sretna** means happy. Getting a promotion is a positive event, so **sretna** is the only logical choice."
+    },
+    {
+      "id": "work-career-q29",
+      "prompt": "What is the grammatical gender of the noun 'plaća' (salary)?",
+      "options": ["masculine", "feminine", "neuter", "It has no grammatical gender"],
+      "correctIndex": 1,
+      "explanation": "**Plaća** is a feminine noun — it ends in **-a**, which is the most common feminine ending in Croatian."
+    },
+    {
+      "id": "work-career-q30",
+      "prompt": "Which phrase means 'Where do you see yourself in five years?'",
+      "options": [
+        "Koje su vaše prednosti?",
+        "Gdje vidite sebe za pet godina?",
+        "Mogu li se predstaviti?",
+        "Kolika je vaša plaća?"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Gdje vidite sebe za pet godina?** is a classic job interview question meaning 'Where do you see yourself in five years?'"
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Workplace vocabulary",
+      "items": [
+        { "hr": "ured", "en": "office", "note": "masculine noun" },
+        { "hr": "tvrtka", "en": "company", "note": "feminine noun" },
+        { "hr": "poduzeće", "en": "company / enterprise", "note": "neuter noun" },
+        { "hr": "odjel", "en": "department", "note": "masculine noun" },
+        { "hr": "sastanak", "en": "meeting", "note": "masculine noun" },
+        { "hr": "projekt", "en": "project", "note": "masculine noun" },
+        { "hr": "rok", "en": "deadline", "note": "masculine noun" },
+        { "hr": "plaća", "en": "salary", "note": "feminine noun" },
+        { "hr": "ugovor", "en": "contract", "note": "masculine noun" },
+        { "hr": "radno mjesto", "en": "job position", "note": "neuter noun phrase" },
+        { "hr": "životopis", "en": "CV / résumé", "note": "masculine noun" },
+        { "hr": "natječaj", "en": "job advertisement", "note": "masculine noun" },
+        { "hr": "razgovor za posao", "en": "job interview", "note": "masculine noun phrase" }
+      ]
+    },
+    {
+      "context": "Job interview phrases",
+      "items": [
+        { "hr": "Mogu li se predstaviti?", "en": "May I introduce myself?" },
+        { "hr": "Koje su vaše prednosti?", "en": "What are your strengths?" },
+        { "hr": "Gdje vidite sebe za pet godina?", "en": "Where do you see yourself in five years?" },
+        { "hr": "Imam X godina iskustva u...", "en": "I have X years of experience in..." },
+        { "hr": "Moja slabost je...", "en": "My weakness is..." },
+        { "hr": "Zašto se prijavljujete na ovo radno mjesto?", "en": "Why are you applying for this position?" },
+        { "hr": "Imam iskustva u radu s timovima.", "en": "I have experience working in teams." }
+      ]
+    },
+    {
+      "context": "Work verbs (zaposliti se / dati otkaz...)",
+      "items": [
+        { "hr": "zaposliti se", "en": "to get a job", "note": "reflexive verb" },
+        { "hr": "dati otkaz", "en": "to quit", "note": "literally: to give notice" },
+        { "hr": "dobiti otkaz", "en": "to be fired", "note": "literally: to receive notice" },
+        { "hr": "unaprijediti", "en": "to promote", "note": "perfective verb" },
+        { "hr": "poslovati", "en": "to do business", "note": "imperfective verb" },
+        { "hr": "pregovarati", "en": "to negotiate", "note": "imperfective verb" },
+        { "hr": "potpisati ugovor", "en": "to sign a contract" }
+      ]
+    },
+    {
+      "context": "Formal register at work",
+      "items": [
+        { "hr": "Vi (capital V)", "en": "formal you (addressing one person)", "note": "used with bosses, clients, interviewers" },
+        { "hr": "Biste li mogli...?", "en": "Could you please...?", "note": "polite request form" },
+        { "hr": "Zahvaljujem", "en": "I thank you (formal)", "note": "more formal than hvala" },
+        { "hr": "Molim Vas", "en": "Please / I ask you (formal)", "note": "formal please" },
+        { "hr": "S poštovanjem", "en": "With regards (formal closing)", "note": "used in formal emails and letters" },
+        { "hr": "Poštovani / Poštovana", "en": "Dear (formal address)", "note": "m. / f. form — used to open formal letters or emails" }
+      ]
+    },
+    {
+      "context": "Career & salary phrases",
+      "items": [
+        { "hr": "Kolika je plaća?", "en": "What is the salary?" },
+        { "hr": "Tražim veću plaću.", "en": "I am looking for a higher salary." },
+        { "hr": "Dobio / dobila sam unapređenje.", "en": "I got a promotion.", "note": "dobio (m.) / dobila (f.)" },
+        { "hr": "Radim puno radno vrijeme.", "en": "I work full-time.", "note": "puno radno vrijeme = full-time" },
+        { "hr": "Radim pola radnog vremena.", "en": "I work part-time.", "note": "pola radnog vremena = part-time" },
+        { "hr": "Tražim posao.", "en": "I am looking for a job." },
+        { "hr": "Moj životopis je ažuriran.", "en": "My CV is up to date." }
+      ]
+    }
+  ]
+}

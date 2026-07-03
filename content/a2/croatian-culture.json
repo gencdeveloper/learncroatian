@@ -1,0 +1,469 @@
+{
+  "id": "croatian-culture",
+  "level": "a2",
+  "order": 14,
+  "title": {
+    "en": "Croatian Traditions & Holidays",
+    "hr": "Hrvatske tradicije i blagdani"
+  },
+  "grammar": {
+    "title": {
+      "en": "Celebrating in Croatian: Key Constructions",
+      "hr": "Slavimo i čestitamo: ključne konstrukcije"
+    },
+    "intro": "Croatian has clear patterns for talking about holidays and celebrations.\n\n**Slavimo + accusative** says what you celebrate; **Čestitam** expresses congratulations or seasonal greetings.\n\nLearning the names of public holidays and their dates is essential vocabulary at A2 level.",
+    "rules": [
+      {
+        "label": "Public holidays — names and dates",
+        "explanation": "Key Croatian public holidays (**blagdani**):\n- **Nova godina** – New Year's Day (1. siječnja)\n- **Božić** – Christmas (25. prosinca)\n- **Uskrs** – Easter (promjenjiv datum — moveable date)\n- **Dan državnosti** – Statehood Day (30. svibnja)\n- **Svi Sveti** – All Saints' Day (1. studenog)\n\nTo ask the date: **Kad je...?** (When is...?)\nTo ask about customs: **Kako se slavi...?** (How is ... celebrated?)",
+        "examples": [
+          { "hr": "Kad je Uskrs ove godine?", "en": "When is Easter this year?" },
+          { "hr": "Božić je dvadeset i petog prosinca.", "en": "Christmas is on the 25th of December." },
+          { "hr": "Kako se slavi Svi Sveti u Hrvatskoj?", "en": "How is All Saints' Day celebrated in Croatia?" }
+        ]
+      },
+      {
+        "label": "Slavimo + accusative — 'We celebrate'",
+        "explanation": "Use **slavimo** (we celebrate) or **slaviti** (to celebrate) followed by the accusative case of the holiday.\n\nFor most masculine nouns the accusative equals the nominative.\nFor feminine nouns like **Nova godina** → accusative **Novu godinu**.",
+        "examples": [
+          { "hr": "Slavimo Božić s obitelji.", "en": "We celebrate Christmas with our family." },
+          { "hr": "Slavimo Novu godinu s prijateljima.", "en": "We celebrate New Year's with friends." },
+          { "hr": "Oni slave Uskrs u crkvi.", "en": "They celebrate Easter at church." }
+        ]
+      },
+      {
+        "label": "Čestitam — greetings and congratulations",
+        "explanation": "**Čestitam** means 'I congratulate' or 'I wish you a happy...'.\n\n- **Čestitam + accusative**: used with the holiday name.\n- **Čestitam + dative person + accusative holiday**: adds the person you're greeting.\n- Common festive expressions: **Sretan Božić!** and **Sretna Nova godina!**",
+        "examples": [
+          { "hr": "Čestitam Božić!", "en": "Merry Christmas! (I wish you a happy Christmas!)" },
+          { "hr": "Čestitam ti Božić!", "en": "I wish you a Merry Christmas! (lit. I congratulate you on Christmas!)" },
+          { "hr": "Sretan Uskrs svima!", "en": "Happy Easter to everyone!" }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Holiday (hr)", "Holiday (en)", "Date", "Key tradition / food"],
+      "rows": [
+        ["Nova godina", "New Year's Day", "1. siječnja", "vatromet, slavlje do jutra (fireworks, all-night celebration)"],
+        ["Božić", "Christmas", "25. prosinca", "sarma, fritule, makovnjača, ponoćna misa"],
+        ["Uskrs", "Easter", "promjenjiv (moveable)", "pisanice (decorated eggs), janjetina (lamb), šunka"],
+        ["Dan državnosti", "Statehood Day", "30. svibnja", "parade, svečanosti (ceremonies)"],
+        ["Svi Sveti", "All Saints' Day", "1. studenog", "posjeti grobljima, cvijeće i svijeće (cemetery visits, flowers and candles)"]
+      ]
+    }
+  },
+  "reading": {
+    "title": {
+      "en": "Marko Tells Ana About Croatian Traditions",
+      "hr": "Marko priča Ani o hrvatskim tradicijama"
+    },
+    "paragraphs": [
+      {
+        "hr": "Marko priča Ani o hrvatskim božićnim tradicijama i kaže da je Advent u Zagrebu jedan od najljepših u Europi.",
+        "en": "Marko tells Ana about Croatian Christmas traditions and says that the Advent market in Zagreb is one of the most beautiful in Europe."
+      },
+      {
+        "hr": "Na adventskom sajmu možeš kupiti fritule i piti kuhano vino — miris cimeta i naranče širi se cijelim trgom.",
+        "en": "At the Advent market you can buy fritule and drink mulled wine — the scent of cinnamon and orange spreads across the whole square."
+      },
+      {
+        "hr": "Na Badnjak mnogi idu na ponoćnu misu, a božićni ručak je poseban: na stolu su sarma, hladni naresci i puno slatkiša.",
+        "en": "On Christmas Eve many people go to midnight Mass, and the Christmas lunch is special: on the table there is sarma, cold cuts, and many sweets."
+      },
+      {
+        "hr": "Marko se sjeća bakine makovnjače i rozate iz djetinjstva. Kaže da je rozata dalmatinska verzija crème brûléea.",
+        "en": "Marko remembers his grandmother's makovnjača and rozata from his childhood. He says rozata is the Dalmatian version of crème brûlée."
+      },
+      {
+        "hr": "Ljeti su tradicije drugačije. Najpoznatija je Sinjska alka — viteška igra iz 18. stoljeća koja se održava svake godine u kolovozu u Sinju.",
+        "en": "In summer the traditions are different. The most famous is the Sinjska alka — a knightly game from the 18th century held every year in August in Sinj."
+      },
+      {
+        "hr": "Navečer se šeta po Rivi u Splitu ili po rivi u drugim dalmatinskim gradovima. Marko kaže Ani: 'Moraš doći ljeti — to je čarobno!'",
+        "en": "In the evenings people stroll along the Riva in Split or along the waterfront in other Dalmatian towns. Marko tells Ana: 'You must come in summer — it is magical!'"
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "croatian-culture-q1",
+      "prompt": "What does Marko say about the Advent market in Zagreb?",
+      "promptHr": "Što Marko kaže o adventskom sajmu u Zagrebu?",
+      "options": [
+        "He says it is the biggest market in the world.",
+        "He says it is one of the most beautiful in Europe.",
+        "He says it is only open on Christmas Day.",
+        "He says it was recently cancelled."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Advent u Zagrebu je jedan od najljepših u Europi.' — one of the most beautiful in Europe."
+    },
+    {
+      "id": "croatian-culture-q2",
+      "prompt": "What can you buy and drink at the Advent market?",
+      "promptHr": "Što možeš kupiti i piti na adventskom sajmu?",
+      "options": [
+        "Sarma and red wine.",
+        "Makovnjača and rakija.",
+        "Fritule and mulled wine.",
+        "Rozata and coffee."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Možeš kupiti fritule i piti kuhano vino.' — You can buy fritule and drink mulled wine."
+    },
+    {
+      "id": "croatian-culture-q3",
+      "prompt": "What is on the Christmas lunch table according to the text?",
+      "promptHr": "Što je na božićnom stolu prema tekstu?",
+      "options": [
+        "Fritule, mulled wine, and makovnjača.",
+        "Sarma, cold cuts, and many sweets.",
+        "Rozata, lamb, and decorated eggs.",
+        "Pizza, salad, and ice cream."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Na stolu su sarma, hladni naresci i puno slatkiša.' — sarma, cold cuts, and many sweets."
+    },
+    {
+      "id": "croatian-culture-q4",
+      "prompt": "What is the Sinjska alka?",
+      "promptHr": "Što je Sinjska alka?",
+      "options": [
+        "A Christmas pastry from Sinj.",
+        "A Dalmatian dessert similar to crème brûlée.",
+        "A knightly game from the 18th century held every year in August.",
+        "An Advent market held in Sinj each December."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Sinjska alka — viteška igra iz 18. stoljeća koja se održava svake godine u kolovozu.' — A knightly game from the 18th century held every August."
+    },
+    {
+      "id": "croatian-culture-q5",
+      "prompt": "What does Marko tell Ana she must do?",
+      "promptHr": "Što Marko govori Ani da mora učiniti?",
+      "options": [
+        "She must try sarma at Christmas.",
+        "She must come in summer because it is magical.",
+        "She must visit the Advent market in December.",
+        "She must learn about Sinjska alka."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Moraš doći ljeti — to je čarobno!' — Marko tells Ana she must come in summer because it is magical."
+    }
+  ],
+  "test": [
+    {
+      "id": "croatian-culture-q6",
+      "prompt": "What is 'Nova godina' in English?",
+      "options": ["Christmas", "Easter", "New Year's Day", "All Saints' Day"],
+      "correctIndex": 2,
+      "explanation": "**Nova godina** = New Year's Day (1st of January)."
+    },
+    {
+      "id": "croatian-culture-q7",
+      "prompt": "When is Božić celebrated in Croatia?",
+      "options": ["1. siječnja", "30. svibnja", "25. prosinca", "1. studenog"],
+      "correctIndex": 2,
+      "explanation": "**Božić** (Christmas) is celebrated on 25. prosinca (December 25th)."
+    },
+    {
+      "id": "croatian-culture-q8",
+      "prompt": "What is the Croatian word for Christmas?",
+      "options": ["Uskrs", "Božić", "Fašnik", "Dan državnosti"],
+      "correctIndex": 1,
+      "explanation": "**Božić** = Christmas."
+    },
+    {
+      "id": "croatian-culture-q9",
+      "prompt": "Fill in: 'Slavimo ___ s obitelji.' (We celebrate Christmas with our family.)",
+      "options": ["Božića", "Božić", "Uskrsa", "Novom godinom"],
+      "correctIndex": 1,
+      "explanation": "**Slaviti + accusative**: 'Slavimo Božić s obitelji.' — Božić (masculine inanimate) stays the same in accusative."
+    },
+    {
+      "id": "croatian-culture-q10",
+      "prompt": "What does 'Čestitam Uskrs!' mean?",
+      "options": [
+        "When is Easter?",
+        "How is Easter celebrated?",
+        "Happy Easter! / I wish you a Happy Easter!",
+        "We celebrate Easter."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Čestitam Uskrs!' = Happy Easter! / I wish you a Happy Easter!"
+    },
+    {
+      "id": "croatian-culture-q11",
+      "prompt": "When is 'Svi Sveti' (All Saints' Day)?",
+      "options": ["25. prosinca", "1. siječnja", "30. svibnja", "1. studenog"],
+      "correctIndex": 3,
+      "explanation": "**Svi Sveti** is on 1. studenog (November 1st)."
+    },
+    {
+      "id": "croatian-culture-q12",
+      "prompt": "What are 'fritule'?",
+      "options": [
+        "A Dalmatian dessert similar to crème brûlée.",
+        "Small fried pastries, often served at Advent markets.",
+        "Cabbage rolls stuffed with meat and rice.",
+        "A poppy seed roll eaten at Christmas."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Fritule** are small fried pastries — a popular treat at Croatian Advent markets and winter festivities."
+    },
+    {
+      "id": "croatian-culture-q13",
+      "prompt": "What is 'sarma'?",
+      "options": [
+        "A type of mulled wine.",
+        "A knightly tournament.",
+        "Cabbage rolls stuffed with minced meat and rice.",
+        "A sweet poppy seed pastry."
+      ],
+      "correctIndex": 2,
+      "explanation": "**Sarma** = cabbage rolls stuffed with minced meat and rice — a classic Croatian Christmas dish."
+    },
+    {
+      "id": "croatian-culture-q14",
+      "prompt": "Where does the Sinjska alka take place?",
+      "options": ["Zagreb", "Dubrovnik", "Sinj", "Split"],
+      "correctIndex": 2,
+      "explanation": "The **Sinjska alka** is a knightly tournament held every year in **Sinj**, a town in Dalmatia."
+    },
+    {
+      "id": "croatian-culture-q15",
+      "prompt": "When is Dan državnosti (Statehood Day)?",
+      "options": ["1. siječnja", "1. studenog", "25. prosinca", "30. svibnja"],
+      "correctIndex": 3,
+      "explanation": "**Dan državnosti** (Statehood Day) is on 30. svibnja (May 30th)."
+    },
+    {
+      "id": "croatian-culture-q16",
+      "prompt": "Translate: 'Slavimo Novu godinu s prijateljima.'",
+      "options": [
+        "We celebrate Christmas with friends.",
+        "We celebrate New Year's with friends.",
+        "We remember New Year's with friends.",
+        "We hope for a New Year with friends."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Slavimo Novu godinu s prijateljima.' = We celebrate New Year's with friends."
+    },
+    {
+      "id": "croatian-culture-q17",
+      "prompt": "What is 'kuhano vino'?",
+      "options": ["Cold beer", "Mulled wine", "Grape juice", "Fruit tea"],
+      "correctIndex": 1,
+      "explanation": "**Kuhano vino** = mulled wine (lit. cooked/boiled wine) — a popular drink at Croatian Advent markets."
+    },
+    {
+      "id": "croatian-culture-q18",
+      "prompt": "What is the Zagreb Advent market known for according to the lesson?",
+      "options": [
+        "Being the largest market in the world.",
+        "Being open every day of the year.",
+        "Being one of the most beautiful in Europe.",
+        "Being held in summer."
+      ],
+      "correctIndex": 2,
+      "explanation": "The Zagreb Advent market is celebrated as one of the most beautiful in Europe."
+    },
+    {
+      "id": "croatian-culture-q19",
+      "prompt": "Fill in: '___ ti Božić!' (I wish you a Merry Christmas!)",
+      "options": ["Slavimo", "Čestitam", "Nadam se", "Volim"],
+      "correctIndex": 1,
+      "explanation": "'**Čestitam** ti Božić!' = I wish you a Merry Christmas! — Čestitam + dative person + accusative holiday."
+    },
+    {
+      "id": "croatian-culture-q20",
+      "prompt": "What is 'makovnjača'?",
+      "options": [
+        "A Dalmatian custard dessert.",
+        "A type of mulled wine with poppy seeds.",
+        "A poppy seed roll.",
+        "Fried small doughnuts."
+      ],
+      "correctIndex": 2,
+      "explanation": "**Makovnjača** = a poppy seed roll — a traditional Croatian pastry, especially enjoyed at Christmas."
+    },
+    {
+      "id": "croatian-culture-q21",
+      "prompt": "How do you ask 'When is Easter this year?' in Croatian?",
+      "options": [
+        "Gdje je Uskrs ove godine?",
+        "Kad je Uskrs ove godine?",
+        "Kako se slavi Uskrs ove godine?",
+        "Što je Uskrs ove godine?"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Kad je...?** = When is...? → 'Kad je Uskrs ove godine?' = When is Easter this year?"
+    },
+    {
+      "id": "croatian-culture-q22",
+      "prompt": "What is 'fašnik' in Croatia?",
+      "options": [
+        "A type of Christmas pudding.",
+        "The Croatian carnival / Mardi Gras celebration.",
+        "A summer music festival.",
+        "A religious procession at Easter."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Fašnik** (also called **karneval**) is the Croatian carnival season, similar to Mardi Gras, celebrated before Lent."
+    },
+    {
+      "id": "croatian-culture-q23",
+      "prompt": "What is 'rozata'?",
+      "options": [
+        "A type of mulled wine from Zagreb.",
+        "A poppy seed pastry from Sinj.",
+        "A Dalmatian custard pudding, similar to crème brûlée.",
+        "Fried pastries eaten at Advent."
+      ],
+      "correctIndex": 2,
+      "explanation": "**Rozata** is a traditional Dalmatian custard pudding, similar to crème brûlée."
+    },
+    {
+      "id": "croatian-culture-q24",
+      "prompt": "Translate: 'Kad je Uskrs ove godine?'",
+      "options": [
+        "How do we celebrate Easter this year?",
+        "Where is Easter celebrated this year?",
+        "When is Easter this year?",
+        "What is Easter called this year?"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Kad je Uskrs ove godine?' = When is Easter this year?"
+    },
+    {
+      "id": "croatian-culture-q25",
+      "prompt": "Which sentence uses 'Slavimo' correctly?",
+      "options": [
+        "Slavimo s Božića.",
+        "Slavimo u Božić.",
+        "Slavimo Božić.",
+        "Slavimo o Božić."
+      ],
+      "correctIndex": 2,
+      "explanation": "**Slavimo + accusative**: 'Slavimo Božić.' — the holiday is in the accusative case directly after the verb."
+    },
+    {
+      "id": "croatian-culture-q26",
+      "prompt": "What tradition is associated with Good Friday (Veliki petak) in Hvar?",
+      "options": [
+        "A fireworks display over the sea.",
+        "A carnival parade with masks.",
+        "A solemn religious procession.",
+        "A knightly tournament in the town square."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hvar is famous for its solemn **procesija** (religious procession) on Veliki petak (Good Friday) — a UNESCO-listed tradition."
+    },
+    {
+      "id": "croatian-culture-q27",
+      "prompt": "What does 'Čestitam ti Božić!' mean?",
+      "options": [
+        "We celebrate Christmas together!",
+        "I wish you a Merry Christmas!",
+        "Merry Christmas, everyone!",
+        "How do you celebrate Christmas?"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Čestitam ti Božić!' = I wish you a Merry Christmas! — **ti** is the dative of 'you' (singular informal)."
+    },
+    {
+      "id": "croatian-culture-q28",
+      "prompt": "How do you ask 'How is Christmas celebrated?' in Croatian?",
+      "options": [
+        "Kad se slavi Božić?",
+        "Gdje se slavi Božić?",
+        "Kako se slavi Božić?",
+        "Zašto se slavi Božić?"
+      ],
+      "correctIndex": 2,
+      "explanation": "**Kako se slavi...?** = How is ... celebrated? → 'Kako se slavi Božić?'"
+    },
+    {
+      "id": "croatian-culture-q29",
+      "prompt": "What are 'hladni naresci'?",
+      "options": [
+        "Hot Christmas pastries.",
+        "Cold cuts (sliced cured meats).",
+        "Mulled wine spices.",
+        "Decorated Easter eggs."
+      ],
+      "correctIndex": 1,
+      "explanation": "**Hladni naresci** = cold cuts — sliced cured meats served as part of the Croatian Christmas table."
+    },
+    {
+      "id": "croatian-culture-q30",
+      "prompt": "Translate: 'We celebrate Easter with our family.'",
+      "options": [
+        "Slavimo Božić s obitelji.",
+        "Slavimo Novu godinu s obitelji.",
+        "Slavimo Uskrs s obitelji.",
+        "Slavimo Dan državnosti s obitelji."
+      ],
+      "correctIndex": 2,
+      "explanation": "'We celebrate Easter with our family.' = 'Slavimo Uskrs s obitelji.'"
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Public holidays",
+      "items": [
+        { "hr": "Nova godina", "en": "New Year's Day", "note": "1. siječnja" },
+        { "hr": "Božić", "en": "Christmas", "note": "25. prosinca" },
+        { "hr": "Uskrs", "en": "Easter", "note": "promjenjiv datum — moveable date" },
+        { "hr": "Dan državnosti", "en": "Statehood Day", "note": "30. svibnja" },
+        { "hr": "Svi Sveti", "en": "All Saints' Day", "note": "1. studenog" },
+        { "hr": "blagdan", "en": "public holiday", "note": "plural: blagdani" },
+        { "hr": "Kad je...?", "en": "When is...?", "note": "used to ask about dates" }
+      ]
+    },
+    {
+      "context": "Christmas & Advent traditions",
+      "items": [
+        { "hr": "adventski sajam", "en": "Advent market", "note": "Zagreb is famous for its Advent market" },
+        { "hr": "kuhano vino", "en": "mulled wine", "note": "popular hot drink in winter" },
+        { "hr": "fritule", "en": "small fried pastries (similar to doughnuts)", "note": "sold at Advent markets" },
+        { "hr": "ponoćna misa", "en": "midnight Mass", "note": "attended on Badnjak (Christmas Eve)" },
+        { "hr": "Badnjak", "en": "Christmas Eve", "note": "24. prosinca" },
+        { "hr": "Sretan Božić!", "en": "Merry Christmas!", "note": "common festive greeting" }
+      ]
+    },
+    {
+      "context": "Easter & spring traditions",
+      "items": [
+        { "hr": "Uskrs", "en": "Easter", "note": "the most important Christian holiday in Croatia" },
+        { "hr": "pisanice", "en": "decorated Easter eggs", "note": "painted or decorated hard-boiled eggs" },
+        { "hr": "janjetina", "en": "roast lamb", "note": "traditional Easter food" },
+        { "hr": "Veliki petak", "en": "Good Friday", "note": "solemn procession in Hvar is UNESCO-listed" },
+        { "hr": "Sretan Uskrs!", "en": "Happy Easter!", "note": "common Easter greeting" },
+        { "hr": "fašnik / karneval", "en": "carnival / Mardi Gras", "note": "celebrated before Lent" }
+      ]
+    },
+    {
+      "context": "Summer festivals",
+      "items": [
+        { "hr": "Sinjska alka", "en": "Sinjska alka (knightly tournament)", "note": "held every August in Sinj, UNESCO-listed" },
+        { "hr": "festival", "en": "festival", "note": "many local summer festivals across Croatia" },
+        { "hr": "Riva", "en": "the Riva (waterfront promenade)", "note": "especially famous in Split" },
+        { "hr": "šetnja", "en": "a stroll / evening walk", "note": "šetati se = to stroll" },
+        { "hr": "ljetni blagdan", "en": "summer holiday / festival", "note": "ljetni = of summer" }
+      ]
+    },
+    {
+      "context": "Festive food & greetings",
+      "items": [
+        { "hr": "sarma", "en": "cabbage rolls (stuffed with meat and rice)", "note": "traditional Christmas dish" },
+        { "hr": "fritule", "en": "small fried pastries", "note": "Advent and Christmas treat" },
+        { "hr": "makovnjača", "en": "poppy seed roll", "note": "traditional Christmas pastry" },
+        { "hr": "hladni naresci", "en": "cold cuts", "note": "sliced cured meats" },
+        { "hr": "rozata", "en": "Dalmatian custard pudding", "note": "similar to crème brûlée" },
+        { "hr": "Čestitam Božić!", "en": "Merry Christmas! (I wish you a happy Christmas!)", "note": "Čestitam + accusative" },
+        { "hr": "Čestitam ti Božić!", "en": "I wish you a Merry Christmas!", "note": "Čestitam + dative person + accusative" }
+      ]
+    }
+  ]
+}

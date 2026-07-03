@@ -1,0 +1,365 @@
+{
+  "id": "greetings",
+  "level": "a1",
+  "order": 1,
+  "title": { "en": "Greetings & Introductions", "hr": "Pozdravi i predstavljanje" },
+  "grammar": {
+    "title": { "en": "Croatian Greetings and Introductions", "hr": "Hrvatski pozdravi i predstavljanje" },
+    "intro": "Croatian has two registers:\n\n- **Formal** – used with strangers, elders, and professional settings.\n- **Informal** – used with friends, family, and peers.\n\nGreetings change depending on the **time of day**.\n\nEssential question words:\n\n- **kako** – how\n- **što** – what\n- **odakle** – where from",
+    "rules": [
+      {
+        "label": "Formal greetings by time of day",
+        "explanation": "Use **formal** greetings with strangers, elders, and in professional settings.\n\nGreetings change by time of day.\n\nThe formal 'you' is **vi** (written **Vi** when addressing one person formally). Verbs use the second-person plural:\n\n- **Kako se zovete?** (formal) vs. **Kako se zoveš?** (informal)",
+        "examples": [
+          { "hr": "Dobro jutro, gospodine!", "en": "Good morning, sir!" },
+          { "hr": "Dobar dan, kako ste?", "en": "Good afternoon, how are you?" },
+          { "hr": "Dobra večer, drago mi je.", "en": "Good evening, nice to meet you." }
+        ]
+      },
+      {
+        "label": "Informal greetings",
+        "explanation": "Use **informal** greetings with friends, family, classmates, or peers.\n\n- **Bok** – the most common informal greeting; also means goodbye.\n- **Zdravo** – friendly hello, any time of day.\n- **Cao** – borrowed from Italian 'ciao'; popular among younger speakers.",
+        "examples": [
+          { "hr": "Bok, kako si?", "en": "Hi, how are you?" },
+          { "hr": "Zdravo! Što ima?", "en": "Hello! What's up?" },
+          { "hr": "Cao, vidimo se!", "en": "Bye, see you!" }
+        ]
+      },
+      {
+        "label": "Introducing yourself: Ja sam / Zovem se",
+        "explanation": "Three ways to introduce yourself:\n\n- **Ja sam...** – 'I am...' — followed by your name or description.\n- **Zovem se...** – 'My name is...' (literally 'I call myself...') — equally natural.\n- **Moje ime je...** – slightly more formal; less common in everyday speech.",
+        "examples": [
+          { "hr": "Ja sam Ana. Drago mi je.", "en": "I am Ana. Nice to meet you." },
+          { "hr": "Zovem se Marko. Odakle si?", "en": "My name is Marko. Where are you from?" },
+          { "hr": "Moje ime je Luka.", "en": "My name is Luka." }
+        ]
+      },
+      {
+        "label": "Key question words: kako, što, odakle",
+        "explanation": "Three essential question words:\n\n- **kako** – how (also 'what' when asking names: **Kako se zoveš?** = What is your name?)\n- **što** – what\n- **odakle** – from where (**Odakle si?** = Where are you from?)",
+        "examples": [
+          { "hr": "Kako se zoveš?", "en": "What is your name? (informal)" },
+          { "hr": "Odakle si?", "en": "Where are you from? (informal)" },
+          { "hr": "Što radiš?", "en": "What do you do? / What are you doing?" }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Time of Day", "Formal Croatian", "Informal Croatian", "English"],
+      "rows": [
+        ["Morning (6:00–12:00)", "Dobro jutro", "Bok / Zdravo", "Good morning"],
+        ["Afternoon (12:00–18:00)", "Dobar dan", "Bok / Cao", "Good afternoon"],
+        ["Evening (18:00–22:00)", "Dobra večer", "Bok / Zdravo", "Good evening"],
+        ["Night / Bedtime", "Laku noć", "Laku noć", "Good night"],
+        ["Farewell (any time)", "Doviđenja / Zbogom", "Bok / Cao / Pa bok", "Goodbye / Bye"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "First Meeting in Zagreb", "hr": "Prvo upoznavanje u Zagrebu" },
+    "paragraphs": [
+      {
+        "hr": "Ana je turistkinja iz Engleske. Danas je u Zagrebu po prvi put. Jutro je vedro i sunčano. Ana sjedi u kafiću na Trgu bana Jelačića i pije kavu. Gleda ljude i uživava u gradu.",
+        "en": "Ana is a tourist from England. Today she is in Zagreb for the first time. The morning is clear and sunny. Ana is sitting in a café on Ban Jelačić Square, drinking coffee. She watches the people and enjoys the city."
+      },
+      {
+        "hr": "Marko je Zagrepčanin. On svaki dan dolazi u taj kafić. Vidi Anu i primjećuje da je stranac. Pristojno joj se obraća i kaže: 'Dobro jutro! Jeste li novi u gradu?'",
+        "en": "Marko is a man from Zagreb. He comes to that café every day. He sees Ana and notices she is a foreigner. He addresses her politely and says: 'Good morning! Are you new in the city?'"
+      },
+      {
+        "hr": "Ana se smije i odgovara: 'Dobro jutro! Da, ja sam turistkinja. Zovem se Ana. A Vi, odakle ste?' Marko odgovara: 'Ja sam Marko. Ja sam iz Zagreba. Drago mi je, Ana!'",
+        "en": "Ana smiles and answers: 'Good morning! Yes, I am a tourist. My name is Ana. And you, where are you from?' Marko answers: 'I am Marko. I am from Zagreb. Nice to meet you, Ana!'"
+      },
+      {
+        "hr": "Ana kaže: 'Drago mi je, Marko. Ja sam iz Londona, iz Engleske. Govorim malo hrvatski.' Marko je iznenađen i veseo. 'Odlično! Vaš je hrvatski zaista dobar!' Ana se zahvali: 'Hvala lijepo!'",
+        "en": "Ana says: 'Nice to meet you, Marko. I am from London, in England. I speak a little Croatian.' Marko is surprised and cheerful. 'Excellent! Your Croatian is really good!' Ana thanks him: 'Thank you very much!'"
+      },
+      {
+        "hr": "Marko pita: 'Što radite ovdje u Zagrebu?' Ana odgovara: 'Ja sam studentica. Učim hrvatski na sveučilištu u Londonu. Zagreb je moj prvi posjet Hrvatskoj.'",
+        "en": "Marko asks: 'What do you do here in Zagreb?' Ana answers: 'I am a student. I study Croatian at the university in London. Zagreb is my first visit to Croatia.'"
+      },
+      {
+        "hr": "Popodne, Marko pokazuje Ani grad. Posjećuju Gornji grad i katedralu. Na kraju dana, Ana kaže: 'Hvala lijepo, Marko! Doviđenja!' Marko odgovara: 'Nema na čemu! Doviđenja, Ana. Uživajte u Zagrebu!'",
+        "en": "In the afternoon, Marko shows Ana the city. They visit the Upper Town and the cathedral. At the end of the day, Ana says: 'Thank you very much, Marko! Goodbye!' Marko replies: 'Don't mention it! Goodbye, Ana. Enjoy Zagreb!'"
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "greetings-q1",
+      "prompt": "Where is Ana from?",
+      "options": ["Zagreb", "Split", "England", "America"],
+      "correctIndex": 2,
+      "explanation": "The passage states 'Ana je turistkinja iz Engleske' (Ana is a tourist from England), and she later says 'Ja sam iz Londona, iz Engleske' (I am from London, in England)."
+    },
+    {
+      "id": "greetings-q2",
+      "prompt": "Where is Marko from?",
+      "options": ["London", "Split", "Dubrovnik", "Zagreb"],
+      "correctIndex": 3,
+      "explanation": "Marko says 'Ja sam iz Zagreba' (I am from Zagreb), and the text describes him as 'Zagrepčanin' (a man from Zagreb)."
+    },
+    {
+      "id": "greetings-q3",
+      "prompt": "Which greeting does Marko use when he first speaks to Ana?",
+      "options": ["Dobar dan", "Bok", "Dobro jutro", "Dobra večer"],
+      "correctIndex": 2,
+      "explanation": "Marko says 'Dobro jutro!' (Good morning!) because the scene takes place in the morning — Ana is drinking her morning coffee at the café."
+    },
+    {
+      "id": "greetings-q4",
+      "prompt": "What subject does Ana say she studies at university?",
+      "options": ["English", "German", "Croatian", "History"],
+      "correctIndex": 2,
+      "explanation": "Ana says 'Učim hrvatski na sveučilištu u Londonu' (I study Croatian at the university in London)."
+    },
+    {
+      "id": "greetings-q5",
+      "prompt": "How does Ana say goodbye to Marko at the end of the day?",
+      "options": ["Bok", "Cao", "Zbogom", "Doviđenja"],
+      "correctIndex": 3,
+      "explanation": "Ana says 'Doviđenja!' which is the standard formal Croatian farewell, equivalent to 'Goodbye!'"
+    }
+  ],
+  "test": [
+    {
+      "id": "greetings-q6",
+      "prompt": "What does 'Dobar dan' mean?",
+      "options": ["Good morning", "Good night", "Good afternoon", "Good evening"],
+      "correctIndex": 2,
+      "explanation": "'Dobar dan' literally means 'good day' and is used as the formal daytime greeting, equivalent to 'Good afternoon'."
+    },
+    {
+      "id": "greetings-q7",
+      "prompt": "Which greeting can be used informally both as hello AND goodbye?",
+      "options": ["Dobar dan", "Bok", "Dobro jutro", "Laku noć"],
+      "correctIndex": 1,
+      "explanation": "'Bok' is the most versatile informal Croatian word — it means both 'hi' and 'bye' and can be used at any time of day."
+    },
+    {
+      "id": "greetings-q8",
+      "prompt": "What does 'Kako se zoveš?' mean?",
+      "options": ["How are you?", "Where are you from?", "What is your name?", "How old are you?"],
+      "correctIndex": 2,
+      "explanation": "'Kako se zoveš?' literally means 'How do you call yourself?' and is the standard informal way to ask someone's name."
+    },
+    {
+      "id": "greetings-q9",
+      "prompt": "How do you say 'My name is...' in Croatian?",
+      "options": ["Ja imam...", "Zovem se...", "Odakle si...", "Kako se..."],
+      "correctIndex": 1,
+      "explanation": "'Zovem se...' (literally 'I call myself...') is the most natural and common way to state your name in Croatian."
+    },
+    {
+      "id": "greetings-q10",
+      "prompt": "What does 'Odakle si?' mean?",
+      "options": ["How old are you?", "What do you do?", "Where are you from?", "How are you?"],
+      "correctIndex": 2,
+      "explanation": "'Odakle si?' means 'Where are you from?' — 'odakle' means 'from where' and 'si' is the informal second-person singular of 'to be'."
+    },
+    {
+      "id": "greetings-q11",
+      "prompt": "Which greeting is appropriate in the evening?",
+      "options": ["Dobro jutro", "Dobar dan", "Laku noć", "Dobra večer"],
+      "correctIndex": 3,
+      "explanation": "'Dobra večer' means 'Good evening' and is used from around 6 PM onward. 'Laku noć' is specifically for bedtime."
+    },
+    {
+      "id": "greetings-q12",
+      "prompt": "What does 'Dobro jutro' mean?",
+      "options": ["Good morning", "Good afternoon", "Good evening", "Good night"],
+      "correctIndex": 0,
+      "explanation": "'Dobro jutro' means 'Good morning' — 'jutro' means morning. It is used until about noon."
+    },
+    {
+      "id": "greetings-q13",
+      "prompt": "How do you say 'Goodbye' formally in Croatian?",
+      "options": ["Bok", "Cao", "Doviđenja", "Hvala"],
+      "correctIndex": 2,
+      "explanation": "'Doviđenja' is the standard formal farewell in Croatian, literally meaning 'Until we see each other again'."
+    },
+    {
+      "id": "greetings-q14",
+      "prompt": "What does 'Hvala' mean?",
+      "options": ["Please", "Sorry", "Hello", "Thank you"],
+      "correctIndex": 3,
+      "explanation": "'Hvala' means 'Thank you'. The fuller form 'Hvala lijepo' means 'Thank you very much' (literally 'Thank you nicely')."
+    },
+    {
+      "id": "greetings-q15",
+      "prompt": "How do you say 'I am from England' in Croatian?",
+      "options": ["Ja sam iz Engleske.", "Ja sam Engleski.", "Odakle sam Engleska.", "Ja govorim Engleski."],
+      "correctIndex": 0,
+      "explanation": "'Ja sam iz Engleske' = 'I am from England'. The word 'Engleska' (England) changes to 'Engleske' after 'iz' (from) because of the genitive case."
+    },
+    {
+      "id": "greetings-q16",
+      "prompt": "Which is the formal way to ask someone's name?",
+      "options": ["Kako se zoveš?", "Kako se zovete?", "Što je tvoje ime?", "Tko si ti?"],
+      "correctIndex": 1,
+      "explanation": "'Kako se zovete?' uses the formal 'vi' form. 'Kako se zoveš?' is the informal version using 'ti'."
+    },
+    {
+      "id": "greetings-q17",
+      "prompt": "What does 'Molim' mean?",
+      "options": ["Thank you", "Please / You're welcome", "Sorry", "Excuse me"],
+      "correctIndex": 1,
+      "explanation": "'Molim' serves double duty: it means 'please' when making a request and 'you're welcome' when responding to thanks. 'Molim vas' adds formality."
+    },
+    {
+      "id": "greetings-q18",
+      "prompt": "What does 'Ja sam studentica' mean?",
+      "options": ["I am a student (female).", "I have a student.", "I like studying.", "I study here."],
+      "correctIndex": 0,
+      "explanation": "'Ja sam' = 'I am'. 'Studentica' is the feminine form of 'student', so this means 'I am a student' said by a woman."
+    },
+    {
+      "id": "greetings-q19",
+      "prompt": "What does 'Drago mi je' mean?",
+      "options": ["Goodbye", "Thank you", "Nice to meet you", "How are you?"],
+      "correctIndex": 2,
+      "explanation": "'Drago mi je' literally means 'It is dear to me' and is the standard phrase for 'Nice to meet you' when being introduced."
+    },
+    {
+      "id": "greetings-q20",
+      "prompt": "What does 'Oprostite' mean?",
+      "options": ["Thank you", "Please", "Excuse me / Sorry", "Goodbye"],
+      "correctIndex": 2,
+      "explanation": "'Oprostite' is the formal way to say 'Excuse me' or 'I'm sorry'. The informal version is 'Oprosti'."
+    },
+    {
+      "id": "greetings-q21",
+      "prompt": "You are meeting your new boss for the first time. Which greeting is most appropriate?",
+      "options": ["Bok", "Zdravo", "Cao", "Dobar dan"],
+      "correctIndex": 3,
+      "explanation": "'Dobar dan' (Good afternoon/Good day) is the appropriate formal greeting for a professional or new acquaintance context."
+    },
+    {
+      "id": "greetings-q22",
+      "prompt": "What question word means 'how' in Croatian?",
+      "options": ["što", "tko", "kako", "gdje"],
+      "correctIndex": 2,
+      "explanation": "'Kako' means 'how'. The other words: 'što' = what, 'tko' = who, 'gdje' = where."
+    },
+    {
+      "id": "greetings-q23",
+      "prompt": "How do you ask 'Do you speak English?' formally in Croatian?",
+      "options": ["Govorite li engleski?", "Razumijete engleski?", "Znate engleski?", "Učite engleski?"],
+      "correctIndex": 0,
+      "explanation": "'Govorite li engleski?' is the standard formal question. The particle 'li' signals a yes/no question. 'Govorite' is the formal 'you speak'."
+    },
+    {
+      "id": "greetings-q24",
+      "prompt": "What does 'Ja ne razumijem' mean?",
+      "options": ["I don't speak.", "I don't understand.", "I don't know.", "I don't like it."],
+      "correctIndex": 1,
+      "explanation": "'Razumijem' = 'I understand', so 'Ja ne razumijem' = 'I don't understand'. An essential phrase for any beginner!"
+    },
+    {
+      "id": "greetings-q25",
+      "prompt": "Fill in the blank: '_____ se zovete?' (formal — asking someone's name)",
+      "options": ["Tko", "Što", "Kako", "Gdje"],
+      "correctIndex": 2,
+      "explanation": "'Kako se zovete?' = 'What is your name?' (formal). 'Kako' means 'how/what' here, and 'se zovete' means 'you call yourself' in the formal register."
+    },
+    {
+      "id": "greetings-q26",
+      "prompt": "Which of these is NOT a farewell in Croatian?",
+      "options": ["Doviđenja", "Bok", "Zbogom", "Dobro jutro"],
+      "correctIndex": 3,
+      "explanation": "'Dobro jutro' means 'Good morning' — it is a greeting, not a farewell. All the others (Doviđenja, Bok, Zbogom) are ways to say goodbye."
+    },
+    {
+      "id": "greetings-q27",
+      "prompt": "'Odakle ste?' is the formal version of which question?",
+      "options": ["Što tražite?", "Kako ste?", "Odakle si?", "Gdje idete?"],
+      "correctIndex": 2,
+      "explanation": "'Odakle ste?' (formal) and 'Odakle si?' (informal) both mean 'Where are you from?' — 'ste' is the formal second-person plural form, 'si' is informal singular."
+    },
+    {
+      "id": "greetings-q28",
+      "prompt": "What does 'Govorim malo hrvatski' mean?",
+      "options": ["I speak Croatian fluently.", "I don't speak Croatian.", "I speak a little Croatian.", "I am learning Croatian."],
+      "correctIndex": 2,
+      "explanation": "'Govorim' = I speak, 'malo' = a little, 'hrvatski' = Croatian. The sentence means 'I speak a little Croatian' — perfect for describing beginner level."
+    },
+    {
+      "id": "greetings-q29",
+      "prompt": "How do you say 'Good night' in Croatian?",
+      "options": ["Dobra noć", "Laku noć", "Dobra večer", "Noćna pozdrava"],
+      "correctIndex": 1,
+      "explanation": "'Laku noć' means 'Good night' — literally 'easy night'. It is used when going to bed or parting late at night."
+    },
+    {
+      "id": "greetings-q30",
+      "prompt": "Which phrase means 'How are you?' informally?",
+      "options": ["Što radiš?", "Kako si?", "Odakle si?", "Tko si?"],
+      "correctIndex": 1,
+      "explanation": "'Kako si?' means 'How are you?' (informal). The formal version is 'Kako ste?' A common casual response is 'Dobro, hvala!' (Fine, thanks!)."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Formal greetings",
+      "items": [
+        { "hr": "Dobro jutro", "en": "Good morning", "note": "Used from wake-up until about noon" },
+        { "hr": "Dobar dan", "en": "Good afternoon / Good day", "note": "Used from noon to early evening; the most common formal greeting overall" },
+        { "hr": "Dobra večer", "en": "Good evening", "note": "Used from about 6 PM onward" },
+        { "hr": "Laku noć", "en": "Good night", "note": "Used at bedtime or when parting late at night" },
+        { "hr": "Kako ste?", "en": "How are you? (formal)", "note": "Use with strangers, elders, or in professional settings" },
+        { "hr": "Doviđenja", "en": "Goodbye (formal)", "note": "Literally 'Until we see each other again'; standard formal farewell" }
+      ]
+    },
+    {
+      "context": "Informal greetings",
+      "items": [
+        { "hr": "Bok", "en": "Hi / Bye", "note": "The most common informal Croatian word; works as both greeting and farewell at any hour" },
+        { "hr": "Zdravo", "en": "Hello / Hi", "note": "Friendly informal greeting, used any time of day" },
+        { "hr": "Cao", "en": "Hi / Bye", "note": "Borrowed from Italian 'ciao'; very common among young people" },
+        { "hr": "Kako si?", "en": "How are you? (informal)", "note": "Casual — use with friends and family; formal version is 'Kako ste?'" },
+        { "hr": "Što ima?", "en": "What's up?", "note": "Very casual, equivalent to 'What's new?' or 'How's things?'" },
+        { "hr": "Pa bok!", "en": "Well, bye!", "note": "A warm and casual way to say goodbye" }
+      ]
+    },
+    {
+      "context": "Introductions",
+      "items": [
+        { "hr": "Ja sam...", "en": "I am...", "note": "Followed directly by your name or a description of yourself" },
+        { "hr": "Zovem se...", "en": "My name is...", "note": "Literally 'I call myself...'; the most natural phrase in everyday speech" },
+        { "hr": "Moje ime je...", "en": "My name is...", "note": "'Ime' means 'name'; slightly more formal, less frequent in speech" },
+        { "hr": "Kako se zoveš?", "en": "What is your name? (informal)", "note": "Literally 'How do you call yourself?'; use with peers" },
+        { "hr": "Kako se zovete?", "en": "What is your name? (formal)", "note": "'Zovete' is the formal 'Vi' conjugation" },
+        { "hr": "Odakle si?", "en": "Where are you from? (informal)", "note": "'odakle' = from where; 'si' = informal you are" },
+        { "hr": "Odakle ste?", "en": "Where are you from? (formal)", "note": "Formal version using 'Vi'" },
+        { "hr": "Ja sam iz...", "en": "I am from...", "note": "Followed by a city or country; the noun takes the genitive case after 'iz'" },
+        { "hr": "Drago mi je.", "en": "Nice to meet you.", "note": "Literally 'It is dear to me'; the standard phrase when being introduced to someone" }
+      ]
+    },
+    {
+      "context": "Farewells",
+      "items": [
+        { "hr": "Doviđenja", "en": "Goodbye (formal)", "note": "Literally 'Until we see each other again'; safe in all formal situations" },
+        { "hr": "Zbogom", "en": "Farewell", "note": "More definitive than 'doviđenja'; implies a longer or final separation" },
+        { "hr": "Bok", "en": "Bye (informal)", "note": "Works equally well as hello and goodbye informally" },
+        { "hr": "Cao", "en": "Bye (informal)", "note": "Casual farewell, especially among young people" },
+        { "hr": "Laku noć", "en": "Good night", "note": "Used when parting at night or when someone is going to bed" },
+        { "hr": "Vidimo se!", "en": "See you!", "note": "Casual, implies you expect to meet again soon" },
+        { "hr": "Do sutra!", "en": "See you tomorrow!", "note": "'sutra' = tomorrow; 'do' = until" }
+      ]
+    },
+    {
+      "context": "Polite phrases",
+      "items": [
+        { "hr": "Hvala", "en": "Thank you", "note": "Short and everyday; the most common expression of thanks" },
+        { "hr": "Hvala lijepo", "en": "Thank you very much", "note": "Literally 'Thank you nicely'; more warm and emphatic" },
+        { "hr": "Molim", "en": "Please / You're welcome", "note": "'Molim vas' adds formality; used both when asking and when responding to 'hvala'" },
+        { "hr": "Oprostite", "en": "Excuse me / Sorry (formal)", "note": "Used to get someone's attention or to apologise formally" },
+        { "hr": "Oprosti", "en": "Sorry (informal)", "note": "Informal version of 'Oprostite'; use with friends and peers" },
+        { "hr": "Nema problema", "en": "No problem", "note": "A casual reassurance, borrowed feeling from English but fully natural in Croatian" },
+        { "hr": "Nema na čemu", "en": "Don't mention it / You're welcome", "note": "Literally 'There is nothing to thank for'; a warm response to thanks" },
+        { "hr": "Govorite li engleski?", "en": "Do you speak English? (formal)", "note": "The particle 'li' makes it a yes/no question; 'govorite' is formal 'you speak'" },
+        { "hr": "Ja ne razumijem.", "en": "I don't understand.", "note": "'Ne' = not; 'razumijem' = I understand. One of the most useful phrases for beginners" }
+      ]
+    }
+  ]
+}

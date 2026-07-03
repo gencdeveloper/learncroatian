@@ -1,0 +1,476 @@
+{
+  "id": "transport",
+  "level": "a1",
+  "order": 13,
+  "title": { "en": "Transport & Directions", "hr": "Prijevoz i smjerovi" },
+  "grammar": {
+    "title": { "en": "Getting Around – Grammar", "hr": "Kretanje gradom – Gramatika" },
+    "intro": "In Croatian, you say how you travel by putting the mode of transport in the instrumental case. Most masculine nouns add '-om' (after hard consonants) or '-em' (after soft consonants or j). This section also covers essential phrases for buying tickets, asking about departure times, and understanding directions.",
+    "rules": [
+      {
+        "label": "Instrumental case for modes of transport",
+        "explanation": "Use the instrumental case to say 'by [vehicle]'. For masculine nouns ending in a hard consonant, add '-om' (autobus → autobusom). For nouns ending in a soft consonant or 'j', add '-em' (tramvaj → tramvajem). 'Pješice' (on foot) is an adverb and does not change form.",
+        "examples": [
+          { "hr": "Idem autobusom.", "en": "I go by bus." },
+          { "hr": "Putujem vlakom.", "en": "I travel by train." },
+          { "hr": "Ona dolazi tramvajem.", "en": "She comes by tram." }
+        ]
+      },
+      {
+        "label": "Buying tickets – key phrases",
+        "explanation": "To buy a ticket, say 'Jednu kartu do [destination], molim.' The destination takes the genitive case after the preposition 'do'. 'Povratna karta' is a return (round-trip) ticket; 'jednosmjerna karta' is a one-way ticket. To ask the price, use 'Koliko košta...?'",
+        "examples": [
+          { "hr": "Jednu kartu do Splita, molim.", "en": "One ticket to Split, please." },
+          { "hr": "Koliko košta karta do Zadra?", "en": "How much does a ticket to Zadar cost?" },
+          { "hr": "Povratnu kartu, molim.", "en": "A return ticket, please." }
+        ]
+      },
+      {
+        "label": "Asking about transport schedules",
+        "explanation": "Use 'Gdje staje...?' to ask where a vehicle stops, and 'Kada polazi...?' to ask when it departs. 'Polazi' comes from 'polaziti' (to depart/set off); 'staje' comes from 'stajati' (to stop). The opposite of 'polazi' (departs) is 'dolazi' (arrives).",
+        "examples": [
+          { "hr": "Gdje staje autobus broj pet?", "en": "Where does bus number five stop?" },
+          { "hr": "Kada polazi sljedeći vlak za Zagreb?", "en": "When does the next train to Zagreb depart?" },
+          { "hr": "Koliko traje putovanje?", "en": "How long does the journey take?" }
+        ]
+      },
+      {
+        "label": "Asking for and giving directions",
+        "explanation": "To ask how to get somewhere, use 'Kako mogu doći do...?' followed by the genitive case ('doći do' + genitive). Direction commands use polite plural imperative verbs: 'Idite' (go), 'Skrenite' (turn), 'Prijeđite' (cross). These are appropriate for use with strangers.",
+        "examples": [
+          { "hr": "Kako mogu doći do hotela?", "en": "How can I get to the hotel?" },
+          { "hr": "Idite ravno, zatim skrenite lijevo.", "en": "Go straight, then turn left." },
+          { "hr": "Prijeđite ulicu na semaforu.", "en": "Cross the street at the traffic lights." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["English", "Croatian (nominative)", "Instrumental (by …)"],
+      "rows": [
+        ["bus", "autobus", "autobusom"],
+        ["tram", "tramvaj", "tramvajem"],
+        ["train", "vlak", "vlakom"],
+        ["ferry", "trajekt", "trajektom"],
+        ["plane", "avion", "avionom"],
+        ["taxi", "taksi", "taksijem"],
+        ["bicycle", "bicikl", "biciklom"],
+        ["car", "auto", "autom"],
+        ["on foot", "pješice", "(adverb – no case change)"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "Ana's Journey to Split", "hr": "Anino putovanje u Split" },
+    "paragraphs": [
+      {
+        "hr": "Ana živi u Zagrebu i želi posjetiti Split. Rano ujutro ide na autobusni kolodvor. Kolodvor je velik i pun putnika.",
+        "en": "Ana lives in Zagreb and wants to visit Split. Early in the morning she goes to the bus station. The station is large and full of passengers."
+      },
+      {
+        "hr": "Na blagajni Ana pita: 'Koliko košta karta do Splita?' Blagajnik odgovara: 'Jednosmjerna karta košta petnaest eura, a povratna karta košta trideset eura.' Ana kaže: 'Jednu povratnu kartu, molim.'",
+        "en": "At the ticket office Ana asks: 'How much does a ticket to Split cost?' The ticket clerk answers: 'A one-way ticket costs fifteen euros, and a return ticket costs thirty euros.' Ana says: 'One return ticket, please.'"
+      },
+      {
+        "hr": "'Kada polazi sljedeći autobus?' pita Ana. 'Polazi u deset sati', kaže blagajnik. 'S kojeg perona?' pita Ana. 'S perona broj tri', odgovara blagajnik.",
+        "en": "'When does the next bus depart?' asks Ana. 'It departs at ten o'clock,' says the clerk. 'From which platform?' asks Ana. 'From platform number three,' answers the clerk."
+      },
+      {
+        "hr": "Ana pronalazi peron broj tri i sjeda na klupi. Čeka dvadeset minuta. Autobus dolazi na vrijeme i Ana ulazi te sjeda na mjesto kraj prozora.",
+        "en": "Ana finds platform number three and sits on a bench. She waits twenty minutes. The bus arrives on time and Ana gets on and sits in her window seat."
+      },
+      {
+        "hr": "Putovanje iz Zagreba do Splita traje pet sati. Ana gleda kroz prozor i vidi zelene planine i lijepo plavo more. Stiže u Split popodne.",
+        "en": "The journey from Zagreb to Split takes five hours. Ana looks out the window and sees green mountains and the beautiful blue sea. She arrives in Split in the afternoon."
+      },
+      {
+        "hr": "U Splitu Ana pita lokalnog prolaznika: 'Oprostite, kako mogu doći do hotela Central?' Prolaznik odgovara: 'Idite ravno ovom ulicom, zatim skrenite desno na semaforu. Hotel je na lijevoj strani, otprilike pet minuta hoda.'",
+        "en": "In Split Ana asks a local passer-by: 'Excuse me, how can I get to Hotel Central?' The passer-by answers: 'Go straight along this street, then turn right at the traffic lights. The hotel is on the left side, about a five-minute walk.'"
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "transport-q1",
+      "prompt": "Why does Ana go to the bus station?",
+      "options": [
+        "To pick up a friend arriving from Split",
+        "Because she wants to visit Split",
+        "To buy a ticket to Dubrovnik",
+        "To meet a colleague for coffee"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says 'Ana živi u Zagrebu i želi posjetiti Split' (Ana lives in Zagreb and wants to visit Split), and she heads to the bus station to travel there."
+    },
+    {
+      "id": "transport-q2",
+      "prompt": "How much does a return ticket to Split cost?",
+      "options": [
+        "Fifteen euros",
+        "Twenty euros",
+        "Thirty euros",
+        "Forty-five euros"
+      ],
+      "correctIndex": 2,
+      "explanation": "The ticket clerk says 'povratna karta košta trideset eura' (a return ticket costs thirty euros). The one-way ticket costs fifteen euros."
+    },
+    {
+      "id": "transport-q3",
+      "prompt": "From which platform does Ana's bus depart?",
+      "options": [
+        "Platform one",
+        "Platform two",
+        "Platform four",
+        "Platform three"
+      ],
+      "correctIndex": 3,
+      "explanation": "The clerk says 'S perona broj tri' (From platform number three). Ana then finds platform three, sits on a bench and waits for the bus."
+    },
+    {
+      "id": "transport-q4",
+      "prompt": "How long does the journey from Zagreb to Split take?",
+      "options": [
+        "Three hours",
+        "Four hours",
+        "Five hours",
+        "Six hours"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text states 'Putovanje iz Zagreba do Splita traje pet sati' (The journey from Zagreb to Split takes five hours)."
+    },
+    {
+      "id": "transport-q5",
+      "prompt": "What directions does the local passer-by give Ana to Hotel Central?",
+      "options": [
+        "Turn left at the traffic lights, then cross the street",
+        "Go straight, then turn right at the traffic lights",
+        "Take the tram and get off at the main square",
+        "Cross the street and go straight for ten minutes"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passer-by says 'Idite ravno ovom ulicom, zatim skrenite desno na semaforu' (Go straight along this street, then turn right at the traffic lights). The hotel is then on the left."
+    }
+  ],
+  "test": [
+    {
+      "id": "transport-q6",
+      "prompt": "What does 'autobus' mean?",
+      "options": ["airplane", "bus", "train", "ferry"],
+      "correctIndex": 1,
+      "explanation": "'Autobus' is the Croatian word for bus. It shares the same Greek and Latin root as the English word."
+    },
+    {
+      "id": "transport-q7",
+      "prompt": "What does 'vlak' mean?",
+      "options": ["tram", "ferry", "train", "bicycle"],
+      "correctIndex": 2,
+      "explanation": "'Vlak' means train. It comes from the verb 'vući' (to pull), referring historically to a locomotive pulling carriages."
+    },
+    {
+      "id": "transport-q8",
+      "prompt": "What does 'tramvaj' mean?",
+      "options": ["taxi", "tram", "bus", "ferry"],
+      "correctIndex": 1,
+      "explanation": "'Tramvaj' means tram (or streetcar). Zagreb has one of the oldest and most extensive tram networks in South-East Europe."
+    },
+    {
+      "id": "transport-q9",
+      "prompt": "What does 'trajekt' mean?",
+      "options": ["taxi", "airplane", "bicycle", "ferry"],
+      "correctIndex": 3,
+      "explanation": "'Trajekt' means ferry. Ferries are essential transport in Croatia, connecting the mainland to the many islands of the Dalmatian coast."
+    },
+    {
+      "id": "transport-q10",
+      "prompt": "What does 'avion' mean?",
+      "options": ["airplane", "bus", "tram", "train"],
+      "correctIndex": 0,
+      "explanation": "'Avion' means airplane. The word comes from French 'avion', derived from Latin 'avis' (bird)."
+    },
+    {
+      "id": "transport-q11",
+      "prompt": "What is the instrumental form of 'autobus' used to say 'by bus'?",
+      "options": ["autobusu", "autobusa", "autobusom", "autobuse"],
+      "correctIndex": 2,
+      "explanation": "'Autobusom' is the instrumental singular of 'autobus'. Masculine nouns ending in a hard consonant add '-om': autobus + om = autobusom."
+    },
+    {
+      "id": "transport-q12",
+      "prompt": "What is the instrumental form of 'vlak' used to say 'by train'?",
+      "options": ["vlakom", "vlaku", "vlaka", "vlake"],
+      "correctIndex": 0,
+      "explanation": "'Vlakom' is the instrumental singular of 'vlak'. Like 'autobus', it adds '-om' after the final hard consonant: vlak + om = vlakom."
+    },
+    {
+      "id": "transport-q13",
+      "prompt": "What is the instrumental form of 'tramvaj' used to say 'by tram'?",
+      "options": ["tramvaju", "tramvajem", "tramvaja", "tramvaje"],
+      "correctIndex": 1,
+      "explanation": "'Tramvajem' is the instrumental of 'tramvaj'. Because 'j' is a soft consonant, the ending is '-em' instead of '-om': tramvaj + em = tramvajem."
+    },
+    {
+      "id": "transport-q14",
+      "prompt": "Which sentence means 'I travel by ferry'?",
+      "options": [
+        "Putujem avionom.",
+        "Putujem vlakom.",
+        "Putujem taksijem.",
+        "Putujem trajektom."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Putujem trajektom' means 'I travel by ferry'. 'trajektom' is the instrumental of 'trajekt'. The verb 'putujem' means 'I travel'."
+    },
+    {
+      "id": "transport-q15",
+      "prompt": "Which sentence means 'I go by bicycle'?",
+      "options": [
+        "Idem pješice.",
+        "Idem autom.",
+        "Idem biciklom.",
+        "Idem tramvajem."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Idem biciklom' means 'I go by bicycle'. 'biciklom' is the instrumental of 'bicikl'. Note that option A ('Idem pješice') means 'I go on foot' — 'pješice' is an adverb that needs no case change."
+    },
+    {
+      "id": "transport-q16",
+      "prompt": "Which is the correct Croatian sentence for 'One ticket to Zadar, please'?",
+      "options": [
+        "Jednu kartu do Zadra, molim.",
+        "Jedna karta do Zadar, molim.",
+        "Jednu karte za Zadar, molim.",
+        "Jednom kartu do Zadra, molim."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Jednu kartu do Zadra, molim.' is correct. 'Jednu' is the accusative feminine of 'jedna', agreeing with 'kartu'; 'kartu' is the accusative of 'karta'; 'Zadra' is the genitive of 'Zadar' required by the preposition 'do'."
+    },
+    {
+      "id": "transport-q17",
+      "prompt": "How do you ask 'How much does a ticket to Rijeka cost?' in Croatian?",
+      "options": [
+        "Koliko košta karta do Rijeke?",
+        "Kada polazi vlak do Rijeke?",
+        "Gdje staje autobus za Rijeku?",
+        "Koliko traje put do Rijeke?"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Koliko košta karta do Rijeke?' is correct. 'Koliko košta' = how much does it cost; 'karta' = ticket; 'do Rijeke' uses the genitive of 'Rijeka' after the preposition 'do'."
+    },
+    {
+      "id": "transport-q18",
+      "prompt": "What does 'povratna karta' mean?",
+      "options": [
+        "one-way ticket",
+        "platform ticket",
+        "return ticket",
+        "student ticket"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Povratna karta' means return ticket (round-trip). 'Povratna' comes from 'povratak' (return/comeback). The opposite is 'jednosmjerna karta' (one-way ticket)."
+    },
+    {
+      "id": "transport-q19",
+      "prompt": "What does 'jednosmjerna karta' mean?",
+      "options": [
+        "return ticket",
+        "express ticket",
+        "platform ticket",
+        "one-way ticket"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Jednosmjerna karta' means one-way ticket. 'Jednosmjerna' literally means 'single-direction'. The opposite is 'povratna karta' (return ticket)."
+    },
+    {
+      "id": "transport-q20",
+      "prompt": "How do you ask 'Where does the bus stop?' in Croatian?",
+      "options": [
+        "Kada polazi autobus?",
+        "Gdje staje autobus?",
+        "Kako idem autobusom?",
+        "Koliko košta autobus?"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Gdje staje autobus?' means 'Where does the bus stop?' 'Gdje' = where; 'staje' = (it) stops, 3rd-person singular of 'stajati'; 'autobus' = bus."
+    },
+    {
+      "id": "transport-q21",
+      "prompt": "How do you ask 'When does the train depart?' in Croatian?",
+      "options": [
+        "Gdje polazi vlak?",
+        "Kada dolazi vlak?",
+        "Kada polazi vlak?",
+        "Koliko traje vlak?"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Kada polazi vlak?' means 'When does the train depart?' 'Kada' = when; 'polazi' = (it) departs, from 'polaziti'. Option B ('Kada dolazi vlak?') means 'When does the train arrive?' — 'dolazi' is from 'dolaziti' (to arrive)."
+    },
+    {
+      "id": "transport-q22",
+      "prompt": "What does 'Idite ravno' mean?",
+      "options": [
+        "Turn left",
+        "Turn right",
+        "Go straight",
+        "Cross the street"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Idite ravno' means 'Go straight'. 'Idite' is the polite plural imperative of 'ići' (to go), and 'ravno' means straight or directly."
+    },
+    {
+      "id": "transport-q23",
+      "prompt": "What does 'Skrenite lijevo' mean?",
+      "options": [
+        "Go straight",
+        "Turn left",
+        "Turn right",
+        "Cross the street"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Skrenite lijevo' means 'Turn left'. 'Skrenite' is the polite imperative of 'skrenuti' (to turn); 'lijevo' is the adverb for left."
+    },
+    {
+      "id": "transport-q24",
+      "prompt": "What does 'Skrenite desno' mean?",
+      "options": [
+        "Cross the street",
+        "Go straight",
+        "Turn left",
+        "Turn right"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Skrenite desno' means 'Turn right'. 'Skrenite' = turn (imperative); 'desno' = right (adverb). Compare: 'lijevo' (left) vs 'desno' (right)."
+    },
+    {
+      "id": "transport-q25",
+      "prompt": "What does 'Prijeđite ulicu' mean?",
+      "options": [
+        "Cross the street",
+        "Go straight",
+        "Walk along the street",
+        "Turn right"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Prijeđite ulicu' means 'Cross the street'. 'Prijeđite' is the polite imperative of 'prijeći' (to cross); 'ulicu' is the accusative of 'ulica' (street)."
+    },
+    {
+      "id": "transport-q26",
+      "prompt": "What does 'Na semaforu' mean?",
+      "options": [
+        "At the corner",
+        "At the bus stop",
+        "At the traffic lights",
+        "At the station"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Na semaforu' means 'At the traffic lights'. 'Semafor' is the Croatian word for traffic light(s). 'Na' + locative expresses location (at / on)."
+    },
+    {
+      "id": "transport-q27",
+      "prompt": "How do you say 'How can I get to the hotel?' in Croatian?",
+      "options": [
+        "Gdje je hotel?",
+        "Kako mogu doći do hotela?",
+        "Koliko daleko je hotel?",
+        "Ima li hotel blizu?"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Kako mogu doći do hotela?' means 'How can I get to the hotel?' 'Kako mogu' = how can I; 'doći do' = get to / reach (always followed by genitive); 'hotela' = genitive of 'hotel'."
+    },
+    {
+      "id": "transport-q28",
+      "prompt": "Fill in the blank: 'Idem ___ do posla.' (I go to work by tram.)",
+      "promptHr": "Popunite prazninu: 'Idem ___ do posla.'",
+      "options": ["tramvajem", "tramvaj", "tramvaju", "tramvaja"],
+      "correctIndex": 0,
+      "explanation": "'Tramvajem' is the instrumental case of 'tramvaj', required here to express the means of transport. The full sentence 'Idem tramvajem do posla' means 'I go to work by tram'."
+    },
+    {
+      "id": "transport-q29",
+      "prompt": "What does 'blagajnik / blagajnica' mean?",
+      "options": [
+        "platform",
+        "departure",
+        "arrival",
+        "ticket clerk"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Blagajnik' (male) / 'blagajnica' (female) means ticket clerk or cashier. 'Blagajna' is the ticket office or cashier's desk where you buy your tickets."
+    },
+    {
+      "id": "transport-q30",
+      "prompt": "What does 'peron' mean?",
+      "options": [
+        "timetable",
+        "departure",
+        "platform",
+        "arrival"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Peron' means platform at a bus or train station. It is borrowed from French 'perron'. Related words: 'raspored' (timetable), 'odlazak' (departure), 'dolazak' (arrival)."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Transport modes",
+      "items": [
+        { "hr": "autobus", "en": "bus", "note": "Instrumental: autobusom — 'Idem autobusom.' (I go by bus.)" },
+        { "hr": "tramvaj", "en": "tram", "note": "Instrumental: tramvajem — ends in 'j' so takes '-em' not '-om'" },
+        { "hr": "vlak", "en": "train", "note": "Instrumental: vlakom" },
+        { "hr": "trajekt", "en": "ferry", "note": "Instrumental: trajektom — essential for Croatian island travel" },
+        { "hr": "avion", "en": "airplane", "note": "Instrumental: avionom" },
+        { "hr": "taksi", "en": "taxi", "note": "Instrumental: taksijem" },
+        { "hr": "bicikl", "en": "bicycle", "note": "Instrumental: biciklom" },
+        { "hr": "auto", "en": "car", "note": "Instrumental: autom — short for 'automobil'" },
+        { "hr": "pješice", "en": "on foot", "note": "An adverb, not a noun — no case change. 'Idem pješice.' = I go on foot." }
+      ]
+    },
+    {
+      "context": "At the bus / train station",
+      "items": [
+        { "hr": "kolodvor", "en": "station", "note": "'Autobusni kolodvor' = bus station; 'željeznički kolodvor' = train station" },
+        { "hr": "blagajna", "en": "ticket office", "note": "The desk where you buy your ticket" },
+        { "hr": "blagajnik / blagajnica", "en": "ticket clerk (m / f)", "note": "The person who sells you the ticket" },
+        { "hr": "peron", "en": "platform", "note": "Buses and trains depart 's perona' (from the platform); 'na peronu' = on the platform" },
+        { "hr": "raspored", "en": "timetable / schedule", "note": "'Raspored polazaka' = departure timetable" },
+        { "hr": "odlazak", "en": "departure", "note": "Look for 'Odlasci' on the departures board" },
+        { "hr": "dolazak", "en": "arrival", "note": "Look for 'Dolasci' on the arrivals board" },
+        { "hr": "putnik / putnica", "en": "passenger / traveller (m / f)", "note": "Also means 'traveller' in a general sense" }
+      ]
+    },
+    {
+      "context": "Buying tickets",
+      "items": [
+        { "hr": "karta", "en": "ticket", "note": "Accusative: kartu — 'Jednu kartu, molim.' (One ticket, please.)" },
+        { "hr": "povratna karta", "en": "return ticket", "note": "'Povratna' comes from 'povratak' (return). Opposite: 'jednosmjerna karta'" },
+        { "hr": "jednosmjerna karta", "en": "one-way ticket", "note": "Literally 'single-direction ticket'" },
+        { "hr": "Koliko košta karta do...?", "en": "How much does a ticket to … cost?", "note": "The destination takes the genitive case after 'do'" },
+        { "hr": "Jednu kartu do Splita, molim.", "en": "One ticket to Split, please.", "note": "Template: 'Jednu kartu do [city-genitive], molim.'" },
+        { "hr": "Kada polazi autobus?", "en": "When does the bus depart?", "note": "'Polazi' = (it) departs, 3sg of 'polaziti'" },
+        { "hr": "S kojeg perona?", "en": "From which platform?", "note": "'S' + genitive = from; 'kojeg' = which (genitive)" }
+      ]
+    },
+    {
+      "context": "Giving & understanding directions",
+      "items": [
+        { "hr": "Idite ravno.", "en": "Go straight.", "note": "'Idite' is the polite plural imperative of 'ići' (to go)" },
+        { "hr": "Skrenite lijevo.", "en": "Turn left.", "note": "'Skrenite' = turn (imperative); 'lijevo' = left (adverb)" },
+        { "hr": "Skrenite desno.", "en": "Turn right.", "note": "'Desno' = right (adverb)" },
+        { "hr": "Prijeđite ulicu.", "en": "Cross the street.", "note": "'Prijeđite' is the imperative of 'prijeći' (to cross)" },
+        { "hr": "Na semaforu", "en": "At the traffic lights", "note": "'Semafor' = traffic light; 'na' + locative = at / on" },
+        { "hr": "Na uglu", "en": "At the corner", "note": "'Ugao/ugao' = corner; very common in giving directions" },
+        { "hr": "lijevo", "en": "left", "note": "Adverb; also used as a standalone: 'Skrenite lijevo na uglu.'" },
+        { "hr": "desno", "en": "right", "note": "Adverb; pair with 'lijevo' — the two essential direction words" }
+      ]
+    },
+    {
+      "context": "Useful travel phrases",
+      "items": [
+        { "hr": "Gdje staje autobus?", "en": "Where does the bus stop?", "note": "'Staje' = (it) stops; 3sg of 'stajati'" },
+        { "hr": "Kada polazi vlak?", "en": "When does the train depart?", "note": "'Polazi' = departs; contrast with 'dolazi' = arrives" },
+        { "hr": "Kako mogu doći do...?", "en": "How can I get to …?", "note": "'doći do' + genitive = to get to / reach" },
+        { "hr": "Gdje je autobusni kolodvor?", "en": "Where is the bus station?", "note": "A key question when arriving in a new town" },
+        { "hr": "Koliko traje putovanje?", "en": "How long does the journey take?", "note": "'Traje' = (it) lasts; 'putovanje' = journey / trip" },
+        { "hr": "Oprostite, možete li mi pomoći?", "en": "Excuse me, can you help me?", "note": "Polite opener before asking a stranger for directions" }
+      ]
+    }
+  ]
+}

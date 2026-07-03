@@ -1,0 +1,384 @@
+{
+  "id": "food",
+  "level": "a1",
+  "order": 6,
+  "title": { "en": "Food & Drink", "hr": "Hrana i piće" },
+  "grammar": {
+    "title": { "en": "Ordering Food & Expressing Preferences", "hr": "Naručivanje hrane i izražavanje preferencija" },
+    "intro": "A few simple phrases will take you a long way in a Croatian restaurant.\n\nTraditional restaurants called **konobe** are relaxed, welcoming places.\n\nYou will need phrases for:\n\n- ordering food and drink\n- expressing likes and dislikes\n- asking about prices",
+    "rules": [
+      {
+        "label": "Polite ordering phrases",
+        "explanation": "Three ways to order, from most formal to casual:\n\n- **Mogu li dobiti...?** — Can I get...? (most polite)\n- **Želim...** — I would like... (very common)\n- Item name + **molim** — e.g. Jedno pivo, molim. (informal)",
+        "examples": [
+          { "hr": "Mogu li dobiti crni rižoto, molim?", "en": "Can I get the black risotto, please?" },
+          { "hr": "Želim čašu bijelog vina.", "en": "I would like a glass of white wine." },
+          { "hr": "Jedno pivo, molim.", "en": "One beer, please." }
+        ]
+      },
+      {
+        "label": "Expressing likes with 'volim'",
+        "explanation": "Use **Volim** (I love / like) followed by a noun to say what you enjoy.\n\n**Sviđa mi se** is another option — it literally means 'it pleases me' and works well for a dish you are currently eating.",
+        "examples": [
+          { "hr": "Volim morsku hranu.", "en": "I love seafood." },
+          { "hr": "Volim kavu ujutro.", "en": "I like coffee in the morning." },
+          { "hr": "Sviđa mi se ovo jelo.", "en": "I like this dish. (lit. This dish pleases me.)" }
+        ]
+      },
+      {
+        "label": "Expressing dislikes with 'ne volim'",
+        "explanation": "Add **ne** before **volim** to express dislike:\n\n- **Volim ribu.** — I like fish.\n- **Ne volim ribu.** — I don't like fish.",
+        "examples": [
+          { "hr": "Ne volim ribu.", "en": "I don't like fish." },
+          { "hr": "Ne volim ljutu hranu.", "en": "I don't like spicy food." }
+        ]
+      },
+      {
+        "label": "Asking about prices with 'Koliko košta?'",
+        "explanation": "Two forms depending on what you are asking about:\n\n- **Koliko košta?** — How much does it cost? (single item)\n- **Koliko koštaju?** — How much do they cost? (multiple items)\n\nCroatia uses the **euro (EUR)** since January 2023.",
+        "examples": [
+          { "hr": "Koliko košta ova juha?", "en": "How much does this soup cost?" },
+          { "hr": "Koliko koštaju prstaci?", "en": "How much do the date mussels cost?" },
+          { "hr": "Račun, molim.", "en": "The bill, please." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Dish (jelo)", "Type (vrsta)", "Description (opis)"],
+      "rows": [
+        ["peka", "main course", "Meat (lamb or veal) and vegetables slow-cooked under a cast-iron bell lid covered with embers — a Dalmatian classic"],
+        ["crni rižoto", "main course", "Risotto cooked with cuttlefish ink, giving it a striking black colour and a rich, briny flavour"],
+        ["prstaci na buzari", "seafood", "Date mussels (prstaci) steamed in a garlic, white wine, and parsley sauce called buzara"],
+        ["burek", "street food / pastry", "Flaky filo pastry filled with minced meat (or cheese/spinach), baked or fried — popular for breakfast or a quick snack"],
+        ["ćevapčići", "grilled meat", "Small grilled minced-meat rolls seasoned with spices, typically served with flatbread and raw onion"],
+        ["rozata", "dessert", "Traditional Dalmatian egg custard flavoured with rose liqueur (rozalin), similar to French crème caramel"]
+      ]
+    }
+  },
+  "reading": {
+    "title": { "en": "Lunch at the Konoba", "hr": "Ručak u konobi" },
+    "paragraphs": [
+      {
+        "hr": "Ana i Marko dolaze u konobu 'Dalmatino' u Splitu jedno poslijepodne. Vani je toplo i sunčano. Konobar ih pozdravlja s osmijehom i vodi ih do stola na terasi s pogledom na more.",
+        "en": "Ana and Marko arrive at the konoba 'Dalmatino' in Split one afternoon. It is warm and sunny outside. The waiter greets them with a smile and leads them to a table on the terrace with a view of the sea."
+      },
+      {
+        "hr": "Konobar donosi jelovnik. Ana i Marko pregledavaju jelovnik pažljivo. Na njemu ima mnogo jela: peka od janjetine, crni rižoto, prstaci na buzari, svježe ribe i mnogo toga. Cijene su razumne.",
+        "en": "The waiter brings the menu. Ana and Marko look through the menu carefully. On it there are many dishes: lamb peka, black risotto, date mussels in buzara sauce, fresh fish, and much more. The prices are reasonable."
+      },
+      {
+        "hr": "\"Što želite naručiti?\" pita konobar ljubazno. Marko razmišlja trenutak. \"Mogu li dobiti crni rižoto, molim? I jedno pivo.\" Konobar klimne glavom i zapisuje narudžbu.",
+        "en": "\"What would you like to order?\" the waiter asks politely. Marko thinks for a moment. \"Can I get the black risotto, please? And one beer.\" The waiter nods and writes down the order."
+      },
+      {
+        "hr": "Ana gleda jelovnik još jedanput. \"Ja želim prstace na buzari.\" Zatim Ana pita: \"Koliko košta čaša bijelog vina?\" \"Čaša bijelog vina košta pet eura,\" odgovara konobar. \"Izvrsno. I čašu bijelog vina, molim,\" kaže Ana.",
+        "en": "Ana looks at the menu one more time. \"I want date mussels in buzara sauce.\" Then Ana asks: \"How much does a glass of white wine cost?\" \"A glass of white wine costs five euros,\" answers the waiter. \"Excellent. And a glass of white wine, please,\" says Ana."
+      },
+      {
+        "hr": "Dok čekaju hranu, razgovaraju o hrani. \"Volim morsku hranu,\" kaže Ana. \"Posebno volim lignje i škampe. A ti, Marko?\" \"Ja ne volim morsku hranu puno,\" odgovara Marko. \"Ali volim crni rižoto — on je poseban. I volim burek za doručak!\"",
+        "en": "While they wait for the food, they talk about food. \"I love seafood,\" says Ana. \"I especially love squid and prawns. And you, Marko?\" \"I don't like seafood much,\" answers Marko. \"But I love black risotto — it is special. And I love burek for breakfast!\""
+      },
+      {
+        "hr": "Nakon ručka, konobar pita: \"Želite li desert?\" Ana i Marko naručuju rozatu — tradicionalni dalmatinski desert od jaja i rozalina, sličan kremastom pudingu. \"Mmm, ovo je jako ukusno!\" kaže Ana. \"Slažem se,\" smiješi se Marko. \"Račun, molim,\" kaže Ana konobaru.",
+        "en": "After lunch, the waiter asks: \"Would you like dessert?\" Ana and Marko order rozata — a traditional Dalmatian dessert made from eggs and rose liqueur, similar to a creamy pudding. \"Mmm, this is very delicious!\" says Ana. \"I agree,\" Marko smiles. \"The bill, please,\" Ana says to the waiter."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "food-q1",
+      "prompt": "Where do Ana and Marko have lunch?",
+      "promptHr": "Gdje Ana i Marko ručaju?",
+      "options": ["In a restaurant in Zagreb", "In a konoba in Split", "At a fast food place in Dubrovnik", "At home"],
+      "correctIndex": 1,
+      "explanation": "The text says they arrive at 'konobu Dalmatino u Splitu' — the konoba Dalmatino in Split."
+    },
+    {
+      "id": "food-q2",
+      "prompt": "What does Marko order as his main dish?",
+      "promptHr": "Što Marko naručuje kao glavno jelo?",
+      "options": ["Prstaci na buzari", "Peka od janjetine", "Crni rižoto", "Svježe ribe"],
+      "correctIndex": 2,
+      "explanation": "Marko says 'Mogu li dobiti crni rižoto, molim?' — Can I get the black risotto, please?"
+    },
+    {
+      "id": "food-q3",
+      "prompt": "What does Ana order to drink?",
+      "promptHr": "Što Ana naručuje za piće?",
+      "options": ["Beer", "Sparkling water", "Red wine", "White wine"],
+      "correctIndex": 3,
+      "explanation": "Ana asks the price and then orders 'čašu bijelog vina' — a glass of white wine."
+    },
+    {
+      "id": "food-q4",
+      "prompt": "What does Marko say he doesn't like?",
+      "promptHr": "Što Marko kaže da ne voli?",
+      "options": ["Black risotto", "Seafood in general", "White wine", "Dessert"],
+      "correctIndex": 1,
+      "explanation": "Marko says 'Ja ne volim morsku hranu puno' — I don't like seafood much."
+    },
+    {
+      "id": "food-q5",
+      "prompt": "What dessert do Ana and Marko order?",
+      "promptHr": "Koji desert naručuju Ana i Marko?",
+      "options": ["Burek", "Ćevapčići", "Rozata", "Palačinke"],
+      "correctIndex": 2,
+      "explanation": "The text says 'Ana i Marko naručuju rozatu' — Ana and Marko order rozata."
+    }
+  ],
+  "test": [
+    {
+      "id": "food-q6",
+      "prompt": "What does 'hrana' mean?",
+      "options": ["drink", "restaurant", "food", "menu"],
+      "correctIndex": 2,
+      "explanation": "'Hrana' means food."
+    },
+    {
+      "id": "food-q7",
+      "prompt": "What does 'piće' mean?",
+      "options": ["food", "drink", "dessert", "dish"],
+      "correctIndex": 1,
+      "explanation": "'Piće' means drink / beverage."
+    },
+    {
+      "id": "food-q8",
+      "prompt": "What does 'Mogu li dobiti...?' mean?",
+      "options": ["I want...", "Can I get...?", "Do you have...?", "How much is...?"],
+      "correctIndex": 1,
+      "explanation": "'Mogu li dobiti' literally means 'Can I get' — a polite way to order."
+    },
+    {
+      "id": "food-q9",
+      "prompt": "How do you say 'How much does it cost?' in Croatian?",
+      "options": ["Gdje je to?", "Što je to?", "Koliko košta?", "Kada je to?"],
+      "correctIndex": 2,
+      "explanation": "'Koliko košta?' = How much does it cost? 'Koliko' = how much, 'košta' = costs."
+    },
+    {
+      "id": "food-q10",
+      "prompt": "What does 'Volim pizzu' mean?",
+      "options": ["I want pizza", "I don't like pizza", "I like pizza", "I have pizza"],
+      "correctIndex": 2,
+      "explanation": "'Volim' means I like/love. → I like pizza."
+    },
+    {
+      "id": "food-q11",
+      "prompt": "What does 'Ne volim ribu' mean?",
+      "options": ["I like fish", "I don't like fish", "I want fish", "I have fish"],
+      "correctIndex": 1,
+      "explanation": "'Ne volim' = I don't like, 'ribu' = fish (accusative). → I don't like fish."
+    },
+    {
+      "id": "food-q12",
+      "prompt": "How do you say 'One beer, please' in Croatian?",
+      "options": ["Jedno pivo, molim.", "Jedna piva, molim.", "Jedan pivo, molim.", "Jedno vino, molim."],
+      "correctIndex": 0,
+      "explanation": "'Pivo' (beer) is neuter, so the numeral is 'jedno'. 'Molim' = please. → 'Jedno pivo, molim.'"
+    },
+    {
+      "id": "food-q13",
+      "prompt": "What is 'crni rižoto'?",
+      "options": ["Black bread", "Black pasta", "Black risotto made with cuttlefish ink", "Black beans"],
+      "correctIndex": 2,
+      "explanation": "'Crni rižoto' is a signature Croatian risotto coloured black by cuttlefish ink."
+    },
+    {
+      "id": "food-q14",
+      "prompt": "What is 'peka' in Croatian cuisine?",
+      "options": ["A type of Croatian soup", "Meat and vegetables slow-cooked under a bell-shaped cast-iron lid with embers", "A Croatian salad", "A type of Croatian bread"],
+      "correctIndex": 1,
+      "explanation": "'Peka' is a traditional slow-cooking method where food is placed under a bell-shaped lid (also called peka) covered with embers."
+    },
+    {
+      "id": "food-q15",
+      "prompt": "What is 'burek' in Croatia?",
+      "options": ["A seafood dish", "A type of flaky filo pastry usually filled with minced meat", "A traditional Croatian dessert", "A type of Croatian cheese"],
+      "correctIndex": 1,
+      "explanation": "'Burek' is a flaky filo pastry, usually filled with meat, cheese, or spinach — popular as street food or a breakfast item."
+    },
+    {
+      "id": "food-q16",
+      "prompt": "What does 'doručak' mean?",
+      "options": ["lunch", "dinner", "breakfast", "snack"],
+      "correctIndex": 2,
+      "explanation": "'Doručak' means breakfast — the first meal of the day."
+    },
+    {
+      "id": "food-q17",
+      "prompt": "What does 'ručak' mean?",
+      "options": ["breakfast", "lunch", "dinner", "dessert"],
+      "correctIndex": 1,
+      "explanation": "'Ručak' means lunch — the main midday meal in Croatia."
+    },
+    {
+      "id": "food-q18",
+      "prompt": "What does 'večera' mean?",
+      "options": ["breakfast", "lunch", "afternoon snack", "dinner"],
+      "correctIndex": 3,
+      "explanation": "'Večera' means dinner — the evening meal."
+    },
+    {
+      "id": "food-q19",
+      "prompt": "How do you say 'I love seafood' in Croatian?",
+      "options": ["Ne volim morsku hranu.", "Volim morsku hranu.", "Imam morsku hranu.", "Mogu li dobiti morsku hranu?"],
+      "correctIndex": 1,
+      "explanation": "'Volim' = I love/like, 'morsku hranu' = seafood (accusative). → 'Volim morsku hranu.'"
+    },
+    {
+      "id": "food-q20",
+      "prompt": "What does 'Što želite naručiti?' mean?",
+      "options": ["What would you like to pay?", "What would you like to order?", "What do you have today?", "When would you like to eat?"],
+      "correctIndex": 1,
+      "explanation": "'Što' = what, 'želite' = do you want/would you like, 'naručiti' = to order. → What would you like to order?"
+    },
+    {
+      "id": "food-q21",
+      "prompt": "What is 'rozata'?",
+      "options": ["A Croatian seafood dish", "A type of Croatian sparkling wine", "A traditional Dalmatian egg custard dessert", "A Croatian vegetable salad"],
+      "correctIndex": 2,
+      "explanation": "'Rozata' is a traditional Dalmatian dessert made from eggs and rose liqueur (rozalin), similar to crème caramel."
+    },
+    {
+      "id": "food-q22",
+      "prompt": "How do you say 'I don't like meat' in Croatian?",
+      "options": ["Volim meso.", "Ne volim meso.", "Nemam meso.", "Ne volim voće."],
+      "correctIndex": 1,
+      "explanation": "'Ne volim' = I don't like, 'meso' = meat. → 'Ne volim meso.'"
+    },
+    {
+      "id": "food-q23",
+      "prompt": "What does 'konobar' mean?",
+      "options": ["chef", "menu", "waiter", "restaurant"],
+      "correctIndex": 2,
+      "explanation": "'Konobar' means waiter. The female form is 'konobarica'."
+    },
+    {
+      "id": "food-q24",
+      "prompt": "What is a 'konoba'?",
+      "options": ["A type of Croatian dish", "A traditional Croatian tavern or family restaurant", "A Croatian food market", "A type of Croatian bread"],
+      "correctIndex": 1,
+      "explanation": "A 'konoba' is a traditional Croatian tavern or rustic family restaurant, especially common in Dalmatia."
+    },
+    {
+      "id": "food-q25",
+      "prompt": "What does 'Sviđa mi se ovo jelo' mean?",
+      "options": ["I don't like this dish", "I want this dish", "I like this dish", "This dish is expensive"],
+      "correctIndex": 2,
+      "explanation": "'Sviđa mi se' = it pleases me / I like it, 'ovo jelo' = this dish. → I like this dish."
+    },
+    {
+      "id": "food-q26",
+      "prompt": "How do you say 'a glass of white wine' in Croatian?",
+      "options": ["čaša crnog vina", "čaša bijelog vina", "boca bijelog vina", "čaša bijelog piva"],
+      "correctIndex": 1,
+      "explanation": "'Čaša' = glass, 'bijelog' = white (genitive), 'vina' = wine (genitive). → 'čaša bijelog vina'."
+    },
+    {
+      "id": "food-q27",
+      "prompt": "What does 'jelovnik' mean?",
+      "options": ["waiter", "kitchen", "menu", "table"],
+      "correctIndex": 2,
+      "explanation": "'Jelovnik' means menu — the list of dishes at a restaurant."
+    },
+    {
+      "id": "food-q28",
+      "prompt": "What are 'prstaci' in Croatian cuisine?",
+      "options": ["A type of Croatian pastry", "Grilled sausages", "A type of shellfish (date mussels)", "A vegetable stew"],
+      "correctIndex": 2,
+      "explanation": "'Prstaci' (lit. 'little fingers') are date mussels, a traditional Dalmatian shellfish delicacy."
+    },
+    {
+      "id": "food-q29",
+      "prompt": "What does 'ukusno' mean?",
+      "options": ["expensive", "delicious", "cold", "spicy"],
+      "correctIndex": 1,
+      "explanation": "'Ukusno' means delicious or tasty."
+    },
+    {
+      "id": "food-q30",
+      "prompt": "How do you say 'I am hungry' in Croatian?",
+      "options": ["Žedan sam.", "Sit sam.", "Gladan sam.", "Volim jesti."],
+      "correctIndex": 2,
+      "explanation": "'Gladan sam' means I am hungry (masculine). A woman would say 'Gladna sam'. 'Žedan sam' = I am thirsty, 'Sit sam' = I am full."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Fruits & vegetables",
+      "items": [
+        { "hr": "jabuka", "en": "apple" },
+        { "hr": "banana", "en": "banana" },
+        { "hr": "naranča", "en": "orange" },
+        { "hr": "grožđe", "en": "grapes", "note": "collective noun, used without plural" },
+        { "hr": "jagoda", "en": "strawberry" },
+        { "hr": "krumpir", "en": "potato" },
+        { "hr": "mrkva", "en": "carrot" },
+        { "hr": "rajčica", "en": "tomato" },
+        { "hr": "salata", "en": "lettuce / salad" },
+        { "hr": "luk", "en": "onion" },
+        { "hr": "češnjak", "en": "garlic" }
+      ]
+    },
+    {
+      "context": "Meat & fish",
+      "items": [
+        { "hr": "meso", "en": "meat" },
+        { "hr": "piletina", "en": "chicken" },
+        { "hr": "svinjetina", "en": "pork" },
+        { "hr": "janjetina", "en": "lamb" },
+        { "hr": "govedina", "en": "beef" },
+        { "hr": "riba", "en": "fish" },
+        { "hr": "tuna", "en": "tuna" },
+        { "hr": "lignje", "en": "squid", "note": "plural form" },
+        { "hr": "škampi", "en": "prawns / scampi", "note": "plural form" },
+        { "hr": "dagnje", "en": "mussels", "note": "plural form" }
+      ]
+    },
+    {
+      "context": "Drinks",
+      "items": [
+        { "hr": "voda", "en": "water" },
+        { "hr": "sok", "en": "juice" },
+        { "hr": "pivo", "en": "beer" },
+        { "hr": "vino", "en": "wine" },
+        { "hr": "bijelo vino", "en": "white wine" },
+        { "hr": "crno vino", "en": "red wine", "note": "literally 'black wine'" },
+        { "hr": "kava", "en": "coffee" },
+        { "hr": "čaj", "en": "tea" },
+        { "hr": "gazirana voda", "en": "sparkling water" },
+        { "hr": "čaša", "en": "glass" },
+        { "hr": "boca", "en": "bottle" }
+      ]
+    },
+    {
+      "context": "Croatian dishes",
+      "items": [
+        { "hr": "peka", "en": "peka (meat/veg slow-cooked under embers)", "note": "a Dalmatian and Istrian speciality" },
+        { "hr": "crni rižoto", "en": "black risotto", "note": "made with cuttlefish ink; a coastal classic" },
+        { "hr": "prstaci na buzari", "en": "date mussels in buzara sauce", "note": "garlic, white wine and parsley sauce" },
+        { "hr": "burek", "en": "burek (flaky filo pastry)", "note": "filled with meat; also made with cheese (sir) or spinach (špinat)" },
+        { "hr": "ćevapčići", "en": "ćevapčići (grilled minced meat rolls)", "note": "popular across the Balkans" },
+        { "hr": "pasticada", "en": "pasticada (slow-braised beef in wine)", "note": "a festive Dalmatian dish" },
+        { "hr": "brudet", "en": "brudet (fish stew)", "note": "coastal fish stew, served with polenta" },
+        { "hr": "rozata", "en": "rozata (Dalmatian egg custard dessert)", "note": "flavoured with rose liqueur" }
+      ]
+    },
+    {
+      "context": "Restaurant phrases",
+      "items": [
+        { "hr": "Mogu li dobiti...?", "en": "Can I get...?" },
+        { "hr": "Želim...", "en": "I would like..." },
+        { "hr": "Jedno pivo, molim.", "en": "One beer, please." },
+        { "hr": "Što preporučate?", "en": "What do you recommend?" },
+        { "hr": "Što želite naručiti?", "en": "What would you like to order?" },
+        { "hr": "Koliko košta?", "en": "How much does it cost?" },
+        { "hr": "Račun, molim.", "en": "The bill, please." },
+        { "hr": "Bilo je ukusno!", "en": "It was delicious!" },
+        { "hr": "Volim ovo jelo.", "en": "I like this dish." },
+        { "hr": "Ne volim...", "en": "I don't like..." },
+        { "hr": "Jelovnik, molim.", "en": "The menu, please." }
+      ]
+    }
+  ]
+}

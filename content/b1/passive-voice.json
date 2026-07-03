@@ -1,0 +1,513 @@
+{
+  "id": "passive-voice",
+  "level": "b1",
+  "order": 7,
+  "title": {
+    "hr": "Pasiv",
+    "en": "Passive Voice"
+  },
+  "grammar": {
+    "title": {
+      "hr": "Pasivna konstrukcija u hrvatskom",
+      "en": "Passive Constructions in Croatian"
+    },
+    "intro": "Croatian has two main ways to express the **passive voice**: the **se-passive** (reflexive passive) and the **biti-passive** (auxiliary passive). Choosing between them depends on context — se-passive suits general or habitual statements, while biti-passive is formal and dominant in written and journalistic language.\n\nIn English we say „The film was directed by a young director.” In Croatian this can be expressed in two ways, each with its own register and nuance.",
+    "rules": [
+      {
+        "label": "Se-passive (reflexive passive)",
+        "explanation": "The **se-passive** is formed by adding the reflexive particle **se** after the verb. The verb agrees in number with the grammatical subject. Use it for:\n\n- General statements and universal truths\n- Habitual or ongoing actions\n- Situations where the agent (doer) is unknown or unimportant\n\nThis is the most natural passive in spoken Croatian.",
+        "examples": [
+          { "hr": "Ovdje se govori engleski.", "en": "English is spoken here." },
+          { "hr": "Film se snima u Dubrovniku.", "en": "The film is being shot in Dubrovnik." },
+          { "hr": "Ulaznice se prodaju u svim kinima.", "en": "Tickets are sold in all cinemas." },
+          { "hr": "Ovdje se ne puši.", "en": "Smoking is not permitted here." }
+        ]
+      },
+      {
+        "label": "Biti-passive (auxiliary passive)",
+        "explanation": "The **biti-passive** is formed with the verb **biti** (to be) + the **passive participle** (trpni pridjev) of the main verb. Use it for:\n\n- Formal, written, or journalistic language\n- News reports and official documents\n- Sentences that focus on the result of an action\n\nThe passive participle must agree in **gender and number** with the grammatical subject.",
+        "examples": [
+          { "hr": "Film je snimljen u Dubrovniku.", "en": "The film was shot in Dubrovnik." },
+          { "hr": "Knjiga je napisana od strane mladog autora.", "en": "The book was written by a young author." },
+          { "hr": "Most će biti otvoren sljedeće godine.", "en": "The bridge will be opened next year." },
+          { "hr": "Nagrade su bile podijeljene jučer.", "en": "The awards were distributed yesterday." }
+        ]
+      },
+      {
+        "label": "Forming the passive participle (trpni pridjev)",
+        "explanation": "The **passive participle** is formed from the infinitive stem and must agree with the subject in gender (m/f/n) and number.\n\n**Suffix -an / -ana / -ano** — most -ati verbs:\n- čitati → čitan / čitana / čitano\n- napisati → napisan / napisana / napisano\n- prodati → prodan / prodana / prodano\n\n**Suffix -en / -ena / -eno** — -iti and -jeti/-eti verbs (often with consonant changes):\n- graditi → građen / građena / građeno (d → đ)\n- vidjeti → viđen / viđena / viđeno (dj → đ)\n- otvoriti → otvoren / otvorena / otvoreno\n- kupiti → kupljen / kupljena / kupljeno (p → plj)\n- napraviti → napravljen / napravljena / napravljeno (v → vlj)",
+        "examples": [
+          { "hr": "Roman je napisan. (muški rod)", "en": "The novel is written. (masculine)" },
+          { "hr": "Priča je napisana. (ženski rod)", "en": "The story is written. (feminine)" },
+          { "hr": "Pismo je napisano. (srednji rod)", "en": "The letter is written. (neuter)" }
+        ]
+      },
+      {
+        "label": "Biti-passive across tenses",
+        "explanation": "The biti-passive works in all tenses by changing the form of **biti**.\n\n**Present passive** — je / su + participle:\n- Film je prikazan. (The film is shown.)\n\n**Past passive** — bio je / bila je / bilo je + participle:\n- Film je bio prikazan. (The film was shown.)\n\n**Future passive** — će biti + participle:\n- Film će biti prikazan. (The film will be shown.)\n\nThe auxiliary form (bio/bila/bilo) must agree in gender with the subject.",
+        "examples": [
+          { "hr": "Dokument je potpisan.", "en": "The document is signed. (present)" },
+          { "hr": "Dokument je bio potpisan.", "en": "The document was signed. (past)" },
+          { "hr": "Dokument će biti potpisan.", "en": "The document will be signed. (future)" }
+        ]
+      },
+      {
+        "label": "Expressing the agent: od strane + genitive",
+        "explanation": "To name who performed the action, Croatian uses **od strane** (literally: from the side of) followed by the **genitive case**. This construction is formal and typical of written or journalistic language.\n\nIn everyday speech, Croatians often prefer active sentences or simply omit the agent altogether.",
+        "examples": [
+          { "hr": "Roman je napisan od strane poznatog pisca.", "en": "The novel was written by a famous writer." },
+          { "hr": "Film je režiran od strane mladog redatelja.", "en": "The film was directed by a young director." },
+          { "hr": "Nagrada je dodijeljena od strane žirija.", "en": "The award was given by the jury." }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Infinitive", "Masculine", "Feminine", "Neuter"],
+      "rows": [
+        ["napisati (to write)", "napisan", "napisana", "napisano"],
+        ["čitati (to read)", "čitan", "čitana", "čitano"],
+        ["prodati (to sell)", "prodan", "prodana", "prodano"],
+        ["graditi (to build)", "građen", "građena", "građeno"],
+        ["vidjeti (to see)", "viđen", "viđena", "viđeno"],
+        ["otvoriti (to open)", "otvoren", "otvorena", "otvoreno"],
+        ["voljeti (to love)", "voljen", "voljena", "voljeno"],
+        ["napraviti (to make)", "napravljen", "napravljena", "napravljeno"]
+      ]
+    }
+  },
+  "reading": {
+    "title": {
+      "hr": "Novi hrvatski film osvaja Europu",
+      "en": "New Croatian Film Conquers Europe"
+    },
+    "paragraphs": [
+      {
+        "hr": "Novi hrvatski film **Sjene nad morem** bio je prikazan na prestižnom filmskom festivalu u Veneciji prošlog tjedna. Film je režiran od strane mladog redatelja Ivana Kovača, koji ima tek dvadeset i osam godina. Njegova prva dugometražna drama odmah je prepoznata kao jedno od najvažnijih filmskih ostvarenja ove godine.",
+        "en": "The new Croatian film **Shadows over the Sea** was shown at the prestigious Venice Film Festival last week. The film was directed by young director Ivan Kovač, who is only twenty-eight years old. His first feature-length drama was immediately recognised as one of the most important cinematic works of the year."
+      },
+      {
+        "hr": "Film je sniman na nekim od najljepših lokacija u Hrvatskoj. Većina scena je snimana u Dubrovniku i Splitu, a nekoliko ključnih prizora snimano je i na otoku Hvaru. Posebna pozornost posvećena je vizualnom identitetu filma — svaka lokacija pažljivo je odabrana kako bi dočarala mediteranski duh priče.",
+        "en": "The film was shot at some of the most beautiful locations in Croatia. Most scenes were filmed in Dubrovnik and Split, and several key scenes were also shot on the island of Hvar. Special attention was paid to the visual identity of the film — each location was carefully chosen to evoke the Mediterranean spirit of the story."
+      },
+      {
+        "hr": "Film je trenutno prikazivan u kinima diljem Europe. Prikazan je u više od pedeset gradova, uključujući Berlin, Pariz, Rim i Amsterdam. Ulaznice za mnoge projekcije su u potpunosti rasprodane, a interes publike za film opisivan je kao izniman.",
+        "en": "The film is currently being shown in cinemas across Europe. It has been shown in more than fifty cities, including Berlin, Paris, Rome, and Amsterdam. Tickets for many screenings have been completely sold out, and audience interest in the film has been described as exceptional."
+      },
+      {
+        "hr": "Film je hvaljen od strane kritičara iz cijelog svijeta. Posebno je istaknuta gluma glavne glumice Marte Blažić, čija je izvedba opisana kao iznimna i emotivno duboka. Scenarij je napisan od strane samog redatelja u suradnji s iskusnim scenaristom Petrom Markovićem.",
+        "en": "The film has been praised by critics from around the world. The acting of the lead actress Marta Blažić has been especially highlighted, and her performance has been described as exceptional and emotionally profound. The screenplay was written by the director himself in collaboration with experienced screenwriter Petar Marković."
+      },
+      {
+        "hr": "Glazba za film je komponirana od strane nagrađivanog skladatelja Tomislava Horvata. Originalna glazbena podloga već je izdana kao zasebni album i dostupna je na svim glazbenim platformama. Album je dobro primljen od strane publike i zadržao se visoko na ljestvicama streaming servisa.",
+        "en": "The music for the film was composed by award-winning composer Tomislav Horvat. The original soundtrack has already been released as a separate album and is available on all music platforms. The album has been well received by audiences and has remained high in the streaming service charts."
+      },
+      {
+        "hr": "Film će biti prikazan u Ujedinjenom Kraljevstvu sljedećeg mjeseca. Britanska distribucija je organizirana od strane poznate londonske filmske kuće. Očekuje se da će film biti nominiran za nekoliko međunarodnih nagrada na kraju godine, a Ivan Kovač već je pozvan da predaje na poznatoj filmskoj školi u Londonu.",
+        "en": "The film will be shown in the United Kingdom next month. British distribution has been organised by a well-known London film company. The film is expected to be nominated for several international awards at the end of the year, and Ivan Kovač has already been invited to teach at a prestigious film school in London."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "passive-voice-q1",
+      "prompt": "Where was the film Shadows over the Sea first publicly shown?",
+      "promptHr": "Gdje je film Sjene nad morem prvi put javno prikazan?",
+      "options": [
+        "At a film festival in Cannes",
+        "At a film festival in Venice",
+        "At a film festival in Berlin",
+        "At a film festival in London"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text states: „Film je bio prikazan na prestižnom filmskom festivalu u Veneciji.” (The film was shown at the prestigious Venice Film Festival.) This is a biti-passive in the past tense."
+    },
+    {
+      "id": "passive-voice-q2",
+      "prompt": "Which passive construction appears in: 'Film je sniman u Dubrovniku i Splitu'?",
+      "promptHr": "Koja pasivna konstrukcija se pojavljuje u rečenici: 'Film je sniman u Dubrovniku i Splitu'?",
+      "options": [
+        "Se-passive (reflexive passive)",
+        "Biti-passive with passive participle",
+        "An active construction",
+        "An impersonal construction without passive"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence uses **biti-passive**: je (biti) + sniman (passive participle of snimati). The participle sniman is masculine singular, agreeing with the subject 'film' (masculine)."
+    },
+    {
+      "id": "passive-voice-q3",
+      "prompt": "Who wrote the screenplay for the film?",
+      "promptHr": "Tko je napisao scenarij za film?",
+      "options": [
+        "Lead actress Marta Blažić",
+        "Composer Tomislav Horvat",
+        "Director Ivan Kovač together with screenwriter Petar Marković",
+        "A team from a London film company"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text says: „Scenarij je napisan od strane samog redatelja u suradnji s iskusnim scenaristom Petrom Markovićem.” This biti-passive sentence with od strane identifies the agents: the director and the screenwriter."
+    },
+    {
+      "id": "passive-voice-q4",
+      "prompt": "What tense is the passive in: 'Film će biti prikazan u Ujedinjenom Kraljevstvu sljedećeg mjeseca'?",
+      "promptHr": "Koje je glagolsko vrijeme pasiva u rečenici: 'Film će biti prikazan u Ujedinjenom Kraljevstvu sljedećeg mjeseca'?",
+      "options": [
+        "Present passive",
+        "Past passive",
+        "Future passive",
+        "Conditional passive"
+      ],
+      "correctIndex": 2,
+      "explanation": "Future passive is formed with **će biti** + passive participle. Here: će biti prikazan = will be shown. The word sljedećeg (next) also signals a future event."
+    },
+    {
+      "id": "passive-voice-q5",
+      "prompt": "How is the agent expressed in the sentence: 'Film je hvaljen od strane kritičara iz cijelog svijeta'?",
+      "promptHr": "Kako je agens izražen u rečenici: 'Film je hvaljen od strane kritičara iz cijelog svijeta'?",
+      "options": [
+        "With the preposition 'od' and the accusative case",
+        "With 'od strane' and the genitive case",
+        "With the preposition 'za' and the dative case",
+        "The agent is not expressed in this sentence"
+      ],
+      "correctIndex": 1,
+      "explanation": "The agent in Croatian biti-passive is expressed with **od strane** + genitive. Here, kritičara is the genitive form of kritičar (critic). Od strane kritičara = by critics."
+    }
+  ],
+  "test": [
+    {
+      "id": "passive-voice-q6",
+      "prompt": "What is the correct passive participle (masculine singular) of 'napisati' (to write)?",
+      "promptHr": "Koji je točan trpni pridjev (muški rod, jednina) glagola 'napisati'?",
+      "options": ["napišen", "napisan", "napisajen", "napisiven"],
+      "correctIndex": 1,
+      "explanation": "Napisati is an -ati verb, so the passive participle takes the **-an** suffix: **napisan** (m), napisana (f), napisano (n). The -an group covers most -ati verbs."
+    },
+    {
+      "id": "passive-voice-q7",
+      "prompt": "Which sentence correctly uses the se-passive?",
+      "promptHr": "Koja rečenica ispravno koristi se-pasiv?",
+      "options": [
+        "Ovdje se govori engleski.",
+        "Film je bio sniman od strane redatelja.",
+        "Knjiga će biti pročitana.",
+        "Pismo je napisano jučer."
+      ],
+      "correctIndex": 0,
+      "explanation": "**Ovdje se govori engleski** is a classic se-passive: reflexive particle se attached to the verb. It expresses a general fact (English is spoken here) without naming a specific agent."
+    },
+    {
+      "id": "passive-voice-q8",
+      "prompt": "The noun 'knjiga' (book) is feminine. Which passive participle form of 'čitati' agrees with it?",
+      "promptHr": "Imenica 'knjiga' je ženskog roda. Koji oblik trpnog pridjeva glagola 'čitati' se slaže s njom?",
+      "options": ["čitan", "čitano", "čitana", "čitani"],
+      "correctIndex": 2,
+      "explanation": "Feminine nouns take the **-ana** ending: knjiga je **čitana** (the book is read). Masculine → čitan, neuter → čitano, masculine plural → čitani."
+    },
+    {
+      "id": "passive-voice-q9",
+      "prompt": "Which sentence correctly expresses the past passive for 'pismo' (letter, neuter noun)?",
+      "promptHr": "Koja rečenica ispravno izražava prošli pasiv za imenicu 'pismo' (srednji rod)?",
+      "options": [
+        "Pismo je napisan.",
+        "Pismo je bilo napisano.",
+        "Pismo se napisalo.",
+        "Pismo piše."
+      ],
+      "correctIndex": 1,
+      "explanation": "Past passive uses **bilo je** + neuter participle for neuter nouns. Since pismo is neuter, the auxiliary is **bilo** and the participle is **napisano**: Pismo je **bilo napisano**."
+    },
+    {
+      "id": "passive-voice-q10",
+      "prompt": "Which sentence correctly expresses the agent using 'od strane'?",
+      "promptHr": "Koja rečenica ispravno izražava vršitelja radnje pomoću 'od strane'?",
+      "options": [
+        "Film je režiran od strane redatelju.",
+        "Film je režiran od strane redatelj.",
+        "Film je režiran od strane redatelja.",
+        "Film je režiran od strane redateljem."
+      ],
+      "correctIndex": 2,
+      "explanation": "**Od strane** requires the **genitive case**. Redatelj (director, masculine) → genitive singular: **redatelja**. The other options use dative (-u), nominative, or instrumental (-em), which are all wrong here."
+    },
+    {
+      "id": "passive-voice-q11",
+      "prompt": "Convert to se-passive: 'Radnici grade most.' (Workers are building the bridge.)",
+      "promptHr": "Pretvori u se-pasiv: 'Radnici grade most.'",
+      "options": [
+        "Most se grade od radnici.",
+        "Most se gradi.",
+        "Most je graden.",
+        "Most gradi se radnici."
+      ],
+      "correctIndex": 1,
+      "explanation": "Se-passive of graditi → gradi se. The grammatical subject becomes most (bridge, masculine singular), so the verb is 3rd person singular: **Most se gradi.** (The bridge is being built.)"
+    },
+    {
+      "id": "passive-voice-q12",
+      "prompt": "Translate to Croatian: 'The film will be shown next week.'",
+      "promptHr": "Prevedi na hrvatski: 'The film will be shown next week.'",
+      "options": [
+        "Film će prikazati sljedećeg tjedna.",
+        "Film će biti prikazan sljedećeg tjedna.",
+        "Film je prikazan sljedećeg tjedna.",
+        "Film se prikazivao sljedećeg tjedna."
+      ],
+      "correctIndex": 1,
+      "explanation": "Future passive = **će biti** + passive participle. Prikazati → prikazan (m, agreeing with film). Result: **Film će biti prikazan sljedećeg tjedna.**"
+    },
+    {
+      "id": "passive-voice-q13",
+      "prompt": "Translate to English: 'Kuća je prodana od strane vlasnika.'",
+      "promptHr": "Prevedi na engleski: 'Kuća je prodana od strane vlasnika.'",
+      "options": [
+        "The house was selling by the owner.",
+        "The house has been sold by the owner.",
+        "The owner sells the house.",
+        "The house sells itself."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kuća je prodana = the house has been sold (biti-passive, feminine: prodana agrees with kuća). Od strane vlasnika = by the owner (vlasnika is genitive of vlasnik)."
+    },
+    {
+      "id": "passive-voice-q14",
+      "prompt": "Fill in the blank: 'Ovdje se _____ kava.' (Coffee is served here.)",
+      "promptHr": "Popuni prazninu: 'Ovdje se _____ kava.'",
+      "options": ["služi", "služe", "poslužen", "poslužena"],
+      "correctIndex": 0,
+      "explanation": "In se-passive, the verb agrees with the grammatical subject. Kava (coffee, feminine singular) → 3rd person singular: **služi**. Ovdje se **služi** kava."
+    },
+    {
+      "id": "passive-voice-q15",
+      "prompt": "What is the passive participle (neuter) of 'otvoriti' (to open)?",
+      "promptHr": "Koji je trpni pridjev (srednji rod) glagola 'otvoriti'?",
+      "options": ["otvoritan", "otvoren", "otvoreno", "otvorit"],
+      "correctIndex": 2,
+      "explanation": "Otvoriti is an -iti verb, taking the **-en** suffix: otvoren (m), otvorena (f), **otvoreno** (n). No consonant change occurs here."
+    },
+    {
+      "id": "passive-voice-q16",
+      "prompt": "Which form of 'biti' is correct in the past passive when the subject is feminine?",
+      "promptHr": "Koji oblik glagola 'biti' je ispravan u prošlom pasivu kada je subjekt ženskog roda?",
+      "options": ["bio je", "bila je", "bilo je", "bili su"],
+      "correctIndex": 1,
+      "explanation": "The past passive auxiliary agrees with the subject in gender: masculine → **bio je**, feminine → **bila je**, neuter → **bilo je**, plural → **bili/bile/bila su**."
+    },
+    {
+      "id": "passive-voice-q17",
+      "prompt": "Which sentence is most appropriate for a formal news report about a law being passed?",
+      "promptHr": "Koja je rečenica najprikladnija za formalni novinski izvještaj o donošenju zakona?",
+      "options": [
+        "Zakon se donosi jučer.",
+        "Zakon je donesen jučer.",
+        "Zakon donosi se jučer.",
+        "Zakon su donosili jučer."
+      ],
+      "correctIndex": 1,
+      "explanation": "For formal and journalistic language, **biti-passive** is preferred. **Zakon je donesen jučer** (The law was passed yesterday) is grammatically correct biti-passive. Option A mixes se-passive with a past time marker incorrectly."
+    },
+    {
+      "id": "passive-voice-q18",
+      "prompt": "What is the passive participle (feminine) of 'graditi' (to build)?",
+      "promptHr": "Koji je trpni pridjev (ženski rod) glagola 'graditi'?",
+      "options": ["gradita", "građena", "gradjana", "gradena"],
+      "correctIndex": 1,
+      "explanation": "Graditi → consonant change d → đ, plus -en suffix: građen (m), **građena** (f), građeno (n). The change d → đ is a regular feature of this verb group."
+    },
+    {
+      "id": "passive-voice-q19",
+      "prompt": "Translate to Croatian: 'Croatian is spoken in Croatia.' (general statement)",
+      "promptHr": "Prevedi na hrvatski: 'Croatian is spoken in Croatia.' (opća tvrdnja)",
+      "options": [
+        "Hrvatski se govori u Hrvatskoj.",
+        "Hrvatski je govoren u Hrvatskoj.",
+        "U Hrvatskoj govori hrvatski.",
+        "Hrvatski govori se u Hrvatskoj."
+      ],
+      "correctIndex": 0,
+      "explanation": "General statements about language use the **se-passive**: **Hrvatski se govori u Hrvatskoj.** The se-passive is the natural choice here; biti-passive (option B) would be grammatically unusual for this type of general fact."
+    },
+    {
+      "id": "passive-voice-q20",
+      "prompt": "Which sentence is in the future passive?",
+      "promptHr": "Koja rečenica je u budućem pasivu?",
+      "options": [
+        "Pismo je napisano.",
+        "Pismo je bilo napisano.",
+        "Pismo će biti napisano.",
+        "Pismo se piše."
+      ],
+      "correctIndex": 2,
+      "explanation": "Future passive = **će biti** + participle. **Pismo će biti napisano** = The letter will be written. Option A is present passive, option B is past passive, option D is se-passive."
+    },
+    {
+      "id": "passive-voice-q21",
+      "prompt": "Fill in the blank: 'Roman je _____ od strane poznatog pisca.' (The novel was written by a famous writer.)",
+      "promptHr": "Popuni prazninu: 'Roman je _____ od strane poznatog pisca.'",
+      "options": ["piše", "pisao", "napisan", "napisati"],
+      "correctIndex": 2,
+      "explanation": "Biti-passive requires a **passive participle** after je. Roman is masculine singular, so: **napisan** (from napisati). Roman je **napisan** od strane poznatog pisca."
+    },
+    {
+      "id": "passive-voice-q22",
+      "prompt": "What grammatical case follows 'od strane' when expressing the agent?",
+      "promptHr": "Koji padež slijedi nakon 'od strane' kada se izražava vršitelj radnje?",
+      "options": ["Nominative (Nominativ)", "Genitive (Genitiv)", "Dative (Dativ)", "Instrumental (Instrumental)"],
+      "correctIndex": 1,
+      "explanation": "**Od strane** is always followed by the **genitive case** (genitiv). Example: od strane redatelja (by the director) — redatelja is genitive of redatelj."
+    },
+    {
+      "id": "passive-voice-q23",
+      "prompt": "Which passive participle of 'voljeti' (to love) is correct for a masculine noun?",
+      "promptHr": "Koji trpni pridjev glagola 'voljeti' je ispravan za imenicu muškog roda?",
+      "options": ["voljan", "voljetan", "voljen", "voljiven"],
+      "correctIndex": 2,
+      "explanation": "Voljeti → passive participle with suffix **-en**: **voljen** (m), voljena (f), voljeno (n). No consonant change occurs. Voljan means willing/voluntary and is a different adjective."
+    },
+    {
+      "id": "passive-voice-q24",
+      "prompt": "Identify the type of passive in: 'Hrana se kuha svaki dan.' (Food is cooked every day.)",
+      "promptHr": "Prepoznaj vrstu pasiva u: 'Hrana se kuha svaki dan.'",
+      "options": [
+        "Biti-passive (formal passive)",
+        "Se-passive (reflexive passive)",
+        "Active voice with reflexive verb",
+        "Impersonal future"
+      ],
+      "correctIndex": 1,
+      "explanation": "The particle **se** attached to kuha makes this a **se-passive**. It expresses a habitual action (every day) without naming who does the cooking — exactly the context where se-passive is preferred."
+    },
+    {
+      "id": "passive-voice-q25",
+      "prompt": "Convert to biti-passive: 'Gradonačelnik je otvorio novi park.' (The mayor opened the new park.)",
+      "promptHr": "Pretvori u biti-pasiv: 'Gradonačelnik je otvorio novi park.'",
+      "options": [
+        "Novi park se otvorio.",
+        "Novi park je otvoren od strane gradonačelnika.",
+        "Gradonačelnik je bio otvoren.",
+        "Park je otvorio gradonačelnik."
+      ],
+      "correctIndex": 1,
+      "explanation": "Biti-passive: new subject (novi park, m) + je + participle (otvoren, m) + agent (od strane gradonačelnika). Result: **Novi park je otvoren od strane gradonačelnika.**"
+    },
+    {
+      "id": "passive-voice-q26",
+      "prompt": "Translate to English: 'Glazba je komponirana od strane mladog skladatelja.'",
+      "promptHr": "Prevedi na engleski: 'Glazba je komponirana od strane mladog skladatelja.'",
+      "options": [
+        "The music is composing by a young composer.",
+        "A young composer played the music.",
+        "The music was composed by a young composer.",
+        "The young composer liked the music."
+      ],
+      "correctIndex": 2,
+      "explanation": "Glazba je komponirana = the music was composed (biti-passive, feminine: komponirana agrees with glazba). Od strane mladog skladatelja = by a young composer (genitive after od strane)."
+    },
+    {
+      "id": "passive-voice-q27",
+      "prompt": "Which sentence uses 'od strane' with the correct case?",
+      "promptHr": "Koja rečenica ispravno koristi 'od strane' s ispravnim padežom?",
+      "options": [
+        "Film je hvaljen od strane kritičara.",
+        "Film je hvaljen od strane kritičaru.",
+        "Film je hvaljen od strane kritičarom.",
+        "Film je hvaljen od strane kritičari."
+      ],
+      "correctIndex": 0,
+      "explanation": "Od strane requires genitive. Kritičar (critic, masculine) → genitive singular: **kritičara**. Option B is dative (-u), option C is instrumental (-om), option D is nominative plural. Only option A is correct."
+    },
+    {
+      "id": "passive-voice-q28",
+      "prompt": "Fill in the blank: 'Projekt _____ biti dovršen do kraja tjedna.' (The project will be finished by the end of the week.)",
+      "promptHr": "Popuni prazninu: 'Projekt _____ biti dovršen do kraja tjedna.'",
+      "options": ["je", "bio", "će", "bi"],
+      "correctIndex": 2,
+      "explanation": "Future passive uses **će biti** + participle. The missing auxiliary is **će**: Projekt **će** biti dovršen do kraja tjedna. (Je gives present, bio gives past, bi gives conditional.)"
+    },
+    {
+      "id": "passive-voice-q29",
+      "prompt": "What tense is used in: 'Knjiga je bila pročitana od strane svih učenika.'?",
+      "promptHr": "Koje glagolsko vrijeme je korišteno u: 'Knjiga je bila pročitana od strane svih učenika.'?",
+      "options": [
+        "Present passive",
+        "Past passive",
+        "Future passive",
+        "Conditional passive"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Past passive** uses bila/bio/bilo + je + participle. Knjiga (f) → **bila je** + pročitana = the book was read / had been read. Od strane svih učenika = by all the students."
+    },
+    {
+      "id": "passive-voice-q30",
+      "prompt": "Which sentence best describes a general, ongoing situation using the most natural passive type?",
+      "promptHr": "Koja rečenica najbolje opisuje općenitu, trajnu situaciju koristeći najprikladniju vrstu pasiva?",
+      "options": [
+        "Ulaznice su bile prodane od strane blagajnika.",
+        "Ulaznice će biti prodane sutra.",
+        "Ulaznice se prodaju u svim kinima.",
+        "Blagajnik je prodao ulaznice."
+      ],
+      "correctIndex": 2,
+      "explanation": "For **general or ongoing situations**, se-passive is the most natural choice: **Ulaznice se prodaju u svim kinima** (Tickets are sold in all cinemas). It states a habitual fact without specifying an agent. Option A is past biti-passive, option B is future, option D is active."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "Se-passive — general statements",
+      "items": [
+        { "hr": "Ovdje se govori engleski.", "en": "English is spoken here.", "note": "se-passive for general language use" },
+        { "hr": "Kava se pije ujutro.", "en": "Coffee is drunk in the morning.", "note": "habitual action, no agent named" },
+        { "hr": "Film se prikazuje u kinu.", "en": "The film is being shown at the cinema.", "note": "ongoing action" },
+        { "hr": "Knjige se prodaju u knjižari.", "en": "Books are sold in the bookshop.", "note": "general statement, plural subject" },
+        { "hr": "Ovdje se ne puši.", "en": "Smoking is not permitted here.", "note": "negative se-passive" },
+        { "hr": "Ulaznice se kupuju unaprijed.", "en": "Tickets are bought in advance.", "note": "habitual general action" }
+      ]
+    },
+    {
+      "context": "Biti-passive — formal and written language",
+      "items": [
+        { "hr": "Film je snimljen u Dubrovniku.", "en": "The film was shot in Dubrovnik.", "note": "biti-passive, masculine subject" },
+        { "hr": "Zakon je donesen u parlamentu.", "en": "The law was passed in parliament.", "note": "formal/journalistic language" },
+        { "hr": "Nagrada je dodijeljena mladom glumcu.", "en": "The award was given to the young actor.", "note": "biti-passive, feminine subject (nagrada)" },
+        { "hr": "Knjiga je napisana od strane poznatog autora.", "en": "The book was written by a famous author.", "note": "biti-passive with od strane agent" },
+        { "hr": "Most je otvoren od strane predsjednika.", "en": "The bridge was opened by the president.", "note": "formal ceremony language" },
+        { "hr": "Pismo je potpisano od strane direktora.", "en": "The letter was signed by the director.", "note": "official document language, neuter subject" }
+      ]
+    },
+    {
+      "context": "Passive participle forms (-an/-en)",
+      "items": [
+        { "hr": "napisan / napisana / napisano", "en": "written (m/f/n)", "note": "napisati → -an suffix" },
+        { "hr": "čitan / čitana / čitano", "en": "read (m/f/n)", "note": "čitati → -an suffix" },
+        { "hr": "prodan / prodana / prodano", "en": "sold (m/f/n)", "note": "prodati → -an suffix" },
+        { "hr": "građen / građena / građeno", "en": "built (m/f/n)", "note": "graditi → -en suffix, d → đ change" },
+        { "hr": "viđen / viđena / viđeno", "en": "seen (m/f/n)", "note": "vidjeti → -en suffix, dj → đ change" },
+        { "hr": "otvoren / otvorena / otvoreno", "en": "opened (m/f/n)", "note": "otvoriti → -en suffix, no consonant change" },
+        { "hr": "voljen / voljena / voljeno", "en": "loved (m/f/n)", "note": "voljeti → -en suffix, no consonant change" },
+        { "hr": "napravljen / napravljena / napravljeno", "en": "made (m/f/n)", "note": "napraviti → -en suffix, v → vlj change" }
+      ]
+    },
+    {
+      "context": "Passive in different tenses",
+      "items": [
+        { "hr": "Film je prikazan. (sadašnjost)", "en": "The film is shown. (present)", "note": "je + participle" },
+        { "hr": "Film je bio prikazan. (prošlost)", "en": "The film was shown. (past)", "note": "bio/bila/bilo + je + participle" },
+        { "hr": "Film će biti prikazan. (budućnost)", "en": "The film will be shown. (future)", "note": "će biti + participle" },
+        { "hr": "Dokument je potpisan.", "en": "The document is signed.", "note": "present passive, masculine noun" },
+        { "hr": "Kuća je bila prodana.", "en": "The house had been sold.", "note": "past passive, feminine noun" },
+        { "hr": "Projekt će biti dovršen.", "en": "The project will be finished.", "note": "future passive, masculine noun" }
+      ]
+    },
+    {
+      "context": "Agent: od strane + genitive",
+      "items": [
+        { "hr": "od strane redatelja", "en": "by the director", "note": "redatelj → genitive: redatelja" },
+        { "hr": "od strane kritičara", "en": "by the critics", "note": "kritičar → genitive: kritičara" },
+        { "hr": "od strane žirija", "en": "by the jury", "note": "žiri → genitive: žirija" },
+        { "hr": "od strane vlade", "en": "by the government", "note": "vlada → genitive: vlade" },
+        { "hr": "od strane svih učenika", "en": "by all the students", "note": "učenici → genitive plural: učenika" },
+        { "hr": "od strane mladog pisca", "en": "by a young writer", "note": "adjective and noun both in genitive" }
+      ]
+    }
+  ]
+}

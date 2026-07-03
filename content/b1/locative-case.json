@@ -1,0 +1,426 @@
+{
+  "id": "locative-case",
+  "level": "b1",
+  "order": 3,
+  "title": {
+    "hr": "Lokativ (potpuno)",
+    "en": "Locative Case (Full)"
+  },
+  "grammar": {
+    "title": {
+      "hr": "Lokativ — padež koji uvijek zahtijeva prijedlog",
+      "en": "The Locative Case — A Case That Always Requires a Preposition"
+    },
+    "intro": "The **lokativ** (locative case) is unique in Croatian — it is the only case that **never appears without a preposition**. The five prepositions that govern the locative are:\n\n- **u** — in, inside (location)\n- **na** — on, at (surface or open place)\n- **o** — about (topic of speech or thought)\n- **po** — around, throughout (movement through a place)\n- **pri** — at, near (formal or institutional context)\n\nThe locative singular endings differ by gender and noun class. The locative plural is identical to the dative plural.",
+    "rules": [
+      {
+        "label": "Masculine and Neuter Singular — add **-u**",
+        "explanation": "Most **masculine** and **neuter** nouns simply add **-u** in the locative singular. The stem does not change for the majority of nouns. Nouns ending in soft consonants (č, ć, š, ž, j) also take **-u**.\n\nNote: velar consonants (**k**, **g**, **h**) may trigger softening before the locative ending in certain forms, but in standard modern Croatian masculine nouns typically keep the hard consonant before **-u**. Consistent velar softening occurs in feminine -a nouns — see Rule 2.",
+        "examples": [
+          { "hr": "u gradu", "en": "in the city (grad → gradu, M)" },
+          { "hr": "u uredu", "en": "in the office (ured → uredu, M)" },
+          { "hr": "na moru", "en": "at the sea (more → moru, N)" },
+          { "hr": "na mjestu", "en": "at the place (mjesto → mjestu, N)" },
+          { "hr": "o čovjeku", "en": "about the person (čovjek → čovjeku, M)" }
+        ]
+      },
+      {
+        "label": "Feminine -a Singular — **-a → -i** with velar softening",
+        "explanation": "Feminine nouns whose nominative ends in **-a** drop the **-a** and add **-i** in the locative singular.\n\nIf the stem ends in a velar consonant, **sibilarization** (velar softening) occurs consistently before **-i**:\n- **k → c**: ruka → ruci, banka → banci\n- **g → z**: knjiga → knjizi, noga → nozi\n- **h → s**: muha → musi\n\nThis softening is regular and must be memorised for all feminine -a nouns with velar stem consonants.",
+        "examples": [
+          { "hr": "o ženi", "en": "about the woman (žena → ženi)" },
+          { "hr": "u školi", "en": "in the school (škola → školi)" },
+          { "hr": "na ruci", "en": "on the hand (ruka → ruci, k → c)" },
+          { "hr": "o knjizi", "en": "about the book (knjiga → knjizi, g → z)" },
+          { "hr": "o nozi", "en": "about the leg (noga → nozi, g → z)" },
+          { "hr": "o musi", "en": "about the fly (muha → musi, h → s)" }
+        ]
+      },
+      {
+        "label": "Feminine Consonant-Stem Singular — add **-i**",
+        "explanation": "Feminine nouns whose nominative does **not** end in **-a** (consonant-stem feminines) simply add **-i** in the locative singular. No stem change occurs.",
+        "examples": [
+          { "hr": "o stvari", "en": "about the thing (stvar → stvari)" },
+          { "hr": "u noći", "en": "in the night (noć → noći)" },
+          { "hr": "o ljubavi", "en": "about love (ljubav → ljubavi)" },
+          { "hr": "u povijesti", "en": "in history (povijest → povijesti)" }
+        ]
+      },
+      {
+        "label": "Plural — **-ima** (M/N) and **-ama / -ima** (F)",
+        "explanation": "The locative plural is identical to the **dative plural** in Croatian:\n\n- **Masculine and neuter** nouns add **-ima** to the plural stem: gradovi → gradovima, mora → morima.\n- **Feminine -a** nouns add **-ama**: žene → ženama, knjige → knjigama.\n- **Feminine consonant-stem** nouns add **-ima**: stvari → stvarima, noći → noćima.",
+        "examples": [
+          { "hr": "o prijateljima", "en": "about friends (prijatelji → prijateljima, M pl)" },
+          { "hr": "po gradovima", "en": "around cities (gradovi → gradovima, M pl)" },
+          { "hr": "u ženama", "en": "among women (žene → ženama, F pl)" },
+          { "hr": "o stvarima", "en": "about things (stvari → stvarima, F cons. pl)" }
+        ]
+      }
+    ],
+    "table": {
+      "headers": ["Vrsta (Type)", "Nominativ jd.", "Lokativ jd.", "Lokativ mn."],
+      "rows": [
+        ["M — grad (city)", "grad", "gradu", "gradovima"],
+        ["M velar — vojnik (soldier)", "vojnik", "vojniku", "vojnicima"],
+        ["N — more (sea)", "more", "moru", "morima"],
+        ["F -a — žena (woman)", "žena", "ženi", "ženama"],
+        ["F -a velar — knjiga (book)", "knjiga", "knjizi", "knjigama"],
+        ["F kons. — stvar (thing)", "stvar", "stvari", "stvarima"]
+      ]
+    }
+  },
+  "reading": {
+    "title": {
+      "hr": "Život u Zagrebu",
+      "en": "Life in Zagreb"
+    },
+    "paragraphs": [
+      {
+        "hr": "Marko priča Ani o svom životu u Zagrebu. Kaže da svako jutro voli šetati po starom gradu i gledati stare crkve, uske ulice i zgrade iz devetnaestog stoljeća.",
+        "en": "Marko is telling Ana about his life in Zagreb. He says that every morning he likes to walk around the old town and look at the old churches, narrow streets, and buildings from the nineteenth century."
+      },
+      {
+        "hr": "Na kafiću na Trgu bana Jelačića, Marko i prijatelji uvijek razgovaraju o politici i sportu. Marko kaže da je to njihova omiljena tema razgovora.",
+        "en": "At the café on Ban Jelačić Square, Marko and his friends always talk about politics and sports. Marko says that it is their favourite topic of conversation."
+      },
+      {
+        "hr": "Zagreb je poznat po Adventu. U prosincu turisti iz cijele Europe šetaju po ukrašenim trgovima i uživaju u posebnoj zimskoj atmosferi.",
+        "en": "Zagreb is known for its Advent. In December, tourists from all over Europe walk around the decorated squares and enjoy the special winter atmosphere."
+      },
+      {
+        "hr": "Marko radi u velikom uredu u centru grada. Na poslu razmišlja o projektima i sastancima, ali ponekad misli i o odmoru.",
+        "en": "Marko works in a large office in the city centre. At work he thinks about projects and meetings, but sometimes he also thinks about rest."
+      },
+      {
+        "hr": "Stanuje u lijepom stanu u Gornjem gradu. Misli da je to najljepši dio Zagreba, posebno u proljeće kada cvijeta lipa.",
+        "en": "He lives in a nice flat in Gornji Grad. He thinks it is the most beautiful part of Zagreb, especially in spring when the linden tree blossoms."
+      },
+      {
+        "hr": "Ponekad Marko razmišlja o preseljenju na obalu. Sanja o životu u kući pri moru u Dalmaciji, ali ne zna je li spreman napustiti Zagreb.",
+        "en": "Sometimes Marko thinks about moving to the coast. He dreams about living in a house by the sea in Dalmatia, but he does not know if he is ready to leave Zagreb."
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "id": "locative-case-q1",
+      "prompt": "Where does Marko like to walk every morning?",
+      "promptHr": "Gdje Marko voli šetati svako jutro?",
+      "options": ["po starom gradu", "u novom gradu", "na plaži", "u parku"],
+      "correctIndex": 0,
+      "explanation": "The text says Marko voli šetati **po starom gradu** — around the old town (po + locative)."
+    },
+    {
+      "id": "locative-case-q2",
+      "prompt": "What do Marko and his friends always talk about at the café?",
+      "promptHr": "O čemu Marko i prijatelji uvijek razgovaraju na kafiću?",
+      "options": ["o glazbi i hrani", "o politici i sportu", "o putovanjima", "o poslu"],
+      "correctIndex": 1,
+      "explanation": "The text says they talk **o politici i sportu** — about politics and sports (o + locative)."
+    },
+    {
+      "id": "locative-case-q3",
+      "prompt": "What is Zagreb known for, according to the text?",
+      "promptHr": "Po čemu je Zagreb poznat, prema tekstu?",
+      "options": ["po Adventu", "po plaži", "po moru", "po planinama"],
+      "correctIndex": 0,
+      "explanation": "The text says Zagreb je poznat **po Adventu** — known for its Advent (po + locative)."
+    },
+    {
+      "id": "locative-case-q4",
+      "prompt": "Where does Marko work?",
+      "promptHr": "Gdje Marko radi?",
+      "options": ["u školi", "na sveučilištu", "u velikom uredu u centru grada", "kod kuće"],
+      "correctIndex": 2,
+      "explanation": "The text says Marko radi **u velikom uredu u centru grada** — in a large office in the city centre (u + locative)."
+    },
+    {
+      "id": "locative-case-q5",
+      "prompt": "What does Marko dream about at the end of the text?",
+      "promptHr": "O čemu Marko sanja na kraju teksta?",
+      "options": [
+        "o životu u Splitu",
+        "o životu u kući pri moru u Dalmaciji",
+        "o životu u inozemstvu",
+        "o odmoru na planini"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says he dreams **o životu u kući pri moru u Dalmaciji** — about life in a house by the sea in Dalmatia."
+    }
+  ],
+  "test": [
+    {
+      "id": "locative-case-q6",
+      "prompt": "What is the correct locative singular form of **grad** (city)?",
+      "options": ["grad", "grada", "gradu", "gradom"],
+      "correctIndex": 2,
+      "explanation": "Masculine nouns add **-u** in the locative singular: grad → **gradu**."
+    },
+    {
+      "id": "locative-case-q7",
+      "prompt": "What is the correct locative singular form of **knjiga** (book)? Watch the velar consonant.",
+      "options": ["knjigi", "knjizi", "knjige", "knjigama"],
+      "correctIndex": 1,
+      "explanation": "Feminine -a noun: -a → -i. The velar **g** softens to **z** before -i: knjiga → knji**z**i."
+    },
+    {
+      "id": "locative-case-q8",
+      "prompt": "What is the correct locative singular form of **ruka** (hand)? Watch the velar consonant.",
+      "options": ["ruki", "ruci", "ruke", "rukom"],
+      "correctIndex": 1,
+      "explanation": "Feminine -a noun: -a → -i. The velar **k** softens to **c** before -i: ruka → ru**c**i."
+    },
+    {
+      "id": "locative-case-q9",
+      "prompt": "What is the correct locative singular form of **stvar** (thing)?",
+      "options": ["stvaru", "stvara", "stvari", "stvarom"],
+      "correctIndex": 2,
+      "explanation": "**Stvar** is a feminine consonant-stem noun. These nouns add **-i** in the locative singular: stvar → **stvari**."
+    },
+    {
+      "id": "locative-case-q10",
+      "prompt": "Which preposition expresses location **inside** a place (e.g. in the city, in the flat)?",
+      "options": ["na", "o", "u", "po"],
+      "correctIndex": 2,
+      "explanation": "**u** + locative expresses being inside a place: u gradu (in the city), u stanu (in the flat)."
+    },
+    {
+      "id": "locative-case-q11",
+      "prompt": "Which preposition is used to talk **about** a topic?",
+      "options": ["u", "na", "pri", "o"],
+      "correctIndex": 3,
+      "explanation": "**o** + locative means about: o politici (about politics), o životu (about life)."
+    },
+    {
+      "id": "locative-case-q12",
+      "prompt": "Fill in the blank: Marko radi ___ uredu. (Marko works in the office.)",
+      "options": ["na", "o", "u", "po"],
+      "correctIndex": 2,
+      "explanation": "**u uredu** — u + locative for location inside an enclosed space: ured → **uredu**."
+    },
+    {
+      "id": "locative-case-q13",
+      "prompt": "Fill in the blank: Razgovaramo ___ politici. (We are talking about politics.)",
+      "options": ["na", "o", "u", "pri"],
+      "correctIndex": 1,
+      "explanation": "**o politici** — o + locative for topic. Politika → **politici** (k → c velar softening)."
+    },
+    {
+      "id": "locative-case-q14",
+      "prompt": "What is the locative singular of **more** (sea), a neuter noun?",
+      "options": ["mora", "moru", "more", "morom"],
+      "correctIndex": 1,
+      "explanation": "Neuter nouns add **-u** in the locative singular, just like most masculine nouns: more → **moru**."
+    },
+    {
+      "id": "locative-case-q15",
+      "prompt": "Fill in the blank: Knjiga je ___ stolu. (The book is on the table.)",
+      "options": ["na stolu", "u stolu", "o stolu", "po stolu"],
+      "correctIndex": 0,
+      "explanation": "**na stolu** — na + locative for location on a surface. Stol (M) → **stolu** in the locative."
+    },
+    {
+      "id": "locative-case-q16",
+      "prompt": "Which sentence uses the locative case correctly?",
+      "options": [
+        "Živim u grad.",
+        "Živim u gradu.",
+        "Živim u grada.",
+        "Živim u gradom."
+      ],
+      "correctIndex": 1,
+      "explanation": "After **u** (location), the noun must be in the locative: grad → **gradu**. The other options use nominative, genitive, or instrumental."
+    },
+    {
+      "id": "locative-case-q17",
+      "prompt": "What is the locative plural of **prijatelj** (friend)?",
+      "options": ["prijatelji", "prijatelje", "prijateljima", "prijatelja"],
+      "correctIndex": 2,
+      "explanation": "Masculine nouns form the locative plural with **-ima**: prijatelji (nom. pl.) → **prijateljima**."
+    },
+    {
+      "id": "locative-case-q18",
+      "prompt": "Translate into Croatian: I think about my sister. (sestra = sister, F -a noun)",
+      "options": [
+        "Razmišljam o svojoj sestri.",
+        "Razmišljam o svoju sestru.",
+        "Razmišljam o svojom sestrom.",
+        "Razmišljam o svoja sestra."
+      ],
+      "correctIndex": 0,
+      "explanation": "**o + locative**: sestra → **sestri**. The possessive adjective **svojoj** agrees with the noun in locative feminine singular."
+    },
+    {
+      "id": "locative-case-q19",
+      "prompt": "What is the locative form of **muha** (fly)? Identify the velar softening.",
+      "options": ["muhi", "musi", "muhe", "muhom"],
+      "correctIndex": 1,
+      "explanation": "Feminine -a noun: -a → -i. The velar **h** softens to **s** before -i: muha → mu**s**i."
+    },
+    {
+      "id": "locative-case-q20",
+      "prompt": "Fill in the blank: Šetamo ___ parku. (We are walking around the park.)",
+      "options": ["u", "na", "po", "pri"],
+      "correctIndex": 2,
+      "explanation": "**po** + locative expresses movement around or throughout a place: **po parku** (around the park)."
+    },
+    {
+      "id": "locative-case-q21",
+      "prompt": "The preposition **pri** + locative is best described as:",
+      "options": [
+        "inside a closed space",
+        "on a flat surface",
+        "moving through an area",
+        "at or near an institution (formal context)"
+      ],
+      "correctIndex": 3,
+      "explanation": "**pri** + locative is a formal preposition meaning at or near, most commonly used with institutions: pri fakultetu (at the faculty), pri moru (near the sea)."
+    },
+    {
+      "id": "locative-case-q22",
+      "prompt": "What is the locative singular of **noga** (leg/foot)? Watch the velar consonant.",
+      "options": ["nogi", "nozi", "noge", "nogom"],
+      "correctIndex": 1,
+      "explanation": "Feminine -a noun: -a → -i. The velar **g** softens to **z** before -i: noga → no**z**i."
+    },
+    {
+      "id": "locative-case-q23",
+      "prompt": "Translate into English: Govorimo o mom novom poslu.",
+      "options": [
+        "We talk about my new job.",
+        "We talk on my new job.",
+        "We talk in my new job.",
+        "We talk for my new job."
+      ],
+      "correctIndex": 0,
+      "explanation": "**o + locative** = about. Posao (job, M) → **poslu** in the locative singular."
+    },
+    {
+      "id": "locative-case-q24",
+      "prompt": "Translate into Croatian: She lives in a big city. (grad = city, velik = big)",
+      "options": [
+        "Ona živi u velikom gradu.",
+        "Ona živi na velikom gradu.",
+        "Ona živi u veliki grad.",
+        "Ona živi o velikom gradu."
+      ],
+      "correctIndex": 0,
+      "explanation": "**u + locative**: grad → **gradu**. The adjective velik → **velikom** agrees in the locative masculine singular."
+    },
+    {
+      "id": "locative-case-q25",
+      "prompt": "Fill in the blank: Razgovaramo ___ Zagrebu. (We are talking about Zagreb.)",
+      "options": ["u", "na", "o", "po"],
+      "correctIndex": 2,
+      "explanation": "**o + locative** for topic: **o Zagrebu**. Zagreb (M) → **Zagrebu** in the locative singular."
+    },
+    {
+      "id": "locative-case-q26",
+      "prompt": "Which form is correct for the locative of **mjesto** (place) after **u**?",
+      "options": ["u mjesto", "u mjesta", "u mjestu", "u mjestom"],
+      "correctIndex": 2,
+      "explanation": "**Mjesto** is a neuter noun. Neuter nouns add **-u** in the locative singular: mjesto → **mjestu**."
+    },
+    {
+      "id": "locative-case-q27",
+      "prompt": "What is the locative plural of **žena** (woman)?",
+      "options": ["ženama", "ženi", "žene", "ženima"],
+      "correctIndex": 0,
+      "explanation": "Feminine -a nouns form the locative plural with **-ama**: žena → žene (nom. pl.) → **ženama**."
+    },
+    {
+      "id": "locative-case-q28",
+      "prompt": "Fill in the blank: Knjižnica se nalazi ___ fakultetu. (The library is at the faculty.) — formal context",
+      "options": ["u", "na", "po", "pri"],
+      "correctIndex": 3,
+      "explanation": "**pri + locative** is used in formal contexts to mean at/near an institution: **pri fakultetu** (at the faculty)."
+    },
+    {
+      "id": "locative-case-q29",
+      "prompt": "Translate into Croatian: We are walking around the old town. (stari grad = old town)",
+      "options": [
+        "Šetamo u starom gradu.",
+        "Šetamo po starom gradu.",
+        "Šetamo na starom gradu.",
+        "Šetamo o starom gradu."
+      ],
+      "correctIndex": 1,
+      "explanation": "**po + locative** expresses movement around a place: po **starom gradu**. The adjective stari → **starom** agrees in the locative masculine singular."
+    },
+    {
+      "id": "locative-case-q30",
+      "prompt": "Fill in the blank: ___ čemu razmišljaš? (What are you thinking about?)",
+      "options": ["U", "Na", "O", "Po"],
+      "correctIndex": 2,
+      "explanation": "**o + locative** expresses the object of thought: **o čemu** (about what). Čemu is the locative form of što (what)."
+    }
+  ],
+  "chunks": [
+    {
+      "context": "**U + lokativ** — Use **u** + locative to express location **inside** a place or enclosed space.",
+      "items": [
+        { "hr": "u gradu", "en": "in the city", "note": "grad → gradu (M sg)" },
+        { "hr": "u stanu", "en": "in the flat", "note": "stan → stanu (M sg)" },
+        { "hr": "u uredu", "en": "in the office", "note": "ured → uredu (M sg)" },
+        { "hr": "u školi", "en": "in the school", "note": "škola → školi (F -a sg)" },
+        { "hr": "u sobi", "en": "in the room", "note": "soba → sobi (F -a sg)" },
+        { "hr": "u Hrvatskoj", "en": "in Croatia", "note": "Hrvatska → Hrvatskoj (F -a sg)" },
+        { "hr": "u centru", "en": "in the centre", "note": "centar → centru (M sg)" },
+        { "hr": "u noći", "en": "in the night", "note": "noć → noći (F cons. sg)" }
+      ]
+    },
+    {
+      "context": "**Na + lokativ** — Use **na** + locative to express location **on a surface** or **at an open or outdoor place**.",
+      "items": [
+        { "hr": "na stolu", "en": "on the table", "note": "stol → stolu (M sg)" },
+        { "hr": "na trgu", "en": "on the square", "note": "trg → trgu (M sg)" },
+        { "hr": "na poslu", "en": "at work", "note": "posao → poslu (M sg, irregular stem)" },
+        { "hr": "na plaži", "en": "on the beach", "note": "plaža → plaži (F -a sg)" },
+        { "hr": "na moru", "en": "at the sea", "note": "more → moru (N sg)" },
+        { "hr": "na fakultetu", "en": "at the faculty", "note": "fakultet → fakultetu (M sg)" },
+        { "hr": "na kafiću", "en": "at the café", "note": "kafić → kafiću (M sg)" }
+      ]
+    },
+    {
+      "context": "**O + lokativ** — Use **o** + locative to talk **about** a topic or express the subject of thought.",
+      "items": [
+        { "hr": "o politici", "en": "about politics", "note": "politika → politici (F -a sg, k → c)" },
+        { "hr": "o životu", "en": "about life", "note": "život → životu (M sg)" },
+        { "hr": "o poslu", "en": "about work", "note": "posao → poslu (M sg)" },
+        { "hr": "o ljubavi", "en": "about love", "note": "ljubav → ljubavi (F cons. sg)" },
+        { "hr": "o vremenu", "en": "about the weather", "note": "vrijeme → vremenu (N sg)" },
+        { "hr": "o putovanju", "en": "about travel", "note": "putovanje → putovanju (N sg)" },
+        { "hr": "o povijesti", "en": "about history", "note": "povijest → povijesti (F cons. sg)" },
+        { "hr": "o čemu", "en": "about what", "note": "interrogative locative of što (what)" }
+      ]
+    },
+    {
+      "context": "**Po + lokativ** — Use **po** + locative to express **movement around** or **throughout** a place, or what something is known for.",
+      "items": [
+        { "hr": "po gradu", "en": "around the city", "note": "grad → gradu (M sg)" },
+        { "hr": "po starom gradu", "en": "around the old town", "note": "stari grad → starom gradu (M sg + adj.)" },
+        { "hr": "po parku", "en": "around the park", "note": "park → parku (M sg)" },
+        { "hr": "po kući", "en": "around the house", "note": "kuća → kući (F -a sg)" },
+        { "hr": "po tržnici", "en": "around the market", "note": "tržnica → tržnici (F -a sg)" },
+        { "hr": "po Europi", "en": "around Europe", "note": "Europa → Europi (F -a sg)" },
+        { "hr": "poznat po Adventu", "en": "known for (its) Advent", "note": "Advent → Adventu (M sg) — po + locative also expresses what something is known for" }
+      ]
+    },
+    {
+      "context": "**Lokativni oblici imenica** — Key noun locative forms by pattern. Memorise these.",
+      "items": [
+        { "hr": "grad → gradu", "en": "city (M sg, add -u)" },
+        { "hr": "more → moru", "en": "sea (N sg, add -u)" },
+        { "hr": "žena → ženi", "en": "woman (F -a sg, -a → -i)" },
+        { "hr": "knjiga → knjizi", "en": "book (F -a sg, g → z, -a → -i)" },
+        { "hr": "ruka → ruci", "en": "hand (F -a sg, k → c, -a → -i)" },
+        { "hr": "muha → musi", "en": "fly (F -a sg, h → s, -a → -i)" },
+        { "hr": "stvar → stvari", "en": "thing (F cons. sg, add -i)" },
+        { "hr": "noć → noći", "en": "night (F cons. sg, add -i)" },
+        { "hr": "prijatelji → prijateljima", "en": "friends (M pl, add -ima)" },
+        { "hr": "žene → ženama", "en": "women (F -a pl, add -ama)" },
+        { "hr": "stvari → stvarima", "en": "things (F cons. pl, add -ima)" }
+      ]
+    }
+  ]
+}

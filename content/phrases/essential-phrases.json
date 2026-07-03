@@ -1,0 +1,158 @@
+{
+  "id": "essential-phrases",
+  "level": "b1",
+  "title": { "hr": "Bitne fraze na hrvatskom", "en": "Essential Croatian Phrases" },
+  "intro": "A practical collection of must-know Croatian expressions — from first greetings to handling travel problems — organised by situation.",
+  "groups": [
+    {
+      "context": "Greetings & Farewells",
+      "items": [
+        { "hr": "Dobro jutro!", "en": "Good morning!", "note": "used until around noon" },
+        { "hr": "Dobar dan!", "en": "Good afternoon!", "note": "used from noon until evening" },
+        { "hr": "Dobra večer!", "en": "Good evening!" },
+        { "hr": "Laku noć!", "en": "Good night!" },
+        { "hr": "Zdravo! / Bok!", "en": "Hi! / Hey!", "note": "informal" },
+        { "hr": "Doviđenja!", "en": "Goodbye!", "note": "formal" },
+        { "hr": "Čao!", "en": "Bye!", "note": "informal, from Italian ciao" },
+        { "hr": "Do sutra!", "en": "See you tomorrow!" },
+        { "hr": "Kako si?", "en": "How are you?", "note": "informal (ti)" },
+        { "hr": "Kako ste?", "en": "How are you?", "note": "formal (Vi) or plural" }
+      ]
+    },
+    {
+      "context": "Introducing Yourself",
+      "items": [
+        { "hr": "Zovem se...", "en": "My name is..." },
+        { "hr": "Ja sam iz...", "en": "I am from..." },
+        { "hr": "Imam ___ godina.", "en": "I am ___ years old." },
+        { "hr": "Govorim malo hrvatskog.", "en": "I speak a little Croatian." },
+        { "hr": "Učim hrvatski.", "en": "I am learning Croatian." },
+        { "hr": "Drago mi je!", "en": "Nice to meet you!" },
+        { "hr": "Odakle ste?", "en": "Where are you from?", "note": "formal" },
+        { "hr": "Gdje živite?", "en": "Where do you live?", "note": "formal" },
+        { "hr": "Čime se bavite?", "en": "What do you do for work?", "note": "formal" },
+        { "hr": "Studiram / Radim kao...", "en": "I study / I work as..." }
+      ]
+    },
+    {
+      "context": "At a Café or Restaurant",
+      "items": [
+        { "hr": "Jedan stol za dvoje, molim.", "en": "A table for two, please." },
+        { "hr": "Što preporučujete?", "en": "What do you recommend?" },
+        { "hr": "Mogu li vidjeti jelovnik?", "en": "Can I see the menu?" },
+        { "hr": "Ja bih...", "en": "I would like...", "note": "conditional, very polite" },
+        { "hr": "Koliko košta?", "en": "How much does it cost?" },
+        { "hr": "Račun, molim!", "en": "The bill, please!" },
+        { "hr": "Bez leda, molim.", "en": "Without ice, please." },
+        { "hr": "Dobar tek!", "en": "Enjoy your meal!" },
+        { "hr": "Hvala, bilo je ukusno.", "en": "Thank you, it was delicious." },
+        { "hr": "Ima li nešto bez mesa?", "en": "Is there anything without meat?" }
+      ]
+    },
+    {
+      "context": "Shopping",
+      "items": [
+        { "hr": "Koliko to košta?", "en": "How much does this cost?" },
+        { "hr": "Imate li ovo u drugoj veličini?", "en": "Do you have this in another size?" },
+        { "hr": "Preskupo je.", "en": "It is too expensive." },
+        { "hr": "Mogu li probati?", "en": "Can I try it on?" },
+        { "hr": "Platit ću karticom.", "en": "I will pay by card." },
+        { "hr": "Gotovinom, molim.", "en": "In cash, please." },
+        { "hr": "Imate li popust?", "en": "Do you have a discount?" },
+        { "hr": "Gdje je kasa?", "en": "Where is the till / checkout?" },
+        { "hr": "Tražim...", "en": "I am looking for..." },
+        { "hr": "Zamotat ćete mi to kao poklon?", "en": "Could you wrap it as a gift?" }
+      ]
+    },
+    {
+      "context": "Transport & Directions",
+      "items": [
+        { "hr": "Gdje je kolodvor?", "en": "Where is the train station?" },
+        { "hr": "Jedna karta do ___, molim.", "en": "One ticket to ___, please." },
+        { "hr": "U koje vrijeme polazi vlak?", "en": "What time does the train leave?" },
+        { "hr": "Koliko dugo traje putovanje?", "en": "How long does the journey take?" },
+        { "hr": "Molim vas, gdje moram izaći?", "en": "Excuse me, where do I need to get off?" },
+        { "hr": "Je li ovo autobus za centar?", "en": "Is this the bus to the centre?" },
+        { "hr": "Idite ravno, pa skrenite lijevo.", "en": "Go straight, then turn left." },
+        { "hr": "Na kojoj platformi?", "en": "On which platform?" },
+        { "hr": "Kasni li vlak?", "en": "Is the train delayed?" },
+        { "hr": "Možete li me odvesti do...?", "en": "Can you take me to...?", "note": "said to a taxi driver" }
+      ]
+    },
+    {
+      "context": "Health & Emergencies",
+      "items": [
+        { "hr": "Zovite hitnu pomoć!", "en": "Call an ambulance!" },
+        { "hr": "Trebam liječnika.", "en": "I need a doctor." },
+        { "hr": "Boli me...", "en": "My ... hurts.", "note": "e.g. Boli me glava. (I have a headache.)" },
+        { "hr": "Ne osjećam se dobro.", "en": "I do not feel well." },
+        { "hr": "Alergičan/Alergična sam na...", "en": "I am allergic to...", "note": "m/f forms" },
+        { "hr": "Izgubio/Izgubila sam putovnicu.", "en": "I have lost my passport.", "note": "m/f forms" },
+        { "hr": "Zovite policiju!", "en": "Call the police!" },
+        { "hr": "Gdje je ljekarna?", "en": "Where is the pharmacy?" },
+        { "hr": "Imam temperaturu.", "en": "I have a temperature." },
+        { "hr": "Mogu li dobiti recept?", "en": "Can I get a prescription?" }
+      ]
+    },
+    {
+      "context": "Making Plans & Suggestions",
+      "items": [
+        { "hr": "Što kažeš da idemo na kavu?", "en": "What do you say we go for a coffee?" },
+        { "hr": "Hoćeš li doći?", "en": "Do you want to come?" },
+        { "hr": "Gdje se nalazimo?", "en": "Where shall we meet?" },
+        { "hr": "U koliko sati?", "en": "At what time?" },
+        { "hr": "Nažalost, ne mogu.", "en": "Unfortunately I cannot." },
+        { "hr": "Imam drugu obavezu.", "en": "I have another commitment." },
+        { "hr": "Idemo!", "en": "Let us go!" },
+        { "hr": "Slobodan/Slobodna sam u petak.", "en": "I am free on Friday.", "note": "m/f forms" },
+        { "hr": "Može li malo kasnije?", "en": "Can it be a little later?" },
+        { "hr": "Dogovoreno!", "en": "Agreed! / Done!" }
+      ]
+    },
+    {
+      "context": "Opinions & Agreeing / Disagreeing",
+      "items": [
+        { "hr": "Mislim da...", "en": "I think that..." },
+        { "hr": "Po mom mišljenju...", "en": "In my opinion..." },
+        { "hr": "Slažem se.", "en": "I agree." },
+        { "hr": "Ne slažem se.", "en": "I disagree." },
+        { "hr": "Imaš pravo.", "en": "You are right." },
+        { "hr": "Nisam siguran/sigurna.", "en": "I am not sure.", "note": "m/f forms" },
+        { "hr": "S jedne strane..., s druge strane...", "en": "On the one hand..., on the other hand..." },
+        { "hr": "Što misliš?", "en": "What do you think?" },
+        { "hr": "Zanimljivo!", "en": "Interesting!" },
+        { "hr": "To ovisi.", "en": "It depends." }
+      ]
+    },
+    {
+      "context": "Apologising & Polite Phrases",
+      "items": [
+        { "hr": "Oprostite!", "en": "Excuse me! / Sorry!", "note": "formal — also used to get attention" },
+        { "hr": "Ispričavam se.", "en": "I apologise." },
+        { "hr": "Nema problema.", "en": "No problem." },
+        { "hr": "Molim vas.", "en": "Please / You are welcome." },
+        { "hr": "Hvala lijepa!", "en": "Thank you very much!" },
+        { "hr": "Nema na čemu.", "en": "Do not mention it. / You are welcome." },
+        { "hr": "Žao mi je.", "en": "I am sorry." },
+        { "hr": "Nisam razumio/razumjela.", "en": "I did not understand.", "note": "m/f forms" },
+        { "hr": "Možete li ponoviti?", "en": "Could you repeat that?" },
+        { "hr": "Govorite li engleski?", "en": "Do you speak English?" }
+      ]
+    },
+    {
+      "context": "Talking About Language Learning",
+      "items": [
+        { "hr": "Učim hrvatski.", "en": "I am learning Croatian." },
+        { "hr": "Govorim malo / dosta / tečno.", "en": "I speak a little / quite well / fluently." },
+        { "hr": "Ne razumijem.", "en": "I do not understand." },
+        { "hr": "Možete li govoriti sporije?", "en": "Could you speak more slowly?" },
+        { "hr": "Kako se kaže ___?", "en": "How do you say ___?" },
+        { "hr": "Što znači ___?", "en": "What does ___ mean?" },
+        { "hr": "Možete li to napisati?", "en": "Could you write that down?" },
+        { "hr": "Napravio/Napravila sam grešku.", "en": "I made a mistake.", "note": "m/f forms" },
+        { "hr": "Hvala na strpljenju!", "en": "Thank you for your patience!" },
+        { "hr": "Volim učiti hrvatski!", "en": "I love learning Croatian!" }
+      ]
+    }
+  ]
+}
